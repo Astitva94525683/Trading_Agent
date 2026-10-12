@@ -229,9 +229,12 @@ def playbook(
         )
         # A sign of 0 means no position under this scenario, so it cannot be recommended.
         traded = rows.loc[rows["sign"].ne(0)]
+        # Under a known surprise, a beat rule holds the same position as long or short, so
+        # keep one row per (asset, side, horizon): the best-scored rule.
         best = (
             traded.loc[traded["pred"].gt(0)]
             .sort_values("pred", ascending=False)
+            .drop_duplicates(["asset", "sign", "horizon"])
             .head(TOP_STRATEGIES)
         )
         if best.empty:

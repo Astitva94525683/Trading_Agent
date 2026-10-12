@@ -201,7 +201,7 @@ def render_evaluation(
         "## Best strategies out of sample",
         md_table(top_strategies, _FORMATS),
         "## Figures",
-        "\n".join(f"![{caption}]({path})" for caption, path in figures),
+        "\n\n".join(f"![{caption}]({path})" for caption, path in figures),
     ]
     if notes:
         blocks += ["## Notes", _bullets(notes)]
