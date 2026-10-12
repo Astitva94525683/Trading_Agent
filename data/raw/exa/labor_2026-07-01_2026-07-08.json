@@ -1,0 +1,107 @@
+{
+ "theme": "labor",
+ "query": "US jobs report nonfarm payrolls unemployment labor market",
+ "start": "2026-07-01",
+ "end": "2026-07-08",
+ "fetched_utc": "2026-10-12T10:07:59Z",
+ "response": {
+  "requestId": "e9a4e226e316a441b252e3712644a4ee",
+  "resolvedSearchType": "",
+  "results": [
+   {
+    "id": "https://www.cnbc.com/2026/07/02/jobs-report-june-2026-.html",
+    "title": "Jobs report June 2026:",
+    "url": "https://www.cnbc.com/2026/07/02/jobs-report-june-2026-.html",
+    "publishedDate": "2026-07-02T00:00:00.000Z",
+    "author": "Jeff Cox",
+    "text": "Jobs report June 2026: \n\n# U.S. job creation cools in June with payrolls growth of just 57,000; unemployment rate at 4.2%\n\nPublished Thu, Jul 2 2026 8:31 AM EDT Updated Thu, Jul 2 2026 12:50 PM EDT\n\nJeff Cox@jeff.cox.7528@JeffCoxCNBCcom\n\nKey Points\n\n- Nonfarm payrolls for June increased by 57,000 in June, slower than the downwardly revised 129,000 added in May and worse than the 115,000 Dow Jones consensus forecast.\n- The unemployment rate, however, dropped to 4.2%, largely due to a slump in the labor force participation rate, which fell 0.3 percentage point to 61.5%, the lowest since March 2021.\n- Household employment plummeted during the month, with 507,000 fewer people reported at work.\n- Professional and business services contributed the most, with a gain of 36,000. Social assistance added 25,000 and healthcare employment rose by 22,000.\n\nVIDEO 1:51 01:51\n\nU.S. economy added 57,000 jobs in June, less than expected; unemployment rate at 4.2%\n\nThe U.S. economy saw job creation cool s",
+    "image": "https://image.cnbcfm.com/api/v1/image/108303914-1783007688061-108303914-1778178939793-gettyimages-2275025925-jr_19173_tzqifexs.jpg?v=1783007698&w=1920&h=1080"
+   },
+   {
+    "id": "https://www.pbs.org/newshour/economy/u-s-employers-pulled-back-on-hiring-in-june",
+    "title": "U.S. employers pulled back on hiring in June | PBS News",
+    "url": "https://www.pbs.org/newshour/economy/u-s-employers-pulled-back-on-hiring-in-june",
+    "publishedDate": "2026-07-02T00:00:00.000Z",
+    "author": "Christopher Rugaber, Associated Press",
+    "text": "U.S. employers pulled back on hiring in June | PBS News\n\nBy —\n\n Christopher Rugaber, Associated Press Christopher Rugaber, Associated Press \n\n# U.S. employers pulled back on hiring in June\n\nEconomy Jul 2, 2026 10:14 AM EDT \n\nWASHINGTON (AP) — U.S. employers slowed hiring last month and added only 57,000 jobs, less than half the previous month's total and a sign companies still have a cautious economic outlook.\n\nThe Labor Department said Thursday that the unemployment rate declined to a low 4.2% from 4.3% in May, though the decline mostly occurred because many people out of work gave up looking and were no longer counted as unemployed.\n\nThe figures suggest businesses remain wary of the economy's health, with inflation at a three-year high and consumer confidence near post-pandemic lows. The job market has been stuck in a \"low-hire, low-fire\" rut in which the employed enjoy some job security while layoffs are low, but those out of work are struggling to get hired. Strong hiring in the sp",
+    "image": "https://d3i6fh83elv35t.cloudfront.net/static/2026/07/2026-07-01T133058Z_1099692084_RC2SXY91J8NI_RTRMADP_3_USA-ECONOMY-1024x683.jpg"
+   },
+   {
+    "id": "https://www.cnn.com/2026/07/02/economy/us-jobs-report-june-final",
+    "title": "Steady but not strong: US job growth slowed in June | CNN Business",
+    "url": "https://www.cnn.com/2026/07/02/economy/us-jobs-report-june-final",
+    "publishedDate": "2026-07-02T00:00:00.000Z",
+    "author": "Alicia Wallace",
+    "text": "Steady but not strong: US job growth slowed in June | CNN Business\n\n# Steady but not strong: US job growth slowed in June \n\n By Alicia Wallace \n\n Updated Jul 2, 2026, 11:42 AM ET Published Jul 2, 2026, 5:00 AM ET \n\nUpdated Jul 2, 2026\n\nUpdated Jul 2, 2026, 11:42 AM ET PUBLISHED Jul 2, 2026, 5:00 AM ET\n\n A job seeker meets with a recruiter at a job fair on June 30, 2026, in Carson, California. \n\nJustin Sullivan/Getty Images\n\n US job growth settled down after a spring surge, as employers added a lower-than-expected 57,000 positions last month, according to Bureau of Labor Statistics data released Thursday. \n\n June’s tally is a marked cooldown from solid gains previously reported for the three months prior. Monthly totals for April and May were revised down by a combined 74,000 jobs, to 148,000 and 129,000, respectively. The picture that emerges is one of a labor market that’s decidedly stronger than its paltry state in 2025 — but one that’s been steadily slowing since March. \n\n Thursday’",
+    "image": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-2284068667.jpg?c=16x9&q=w_800,c_fill"
+   },
+   {
+    "id": "https://www.haver.com/articles/u-s-payroll-employment-gains-smaller-than-expected-in-june",
+    "title": "U.S. Payroll Employment Gains Smaller than Expected in June - Haver Analytics",
+    "url": "https://www.haver.com/articles/u-s-payroll-employment-gains-smaller-than-expected-in-june",
+    "publishedDate": "2026-07-02T00:00:00.000Z",
+    "author": "Sandy Batten Author",
+    "text": "U.S. Payroll Employment Gains Smaller than Expected in June - Haver Analytics\n\n| Jul 02 2026\n\n# U.S. Payroll Employment Gains Smaller than Expected in June\n\nby: Sandy Batten\n\n| in: Economy in Brief\n\n###### Summary\n\n- U.S. nonfarm payrolls increased 57,000 in June with meaningful downward revisions to both April and May.\n- The market consensus looked for a 115,000 increase.\n- The unemployment rate edged down to 4.2% from 4.3%, due mostly to a large decrease in the labor force.\n- Average hourly earnings rose 0.3% m/m (3.5% y/y), in line with expectations.\n\nThe luster fell a bit off the employment rose in June with nonfarm payrolls rising 57,000 against expectations of a 115,000 increase, according to today’s report from the Bureau of Labor Statistics. Moreover, the increases previously reported for April and May were revised down by a total of 74,000. Upon revision, payrolls increased 148,000 in April versus 179,000 previously reported and rose 129,000 in May versus 172,000 previously re"
+   },
+   {
+    "id": "https://unemploymentdata.com/bls/bls-employment-situation-summary-june-2026/",
+    "title": "BLS Employment Situation Summary for June 2026 - UnemploymentData.com",
+    "url": "https://unemploymentdata.com/bls/bls-employment-situation-summary-june-2026/",
+    "publishedDate": "2026-07-03T00:00:00.000Z",
+    "author": "Tim McMahon",
+    "text": "BLS Employment Situation Summary for June 2026 - UnemploymentData.com\n\n# BLS Employment Situation Summary for June 2026\n\nJuly 3, 2026 by Tim McMahon \n\nThe U.S. Bureau of Labor Statistics (BLS) released its June employment / unemployment report on July 2 nd, 2026. \n\n## Employment / Unemployment\n\n- Seasonally Adjusted U-3 is 4.2% down from 4.3%\n- Unadjusted U-3 is 4.4% up from 4.1%\n- Unadjusted U-6 is 8.2% up from 7.7%\n- Labor Force Participation is 61.5% down from 61.8%\n- Unadjusted Employment rose from 159.398 million to 159.830 million\n- Next Update: August 7th, 2026\n\nSummary: \n\nDespite the Seasonally Adjusted U-3 being DOWN, this report is weaker than the headline unemployment rate suggests. Although the decline in unemployment looks encouraging at first glance, we can see that the Unadjusted numbers are actually up and Labor Force Participation is down, which tends to skew the appearance of the U-3. Another factor making the U-3 number look better is the BLS revising the previous em",
+    "image": "https://unemploymentdata.com/wp-content/uploads/2026/07/Bubble-Chart-for-June-2026a.png"
+   },
+   {
+    "id": "https://huelv.com/newsroom/469-both-payroll-employment-57-000-and-unemployment-rate-4-2-change-little-in-june",
+    "title": "Both payroll employment (+57,000) and unemployment rate (4.2%) change little in June — U.S. Bureau of Labor Statistics",
+    "url": "https://huelv.com/newsroom/469-both-payroll-employment-57-000-and-unemployment-rate-4-2-change-little-in-june",
+    "publishedDate": "2026-07-02T00:00:00.000Z",
+    "author": "5 d ago",
+    "text": "Both payroll employment (+57,000) and unemployment rate (4.2%) change little in June — U.S. Bureau of Labor Statistics\n\n# Both payroll employment (+57,000) and unemployment rate (4.2%) change little in June\n\nPublished by\n\n U.S. Bureau of Labor Statistics \n\nPublished\n\n2 July 2026, 07:50\n\nLength\n\n10,187 words · 46 min\n\nEconomic News Release PRINT: CPS CES Employment Situation News Release Transmission of material in this news release is embargoed until USDL-26-1125 8:30 a.m. (ET) Thursday, July 2, 2026 Technical information: Household data: (202) 691-6378 * cpsinfo@bls.gov * www.bls.gov/cps Establishment data: (202) 691-6555 * cesinfo@bls.gov * www.bls.gov/ces Media contact: (202) 691-5902 * PressOffice@bls.gov THE EMPLOYMENT SITUATION - JUNE 2026 Both total nonfarm payroll employment (+57,000) and the unemployment rate (4.2 percent) changed little in June, the U.S. Bureau of Labor Statistics reported today. Employment continued to trend up in professional and business services, social a",
+    "image": "https://huelv.com/assets/img/og.png"
+   },
+   {
+    "id": "https://fred.stlouisfed.org/graph/?g=dYvf",
+    "title": "All Employees, Total Nonfarm | FRED | St. Louis Fed",
+    "url": "https://fred.stlouisfed.org/graph/?g=dYvf",
+    "publishedDate": "2026-07-02T00:00:00.000Z",
+    "text": "All Employees, Total Nonfarm | FRED | St. Louis Fed\n\n# All Employees, Total Nonfarm (PAYEMS)\n\nObservations\n\nJun 2026: 57 | Change, Thousands of Persons, Seasonally Adjusted | Monthly\n\nUpdated: Jul 2, 2026 8:31 AM CDT\n\nNext Release Date: Aug 7, 2026\n\nObservations\n\nJun 2026: 57\n\nUpdated: Jul 2, 2026 8:31 AM CDT\n\nNext Release Date: Aug 7, 2026\n\n| Jun 2026: | 57 |\n| --- | --- |\n| May 2026: | 129 |\n| Apr 2026: | 148 |\n| Mar 2026: | 214 |\n| Feb 2026: | -156 |\n| View All | |\n\nUnits:\n\nChange, Thousands of Persons,\n\nSeasonally Adjusted\n\nFrequency:\n\nMonthly\n\nFullscreen\n\nData in this graph are copyrighted. Please review the copyright information in the series notes before sharing.\n\nShare Graph\n\n- Custom Graph Link\n- Embed in Website\n- Graph Image Link\n\nAccount Tools\n\n- Add to Data List\n- Get Email Notification\n\n&nbsp Post on Facebook Share on Reddit Post to Linkedin\n\n## Notes\n\nSource:\n\nU.S. Bureau of Labor Statistics\n\nRelease:\n\nUnits: Thousands of Persons, Seasonally Adjusted\n\nFrequency: Monthly\n",
+    "image": "https://fred.stlouisfed.org/graph/fredgraph.png?width=880&height=440&g=dYvf"
+   },
+   {
+    "id": "https://www.principalam.com/us/insights/macro-views/june-jobs-report-softer-expected-still-balance",
+    "title": "June jobs report: Softer than expected, but still in balance | Principal Asset Management",
+    "url": "https://www.principalam.com/us/insights/macro-views/june-jobs-report-softer-expected-still-balance",
+    "publishedDate": "2026-07-02T00:00:00.000Z",
+    "author": "Seema Shah Chief Global Strategist",
+    "text": "June jobs report: Softer than expected, but still in balance | Principal Asset Management\n\n June jobs report: Softer than expected, but still in balance \n\n Market response \n\n July 3, 2026 | 3 min read \n\n Chief Global Strategist \n\n Christian Floro, CFA \n\n Market Strategist \n\n Magdalena Ocampo \n\n Market Strategist \n\nJune payroll figures came in meaningfully lower than expected, posting an increase of just 57,000, a notable decline from the 164,000 monthly average over the prior three months. The downward revision of the prior two months’ gains further suggested a slowdown in momentum. While these figures appear soft at first glance, they are not indicative of a deteriorating labor market. Slower hiring was offset by benign layoffs, and a shrinking labor force pushed the unemployment rate lower, underscoring a labor market that remains balanced. Neither triggers concerns about a slowdown or pressures the Fed to hike rates. \n\n Report details \n\n- Total non-farm payrolls increased by 57,000 "
+   },
+   {
+    "id": "https://www.foxbusiness.com/economy/us-jobs-report-june-2026",
+    "title": "June 2026 jobs report: US economy added jobs at a steady pace | Fox Business",
+    "url": "https://www.foxbusiness.com/economy/us-jobs-report-june-2026",
+    "publishedDate": "2026-07-02T00:00:00.000Z",
+    "author": "Eric Revell",
+    "text": "June 2026 jobs report: US economy added jobs at a steady pace | Fox Business\n\nPublished July 2, 2026 8:31am EDT | Updated July 2, 2026 10:45am EDT \n\n## Department of Labor releases closely watched June 2026 jobs report\n\n By Eric Revell FOXBusiness\n\nvideo\n\n## Confront the reality of AI or lose more jobs, global advisor warns\n\nGlobal advisor to CEOs and corporate boards Ram Charan joins ‘Mornings with Maria’ to discuss AIs impact on jobs and productivity and the biggest threats facing CEOs as supply chain and geopolitical risks grow.\n\nThe U.S. economy added jobs at a steady pace in June despite headwinds caused by elevated inflation and uncertainty over the Iran war's economic impact.\n\n### What are the key findings of the June 2026 jobs report?\n\nThe Bureau of Labor Statistics on Thursday reported that employers added 57,000 jobs in June. That figure was below the estimate of economists polled by LSEG, who estimated 110,000 jobs added.\n\nThe unemployment rate dipped to 4.2%, which was also",
+    "image": "https://a57.foxnews.com/static.foxbusiness.com/foxbusiness.com/content/uploads/2023/11/0/0/jobs-29.jpg?ve=1&tl=1"
+   },
+   {
+    "id": "https://www.investing.com/analysis/us-jobs-report-masks-weak-labor-market-beneath-falling-unemployment-200683247",
+    "title": "US Jobs Report Masks Weak Labor Market Beneath Falling Unemployment | Investing.com",
+    "url": "https://www.investing.com/analysis/us-jobs-report-masks-weak-labor-market-beneath-falling-unemployment-200683247",
+    "publishedDate": "2026-07-02T00:00:00.000Z",
+    "text": "US Jobs Report Masks Weak Labor Market Beneath Falling Unemployment | Investing.com\n\nGoldman draws 3 lessons from economic research on U.S. inflation expectations\n\nTrump says U.S. secures control of over 65 billion barrels of Venezuelan oil\n\nLESS THAN 48 HOURS TO GO: Get InvestingPro for 55% off BEFORE THE SALE ENDS\n\nHow networking became the critical layer of AI\n\nAdvertisement\n\nAdvertisement\n\n# US Jobs Report Masks Weak Labor Market Beneath Falling Unemployment\n\nBy Mike (Mish) Shedlock\n\nPublished 07/02/2026, 03:35 PM\n\nUS Jobs Report Masks Weak Labor Market Beneath Falling Unemployment\n\nView all comments (1)1\n\nUS Jobs Report Masks Weak Labor Market Beneath Falling Unemployment\n\nView all comments (1)1\n\nArticles(1221)| My Homepage\n\nFollow\n\nEmployment dropped by 507,000. The unemployment rate fell because the labor force plunged by 720,000.\n\n## Understanding the Lead Chart\n\nNote: If you have seen this explanation, please skip to down to the subtitle “Initial Thoughts” to continue reading.",
+    "image": "https://i-invdn-com.investing.com/redesign/images/seo/investingcom_analysis_og.jpg",
+    "favicon": "https://www.investing.com/favicon-32x32.png"
+   }
+  ],
+  "searchTime": 1373.6,
+  "costDollars": {
+   "total": 0.007,
+   "search": {
+    "neural": 0.007
+   }
+  }
+ }
+}

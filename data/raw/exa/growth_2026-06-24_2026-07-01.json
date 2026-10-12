@@ -1,0 +1,101 @@
+{
+ "theme": "growth",
+ "query": "US economy GDP growth recession retail sales ISM",
+ "start": "2026-06-24",
+ "end": "2026-07-01",
+ "fetched_utc": "2026-10-12T10:09:12Z",
+ "response": {
+  "requestId": "82223370c80d1f5a54928c3d3bf2ad4e",
+  "resolvedSearchType": "",
+  "results": [
+   {
+    "id": "https://www.bea.gov/news/2026/gdp-third-estimate-industries-corporate-profits-state-gdp-and-state-personal-income-1st",
+    "title": "GDP (Third Estimate), Industries, Corporate Profits, State GDP, and State Personal Income, 1st Quarter 2026 | U.S. Bureau of Economic Analysis (BEA)",
+    "url": "https://www.bea.gov/news/2026/gdp-third-estimate-industries-corporate-profits-state-gdp-and-state-personal-income-1st",
+    "publishedDate": "2026-06-25T00:00:00.000Z",
+    "text": "GDP (Third Estimate), Industries, Corporate Profits, State GDP, and State Personal Income, 1st Quarter 2026 | U.S. Bureau of Economic Analysis (BEA)\n\nEMBARGOED UNTIL RELEASE AT 8:30 a.m. EDT, Thursday, June 25, 2026\n\n# GDP (Third Estimate), Industries, Corporate Profits, State GDP, and State Personal Income, 1st Quarter 2026 \n\nReal gross domestic product (GDP) increased at an annual rate of 2.1 percent in the first quarter of 2026 (January, February, and March), according to the third estimate released today by the U.S. Bureau of Economic Analysis. In the fourth quarter of 2025, real GDP increased 0.5 percent.\n\nReal GDP was revised up 0.5 percentage point from the second estimate, primarily reflecting a downward revision to imports, which are a subtraction in the calculation of GDP, that was partly offset by a downward revision to consumer spending. For more information, refer to the \" Technical Notes\" below.\n\nThe contributors to the increase in real GDP in the first quarter were inves"
+   },
+   {
+    "id": "https://www.reuters.com/business/us-first-quarter-gdp-revised-sharply-higher-consumer-spending-nearly-stalls-2026-06-25/",
+    "title": "US first-quarter GDP revised sharply higher; but consumer spending nearly stalls | Reuters",
+    "url": "https://www.reuters.com/business/us-first-quarter-gdp-revised-sharply-higher-consumer-spending-nearly-stalls-2026-06-25/",
+    "publishedDate": "2026-06-25T00:00:00.000Z",
+    "text": "US first-quarter GDP revised sharply higher; but consumer spending nearly stalls | Reuters\nSkip to main content\nExclusive news, data and analytics for financial market professionalsLearn more aboutRefinitiv\n\nSubscribe\n# US first-quarter GDP revised sharply higher; but consumer spending nearly stalls\nBy Reuters\nJune 25, 20261:35 PM UTCUpdated June 25, 2026\nText\n*\nSmall Text\n*\nMedium Text\n*\nLarge Text\n*\nX\n*\nFacebook\n*\nLinkedin\n*\nEmail\n*\nLink\nTourists shop inside a store in Times Square, in New York City\nTourists shop inside a store in Times Square, in New York City, U.S., December 30, 2025. REUTERS/Tyrone Siu Purchase Licensing Rights, opens new tab\nWASHINGTON, June 25 (Reuters) - The U.S. economy grew faster than previously estimated in the first quarter, but consumer spending almost stalled.\nGross domestic product increased at an upwardly revised 2.1% annualized rate last quarter, the Commerce Department's ​Bureau of Economic Analysis said in its third estimate of first-quarter GDP on ",
+    "image": "https://www.reuters.com/resizer/v2/S26EHZKE2NKE3CRWAIBYCSQROI.jpg?auth=c8b7aaf5ca51b27eee87ffe80506f2de834e6db98285eda5c625122fa08a0481&height=1005&width=1920&quality=80&smart=true"
+   },
+   {
+    "id": "https://www.haver.com/articles/u-s-ism-manufacturing-pmi-still-expansionary-in-june-new-orders-and-production-growing-at-a-slower-pace-employment-contracting",
+    "title": "U.S. ISM Manufacturing PMI Still Expansionary in June; New Orders and Production Growing at a Slower Pace; Employment Contracting - Haver Analytics",
+    "url": "https://www.haver.com/articles/u-s-ism-manufacturing-pmi-still-expansionary-in-june-new-orders-and-production-growing-at-a-slower-pace-employment-contracting",
+    "publishedDate": "2026-07-01T00:00:00.000Z",
+    "author": "Winnie Tapasanun Author",
+    "text": "U.S. ISM Manufacturing PMI Still Expansionary in June; New Orders and Production Growing at a Slower Pace; Employment Contracting - Haver Analytics\n\n| Jul 01 2026\n\n# U.S. ISM Manufacturing PMI Still Expansionary in June; New Orders and Production Growing at a Slower Pace; Employment Contracting\n\nby: Winnie Tapasanun\n\n| in: Economy in Brief\n\n###### Summary\n\n- ISM Mfg. PMI down slightly to 53.3 in June; sixth straight month above 50.\n- Production (52.2) expands for the eighth consecutive mth.; new orders (56.0) for the sixth successive mth.\n- Employment (49.7) contracts for the 33rd straight mth.; at the slowest contraction pace since Jan. ’25.\n- Prices Index (73.0) at a four-month low, still indicating prices rising for the 21st consecutive mth.\n- Exports (48.5) contract for the third time in four mths.; imports (52.9) continue to grow.\n\nThe ISM U.S. manufacturing PMI fell to a lower-than-expected 53.3 in June, the first m/m fall since February, following a 1.3-point increase to 54.0 in"
+   },
+   {
+    "id": "https://fred.stlouisfed.org/graph/?g=1P62G",
+    "title": "Real Gross Domestic Product | FRED | St. Louis Fed",
+    "url": "https://fred.stlouisfed.org/graph/?g=1P62G",
+    "publishedDate": "2026-06-25T00:00:00.000Z",
+    "text": "Real Gross Domestic Product | FRED | St. Louis Fed\n\n# Real Gross Domestic Product (GDPC1)\n\nObservations\n\n2026: . | Percent Change from Year Ago, Seasonally Adjusted Annual Rate | Annual,Average\n\nUpdated: Jul 30, 2026 10:08 AM CDT\n\nNext Release Date: Aug 26, 2026\n\nObservations\n\n2026: .\n\nUpdated: Jul 30, 2026 10:08 AM CDT\n\nNext Release Date: Aug 26, 2026\n\n| 2026: | . |\n| --- | --- |\n| 2025: | 2.1 |\n| 2024: | 2.8 |\n| 2023: | 2.9 |\n| 2022: | 2.5 |\n| View All | |\n\nUnits:\n\nPercent Change from Year Ago,\n\nSeasonally Adjusted Annual Rate\n\nFrequency:\n\nAnnual,\n\nAverage\n\nFullscreen\n\nData in this graph are copyrighted. Please review the copyright information in the series notes before sharing.\n\nShare Graph\n\n- Custom Graph Link\n- Embed in Website\n- Graph Image Link\n\nAccount Tools\n\n- Add to Data List\n- Get Email Notification\n\n&nbsp Post on Facebook Share on Reddit Post to Linkedin\n\n## Notes\n\nSource:\n\nU.S. Bureau of Economic Analysis\n\nRelease:\n\nUnits: Billions of Chained 2017 Dollars, Seasonally Adjus",
+    "image": "https://fred.stlouisfed.org/graph/fredgraph.png?width=880&height=440&g=1P62G"
+   },
+   {
+    "id": "https://fred.stlouisfed.org/graph/?g=TTGj",
+    "title": "Real Manufacturing and Trade Industries Sales | FRED | St. Louis Fed",
+    "url": "https://fred.stlouisfed.org/graph/?g=TTGj",
+    "publishedDate": "2026-06-25T00:00:00.000Z",
+    "text": "Real Manufacturing and Trade Industries Sales | FRED | St. Louis Fed\n\nReal Manufacturing and Trade Industries Sales (CMRMTSPL)\n\nObservations \n\n May 2026: 1,586,429.000 | Millions of Chained 2017 Dollars, Seasonally Adjusted | Monthly \n\n Updated: Jul 30, 2026 10:28 AM CDT \n\n Next Release Date: Aug 26, 2026 \n\nObservations \n\n May 2026: 1,586,429.000 \n\n Updated: Jul 30, 2026 10:28 AM CDT \n\n Next Release Date: Aug 26, 2026 \n\n| May 2026: | 1,586,429.000 |\n| --- | --- |\n| Apr 2026: | 1,580,792.000 |\n| Mar 2026: | 1,589,933.000 |\n| Feb 2026: | 1,592,277.000 |\n| Jan 2026: | 1,581,144.000 |\n| View All | |\n\nUnits:\n\n Millions of Chained 2017 Dollars,\n\nSeasonally Adjusted \n\nFrequency:\n\n Monthly \n\n## Notes \n\nSource: Federal Reserve Bank of St. Louis \n\nRelease: Supplemental Estimates, Underlying Detail Tables, Spliced Series \n\nUnits: Millions of Chained 2017 Dollars, Seasonally Adjusted \n\nFrequency: Monthly \n\n#### Notes:\n\nReal Manufacturing and Trade Industries Sales (CMRMTSPL) was first constructed ",
+    "image": "https://fred.stlouisfed.org/graph/fredgraph.png?width=880&height=440&g=TTGj"
+   },
+   {
+    "id": "https://continuumeconomics.com/a/92c1b0d6/us-personal-income-and-spending-gdp-durable-goods-orders-and-initial-claims-mostly-firm-but-consumer-spending-revised-lower",
+    "title": "U.S. Personal Income and Spending, GDP, Durable Goods Orders",
+    "url": "https://continuumeconomics.com/a/92c1b0d6/us-personal-income-and-spending-gdp-durable-goods-orders-and-initial-claims-mostly-firm-but-consumer-spending-revised-lower",
+    "publishedDate": "2026-06-25T00:00:00.000Z",
+    "author": "Dave Sloan",
+    "text": "U.S. Personal Income and Spending, GDP, Durable Goods Orders\n\nPublished: 2026-06-25T13:40:43.000Z\n\n# U.S. Personal Income and Spending, GDP, Durable Goods Orders, and Initial Claims - Mostly firm but consumer spending revised lower\n\nThe latest US data is mostly strong, with an upward revision to Q1 GDP, stronger than expected May personal income and spending, still firm core PCE prices, lower initial claims and strength in May durable goods orders outside a fall in transport. However the Q1 GDP revision was mixed, with a significant downward revision to consumer spending. The upward revision was led by net exports.\n\nQ1 GDP was revised up to 2.1% from 1.6%, but consumer spending was revised down to 0.5% from 1.4%. The revision was fully due to services, now at 0.5% from 1.8%. Retail was revised slightly higher, durables to 0.5% from 0.4% and nondurables to 0.6% from 0.5%, but both remain subdued.\n\nThe downward revision to consumer spending was however more than outweighed by an upward r",
+    "image": "https://continuumeconomics.com/images/logo/Logo-CE-2021-V4.png"
+   },
+   {
+    "id": "https://econbrowser.com/archives/2026/07/gdp-continues-modest-growth",
+    "title": "GDP continues modest growth | Econbrowser",
+    "url": "https://econbrowser.com/archives/2026/07/gdp-continues-modest-growth",
+    "publishedDate": "2026-07-01T00:00:00.000Z",
+    "author": "James_Hamilton",
+    "text": "GDP continues modest growth | Econbrowser\n\n# GDP continues modest growth\n\nThe Bureau of Economic Analysis announced today that seasonally adjusted U.S. real GDP grew at a 1.5% annual rate in the second quarter. That is about half of the historical average growth of 3.1% and continues a record of slow growth over the last three quarters. \n\nQuarterly real GDP growth at an annual rate, 1947:Q2-2026:Q2, with the historical average since 1947 (3.1%) in blue. Calculated as 400 times the difference in the natural log of real GDP from the previous quarter.\n\nThe new numbers put the Econbrowser recession indicator index at 7.0%, about where it was last quarter.\n\nGDP-based recession indicator index. The plotted value for each date is based solely on the GDP numbers that were publicly available as of one quarter after the indicated date, with 2026:Q1 the last date shown on the graph. Shaded regions represent the NBER’s dates for recessions, which dates were not used in any way in constructing the "
+   },
+   {
+    "id": "https://econbrowser.com/archives/2026/07/gdp-the-view-from-wall-street",
+    "title": "GDP’s Trajectory: The View from Wall Street | Econbrowser",
+    "url": "https://econbrowser.com/archives/2026/07/gdp-the-view-from-wall-street",
+    "publishedDate": "2026-07-01T00:00:00.000Z",
+    "author": "Menzie Chinn",
+    "text": "GDP’s Trajectory: The View from Wall Street | Econbrowser\n\n# GDP’s Trajectory: The View from Wall Street\n\nThe WSJ July survey is out:\n\nFigure 1: GDP (bold black), WSJ July survey mean (blue), FT-Booth June survey (light green square), WEO July (purple triangle), GDPNow of 7/8 (light blue square), NY fed nowcast of 7/10 (red +), all in bn.Ch.2017$ SAAR. Source: BEA, WSJ, IMF, Booth, NY Fed, Atlanta Fed, and author’s calculations.\n\nNowcasts bracket Q2 growth in the WSJ survey (Jul 2-Jul 7). The FT-Booth June median level matches the WSJ mean for Q4 GDP. While Q2 growth is slightly higher in current WSJ survey vs. April (2.12% vs. 1.65%), the implied level of GDP is essentially the same in the two surveys, because of a lower GDP outcome in Q1.\n\nThere is some dispersion in forecasts, but only one forecast indicates two consecutive quarters of negative q/q growth. In addition, the subjective recession probability over the next 12 months has dropped from 33% to 25%.\n\nFigure 2: GDP (bold blac",
+    "image": "https://econbrowser.com/wp-content/uploads/2026/07/gdppix110.png"
+   },
+   {
+    "id": "https://www.miningstockeducation.com/2026/07/services-pmi-at-54-june-2026-ism-services-pmi-report/",
+    "title": "Services PMI® at 54%; June 2026 ISM® Services PMI® Report - Mining Stock Education",
+    "url": "https://www.miningstockeducation.com/2026/07/services-pmi-at-54-june-2026-ism-services-pmi-report/",
+    "publishedDate": "2026-07-01T00:00:00.000Z",
+    "text": "Services PMI® at 54%; June 2026 ISM® Services PMI® Report - Mining Stock Education\n\n# Services PMI® at 54%; June 2026 ISM® Services PMI® Report\n\n Posted on July 6th, 2026 | Filed under Press Releases \n\nBusiness Activity Index at 55.4%; New Orders Index at 55.1%; Employment Index at 51.2%; Supplier Deliveries Index at 54.4%\n\nTEMPE, Ariz., July 6, 2026 /PRNewswire/ — Economic activity in the services sector continued to expand in June, say the nation’s purchasing and supply executives in the latest ISM ® Services PMI ® Report. The Services PMI ® registered 54 percent, the 24th consecutive month in expansion territory.\n\n \n\nThe report was issued today by Steve Miller, CPSM, CSCP, Chair of the Institute for Supply Management ® (ISM ®) Services Business Survey Committee: “In June, the Services PMI ® registered 54 percent, a decrease of 0.5 percentage point compared to May’s figure of 54.5 percent. The Business Activity Index remained in expansion territory in June, decreasing 2.3 percentage "
+   },
+   {
+    "id": "https://www.deloitte.com/global/en/insights/topics/economy/us-economic-forecast/2026-q2.html",
+    "title": "US economic forecast | Deloitte Insights",
+    "url": "https://www.deloitte.com/global/en/insights/topics/economy/us-economic-forecast/2026-q2.html",
+    "publishedDate": "2026-07-01T00:00:00.000Z",
+    "author": "Michael Wolf, Rohini Sanyal",
+    "text": "US economic forecast | Deloitte Insights\n\n# Oil prices and AI investment play major role in the US economic forecast for 2026–2031\n\n## Deloitte analysis forecasts three scenarios for US economic growth over the next five years, with oil shocks, ongoing AI investment, and US inflation as significant factors\n\n By Michael Wolf, Rohini Sanyal \n\n01 July 2026\n\nSince our last forecast, we have continued to see a rapidly changing global economic and policy environment, and recognize that conditions remain highly fluid. Hence, the three forecast scenarios we present here are not meant to be precise estimates of where the US economy will end up. Instead, they are built on explicit assumptions to help guide thinking about the future.\n\nOur baseline forecast reflects our best assessment of the path economic variables will take. Our downside and upside scenarios reflect plausible alternatives for the US economy, should our assumptions prove to be overly optimistic or pessimistic, respectively. 1 \n\n#",
+    "image": "https://media.deloitte.com/is/image/deloitte/US189188_Social:1200-x-627"
+   }
+  ],
+  "searchTime": 4395.7,
+  "costDollars": {
+   "total": 0.007,
+   "search": {
+    "neural": 0.007
+   }
+  }
+ }
+}

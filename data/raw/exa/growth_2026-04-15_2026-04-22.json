@@ -1,0 +1,106 @@
+{
+ "theme": "growth",
+ "query": "US economy GDP growth recession retail sales ISM",
+ "start": "2026-04-15",
+ "end": "2026-04-22",
+ "fetched_utc": "2026-10-12T10:08:46Z",
+ "response": {
+  "requestId": "2d4fabf60fe53ab147950ecae9bcd343",
+  "resolvedSearchType": "",
+  "results": [
+   {
+    "id": "https://www.reuters.com/business/energy/us-retail-sales-surge-march-higher-gasoline-prices-2026-04-21/",
+    "title": "Record surge in gasoline receipts boosts US retail sales, but weakness is looming | Reuters",
+    "url": "https://www.reuters.com/business/energy/us-retail-sales-surge-march-higher-gasoline-prices-2026-04-21/",
+    "publishedDate": "2026-04-21T00:00:00.000Z",
+    "author": "Lucia Mutikani",
+    "text": "Record surge in gasoline receipts boosts US retail sales, but weakness is looming | Reuters\n\n# Record surge in gasoline receipts boosts US retail sales, but weakness is looming\n\nBy Lucia Mutikani\n\nApril 21, 2026 12:37 PM UTC Updated April 21, 2026\n\nSave article Record surge in gasoline receipts boosts US retail sales, but weakness is looming\n\nItem 1 of 2 A person uses a petrol pump at a gas station as fuel prices surged in Manhattan, New York City, U.S., March 7, 2022. REUTERS/Andrew Kelly/File Photo\n\n[1/2] A person uses a petrol pump at a gas station as fuel prices surged in Manhattan, New York City, U.S., March 7, 2022. REUTERS/Andrew Kelly/File Photo Purchase Licensing Rights, opens new tab\n\n- Retail sales increase 1.7% in March\n- Reuters poll of economists expected 1.4% rise\n- Record 15.5% jump in receipts at gasoline stations accounts for bulk of increase in sales\n\nWASHINGTON, April 21 (Reuters) - U.S. retail sales increased more than expected in March as the war with Iran boosted",
+    "image": "https://www.reuters.com/resizer/v2/C3Q33KR3LFNJVJECIHLDIZ23WY.jpg?auth=a534abb35c4160073b1bb355e1562d8de4573aab0ecfdd3826dd50ae67762c19&height=1005&width=1920&quality=80&smart=true"
+   },
+   {
+    "id": "https://www.federalreserve.gov/Releases/g17/20260416/default.htm",
+    "title": "Federal Reserve Board - Industrial Production and Capacity Utilization -\n      G.17",
+    "url": "https://www.federalreserve.gov/Releases/g17/20260416/default.htm",
+    "publishedDate": "2026-04-16T00:00:00.000Z",
+    "text": "Federal Reserve Board - Industrial Production and Capacity Utilization - G.17\n\n## Industrial Production and Capacity Utilization - G.17\n\n On December 18, the \"View chart\" feature in the Data Download Program (DDP) was retired. Users seeking interactive charts for Board DDP data releases can access expanded functionality for customizing, sharing, and accessing charts through the Federal Reserve Bank of St. Louis's Federal Reserve Economic Data (FRED), as part of the DDP and FRED partnership. \n\n### Current Release PDF ASCII RSS Data Download FRED \n\nRelease Date: April 16, 2026\n\nIndustrial production (IP) dropped 0.5 percent in March but still grew at an annual rate of 2.4 percent in the first quarter. Similarly, manufacturing output ticked down 0.1 percent in March yet grew at a 3.0 percent rate in the first quarter. The indexes for mining and for utilities moved down 1.2 and 2.3 percent, respectively, in March. At 101.8 percent of its 2017 average, total industrial production was 0.7 pe",
+    "image": "https://www.federalreserve.gov/images/Social_Default_Image.jpg"
+   },
+   {
+    "id": "https://www.haver.com/articles/u-s-retail-sales-jumped-in-march-only-partly-due-to-surging-gasoline-prices",
+    "title": "U.S. Retail Sales Jumped in March only Partly Due to Surging Gasoline Prices - Haver Analytics",
+    "url": "https://www.haver.com/articles/u-s-retail-sales-jumped-in-march-only-partly-due-to-surging-gasoline-prices",
+    "publishedDate": "2026-04-21T00:00:00.000Z",
+    "author": "Sandy Batten Author",
+    "text": "U.S. Retail Sales Jumped in March only Partly Due to Surging Gasoline Prices - Haver Analytics\n\n| Apr 21 2026\n\n# U.S. Retail Sales Jumped in March only Partly Due to Surging Gasoline Prices\n\nby: Sandy Batten\n\n| in: Economy in Brief\n\n###### Summary\n\n- Total sales jumped 1.7% m/m in March with small upward revisions to January and February.\n- Gasoline sales surged 15.5% m/m in March, but even excluding that increase, the remainder of retail sales rose 0.6% m/m.\n- Excluding autos, sales soared 1.9% m/m in March with small upward revisions to January and February.\n- Sales of the retail control group that is used to construct PCE rose 0.7% m/m in March and 1.2% q/q for all of Q1.\n\nTotal retail sales rose a larger-than-expected 1.7% m/m (+4.0% y/y) in March following an upwardly revised 0.7% m/m gain in February (previously +0.6% m/m) in February, according to data from the U.S. Census Bureau. The Action Economics Forecast Survey looked for a 1.4% m/m increase. Excluding autos, other sales s"
+   },
+   {
+    "id": "https://usrecessionnews.com/gdp-slowdown-q4-2025/",
+    "title": "GDP Slowdown: Q4 2025 GDP Final 0.5% — Recession Risk & Q1 2026",
+    "url": "https://usrecessionnews.com/gdp-slowdown-q4-2025/",
+    "publishedDate": "2026-04-15T00:00:00.000Z",
+    "author": "Marcus J. Holloway",
+    "text": "GDP Slowdown: Q4 2025 GDP Final 0.5% — Recession Risk & Q1 2026\n\n# GDP Slowdown 2026: Q4 2025 GDP Final at 0.5% — What the Worst Quarter Since 2022 Means for the US Economy\n\n ✍ Marcus J. Holloway 📅 April 15, 2026 ⏱ 21 min read 📌 Economy \n\nOn April 9, 2026, the Bureau of Economic Analysis released the third and final estimate for Q4 2025 GDP growth — and the number that arrived was sobering. Real gross domestic product grew at an annualized rate of just 0.5% in the fourth quarter of 2025, revised down from the second estimate of 0.7% and dramatically lower than the 4.4% growth recorded just one quarter earlier in Q3. The full-year 2025 growth rate came in at 2.1% — down from 2.8% in 2024 — and the economy entered 2026 already wounded before the Iran war began on February 28 and before the Strait of Hormuz effectively closed on March 4.\n\nEY’s macroeconomics team captured the moment precisely: “Despite a solid 2.1% expansion for the full year, 2025 will likely be remembered as the year ",
+    "image": "https://usrecessionnews.com/wp-content/uploads/2026/04/GDP-slowdown.jpg"
+   },
+   {
+    "id": "https://fred.stlouisfed.org/series/RSFSXMVN",
+    "title": "Advance Retail Sales: Retail Trade and Food Services, Excluding Motor Vehicle and Parts Dealers (RSFSXMVN) | FRED | St. Louis Fed",
+    "url": "https://fred.stlouisfed.org/series/RSFSXMVN",
+    "publishedDate": "2026-04-21T00:00:00.000Z",
+    "text": "Advance Retail Sales: Retail Trade and Food Services, Excluding Motor Vehicle and Parts Dealers (RSFSXMVN) | FRED | St. Louis Fed\n\nAdvance Retail Sales: Retail Trade and Food Services, Excluding Motor Vehicle and Parts Dealers (RSFSXMVN)\n\nObservations \n\n Aug 2026: 604,737 | Millions of Dollars, Not Seasonally Adjusted | Monthly \n\n Updated: Sep 29, 2026 10:22 AM CDT \n\n Next Release Date: Oct 15, 2026 \n\nObservations \n\n Aug 2026: 604,737 \n\n Updated: Sep 29, 2026 10:22 AM CDT \n\n Next Release Date: Oct 15, 2026 \n\n| Aug 2026: | 604,737 |\n| --- | --- |\n| Jul 2026: | 604,227 |\n| Jun 2026: | 597,242 |\n| May 2026: | 615,628 |\n| Apr 2026: | 580,304 |\n| View All | |\n\nUnits:\n\n Millions of Dollars,\n\nNot Seasonally Adjusted \n\nFrequency:\n\n Monthly \n\nDate: \n\nChart\n\nLine chart with 416 data points.\n\nThe chart has 1 X axis displaying xAxis. Data ranges from 1992-01-01 1:00:00 to 2026-08-01 2:00:00.\n\nThe chart has 2 Y axes displaying Millions of Dollars and yAxisRight.\n\nEnd of interactive chart.\n\nShaded a",
+    "image": "https://fred.stlouisfed.org/graph/fredgraph.png?width=880&height=440&id=RSFSXMVN"
+   },
+   {
+    "id": "https://www.pbs.org/newshour/economy/retail-sales-up-a-sharp-1-7-in-march-from-february-driven-by-a-spike-in-gas-prices-due-to-the-iran-war",
+    "title": "Retail sales up a sharp 1.7% in March from February driven by a spike in gas prices due to the Iran war | PBS News",
+    "url": "https://www.pbs.org/newshour/economy/retail-sales-up-a-sharp-1-7-in-march-from-february-driven-by-a-spike-in-gas-prices-due-to-the-iran-war",
+    "publishedDate": "2026-04-21T00:00:00.000Z",
+    "text": "Retail sales up a sharp 1.7% in March from February driven by a spike in gas prices due to the Iran war | PBS News\n\nBy —\n\n Anne D'Innocenzio, Associated Press Anne D'Innocenzio, Associated Press \n\n# Retail sales up a sharp 1.7% in March from February driven by a spike in gas prices due to the Iran war\n\nEconomy Apr 21, 2026 10:24 AM EDT \n\nNEW YORK (AP) — Shoppers accelerated their spending in March from February, but they spent most of their money at the gas pump.\n\nA spike in gas prices due to the Iran war, now in its eighth week, resulted in a hefty 1.7% gain in retail sales in March after a revised 0.7% increase in February, according to the Commerce Department's report on Tuesday. The report marks the first read on spending to capture the effects of the Iran war.\n\nExcluding gas prices, the number was a slim 0.6%, helped in part by government tax refunds and warm weather.\n\nBusiness at gas stations rose 15.5% percent.\n\nElsewhere, sales at department stores rose 4.2%, while sales at fur",
+    "image": "https://d3i6fh83elv35t.cloudfront.net/static/2026/04/2026-04-19T143110Z_1684359270_RC2QFKAG1LKT_RTRMADP_3_USA-TRUMP-GAS-PRICES-1024x683.jpg"
+   },
+   {
+    "id": "https://reliable-news.com/economy-news/what-purchasing-managers-indexes-tell-us/",
+    "title": "What PMIs Tell Us About the Economy | RELIABLE NEWS",
+    "url": "https://reliable-news.com/economy-news/what-purchasing-managers-indexes-tell-us/",
+    "publishedDate": "2026-04-19T00:00:00.000Z",
+    "author": "Lena Fischer",
+    "text": "What PMIs Tell Us About the Economy | RELIABLE NEWS\n\n# What Purchasing Managers Indexes Tell Us About the Economy\n\nPMIs are the fastest economic indicators published — survey snapshots with a 50 threshold that move markets hours after the month ends.\n\nLF\n\nLena Fischer · June 3, 2026 · 5 min read\n\nWhat Purchasing Managers Indexes Tell Us About the Economy\n\nPurchasing managers indexes are monthly surveys of corporate supply managers, scored so that 50 separates expansion from contraction, and they are the timeliest broad economic indicators that exist: the United States gets an ISM Manufacturing PMI on the first business day after each month and an S&P Global flash estimate a week before month-end. The ISM's manufacturing series has run since 1948, and its track record at flagging recessions is strong — manufacturing PMI has spent time below 45 in every postwar downturn — while the services series, launched in 1997, matters more now that services are about 78 percent of private output. I",
+    "image": "https://nyc3.digitaloceanspaces.com/vuga/articles/heroes/190bbf6f06ba99013d23daaa08b574557f03c74873b9f55c6dc9b217db0a3146/1200w.webp"
+   },
+   {
+    "id": "https://distributionstrategy.com/2026/04/services-growth-slows-in-march-as-costs-surge-and-hiring-contracts/",
+    "title": "Services Growth Slows in March as Costs Surge and Hiring Contracts - Distribution Strategy Group",
+    "url": "https://distributionstrategy.com/2026/04/services-growth-slows-in-march-as-costs-surge-and-hiring-contracts/",
+    "publishedDate": "2026-04-15T00:00:00.000Z",
+    "author": "Mark Brohan",
+    "text": "Services Growth Slows in March as Costs Surge and Hiring Contracts - Distribution Strategy Group\n\n# Services Growth Slows in March as Costs Surge and Hiring Contracts\n\nFather_Studio – stock.adobe.com\n\nFor distributors, slower supplier deliveries can translate directly into longer lead times, higher safety stock requirements, and increased working capital. \n\nBy \n\nMark Brohan\n\nApril 15, 2026\n\nWhy This Matters to Distributors: Rising costs, slower supplier performance and weakening labor conditions are converging at a time of steady demand, forcing distributors to intensify pricing discipline, inventory planning, and supplier risk management to protect margins and service levels.\n\nGrowth in the U.S. services sector slowed in March as inflation pressures accelerated and hiring declined, creating a more challenging operating environment for wholesale distributors and other supply chain participants, according to the latest report from the Institute for Supply Management.\n\nThe ISM Services P",
+    "image": "https://distributionstrategy.com/wp-content/uploads/2026/04/AdobeStock_1953874769-scaled.jpeg"
+   },
+   {
+    "id": "https://timesofmalta.com/article/economic-review-us-services-index-tops-forecast.1054258",
+    "title": "Economic review: US services index tops forecast, calming recession fears",
+    "url": "https://timesofmalta.com/article/economic-review-us-services-index-tops-forecast.1054258",
+    "publishedDate": "2026-04-16T00:00:00.000Z",
+    "author": "Contributors",
+    "text": "Economic review: US services index tops forecast, calming recession fears\n\n# Economic review: US services index tops forecast, calming recession fears\n\nEurozone retail sales dip in July while German industrial output continues sliding\n\nAn index that measures activity in the US service sector grew at a quicker rate than expected in August, according to a report published on Wednesday by the Institute for Supply Management (ISM).\n\nThe US ISM Services purchasing managers’ index (PMI) rose from 52.7 in July to 54.5 in August, exceeding expectations of 52.6. Looking at some subsectors, business activity/production inched up from 57.1 to 57.3. On the other hand, new orders soared from 55.0 to 57.5 while employment leapt to 54.7 from 50.7. Prices also rose from 56.7 to 58.9.\n\nPolicymakers at the Federal Reserve, the US central bank, consider the services sector as crucial to bringing inflation down to their two per cent target, and Wednesday’s ISM report does not show that any economic slowdo",
+    "image": "https://cdn-attachments.timesofmalta.com/91bb844429df76d8e98dc27e8ecd9271f58ad22c-1694283879-7bfed3e3-1200x630.jpg"
+   },
+   {
+    "id": "https://recessionpulse.com/blog/daily-recession-risk-april-20-2026",
+    "title": "Recession Risk 47/100 — April 20, 2026 | RecessionPulse",
+    "url": "https://recessionpulse.com/blog/daily-recession-risk-april-20-2026",
+    "publishedDate": "2026-04-20T00:00:00.000Z",
+    "author": "RecessionPulse",
+    "text": "# Recession Risk 47/100 — April 20, 2026\n\nRecession risk over the next 90 days is elevated but not high because the labor-market recession trigger is not close to firing: the Sahm Rule is ~0.20–0.27 and initial claims remain low (207k for the week ending April 11, 2026). ([apnews.com](https://apnews.com/article/c3e29b5a86a350a27c3df9a4d88e5719?utm_source=openai)) The yield curve is no longer inverted (2s10s positive in your tracker), which is inconsistent with an imminent recession call. The dominant macro warning is forward-looking: the Conference Board LEI is still declining (down 0.1% in January 2026) and is explicitly flagged as not yet reflecting the Iran war shock—i.e., leading data are likely to worsen as energy/inflation pass-through hits. ([conference-board.org](https://www.conference-board.org/pdf_free/press/US%20LEI%20PRESS%20RELEASE-Mar%202026.pdf?utm_source=openai)) Inflation re-accelerated sharply in March (headline CPI +0.9% m/m; +3.3% y/y), increasing the probability th",
+    "image": "https://recessionpulse.com/og-image.png"
+   }
+  ],
+  "searchTime": 1884.8,
+  "costDollars": {
+   "total": 0.007,
+   "search": {
+    "neural": 0.007
+   }
+  }
+ }
+}

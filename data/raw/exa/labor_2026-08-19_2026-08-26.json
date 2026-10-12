@@ -1,0 +1,106 @@
+{
+ "theme": "labor",
+ "query": "US jobs report nonfarm payrolls unemployment labor market",
+ "start": "2026-08-19",
+ "end": "2026-08-26",
+ "fetched_utc": "2026-10-12T10:08:21Z",
+ "response": {
+  "requestId": "6123e9fa7261fe20582a8a968ad23f41",
+  "resolvedSearchType": "",
+  "results": [
+   {
+    "id": "https://www.marketfinancenews.org/article/july-payrolls-contract-labor-market-cools",
+    "title": "U.S. Payrolls Shrank in July as Revisions Erased 103,000 Jobs — MFN",
+    "url": "https://www.marketfinancenews.org/article/july-payrolls-contract-labor-market-cools",
+    "publishedDate": "2026-08-24T00:00:00.000Z",
+    "author": "Dana Okonkwo",
+    "text": "U.S. Payrolls Shrank in July as Revisions Erased 103,000 Jobs — MFN\n\n# U.S. Payrolls Shrank in July as Revisions Erased 103,000 Jobs\n\nThe unemployment rate slipped to 4.1% even as employers cut positions, a combination driven by workers leaving the labor force rather than by strength in hiring.\n\nBy Dana Okonkwo\n\nAug. 24, 2026 226 comments\n\nAn open-plan office with rows of vacant desks in late afternoon light\n\nWASHINGTON — The U.S. economy shed 23,000 nonfarm payroll jobs in July, the Bureau of Labor Statistics reported this month, the clearest sign yet that a labor market that spent much of the past two years merely decelerating has begun to contract outright.\n\nThe headline unemployment rate edged down to 4.1%. That decline, however, was not a product of hiring. The labor force participation rate fell over the same period, meaning the rate improved largely because people stopped looking for work and were therefore no longer counted as unemployed.\n\nThe revisions were arguably more conse",
+    "image": "https://www.marketfinancenews.org/images/labor-market.png"
+   },
+   {
+    "id": "https://hiringlab.indeed.com/2026/08/24/us-labor-market-snapshot-august-2026/",
+    "title": "US Labor Market Snapshot — August 2026 - Indeed Hiring Lab",
+    "url": "https://hiringlab.indeed.com/2026/08/24/us-labor-market-snapshot-august-2026/",
+    "publishedDate": "2026-08-24T00:00:00.000Z",
+    "author": "Indeed Hiring Lab",
+    "text": "US Labor Market Snapshot — August 2026 - Indeed Hiring Lab\n\n# US Labor Market Snapshot — August 2026\n\n The Indeed Hiring Lab monthly snapshot of the US labor market summarizes where key indicators — job postings, wages, unemployment, and openings — stand as of August 2026, and flags the trends worth watching in the months ahead. \n\n By Indeed Hiring Lab August 24, 2026 \n\n## The Big Picture\n\nOverall hiring demand has stayed steady in August, with postings on Indeed increasing marginally over the month and the overall level of job postings bumping along near their pre-pandemic baseline. Despite an overwhelmingly disappointing July Jobs Report from the Bureau of Labor Statistics, our view of labor conditions has not changed. The labor market has descended from the near-stratospheric heights of 2021 and 2022 and is facing turbulence at lower altitudes. Meanwhile, structural changes in the labor supply are starting to disrupt the jobs market — maybe even more so than more cyclical demand.\n\n#",
+    "image": "https://d341ezm4iqaae0.cloudfront.net/hiringlaborg/2026/08/24135028/image-6.png"
+   },
+   {
+    "id": "https://nybreaking.com/july-2026-jobs-report-retail-health-care-wages/",
+    "title": "July Jobs Report: What The Latest U.S. Labor Data Says About Retail, Health Care And Wage Growth",
+    "url": "https://nybreaking.com/july-2026-jobs-report-retail-health-care-wages/",
+    "publishedDate": "2026-08-19T00:00:00.000Z",
+    "text": "July Jobs Report: What The Latest U.S. Labor Data Says About Retail, Health Care And Wage Growth\n\n# July Jobs Report: What the Latest U.S. Labor Data Says About Retail, Health Care and Wage Growth\n\n NY Breaking News Editorial Desk \n\nAugust 19, 2026 4 min read 97 views\n\n \n\nThe United States added a new set of labor-market signals in July: total nonfarm payroll employment edged down by 23,000, the unemployment rate held at 4.1%, and wage growth remained positive over the year. The figures do not point to a single, simple story. Instead, the Bureau of Labor Statistics report shows a labor market with pockets of weakness, a continuing health-care expansion, and earnings that were still rising even as hiring slowed.\n\nFor workers, employers and consumers, the report is most useful when read as a snapshot of several moving parts rather than as one headline number. Payroll estimates measure jobs reported by employers, while the household survey measures labor-force status and unemployment. The",
+    "image": "https://nybreaking.com/wp-content/uploads/2026/08/july_jobs_report-1024x576.png"
+   },
+   {
+    "id": "https://convex-trading-production.up.railway.app/compare/nonfarm-vs-unemployment",
+    "title": "Nonfarm Payrolls vs Unemployment Rate (158,858 vs 4.10%): Live Comparison | Convex",
+    "url": "https://convex-trading-production.up.railway.app/compare/nonfarm-vs-unemployment",
+    "publishedDate": "2026-08-25T00:00:00.000Z",
+    "author": "Convex Research Desk",
+    "text": "# Nonfarm Payrolls vs Unemployment Rate\n\nNonfarm Payrolls (FRED PAYEMS) come from the BLS Current Employment Statistics establishment survey of roughly 122,000 businesses and government agencies, while the Unemployment Rate (FRED UNRATE) comes from the Current Population Survey of approximately 60,000 households. The two surveys ask different questions and frequently tell different stories.\n\nBy Convex Research Desk· Edited by Ben Bleierⓘ· Verified Oct 10, 2026\n\nAlso known as: Nonfarm Payrolls (NFP, payrolls, jobs report) · Unemployment Rate (U3) (unemployment, U3, jobless rate)\n\nLabor Market monthly\n\nNonfarm Payrolls\n\n159,044\n\n7D +0.00% 30D +0.00%\n\nUpdated 1h ago\n\nLabor Market monthly\n\nUnemployment Rate (U3)\n\n4.20%\n\n7D +0.00% 30D +0.00%\n\nUpdated 1h ago\n\n## Why This Comparison Matters\n\nNonfarm Payrolls (FRED PAYEMS) come from the BLS Current Employment Statistics establishment survey of roughly 122,000 businesses and government agencies, while the Unemployment Rate (FRED UNRATE) comes f",
+    "image": "https://convextrade.com/compare/nonfarm-vs-unemployment/opengraph-image-76nle5?b4baa7f3ce154b91"
+   },
+   {
+    "id": "https://www.onedigital.com/en-US/articles/the-july-jobs-report-what-small-business-owners-need-to-know-before-q4/",
+    "title": "The July Jobs Report: What Small Business Owners Need to Know Before Q4 | OneDigital",
+    "url": "https://www.onedigital.com/en-US/articles/the-july-jobs-report-what-small-business-owners-need-to-know-before-q4/",
+    "publishedDate": "2026-08-19T00:00:00.000Z",
+    "text": "The July Jobs Report: What Small Business Owners Need to Know Before Q4 | OneDigital\n\n# The July Jobs Report: What Small Business Owners Need to Know Before Q4\n\nAuthor\n\nOneDigital\n\nArticle Summary\n\nThe July 2026 jobs report brought the first payroll decline of the year, with employers losing a net 23,000 nonfarm jobs, and that’s before accounting for significant downward revisions to May and June. For small business owners, there’s a lot to unpack here, and some genuine opportunities hiding in the data.\n\nTable of Contents\n\nJuly’s jobs report was a bit of a plot twist.\n\nFor the first time in 2026, nonfarm payroll employment actually declined, down 23,000 for the month. That’s a notable shift from where we started the year, and it tells a story worth paying attention to as small business owners begin thinking about Q4.\n\nAt the same time, there’s more nuance in this report than the headline suggests. The private sector held its own. Wages are stabilizing in a way that actually helps with ",
+    "image": "https://assets.onedigital.com/transform/433a701f-3a75-43c5-8615-b8be9990c045/OneDigital-Homepage-FI"
+   },
+   {
+    "id": "https://eyeonhousing.org/2026/08/state-level-employment-situation-july-2026/",
+    "title": "State-Level Employment Situation: July 2026 – Eye On Housing",
+    "url": "https://eyeonhousing.org/2026/08/state-level-employment-situation-july-2026/",
+    "publishedDate": "2026-08-21T00:00:00.000Z",
+    "author": "Danushka Nanayakkara-Skillington",
+    "text": "State-Level Employment Situation: July 2026 – Eye On Housing\n\n# State-Level Employment Situation: July 2026\n\n- August 21, 2026 \n- Danushka Nanayakkara-Skillington \n- No Comments \n\nThe labor market continued to lose momentum in July, with total nonfarm payroll employment declining nationally and employment gains becoming more limited across states. While overall employment fell by 23,000 jobs, construction employment remained comparatively resilient, adding 22,000 jobs during the month.\n\nIn July, nonfarm payroll employment increased in 26 states and the District of Columbia (D.C.) compared to June, while 24 states recorded declines. According to the Bureau of Labor Statistics, total U.S. nonfarm payroll employment fell by 23,000 jobs in July, following an increase of 20,000 jobs in June. Through July, monthly payroll gains have averaged 61,000 on the current data vintage, reflecting downward revisions to employment gains in prior months.\n\nOn a month-over-month basis, employment gains we",
+    "image": "https://i0.wp.com/eyeonhousing.org/wp-content/uploads/2026/08/iek2c-july-yoy-percent-change-in-total-nonfarm-employment-sa-.png?fit=1240%2C1006&ssl=1"
+   },
+   {
+    "id": "https://forexpreneur.com/u-s-labor-market-delivers-confounding-signals-as-nonfarm-payrolls-unexpectedly-contract-amidst-falling-unemployment/",
+    "title": "U.S. Labor Market Delivers Confounding Signals as Nonfarm Payrolls Unexpectedly Contract Amidst Falling Unemployment",
+    "url": "https://forexpreneur.com/u-s-labor-market-delivers-confounding-signals-as-nonfarm-payrolls-unexpectedly-contract-amidst-falling-unemployment/",
+    "publishedDate": "2026-08-22T00:00:00.000Z",
+    "text": "U.S. Labor Market Delivers Confounding Signals as Nonfarm Payrolls Unexpectedly Contract Amidst Falling Unemployment\n\n# U.S. Labor Market Delivers Confounding Signals as Nonfarm Payrolls Unexpectedly Contract Amidst Falling Unemployment\n\n- Gilang Muhammad\n- Global Macroeconomics\n- August 22, 2026\n- 0 Comments \n\n \n\nThe United States labor market presented a complex and contradictory picture in July, with the Department of Labor reporting an unexpected decline in nonfarm payrolls while simultaneously revealing a decrease in the unemployment rate. This unusual convergence of data points has left economists, investors, and policymakers grappling with mixed signals regarding the health and trajectory of the nation’s economic recovery, particularly as the Federal Reserve weighs its ongoing battle against persistent inflation.\n\nThe July jobs report, released on August 4, 2026, indicated that U.S. employers shed an estimated 60,000 jobs during the month, a stark reversal from the prior month’s",
+    "image": "https://forexpreneur.com/wp-content/uploads/2026/08/u-s-labor-market-delivers-confounding-signals-as-nonfarm-payrolls-unexpectedly-contract-amidst-falling-unemployment.webp"
+   },
+   {
+    "id": "https://claridas.com/articles/bls-2026-payroll-growth-education-health-carries/",
+    "title": "US payrolls grew 316,000 in the year to July — one sector added 550,000, and without it employment fell — Claridas News",
+    "url": "https://claridas.com/articles/bls-2026-payroll-growth-education-health-carries/",
+    "publishedDate": "2026-08-24T00:00:00.000Z",
+    "text": "US payrolls grew 316,000 in the year to July — one sector added 550,000, and without it employment fell — Claridas News\n\n# US payrolls grew 316,000 in the year to July — one sector added 550,000, and without it employment fell\n\nWe read all eleven job supersectors. Private education and health carried the entire net gain; six of the eleven shrank, government most of all.\n\n Filed by the Claridas us pod · August 24, 2026 \n\n## The Facts\n\nThe July 2026 jobs report was reported as a one-line miss: nonfarm payrolls fell 23,000 on the month, the figure the day's coverage led with (NBC, CNBC in Notable). Read the same seasonally adjusted series across a full year and the composition is the story. From July 2025 to July 2026, total nonfarm employment rose 316,000, to 158.858 million (BLS series CES0000000001). Over the same twelve months, one supersector — private education and health services — added 550,000 jobs, to 27.962 million (CES6500000001). That single sector's gain is 174% of the entir",
+    "image": "https://claridas.com/mark.svg"
+   },
+   {
+    "id": "https://www.babzituna.com/blog/the-rate-fell-the-jobs-did-too",
+    "title": "The rate fell. So did the number of people working. · BabZituna",
+    "url": "https://www.babzituna.com/blog/the-rate-fell-the-jobs-did-too",
+    "publishedDate": "2026-08-23T00:00:00.000Z",
+    "text": "The rate fell. So did the number of people working. · BabZituna\n\nPhoto: Samuel Isaacs / Unsplash · United States\n\nThe record · 23 August 2026\n\n# The rate fell. So did the number of people working.\n\nThe unemployment rate is a fraction, and both halves of it move. Between May and July 2026 the number of unemployed Americans fell by 391,000 - real, and the reason the rate improved. Over the same two months the number of employed Americans fell by 594,000, and the labour force shrank by 984,000. A rate can fall because more people found work, or because fewer people were counted as looking. This one did the second. Every figure below is a published monthly observation, from the series linked at the foot of this piece.\n\n4.1% unemployment rate in July 2026, down from 4.3% in May - the headline number, correctly computed\n\n-594,000 fewer people in work in July than in May, from the same household survey that produces the rate\n\n+1,213,000 more people outside the labour force - neither working n",
+    "image": "https://www.babzituna.com/blog/og/the-rate-fell-the-jobs-did-too"
+   },
+   {
+    "id": "https://macromostly.substack.com/p/high-frequency-labor-market-indicators-1ee",
+    "title": "High Frequency Labor Market Indicators (8/20)",
+    "url": "https://macromostly.substack.com/p/high-frequency-labor-market-indicators-1ee",
+    "publishedDate": "2026-08-21T00:00:00.000Z",
+    "author": "Guy Berger",
+    "text": "High Frequency Labor Market Indicators (8/20)\n\n# MacroMostly\n\nSubscribeSign in\n\n# High Frequency Labor Market Indicators (8/20)\n\n### Still a meh labor market\n\nAug 21, 2026\n\n8\n\nShare\n\nTL;DR: It was another week of so-so labor market data. Some of the high frequency indicators looked worse this week, others looked better, but my sense is that not much has changed since late May (when labor market improvement decelerated or even stopped).\n\nThis post covers:\n\nAdministrative Announcement!\n\nUpcoming “Live Events”\n\nRecent and Upcoming Posts\n\nWhat’s Next\n\nPolicy Risks Update\n\nClaims for Unemployment Insurance\n\nIndeed Job Postings\n\nADP Weekly Employment Growth\n\nMorning Consult Unemployment Rate Index\n\nEmployment of Software Developers at Record Levels\n\nCPS-Based Measures of Turnover\n\nReading List\n\nMore below chart.\n\n## 1. Administrative Announcement!\n\nHey folks, a heads up that I previously mentioned in the subscriber chat, but non-subscribers may not have seen.\n\nI’m planning to add the option ",
+    "image": "https://substackcdn.com/image/fetch/$s_!0pe4!,w_1200,h_675,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F3a45c7e5-af0d-4928-898d-e7702a7f6501_1653x993.png",
+    "favicon": "https://substackcdn.com/image/fetch/$s_!sMR7!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F1d55e280-aae6-4b50-997f-ebb6d7749fd2%2Ffavicon-32x32.png"
+   }
+  ],
+  "searchTime": 944.1,
+  "costDollars": {
+   "total": 0.007,
+   "search": {
+    "neural": 0.007
+   }
+  }
+ }
+}

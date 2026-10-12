@@ -1,0 +1,101 @@
+{
+ "theme": "labor",
+ "query": "US jobs report nonfarm payrolls unemployment labor market",
+ "start": "2026-08-12",
+ "end": "2026-08-19",
+ "fetched_utc": "2026-10-12T10:08:17Z",
+ "response": {
+  "requestId": "1ea9546328605b281081a44c22a0ae34",
+  "resolvedSearchType": "",
+  "results": [
+   {
+    "id": "http://www.bls.gov/opub/ted/2026/little-change-in-nonfarm-payroll-employment-in-july-2026.htm",
+    "title": "Little change in nonfarm payroll employment in July 2026 : The Economics Daily : U.S. Bureau of Labor Statistics",
+    "url": "http://www.bls.gov/opub/ted/2026/little-change-in-nonfarm-payroll-employment-in-july-2026.htm",
+    "publishedDate": "2026-08-12T00:00:00.000Z",
+    "text": "Little change in nonfarm payroll employment in July 2026 : The Economics Daily : U.S. Bureau of Labor Statistics\n\n# Little change in nonfarm payroll employment in July 2026 \n\nAugust 12, 2026\n\nTotal nonfarm payroll employment changed little in July (−23,000), following an average monthly gain of 34,000 over the prior 12 months. In July, employment declined in local government education and retail trade. Employment continued to trend up in health care.\n\n- Chart Image\n- Chart Data\n\n## 1-month net employment change by industry, July 2026\n\nBar chart with 15 bars.\n\nData are seasonally adjusted. Hover over chart to view data. Source: U.S. Bureau of Labor Statistics\n\nThe chart has 1 X axis displaying categories. \n\nThe chart has 1 Y axis displaying values. Data ranges from -53000 to 25000.\n\nView chart menu, 1-month net employment change by industry, July 2026\n\nData are seasonally adjusted. Hover over chart to view data. Source: U.S. Bureau of Labor Statistics\n\nEnd of interactive chart.\n\n1-month",
+    "image": "https://www.bls.gov/images/bls_emblem_2016.png"
+   },
+   {
+    "id": "https://www.usbank.com/corporate-and-commercial-banking/insights/economy/macro/us-labor-market.html",
+    "title": "U.S. Labor Market: Defensive Stability | U.S. Bank",
+    "url": "https://www.usbank.com/corporate-and-commercial-banking/insights/economy/macro/us-labor-market.html",
+    "publishedDate": "2026-08-13T00:00:00.000Z",
+    "text": "U.S. Labor Market: Cautious Stability | U.S. Bank\n\n# U.S. labor market: Cautious stability in a low-hire, low-fire economy\n\nSeptember 16, 2026\n\n## Key takeaways\n\n- The U.S. labor market remains in an unusual phase characterized by restrained hiring, low layoffs and muted job churn.\n- Low layoffs have helped keep unemployment relatively low even as hiring remains subdued, though recent job gains suggest labor market conditions may be stabilizing.\n- Slower labor-force growth has lowered the “breakeven” pace of job creation needed to maintain labor market balance, changing how payroll gains should be interpreted.\n- The key question is whether this low-momentum equilibrium can persist – or whether limited churn leaves the labor market more exposed if layoffs begin to rise.\n\nThe U.S. labor market remains in an unusual state characterized by restrained hiring and persistently low unemployment – producing an arrangement that appears stable but increasingly cautious in nature. This is what has",
+    "image": "https://www.usbank.com/content/dam/usbank/en/images/photos/corporate-and-commercial-banking/photo-labor-crew-standing-in-line.webp"
+   },
+   {
+    "id": "https://economicsinsider.com/us-jobs-report-july-2026/",
+    "title": "U.S. Jobs Report July 2026: Economy Lost 23,000 Jobs as Hiring Weakens",
+    "url": "https://economicsinsider.com/us-jobs-report-july-2026/",
+    "publishedDate": "2026-08-15T00:00:00.000Z",
+    "text": "U.S. Jobs Report July 2026: Economy Lost 23,000 Jobs as Hiring Weakens\n\n# U.S. Jobs Report July 2026: Economy Lost 23,000 Jobs as Hiring Weakens\n\nAugust 15, 2026 5 Min Read\n\n \n\nThe U.S. labor market took an unexpected step backward in July, with employers cutting 23,000 jobs instead of adding workers. The bigger concern is that the weakness was not limited to July: the Bureau of Labor Statistics also sharply revised down job growth for May and June by a combined 103,000 jobs.\n\nAt the same time, the unemployment rate fell to 4.1%, showing that the latest report is weaker than the headline unemployment number might suggest.\n\n### Key Takeaways\n\n- U.S. employers lost 23,000 jobs in July, the first monthly decline in this year’s data. \n- May and June were much weaker than previously reported, with their combined job gains reduced by 103,000. \n- The unemployment rate fell to 4.1%, but the labor market has been losing momentum. \n\n## U.S. Monthly Job Creation\n\nThe table below shows the monthly",
+    "image": "https://economicsinsider.com/wp-content/uploads/2026/08/useconomylost23kjobsjuly.webp"
+   },
+   {
+    "id": "https://111things.com/national/u-s-payrolls-fell-by-23000-in-july-as-job-growth-turned-negative/",
+    "title": "U.S. Payrolls Fell by 23,000 in July as Job Growth Turned Negative | Interactive News",
+    "url": "https://111things.com/national/u-s-payrolls-fell-by-23000-in-july-as-job-growth-turned-negative/",
+    "publishedDate": "2026-08-12T00:00:00.000Z",
+    "text": "U.S. Payrolls Fell by 23,000 in July as Job Growth Turned Negative | Interactive News\n\n# U.S. Payrolls Fell by 23,000 in July as Job Growth Turned Negative\n\n August 12, 2026 9:27 am Business & Economy, National \n\nU.S. nonfarm payroll employment fell by 23,000 jobs in July, the Bureau of Labor Statistics reported Aug. 7, as the national labor market recorded a monthly decline and earlier job gains were revised sharply lower.\n\nThe unemployment rate edged down to 4.1%. That decline came alongside a change in labor-force participation, which helped explain why the unemployment rate fell even as payroll employment decreased.\n\nThe figures present a mixed picture of the labor market. Payroll employment tracks the number of jobs reported by employers, while the unemployment rate is based on the labor-force status of people in households. The labor force includes people who are working and those actively seeking work.\n\n## July payrolls and earlier revisions\n\nThe July result reduced the total nu",
+    "image": "https://111things.com/wp-content/uploads/2026/06/abstract-background-of-defocused-building-lights-of-illuminated-modern-city-at-dark-night-4139143-scaled.jpg"
+   },
+   {
+    "id": "https://gdpquery.ai/insights/us-payrolls-fall-23000-july-2026-unemployment-slips-4-1-percent",
+    "title": "U.S. Payrolls Fall 23,000 in July 2026 as Unemployment Slips to 4.1% | GDPQuery.ai Insights",
+    "url": "https://gdpquery.ai/insights/us-payrolls-fall-23000-july-2026-unemployment-slips-4-1-percent",
+    "publishedDate": "2026-08-18T00:00:00.000Z",
+    "text": "U.S. Payrolls Fall 23,000 in July 2026 as Unemployment Slips to 4.1% | GDPQuery.ai Insights\n\n# U.S. Payrolls Fall 23,000 in July 2026 as Unemployment Slips to 4.1%\n\nAugust 18, 2026\n\nDrafted by claude-opus-5 · Reviewed by a human before publication · Released August 7, 2026 · Data through July 2026\n\n## Highlights\n\n- Print\n\nNonfarm payrolls fell by 23,000 in July, and the unemployment rate edged down to 4.1 percent from 4.2 percent.\n- Read\n\nJuly is statistically indistinguishable from no change, so the revisions carry the information: May and June combined are now 103,000 lower than previously reported.\n- Read\n\nJuly is a print with no engine rather than a recession print: the cyclical core was flat, while financial activities fell 14,000 and are down 121,000 since a recent peak in May 2025.\n- Read\n\nUnemployment fell while participation fell to 61.4 percent, so the lower rate is arithmetic, not improvement, and temporary layoffs rose 153,000 to 921,000, an early signal of deteriorating de"
+   },
+   {
+    "id": "https://diversity.com/post/us-job-market-2026",
+    "title": "The U.S. Job Market in 2026: What Job Seekers Should Know",
+    "url": "https://diversity.com/post/us-job-market-2026",
+    "publishedDate": "2026-08-18T00:00:00.000Z",
+    "text": "The U.S. Job Market in 2026: What Job Seekers Should Know\n\n# The U.S. Job Market in 2026: What Job Seekers Should Know\n\nAugust 18, 2026• 6 min read\n\nThe latest U.S. jobs report shows relatively little movement in the labor market.\n\nAccording to the U.S. Bureau of Labor Statistics (BLS), the unemployment rate was 4.1% in July 2026, while total nonfarm payroll employment changed by -23,000 jobs. BLS described both measures as having changed little over the month (U.S. Bureau of Labor Statistics [BLS], 2026a).\n\nFor job seekers, here is what the latest federal data says in plain English.\n\n(Important: This article summarizes July 2026 labor-market data published by the U.S. Bureau of Labor Statistics. It does not predict future hiring conditions.)\n\n## What was the U.S. unemployment rate in July 2026?\n\nThe national unemployment rate was 4.1% in July 2026.\n\nBLS reported that approximately 6.9 million people were unemployed. Both the unemployment rate and the number of unemployed people change",
+    "image": "https://assets.cdn.filesafe.space/SENWhSjkuXg0lcbKuaTm/media/6a85766b16e3cd97c9aceeb3.png"
+   },
+   {
+    "id": "https://111things.com/national/u-s-nonfarm-payrolls-fell-by-23000-in-july-bls-reports/",
+    "title": "U.S. Nonfarm Payrolls Fell by 23,000 in July, BLS Reports | Interactive News",
+    "url": "https://111things.com/national/u-s-nonfarm-payrolls-fell-by-23000-in-july-bls-reports/",
+    "publishedDate": "2026-08-12T00:00:00.000Z",
+    "text": "U.S. Nonfarm Payrolls Fell by 23,000 in July, BLS Reports | Interactive News\n\n# U.S. Nonfarm Payrolls Fell by 23,000 in July, BLS Reports\n\n August 12, 2026 1:12 am Business & Economy, National \n\nU.S. nonfarm payroll employment fell by 23,000 jobs in July, the Bureau of Labor Statistics reported Aug. 7, adding to signs of weaker hiring conditions across the country.\n\nThe decline was reported in the agency’s July 2026 Employment Situation, the scheduled national release covering payroll employment, unemployment and labor-force measures. The report is one of the principal indicators used to assess the condition and direction of the U.S. labor market.\n\nThe July result means the number of jobs recorded on employer payrolls decreased by a net 23,000 from the prior period. It is a measure of payroll employment, not a direct count of every worker who lost a job, every person who found work or every employer that changed its staffing.\n\n## What the employment report measures\n\nThe Bureau of Labor",
+    "image": "https://111things.com/wp-content/uploads/2026/06/abstract-background-of-defocused-building-lights-of-illuminated-modern-city-at-dark-night-4139143-scaled.jpg"
+   },
+   {
+    "id": "https://www.regardsofwallstreet.com/news/august-jobs-report-2026-september-4-date-forecast",
+    "title": "August Jobs Report: Payrolls Jumped 162,000, and the 'Negative July' Got Revised Away | Regards of Wallstreet",
+    "url": "https://www.regardsofwallstreet.com/news/august-jobs-report-2026-september-4-date-forecast",
+    "publishedDate": "2026-08-18T00:00:00.000Z",
+    "author": "Atul Ghandhi",
+    "text": "August Jobs Report: Payrolls Jumped 162,000, and the 'Negative July' Got Revised Away | Regards of Wallstreet\n\n# August Jobs Report: Payrolls Jumped 162,000, and the 'Negative July' Got Revised Away\n\nAugust payrolls rose 162,000, more than double every consensus estimate, and revisions turned July's minus 23,000 into plus 21,000. Two sectors drove most of the gain.\n\nUpdated 2026-09-04 · 4:15 PM ET• By Atul Ghandhi•$SPY\n\nDisclosure\n\nThe author's own opinion, published to everyone at once. Nothing here is a personal recommendation: it takes no account of your circumstances, objectives or tax position, and any play described is the author's own reasoning, not an instruction to you. The author holds no position in any security mentioned, and does not trade the securities covered on this site. No payment has been received from any issuer, broker or third party to feature any security mentioned. Capital is at risk and options can lose their full value. Full disclosure.\n\n### Updated September",
+    "image": "https://www.regardsofwallstreet.com/api/og?title=August+Jobs+Report%3A+Payrolls+Jumped+162%2C000%2C+and+the+%27Negative+July%27+Got+Revised+Away&ticker=SPY&kicker=Macro+%26+The+Fed"
+   },
+   {
+    "id": "https://usmarketcurrent.com/low-layoffs-no-hiring-split-labor-market-fed-must-price/",
+    "title": "Low Layoffs, No Hiring: The Split Labor Market the Fed Has to Price",
+    "url": "https://usmarketcurrent.com/low-layoffs-no-hiring-split-labor-market-fed-must-price/",
+    "publishedDate": "2026-08-13T00:00:00.000Z",
+    "author": "Tomas Ferreira",
+    "text": "Low Layoffs, No Hiring: The Split Labor Market the Fed Has to Price\n\n# Low Layoffs, No Hiring: The Split Labor Market the Fed Has to Price\n\nWeekly jobless claims rose to 209,000 on Thursday but remain historically low, even as July payrolls fell and 103,000 jobs vanished from prior months in revision. The two series are telling opposite stories, and a Federal Reserve debating a rate hike has to reconcile them.\n\nby Tomas Ferreira · August 13, 2026\n\nMarkets Reporter, US Market Current\n\nThere are two labor markets in the US data right now, and they do not agree with each other. One is measured weekly, counts the newly unemployed, and looks about as healthy as it has at any point in this expansion. The other is measured monthly, counts jobs added, and has stopped growing. The Federal Reserve, which is currently arguing about whether to raise interest rates rather than lower them, has to decide which one it believes.\n\nStart with the weak side. The Bureau of Labor Statistics reported that no",
+    "image": "https://images.unsplash.com/photo-1554469384-e58fac16e23a?auto=format&fit=crop&crop=faces&w=1200&q=70"
+   },
+   {
+    "id": "https://www.wherewework.com/us/en/news-articles/bls-reports-23000-jobs-lost-in-july-what-job-seekers-need-to-know-now-251",
+    "title": "BLS July Jobs Report: 23K Losses Reshape Hiring",
+    "url": "https://www.wherewework.com/us/en/news-articles/bls-reports-23000-jobs-lost-in-july-what-job-seekers-need-to-know-now-251",
+    "publishedDate": "2026-08-12T00:00:00.000Z",
+    "text": "BLS July Jobs Report: 23K Losses Reshape Hiring\n\n# BLS reports 23,000 jobs lost in July: what job seekers need to know now \n\n 08/12/2026 \n\nThe Bureau of Labor Statistics (BLS) released its August 7 jobs report and the headline number was a surprise: US nonfarm payrolls fell by 23,000 in July, the first monthly loss since February. On top of that, the BLS revised May and June figures down by a combined 103,000 positions, turning what looked like steady growth into a story of gradual cooling. If you are currently job-hunting, weighing a competing offer, or thinking about switching fields, this data matters, because the pattern underneath it shapes the practical leverage you have this quarter.\n\n## What the July BLS numbers actually say\n\nThe headline figure, a loss of 23,000 nonfarm payroll jobs, is modest in absolute terms. But the downward revisions to the two previous months are harder to dismiss. Strip those 103,000 revised-away positions from the earlier story of steady growth, and th",
+    "image": "https://www.wherewework.com/uploads/news/images/N8dZEpa1yvYdyCXgin5oEeAGok42mzljnYEOK3Fn.png"
+   }
+  ],
+  "searchTime": 4152.5,
+  "costDollars": {
+   "total": 0.007,
+   "search": {
+    "neural": 0.007
+   }
+  }
+ }
+}

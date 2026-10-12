@@ -1,0 +1,104 @@
+{
+ "theme": "inflation",
+ "query": "US inflation CPI PCE consumer prices",
+ "start": "2026-06-24",
+ "end": "2026-07-01",
+ "fetched_utc": "2026-10-12T10:06:22Z",
+ "response": {
+  "requestId": "3b5cf3b9172fffaab59cf533c5f964ce",
+  "resolvedSearchType": "",
+  "results": [
+   {
+    "id": "https://blsmon1.bls.gov/news-release/consumer-price-index.htm",
+    "title": "Consumer Price Index - 2026 M05 - News Release",
+    "url": "https://blsmon1.bls.gov/news-release/consumer-price-index.htm",
+    "publishedDate": "2026-06-30T00:00:00.000Z",
+    "text": "Consumer Price Index - 2026 M05 - News Release\n\n# Consumer Price Index - May 2026\n\nTransmission of material in this release is embargoed until 8:30 am (ET) June 30, 2026\n\n## Top Takeaways\n\n1-month percent change, May 2026 \n\n+0.5%\n\n CPI-U, all items, seasonally adjusted\n\n12-month percent change, May 2026 \n\n+4.2%\n\n CPI-U, all items, not seasonally adjusted\n\n## Abstract\n\n CPI NextGen Test 9/11/2026 - In May, the Consumer Price Index for All Urban Consumers rose 0.9 percent, seasonally adjusted, and rose 3.3 percent over the last 12 months, not seasonally adjusted. The index for all items less food and energy increased 0.2 percent in March (SA). \n\n- All items and selected categories\n- Food\n- Energy\n- All items less food and energy\n\nCPI, 1-month percent change, seasonally adjusted, May 2023 to May 2026\n\n| Month | All items | Food | Energy | All items less food and energy |\n| --- | --- | --- | --- | --- |\n| May 2023 | 0.2% | 0.2% | -2.3% | 0.4% |\n| June 2023 | 0.2% | 0.1% | 0.5% | 0.2% |\n| J",
+    "image": "https://www.bls.gov/images/bls_emblem_2016.png"
+   },
+   {
+    "id": "https://www.reuters.com/markets/us/us-pce-inflation-measure-tops-40-may-consumer-spending-strong-2026-06-25/",
+    "title": "May US PCE inflation tops 4%, leaves Fed hike on the table | Reuters",
+    "url": "https://www.reuters.com/markets/us/us-pce-inflation-measure-tops-40-may-consumer-spending-strong-2026-06-25/",
+    "publishedDate": "2026-06-25T00:00:00.000Z",
+    "author": "Lucia Mutikani",
+    "text": "May US PCE inflation tops 4%, leaves Fed hike on the table | Reuters\nSkip to main content\nExclusive news, data and analytics for financial market professionalsLearn more aboutRefinitiv\n\nSubscribe\n# May US PCE inflation tops 4%, leaves Fed hike on the table\nBy Lucia Mutikani\nJune 25, 202612:40 PM UTCUpdated June 25, 2026\nText\n*\nSmall Text\n*\nMedium Text\n*\nLarge Text\n*\nX\n*\nFacebook\n*\nLinkedin\n*\nEmail\n*\nLink\nPeople shop at Zabar's supermarket in New York City\nPeople shop at Zabar's supermarket in New York City, U.S., November 26, 2025. REUTERS/Jeenah Moon Purchase Licensing Rights, opens new tab\n* Summary\n* Companies\n* Personal Consumption Expenditures price index increases 4.1% year-on-year in May\n* Core PCE inflation advances 3.4% year-on-year; up 0.3% on a monthly basis\n* Financial markets expect the Federal Reserve to hike interest rates in September\n* Consumer spending powers ahead in May; business spending on equipment rebounds sharply\nWASHINGTON, June 25 (Reuters) - U.S. inflation i",
+    "image": "https://www.reuters.com/resizer/v2/LQFNXDXYLZJNFFT25NV3LXHXBM.jpg?auth=86828867cd3a6adb8e67fd98e36b49885e110210ef09d85bc4838e6eb9b3963c&height=1005&width=1920&quality=80&smart=true"
+   },
+   {
+    "id": "https://www.cnbc.com/2026/06/25/pce-inflation-report-may-2026-.html",
+    "title": "PCE inflation report May 2026:",
+    "url": "https://www.cnbc.com/2026/06/25/pce-inflation-report-may-2026-.html",
+    "publishedDate": "2026-06-25T00:00:00.000Z",
+    "author": "Jeff Cox",
+    "text": "PCE inflation report May 2026: \n\n# Core inflation rate hit 3.4% in May, highest since October 2023, Fed’s preferred gauge shows\n\nPublished Thu, Jun 25 2026 8:32 AM EDT Updated Thu, Jun 25 2026 9:30 AM EDT\n\nJeff Cox@jeff.cox.7528@JeffCoxCNBCcom\n\nKey Points\n\n- The core personal consumption expenditures price index showed a 3.4% annual rate after rising 0.3% for the month. The core annual reading was the highest since October 2023.\n- The Fed's primary inflation gauge also showed an annual rate of 4.1%, the highest since April 2023.\n- Even with the elevated inflation levels, consumer spending for the month came in stronger than expected. Personal consumption expenditures rose 0.7% for the month.\n- Also, gross domestic product, the broadest measure of growth, rose at a seasonally adjusted annualized pace of 2.1% in the first quarter, up 0.5 percentage point from the prior reading.\n\nVIDEO 5:45 05:45\n\nCore inflation rate hit 3.4% in May, highest since October 2023, Fed’s preferred gauge shows",
+    "image": "https://image.cnbcfm.com/api/v1/image/108316925-1780594933899-gettyimages-2279844260-_dsc0609.jpeg?v=1780594959&w=1920&h=1080"
+   },
+   {
+    "id": "https://fred.stlouisfed.org/series/DPCXRV1Q225SBEA",
+    "title": "Market-based PCE Excluding Food and Energy (chain-type price index) (DPCXRV1Q225SBEA) | FRED | St. Louis Fed",
+    "url": "https://fred.stlouisfed.org/series/DPCXRV1Q225SBEA",
+    "publishedDate": "2026-06-25T00:00:00.000Z",
+    "text": "Market-based PCE Excluding Food and Energy (chain-type price index) (DPCXRV1Q225SBEA) | FRED | St. Louis Fed\n\nMarket-based PCE Excluding Food and Energy (chain-type price index) (DPCXRV1Q225SBEA)\n\nObservations \n\n Q2 2026: 3.2 | Percent Change from Preceding Period, Seasonally Adjusted Annual Rate | Quarterly \n\n Updated: Sep 30, 2026 7:54 AM CDT \n\n Next Release Date: Oct 29, 2026 \n\nObservations \n\n Q2 2026: 3.2 \n\n Updated: Sep 30, 2026 7:54 AM CDT \n\n Next Release Date: Oct 29, 2026 \n\n| Q2 2026: | 3.2 |\n| --- | --- |\n| Q1 2026: | 3.9 |\n| Q4 2025: | 2.4 |\n| Q3 2025: | 2.6 |\n| Q2 2025: | 2.5 |\n| View All | |\n\nUnits:\n\n Percent Change from Preceding Period,\n\nSeasonally Adjusted Annual Rate \n\nFrequency:\n\n Quarterly \n\nDate: \n\nChart\n\nLine chart with 157 data points.\n\nThe chart has 1 X axis displaying xAxis. Data ranges from 1987-04-01 1:00:00 to 2026-04-01 1:00:00.\n\nThe chart has 2 Y axes displaying Percent Change from Preceding Period and yAxisRight.\n\n- Show Market-based PCE Excluding Food and ",
+    "image": "https://fred.stlouisfed.org/graph/fredgraph.png?width=880&height=440&id=DPCXRV1Q225SBEA"
+   },
+   {
+    "id": "https://www.jec.senate.gov/public/index.cfm/republicans/2026/6/headline-personal-income-up-in-may-core-pce-highest-since-october-2023-at-3-41-percent",
+    "title": "Headline Personal Income Up in May, Core PCE Highest Since October 2023 at 3.41 Percent - Headline Personal Income Up in May, Core PCE Highest Since October 2023 at 3.41 Percent - U.S. Congress Joint Economic Committee",
+    "url": "https://www.jec.senate.gov/public/index.cfm/republicans/2026/6/headline-personal-income-up-in-may-core-pce-highest-since-october-2023-at-3-41-percent",
+    "publishedDate": "2026-06-25T00:00:00.000Z",
+    "author": "United States Joint Economic Committee",
+    "text": "Headline Personal Income Up in May, Core PCE Highest Since October 2023 at 3.41 Percent - Headline Personal Income Up in May, Core PCE Highest Since October 2023 at 3.41 Percent - U.S. Congress Joint Economic Committee\n\n# Headline Personal Income Up in May, Core PCE Highest Since October 2023 at 3.41 Percent\n\n#### June 25, 2026 \n\nWASHINGTON, DC – Today, the Joint Economic Committee released its Monthly Expenditures Update for May. From April to May, headline personal consumption expenditures (PCE) price index inflation was 0.45 percent, slightly above the 0.40 percent from March to April. Core PCE price index inflation, which excludes food and energy prices, was 0.32 percent up from 0.24 percent from March to April.\n\nIn the same period, spending increased while savings held steady. Real PCE increased by 0.26 percent, or $43.82 billion. Real PCE on all services increased by 0.17 percent, or $18.98 billion. Real PCE on all goods increased by 0.46 percent, or $26.28 billion, and the nomin",
+    "image": "https://www.jec.senate.gov/public/vendor/_skins/jec-2025-rep/images/social-reps-social.png"
+   },
+   {
+    "id": "https://tradingeconomics.com/united-states/pce-price-index-monthly-change/news/561877",
+    "title": "US PCE Inflation Steady at 0.4%",
+    "url": "https://tradingeconomics.com/united-states/pce-price-index-monthly-change/news/561877",
+    "publishedDate": "2026-06-25T00:00:00.000Z",
+    "text": "US PCE Inflation Steady at 0.4%\n\n# US PCE Inflation Steady at 0.4%\n\n2026-06-25 12:39 By Judith Sib-at 1 min. read\n\nThe US PCE price index rose 0.4% month-over-month in May 2026, matching April's increase and less than market expectations of a 0.5% advance.\n\nGoods inflation eased to 0.4% from 0.7%, while services inflation rose to 0.5% from 0.3% in each of the previous two months.\n\nThe core PCE index, which excludes food and energy, increased 0.3%, the same as an upwardly revised 0.3% in the previous month and matching market forecasts.\n\nOn an annual basis, headline PCE inflation accelerated for a third consecutive month to 4.1% from 3.8%, confirming expectations and marking the highest level since April 2023.\n\nCore PCE inflation edged up to 3.4% from 3.3%, also in line with forecasts and reaching its highest level since October 2023.\n\nAt its June 2026 meeting, the Federal Reserve raised its inflation forecasts, projecting PCE inflation at 3.6% and core PCE inflation at 3.3% for the yea",
+    "image": "https://d3e5kp2e91w0k0.cloudfront.net/images/appstore-lrg.svg",
+    "favicon": "https://d3e5kp2e91w0k0.cloudfront.net/favicon.svg"
+   },
+   {
+    "id": "https://www.reuters.com/business/methodology-changes-could-lower-us-may-core-pce-inflation-economists-say-2026-06-29/",
+    "title": "Methodology changes could lower US May core PCE inflation, economists say | Reuters",
+    "url": "https://www.reuters.com/business/methodology-changes-could-lower-us-may-core-pce-inflation-economists-say-2026-06-29/",
+    "publishedDate": "2026-06-29T00:00:00.000Z",
+    "text": "Methodology changes could lower US May core PCE inflation, economists say | Reuters\nSkip to main content\nExclusive news, data and analytics for financial market professionalsLearn more aboutRefinitiv\n\nSubscribe\n# Methodology changes could lower US May core PCE inflation, economists say\nBy Reuters\nJune 29, 20266:37 PM UTCUpdated June 29, 2026\nText\n*\nSmall Text\n*\nMedium Text\n*\nLarge Text\n*\nX\n*\nFacebook\n*\nLinkedin\n*\nEmail\n*\nLink\nFILE PHOTO: The Federal Reserve building in Washington\nThe Federal Reserve headquarters in Washington September 16, 2015. REUTERS/Kevin Lamarque/File Photo Purchase Licensing Rights, opens new tab\nWASHINGTON, June 29 (Reuters) - The May data for the U.S. Personal Consumption Expenditures Price Index, excluding food and energy, could be revised lower when the government implements methodological changes to some components later ​this year, economists say.\nThe Bureau of Economic Analysis said last week it would revamp ‌how it calculates prices for portfolio manageme",
+    "image": "https://www.reuters.com/resizer/v2/OMV6GNNDVBMYBHAPDRPDKHO2IQ.jpg?auth=bf8e2f279a1740fa5ad1466bc3b900148f734b7953bc58a164a238af0a25bf9d&height=1005&width=1920&quality=80&smart=true"
+   },
+   {
+    "id": "https://www.cbsnews.com/news/pce-report-report-may-2026-federal-reserve-inflation/",
+    "title": "The Fed's preferred inflation gauge shows prices rising at fastest pace in 3 years - CBS News",
+    "url": "https://www.cbsnews.com/news/pce-report-report-may-2026-federal-reserve-inflation/",
+    "publishedDate": "2026-06-25T00:00:00.000Z",
+    "text": "The Fed's preferred inflation gauge shows prices rising at fastest pace in 3 years - CBS News\n\n# The Fed's preferred inflation gauge shows prices rising at fastest pace in 3 years\n\n By \n\n Aimee Picchi \n\nAimee Picchi Associate Managing Editor, MoneyWatch\n\n Aimee Picchi \n\n Updated on: June 25, 2026 / 10:38 AM EDT / CBS News \n\nThe Personal Consumption Expenditures index — the Federal Reserve's preferred inflation measure — rose at a 4.1% annual rate in May, highlighting the central bank's challenge in reining in prices.\n\nThe reading matched economists' forecasts for the PCE report to come in at 4.1% annually, according to financial data service FactSet. That compares with an annual increase of 3.8% in April, and represents the highest level since April 2023.\n\nCore PCE, which strips out volatile energy and food prices, rose 3.4%, slightly higher than the 3.3% forecast by economists. \n\nThe Iran war reignited inflation by driving up oil and gasoline prices, leaving American drivers paying th",
+    "image": "https://assets1.cbsnewsstatic.com/hub/i/r/2025/12/30/efbe050f-d798-4479-8d78-020d78c5830e/thumbnail/1200x630/7cd0c48c95aa27956d3b4dab81846066/grocery-store-generic.jpg"
+   },
+   {
+    "id": "https://fred.stlouisfed.org/graph/?g=LArT",
+    "title": "Real Personal Consumption Expenditures | FRED | St. Louis Fed",
+    "url": "https://fred.stlouisfed.org/graph/?g=LArT",
+    "publishedDate": "2026-06-25T00:00:00.000Z",
+    "text": "Real Personal Consumption Expenditures | FRED | St. Louis Fed\n\n# Real Personal Consumption Expenditures (PCEC96)\n\nObservations\n\nMay 2026: 3.2 | Compounded Annual Rate of Change, Seasonally Adjusted Annual Rate | Monthly\n\nUpdated: Jun 25, 2026 7:43 AM CDT\n\nNext Release Date: Jul 30, 2026\n\nObservations\n\nMay 2026: 3.2\n\nUpdated: Jun 25, 2026 7:43 AM CDT\n\nNext Release Date: Jul 30, 2026\n\n| May 2026: | 3.2 |\n| --- | --- |\n| Apr 2026: | 0.0 |\n| Mar 2026: | 3.3 |\n| Feb 2026: | 2.6 |\n| Jan 2026: | -2.3 |\n| View All | |\n\nUnits:\n\nCompounded Annual Rate of Change,\n\nSeasonally Adjusted Annual Rate\n\nFrequency:\n\nMonthly\n\nFullscreen\n\nData in this graph are copyrighted. Please review the copyright information in the series notes before sharing.\n\nShare Graph\n\n- Custom Graph Link\n- Embed in Website\n- Graph Image Link\n\nAccount Tools\n\n- Add to Data List\n- Get Email Notification\n\n&nbsp Post on Facebook Share on Reddit Post to Linkedin\n\n## Notes\n\nSource:\n\nU.S. Bureau of Economic Analysis\n\nRelease:\n\nPersonal ",
+    "image": "https://fred.stlouisfed.org/graph/fredgraph.png?width=880&height=440&g=LArT"
+   },
+   {
+    "id": "https://kpmg.com/us/en/articles/2026/may-2026-pce.html",
+    "title": "Consumers spend through higher prices at the pump",
+    "url": "https://kpmg.com/us/en/articles/2026/may-2026-pce.html",
+    "publishedDate": "2026-06-25T00:00:00.000Z",
+    "text": "Consumers spend through higher prices at the pump\n\n# Consumers spend through higher prices at the pump \n\nConsumer electronics prices are rising. \n\n \n\nJune 25, 2026\n\nPersonal disposable incomes jumped 0.3% after adjusting for inflation in May, making it the second increase in eight months. A surge in farm income due to disaster relief from the federal government accounted for much of that increase.\n\nA rebound in payrolls alone was partially offset by the drag from higher energy prices due to the conflict in the Middle East. Cuts to Medicaid and SNAP benefits are another hurdle, especially for low-income households.\n\nRecent research by Moody’s Analytics underscores how uneven income gains remain. The top 20% of households continue to gain ground relative to inflation in the most recent cut of the data, while the bottom 80% have lost ground.\n\nUltra-wealthy carry the day\n\nPersonal consumption expenditures rose 0.3% after adjusting for inflation. Spending gains were broad-based, but stronge",
+    "image": "https://kpmg.com/kpmg-us/content/dam/kpmg/basic-hero/2026/pce-6-25-h.jpg"
+   }
+  ],
+  "searchTime": 2937.9,
+  "costDollars": {
+   "total": 0.007,
+   "search": {
+    "neural": 0.007
+   }
+  }
+ }
+}

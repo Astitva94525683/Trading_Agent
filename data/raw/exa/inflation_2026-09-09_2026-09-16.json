@@ -1,0 +1,105 @@
+{
+ "theme": "inflation",
+ "query": "US inflation CPI PCE consumer prices",
+ "start": "2026-09-09",
+ "end": "2026-09-16",
+ "fetched_utc": "2026-10-12T10:06:55Z",
+ "response": {
+  "requestId": "56d41c1dbae5f38f4c84f541e201b628",
+  "resolvedSearchType": "",
+  "results": [
+   {
+    "id": "https://www.reuters.com/world/us/us-consumer-inflation-picks-up-august-2026-09-11/",
+    "title": "US consumer prices accelerate in August, push Fed closer to rate hike | Reuters",
+    "url": "https://www.reuters.com/world/us/us-consumer-inflation-picks-up-august-2026-09-11/",
+    "publishedDate": "2026-09-11T00:00:00.000Z",
+    "author": "Lucia Mutikani",
+    "text": "US consumer prices accelerate in August, push Fed closer to rate hike | Reuters\nSkip to main content\nExclusive news, data and analytics for financial market professionalsLearn more aboutRefinitiv\n\nSubscribe\n# US consumer prices accelerate in August, push Fed closer to rate hike\nBy Lucia Mutikani\nSeptember 11, 202612:37 PM UTCUpdated ago\nText\n*\nSmall Text\n*\nMedium Text\n*\nLarge Text\n*\nX\n*\nFacebook\n*\nLinkedin\n*\nEmail\n*\nLink\nUS inflation accelerates in August as gas prices jump\n* Summary\n* Consumer Price Index increases 0.4% in August as expected\n* Excluding food and energy CPI rises 0.3%, with airline fares maintaining upward trend\n* Report likely to result in the Federal Reserve raising interest rates next week, financial markets bet\n* Consumer sentiment sags in September; inflation expectations rise\nWASHINGTON, Sept 11 (Reuters) - U.S. consumer prices accelerated in August, while a key measure of underlying inflation posted its largest increase in four months, reinforcing expectations t",
+    "image": "https://www.reuters.com/resizer/v2/3O3KSC7G3NOAXHNIAVE7O23UGE.jpg?auth=89f04694501944e39e594a14617f1ffbe7a41de67f3f5818e447b5e794270908&height=1005&width=1920&quality=80&smart=true"
+   },
+   {
+    "id": "https://www.jec.senate.gov/public/vendor/_accounts/JEC-R/inflation/Monthly%20Inflation%20Update.html",
+    "title": "Monthly-Inflation-Update-website.knit",
+    "url": "https://www.jec.senate.gov/public/vendor/_accounts/JEC-R/inflation/Monthly%20Inflation%20Update.html",
+    "publishedDate": "2026-09-11T00:00:00.000Z",
+    "text": "# Monthly-Inflation-Update-website.knit\n\nPublished: 2026-09-11T00:00:00Z\nSource: jec.senate.gov\nLanguage: en\n\n## Story\n\nMonthly-Inflation-Update-website.knit\n#### **August 2026** | Released September 11, 2026\n+3.40\npercent\nConsumer Price Index\ninflation\nAug 2025 to Aug\n2026\n+0.40\npercent\nConsumer Price Index\ninflation\nJul 2026 to Aug\n2026\n+0.16\npercent\nChange in real\naverage weekly earnings\nJul\n2026 to Aug 2026\n### **Consumer Price Index**\n#### **From July 2026 to August 2026:**\n* Headline CPI-U inflation was **0.40 percent**.\n* Food price inflation was **0.12 percent**.\n* Energy price inflation was **2.10 percent**.\n* Core CPI-U inflation was **0.29 percent**.\n#### **From August 2025 to August 2026:**\n* Headline CPI-U inflation was **3.40 percent**.\n* Food price inflation was **2.67 percent**.\n* Energy price inflation was **16.28 percent**.\n* Core CPI-U inflation was **2.45 percent**.\n**Note: ** Core CPI-U excludes food and energy.\n#### **Table 1. Consumer Price Index inflation**\n||\nA"
+   },
+   {
+    "id": "https://www.cnbc.com/2026/09/11/cpi-inflation-breakdown-august-2026.html",
+    "title": "Here’s the inflation breakdown for August 2026 — in one chart",
+    "url": "https://www.cnbc.com/2026/09/11/cpi-inflation-breakdown-august-2026.html",
+    "publishedDate": "2026-09-11T00:00:00.000Z",
+    "author": "Greg Iacurci",
+    "text": "Here’s the inflation breakdown for August 2026 — in one chart\n\n# Here’s the inflation breakdown for August 2026 — in one chart\n\nPublished Fri, Sep 11 2026 10:41 AM EDT Updated Fri, Sep 11 2026 1:14 PM EDT\n\nGreg Iacurci@GregIacurci\n\nKey Points\n\n- The consumer price index, an inflation barometer, rose 3.4% on an annual basis in August 2026, according to the Bureau of Labor Statistics. \n- That's well above the Federal Reserve's inflation target. Economists said pressure is mounting on the Fed to raise interest rates at its policy meeting next week.\n- The Iran war has increased oil prices, in turn raising prices for gasoline, diesel, jet fuel and other fuels. \n- The artificial intelligence data center buildout is also pushing up prices for consumer electronics.\n\nA driver refuels a vehicle at a Chevron gas station in Miami, Florida, Sept. 3, 2026.\n\nZak Bennett/Bloomberg via Getty Images\n\nInflation remained stubbornly high in August — and economists said consumers are likely to continue to f",
+    "image": "https://image.cnbcfm.com/api/v1/image/108361858-1789139223460-gettyimages-2294150482-US_GAS.jpeg?v=1789139249&w=1920&h=1080"
+   },
+   {
+    "id": "https://www.rbc.com/en/economics/us-analysis/us-data-flashes/us-august-cpi-inflation-is-moving-in-the-wrong-direction/",
+    "title": "US August CPI: Inflation Is Moving in the Wrong Direction - RBC Economics",
+    "url": "https://www.rbc.com/en/economics/us-analysis/us-data-flashes/us-august-cpi-inflation-is-moving-in-the-wrong-direction/",
+    "publishedDate": "2026-09-11T00:00:00.000Z",
+    "author": "viktoriyapanahova",
+    "text": "US August CPI: Inflation Is Moving in the Wrong Direction - RBC Economics\n\n#### Bottom Line:\n\nThe August CPI report delivered a notable upside surprise on core inflation at +0.3% month-over-month. In our view, the accelerating pace of core inflation is problematic for a Fed that has been steadfast in its commitment to returning inflation to its 2% target. The broader August inflation data does little to quell fears as the narrative builds that inflation is becoming untethered. Consumer inflation expectations remain elevated on energy costs, business input costs continue to mount, and the components of PPI that matter most for the direction of core consumer goods are trending in the wrong direction. Core goods CPI was not massively problematic in August (+0.1% month-over-month), but all trends point to mounting risk, while the prospect of core services deflation remains extremely limited.\n\n#### The inflation pipeline is heating up\n\nMost problematic is the pipeline that is likely to keep",
+    "image": "https://www.rbc.com/en/economics/wp-content/uploads/sites/23/2026/04/inf-US.png"
+   },
+   {
+    "id": "https://www.haver.com/articles/u-s-consumer-price-inflation-steady-in-august-at-3-4-y-y",
+    "title": "U.S. Consumer Price Inflation Steady in August at 3.4% Y/Y - Haver Analytics",
+    "url": "https://www.haver.com/articles/u-s-consumer-price-inflation-steady-in-august-at-3-4-y-y",
+    "publishedDate": "2026-09-11T00:00:00.000Z",
+    "author": "Winnie Tapasanun Author",
+    "text": "U.S. Consumer Price Inflation Steady in August at 3.4% Y/Y - Haver Analytics\n\n| Sep 11 2026\n\n# U.S. Consumer Price Inflation Steady in August at 3.4% Y/Y\n\nby: Winnie Tapasanun\n\n| in: Economy in Brief\n\n###### Summary\n\n- Monthly gains in headline CPI (0.4%) & core CPI (0.3%) advance.\n- Year-over-year rates unchanged for headline CPI (3.4%) and slightly down for core CPI (2.4%), both remaining above the Fed’s target.\n- Energy prices up 2.1% m/m, w/ the y/y rate accelerating to 16.3%, highest since May.\n- Services prices up 0.3% m/m, w/ the y/y rate steady at 3.0%.\n- Shelter prices up 0.3% m/m, w/ the y/y rate easing to 3.0% from 3.2%.\n- Supercore CPI up 0.5%, w/ the y/y rate accelerating to 3.0% from 2.8%.\n\nThe Consumer Price Index advanced 0.4% in August after a 0.1% increase in July (unrevised) and a 0.4% decline in June (unrevised), according to the Bureau of Labor Statistics. The August rise matched the forecast in the Action Economics Forecast Survey. The y/y rate held steady at an e"
+   },
+   {
+    "id": "https://fxmacrodata.com/usd/inflation/cpi-yoy",
+    "title": "US CPI YoY inflation 3.4% (August 2026), next release 14 Oct 2026",
+    "url": "https://fxmacrodata.com/usd/inflation/cpi-yoy",
+    "publishedDate": "2026-09-11T00:00:00.000Z",
+    "text": "US CPI YoY inflation 3.4% (August 2026), next release 10 Nov 2026\n\n# USD CPI inflation YoY \n\n United States inflation coverage across CPI, core, PCE, PPI, expectations, components, release calendars, recent announcements, and API access. Use this page to check the selected series, compare nearby measures, and move directly into the versioned endpoint. \n\n3.4\n\nUnited States Inflation Rate (CPI/HICP) was 3.4% year on year in August 2026, released Sep 11, 2026 by BLS. The next release is scheduled for Nov 10, 2026.\n\nUnited States Inflation Rate (CPI/HICP) printed 3.4% year on year in August 2026, a change of 0 percentage points from 3.4%. The value sits in line with the previous reading, so the important market question is whether it confirms the prevailing trend or forces a reassessment of USD macro pricing.\n\n Last updated: Sep 11, 2026 \n\nMeasure\n\nCPI YoY\n\nVariant\n\nExact official coverage\n\nTransform\n\nYOY\n\nAdjustment\n\nNot specified\n\nAPI slug\n\ninflation\n\n## Exact variant status\n\n Query reso",
+    "image": "https://fxmacrodata.com/usd/inflation/cpi-yoy/chart.png"
+   },
+   {
+    "id": "https://www.lines.com/prediction-markets/economy/inflation/core-pce-mom-august-2026-20260826182127",
+    "title": "Core PCE MoM August 2026: Will It Print at 0.3%? Odds | Lines.com",
+    "url": "https://www.lines.com/prediction-markets/economy/inflation/core-pce-mom-august-2026-20260826182127",
+    "publishedDate": "2026-09-11T00:00:00.000Z",
+    "author": "Marcus Chen",
+    "text": "Core PCE MoM August 2026: Did Inflation Hit 0.2%? | Lines.com | Lines.com\n\n# Core PCE MoM August 2026: Did Inflation Hit 0.2%? | Lines.com Resolved: Settled\n\nMarket underpriced this outcome\n\nImplied 30% at publication · Resolved YES\n\n MC Marcus Chen Political Strategist \n\nMarket Resolved\n\n Updated September 30, 2026 5 min read \n\n Resolution Verdict \n\n YES (CONFIRMED) Market Resolved \n\nMarket has ended. Final implied probability: 100%.\n\n Resolved \n\n Volume $22.5K $1.6K in 24h\n\n Liquidity $6.2K Low depth\n\n 7-Day Move -1% Stable\n\n Time Left Ended Resolves Sep 30\n\n 0.2% $8K Vol. 100% Yes 100¢ No 0¢ \n\n ≤-0.1% $851 Vol. 0% Yes 0¢ No 100¢ \n\n 0.0% $857 Vol. 0% Yes 0¢ No 100¢ \n\n 0.1% $1K Vol. 0% Yes 0¢ No 100¢ \n\n 0.3% $8K Vol. 0% Yes 0¢ No 100¢ \n\n 0.4% $1K Vol. 0% Yes 0¢ No 100¢ \n\nThe Bureau of Economic Analysis released August 2026 Core PCE data on September 30, 2026, and traders had already made their call well before the print landed. The market priced a — probability that Core PCE month-ove",
+    "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/january-inflation-annual-vp5qkgK2R7Et.jpg"
+   },
+   {
+    "id": "https://kpmg.com/us/en/articles/2026/august-2026-cpi.html",
+    "title": "The drumbeat of inflation gets louder",
+    "url": "https://kpmg.com/us/en/articles/2026/august-2026-cpi.html",
+    "publishedDate": "2026-09-11T00:00:00.000Z",
+    "text": "The drumbeat of inflation gets louder \nSkip to main content\n\n*\nKPMG Global\nBack to menu\n* Global (EN)\n* Albania (en)\n* Algeria (fr)\n* Argentina (es)\n* Armenia (en)\n* Australia (en)\n* Austria (de)\n* Austria (en)\n* Azerbaijan (en)\n* Bahamas (en)\n* Bahrain (en)\n* Bangladesh (en)\n* Barbados (en)\n* Belgium (en)\n* Belgium (nl)\n* Bermuda (en)\n* Bosnia and Herzegovina (en)\n* Brasil (pt)\n* Brazil (en)\n* British Virgin Islands (en)\n* Bulgaria (en)\n* Cambodia (en)\n* Cameroon (fr)\n* Canada (en)\n* Canada (fr)\n* Cayman Islands (en)\n* Channel Islands (en)\n* Chile (es)\n* China (en)\n* China (zh)\n* Colombia (es)\n* Costa Rica (es)\n* Croatia (en)\n* Cyprus (en)\n* Czech Republic (cs)\n* Czech Republic (en)\n* DR Congo (fr)\n* Denmark (da)\n* Denmark (en)\n* Ecuador (es)\n* Egypt (en)\n* Estonia (en)\n* Estonia (et)\n* Finland (fi)\n* France (fr)\n* Georgia (en)\n* Germany (de)\n* Germany (en)\n* Ghana (en)\n* Gibraltar (en)\n* Greece (el)\n* Greece (en)\n* Hong Kong SAR (en)\n* Hungary (en)\n* Hungary (hu)\n* Iceland (is)\n* Ind",
+    "image": "https://kpmg.com/kpmg-us/content/dam/kpmg/basic-hero/2026/cpi-9-11-h.jpg"
+   },
+   {
+    "id": "https://finance.yahoo.com/economy/policy/articles/us-consumer-inflation-picks-august-123741290.html",
+    "title": "US consumer prices accelerate in August, push Fed closer to rate hike",
+    "url": "https://finance.yahoo.com/economy/policy/articles/us-consumer-inflation-picks-august-123741290.html",
+    "publishedDate": "2026-09-11T00:00:00.000Z",
+    "author": "Lucia Mutikani      September 11, 2026   6 min read",
+    "text": "US consumer prices accelerate in August, push Fed closer to rate hike\n\n# US consumer prices accelerate in August, push Fed closer to rate hike\n\n By Lucia Mutikani September 11, 2026 6 min read\n\nBy Lucia Mutikani \n\nWASHINGTON, Sept 11 (Reuters) - U.S. consumer prices accelerated in August, while a key measure of underlying inflation posted its largest increase in four months, reinforcing expectations that the Federal Reserve will raise interest rates next week. \n\nThe Labor Department's Consumer Price Index report on Friday followed strong readings in several components of the Producer Price Index released on Thursday that feed into the Personal Consumption Expenditures price indexes, the ‌inflation measures the U.S. central bank tracks for its 2% target. The two reports led economists to think that PCE inflation excluding the volatile food and energy categories picked up in August. \n\nFinancial markets initially priced in a 91% ‌chance of a quarter-point rate hike at the Fed's meeting on",
+    "image": "https://s.yimg.com/lo/mysterio/api/d228c4aa1fc6fc5ea8488fee8555c81962ffd198d5daa5ce5cb2afb0fd517e7b/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Freuters.com%2F7d94b6609a3a4c2fc467dffbdfc7c2b8.jpg"
+   },
+   {
+    "id": "https://thehill.com/business/6083146-inflation-rate-cpi-august/",
+    "title": "August inflation holds at 3.4 percent amid Iran war squeeze: BLS",
+    "url": "https://thehill.com/business/6083146-inflation-rate-cpi-august/",
+    "publishedDate": "2026-09-11T00:00:00.000Z",
+    "author": "Julia Shapero, Max Rego",
+    "text": "August inflation holds at 3.4 percent amid Iran war squeeze: BLS\n\n# Inflation held steady in August as Iran war surges oil prices \n\n by Julia Shapero and Max Rego - 09/11/26 8:42 AM ET \n\n by Julia Shapero and Max Rego - 09/11/26 8:42 AM ET \n\nInflation remained unchanged in August as gas prices continued to rise amid the war with Iran, new data from the Bureau of Labor Statistics (BLS) showed Friday.\n\nThe consumer price index (CPI) increased 0.4 percent last month and 3.4 percent over the same time last year. This was unchanged from July, when the annual inflation rate also sat at 3.4 percent. \n\nThe popular inflation gauge was expected to rise 0.4 percent in August and hold steady at 3.4 percent year over year, according to the Federal Reserve Bank of Cleveland’s “Nowcast” on Thursday. \n\nGas prices accounted for more than a third of the monthly increase, rising 3.9 percent in August alone, according to BLS. Energy prices overall ticked up 2.1 percent last month.\n\nCore CPI, which exclude",
+    "image": "https://thehill.com/wp-content/uploads/sites/2/2026/09/August_CPI_Report_Graphic.png?w=1280"
+   }
+  ],
+  "searchTime": 2689.5,
+  "costDollars": {
+   "total": 0.007,
+   "search": {
+    "neural": 0.007
+   }
+  }
+ }
+}

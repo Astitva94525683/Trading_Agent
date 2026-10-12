@@ -1,0 +1,106 @@
+{
+ "theme": "growth",
+ "query": "US economy GDP growth recession retail sales ISM",
+ "start": "2026-05-13",
+ "end": "2026-05-20",
+ "fetched_utc": "2026-10-12T10:08:56Z",
+ "response": {
+  "requestId": "7c4ea64010c0a40b397030ab213ca811",
+  "resolvedSearchType": "",
+  "results": [
+   {
+    "id": "https://www.reuters.com/business/us-retail-sales-increase-again-april-partly-lifted-by-higher-prices-2026-05-14/",
+    "title": "Tax refunds help to lift US retail sales; drag from rising inflation looms | Reuters",
+    "url": "https://www.reuters.com/business/us-retail-sales-increase-again-april-partly-lifted-by-higher-prices-2026-05-14/",
+    "publishedDate": "2026-05-14T00:00:00.000Z",
+    "author": "Lucia Mutikani",
+    "text": "Tax refunds help to lift US retail sales; drag from rising inflation looms | Reuters\n\n# Tax refunds help to lift US retail sales; drag from rising inflation looms\n\nBy Lucia Mutikani\n\nMay 14, 2026 12:38 PM UTC Updated May 14, 2026\n\nSave article Tax refunds help to lift US retail sales; drag from rising inflation looms\n\nA woman carries shopping bags in Manhattan in New York City, U.S., August 11, 2025. REUTERS/Eduardo Munoz Purchase Licensing Rights, opens new tab\n\n- Retail sales increase 0.5% in April, in line with expectations\n- Core retail sales up 0.5%, marking fourth straight monthly gain\n- Weekly jobless claims climb 12,000 to 211,000\n- Import prices jump 1.9% in April; up 4.2% on a year-over-year basis\n\nWASHINGTON, May 14 (Reuters) - U.S. retail sales increased solidly for a third straight month in April, though part of the rise in receipts was due to a sharp rise in inflation since the start of the U.S.-backed war with ​Iran.\n\nRising price pressures were underscored by other data",
+    "image": "https://www.reuters.com/resizer/v2/CIVXJWLKJFIM3JBSUICOZD6SSQ.jpg?auth=6335bd166e48c418309e473c392942ea99a412103dc267d814fd118971f39b65&height=1005&width=1920&quality=80&smart=true"
+   },
+   {
+    "id": "https://www.rbc.com/en/economics/us-analysis/us-featured-analysis/the-energy-shock-isnt-likely-to-trigger-a-us-recession-in-2026/",
+    "title": "The energy shock isn’t likely to trigger a US recession in 2026 - RBC Economics",
+    "url": "https://www.rbc.com/en/economics/us-analysis/us-featured-analysis/the-energy-shock-isnt-likely-to-trigger-a-us-recession-in-2026/",
+    "publishedDate": "2026-05-19T00:00:00.000Z",
+    "author": "viktoriyapanahova",
+    "text": "The energy shock isn’t likely to trigger a US recession in 2026 - RBC Economics\n\n# Featured Analysis - US \n\n## The energy shock isn’t likely to trigger a US recession in 2026 \n\nAs oil prices continue to fluctuate around $100/barrel, there’s been an ongoing concern about “damage” to the US economy, even as by any standard definition, the economy is clearly currently not in a recession.\n\nGrowth in Q1 came at a solid 2%, the unemployment rate is sitting comfortably at 4.3%—near all-time lows—and jobless claims suggest layoff headlines are overdone. It’s also evident, however, that economic strength isn’t particularly broad. AI investment is driving the bulk of capex growth, and payroll growth is almost entirely thanks to robust hiring in healthcare. Both represent structural trends supporting the economy through otherwise cyclical weakness. Let’s also not forget government support. The deficit is still running around 5% of GDP—despite DOGE cuts—with personal transfers comprising nearly 20",
+    "image": "https://www.rbc.com/en/economics/wp-content/themes/rbc/img/logos/rbc-logo-shield.svg"
+   },
+   {
+    "id": "https://fred.stlouisfed.org/graph/?g=GbgF",
+    "title": "Advance Retail Sales: Retail Trade and Food Services | FRED | St. Louis Fed",
+    "url": "https://fred.stlouisfed.org/graph/?g=GbgF",
+    "publishedDate": "2026-05-14T00:00:00.000Z",
+    "text": "Advance Retail Sales: Retail Trade and Food Services | FRED | St. Louis Fed\n\nAdvance Retail Sales: Retail Trade and Food Services (RSAFS)\n\nObservations \n\n Apr 2026: 757,085 | Millions of Dollars, Seasonally Adjusted | Monthly \n\n Updated: May 14, 2026 7:35 AM CDT \n\n Next Release Date: Jun 17, 2026 \n\nObservations \n\n Apr 2026: 757,085 \n\n Updated: May 14, 2026 7:35 AM CDT \n\n Next Release Date: Jun 17, 2026 \n\n| Apr 2026: | 757,085 |\n| --- | --- |\n| Mar 2026: | 753,370 |\n| Feb 2026: | 741,278 |\n| Jan 2026: | 734,503 |\n| Dec 2025: | 734,717 |\n| View All | |\n\nUnits:\n\n Millions of Dollars,\n\nSeasonally Adjusted \n\nFrequency:\n\n Monthly \n\n## Notes \n\nSource: U.S. Census Bureau \n\nRelease: Advance Monthly Sales for Retail and Food Services \n\nUnits: Millions of Dollars, Seasonally Adjusted \n\nFrequency: Monthly \n\n#### Notes:\n\nThe value for the most recent month is an advance estimate that is based on data from a subsample of firms from the larger Monthly Retail Trade Survey. The advance estimate will be",
+    "image": "https://fred.stlouisfed.org/graph/fredgraph.png?width=880&height=440&g=GbgF"
+   },
+   {
+    "id": "https://apnews.com/article/retail-sales-consumer-gas-iran-f77b8986d274c40b913c26ba39492ead",
+    "title": "Shoppers pull back spending in April as Iran war-driven gas prices squeeze budgets | AP News",
+    "url": "https://apnews.com/article/retail-sales-consumer-gas-iran-f77b8986d274c40b913c26ba39492ead",
+    "publishedDate": "2026-05-14T00:00:00.000Z",
+    "author": "Anne D'Innocenzio",
+    "text": "Shoppers pull back spending in April as Iran war-driven gas prices squeeze budgets | AP News\n\n# Retail sales growth slowed in April from March as higher gas cost leaves less room for nonessentials\n\n## Retail sales growth slowed in April from March as higher gas cost leaves less room for nonessentials\n\nWhen the cost of nearly everything is rising, economists call it inflation. Even if paychecks also rise, inflation typically leads people feel like it’s harder to make ends meet, and it often becomes a major political issue.\n\nShoppers stop their carts to observe big-screen televisions on display in a Costco warehouse Thursday, April 30, 2026, in Timnath, Colo. (AP Photo/David Zalubowski, File)\n\n By ANNE D’INNOCENZIO\n\nNEW YORK (AP) — Shoppers tempered their spending in April as higher gas prices fueled by the Iran war meant less money left over for some nonessentials like clothing and furniture. But they’re still buying, thanks to more generous government tax refunds.\n\nStill, economists wo",
+    "image": "https://dims.apnews.com/dims4/default/d922860/2147483647/strip/true/crop/3272x2180+0+0/resize/980x653!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F8f%2F66%2F3adf8038f0c4311382556355ccc7%2Fbecb958adea345d097c3e97e275b952e"
+   },
+   {
+    "id": "https://thefinancialwire.com/the-conference-boards-leading-economic-index-has-fallen-1-in-6-months-and-the-index-now-forecasts-u-s-gdp-growth-below-2-for-all-of-2026/",
+    "title": "The Conference Board's Leading Economic Index has fallen 1% in 6 months — and the index now forecasts U.S. GDP growth below 2% for all of 2026 - The Financial Wire",
+    "url": "https://thefinancialwire.com/the-conference-boards-leading-economic-index-has-fallen-1-in-6-months-and-the-index-now-forecasts-u-s-gdp-growth-below-2-for-all-of-2026/",
+    "publishedDate": "2026-05-19T00:00:00.000Z",
+    "author": "David Keller",
+    "text": "The Conference Board's Leading Economic Index has fallen 1% in 6 months — and the index now forecasts U.S. GDP growth below 2% for all of 2026 - The Financial Wire\n\n# The Conference Board’s Leading Economic Index has fallen 1% in 6 months — and the index now forecasts U.S. GDP growth below 2% for all of 2026\n\n David Keller 5 months ago 5 months ago 0 14 mins \n\n Austin Hervias/Unsplash\n\nThe Conference Board’s Leading Economic Index, a composite of ten forward-looking indicators ranging from manufacturing hours to building permits to consumer expectations, has spent the better part of a year pointing in one direction: down. In its most recent public release, the organization reported that the LEI fell 1.2 percent over the six months ending in November 2025, with declines in both October and November extending a pattern that had been building for much of the year. (The headline figure of roughly 1 percent reflects rounding; the precise six-month change was -1.2 percent.) The Conference Bo",
+    "image": "https://thefinancialwire.com/wp-content/uploads/2026/05/featured-image-1779191926872-scaled.jpg"
+   },
+   {
+    "id": "https://www.executive.endeavoredge.com/market-outlook/article/55377504/what-four-bellwethers-and-a-small-business-survey-are-saying-about-the-economy-right-now",
+    "title": "What Four Bellwethers and a Small-Business Survey Are Saying About the Economy Right Now | ExecutiveEDGE",
+    "url": "https://www.executive.endeavoredge.com/market-outlook/article/55377504/what-four-bellwethers-and-a-small-business-survey-are-saying-about-the-economy-right-now",
+    "publishedDate": "2026-05-13T00:00:00.000Z",
+    "author": "Geert De Lombaerde",
+    "text": "What Four Bellwethers and a Small-Business Survey Are Saying About the Economy Right Now | ExecutiveEDGE\n\n# What Four Bellwethers and a Small-Business Survey Are Saying About the Economy Right Now\n\nA collection of comments from the past week shows a lack of consensus about the strength of U.S. growth but also little concern about demand destruction. In short, “Many uncertainties remain unresolved.”\n\nGeert De Lombaerde\n\nMay 13, 2026 7 min read \n\n## Key Highlights\n\n- Major corporations report strong demand and upward revisions in earnings guidance, indicating resilience in the face of recent economic shocks.\n- But smaller companies are showing signs of weakening sales and reduced optimism, highlighting differing impacts across sectors.\n- The overall economic picture remains positive, with indicators pointing to above 2.5% GDP growth in Q2, but small-business challenges could temper this optimism for 2027.\n\n853480 © Emily2k | Dreamstime.com\n\n \n\n6a04bafcd8c7091c663325fc Chart Financial 853",
+    "image": "https://img.endeavoredge.com/files/base/ebm/executiveendeavoredge/image/2026/05/6a04bafcd8c7091c663325fc-chart_financial_853480_emily2k_dreamstime.png?auto=format,compress&fit=fill&fill=blur&w=1200&h=630"
+   },
+   {
+    "id": "https://www.haver.com/articles/u-s-retail-sales-slowed-in-april-but-remained-solid",
+    "title": "U.S. Retail Sales Slowed in April But Remained Solid - Haver Analytics",
+    "url": "https://www.haver.com/articles/u-s-retail-sales-slowed-in-april-but-remained-solid",
+    "publishedDate": "2026-05-14T00:00:00.000Z",
+    "author": "Sandy Batten Author",
+    "text": "U.S. Retail Sales Slowed in April But Remained Solid - Haver Analytics\n\n| May 14 2026\n\n# U.S. Retail Sales Slowed in April But Remained Solid\n\nby: Sandy Batten\n\n| in: Economy in Brief\n\n###### Summary\n\n- Total sales increase 0.5% m/m in April after a 1.6% monthly jump in March.\n- Gasoline sales rose 2.8% m/m in April on top of a 13.7% surge in March.\n- Auto sales fell 0.4% m/m after a 0.6% m/m rise in March.\n- Excluding auto and gasoline sales, remaining sales increased by a solid 0.5% m/m in April versus a 0.7% m/m rise in March.\n- Sales of the retail control group that is used to construct PCE rose 0.5% m/m in April and are 5.4% annualized above the Q1 average, providing a good start to Q2.\n\nTotal retail sales rose a solid 0.5% m/m (4.9% y/y) in April on top of a slightly downwardly revised 1.6% monthly jump in March (previously 1.7%), according to data released by the U.S. Census Bureau. The Action Economics Forecast Survey looked for a 05% m/m gain. Excluding autos, other sales incr"
+   },
+   {
+    "id": "https://recessionpulse.com/blog/daily-recession-risk-may-13-2026",
+    "title": "Recession Risk 34/100 — May 13, 2026 | RecessionPulse",
+    "url": "https://recessionpulse.com/blog/daily-recession-risk-may-13-2026",
+    "publishedDate": "2026-05-13T00:00:00.000Z",
+    "author": "RecessionPulse",
+    "text": "# Recession Risk 34/100 — May 13, 2026\n\nThe highest-frequency labor stress signals remain benign: initial jobless claims are still running near 200k (latest reported week ended May 2, released May 7, 2026), and the Sahm Rule is not close to triggering. The yield curve has decisively re-steepened (2s10s positive), removing one of the strongest forward-looking recession warnings, while credit conditions remain easy with high-yield spreads still tight (~279 bps as of May 7, 2026). Offsetting these positives, household and “soft data” are weak (University of Michigan sentiment at 53.3 on May 8, 2026; saving rate 3.6% in March 2026), and manufacturing labor is contracting even as headline PMI is expansionary. Net: recession within 90 days is not the base case, but the economy is fragile to an energy/inflation shock and/or an abrupt labor-market rollover.\n\n## Recession Risk Score: 34/100 — MODERATE (-4 vs 30 days ago)\n\nToday’s Recession Risk Score is 34/100 (MODERATE), down 4 points from 30 ",
+    "image": "https://recessionpulse.com/api/og/risk-trend?size=og&date=2026-05-13"
+   },
+   {
+    "id": "https://kpmg.com/us/en/articles/2026/april-2026-retail-sales.html",
+    "title": "Consumers continue to spend in April",
+    "url": "https://kpmg.com/us/en/articles/2026/april-2026-retail-sales.html",
+    "publishedDate": "2026-05-14T00:00:00.000Z",
+    "text": "Consumers continue to spend in April\n\n# Consumers continue to spend in April\n\nFinancial cushion wears thin.\n\n \n\nMay 14, 2026\n\nRetail sales rose 0.5% in April after March spending was revised slightly lower. Excluding autos, retail sales grew 0.7%, meeting expectations. Compared to a year ago, retail sales gained 4.9%, the strongest year-over-year reading since August of last year. Sales are not adjusted for inflation, which accelerated in April to 3.8% due to rising energy, food, electronics and services prices. \n\nMotor vehicle and parts dealers reported sales dropped 0.4% for the month, 1.2% lower than a year ago. Affordability continues to be the central constraint. Average transaction prices remain elevated. At the same time, a growing share of buyers is stretching loan terms to seven years, just to manage monthly payments. The K-shaped divide is visible here. According to the New York Federal Reserve Bank's first quarter Household Debt and Credit report, new auto loans expanded mos",
+    "image": "https://kpmg.com/kpmg-us/content/dam/kpmg/basic-hero/2026/retail-sales-5-14-h.jpg"
+   },
+   {
+    "id": "https://www.federalreserve.gov/Releases/G17/20260515/table0.htm",
+    "title": "Federal Reserve Board - Industrial Production and Capacity Utilization -\n      G.17",
+    "url": "https://www.federalreserve.gov/Releases/G17/20260515/table0.htm",
+    "publishedDate": "2026-05-15T00:00:00.000Z",
+    "text": "Federal Reserve Board - Industrial Production and Capacity Utilization - G.17\n\n## Industrial Production and Capacity Utilization - G.17\n\n### Current Release PDF ASCII RSS Data Download FRED \n\nRelease Date: May 15, 2026\n\n##### Industrial Production and Capacity Utilization: Summary\n\nSeasonally adjusted\n\n| Industrial production | 2017=100 | | | | | | Percent change | | | | | | |\n| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |\n| | 2025 | | 2026 | | | | 2025 | | 2026 | | | | Apr. '25 to Apr. '26 |\n| | Nov. [r] | Dec. [r] | Jan. [r] | Feb. [r] | Mar. [r] | Apr. [p] | Nov. [r] | Dec. [r] | Jan. [r] | Feb. [r] | Mar. [r] | Apr. [p] | |\n| Total index | 101.0 | 101.5 | 101.5 | 102.1 | 101.8 | 102.5 | -.2 | .5 | .0 | .6 | -.3 | .7 | 1.4 |\n| Previous estimates | 101.1 | 101.6 | 101.6 | 102.3 | 101.8 | | -.1 | .5 | .0 | .7 | -.5 | | |\n| Major market groups | | | | | | | | | | | | | |\n| Final Products | 96.8 | 97.8 | 97.3 | 98.2 | 97.6 | 98.7 | -.6 | 1.1 | -.5 ",
+    "image": "https://www.federalreserve.gov/images/Social_Default_Image.jpg"
+   }
+  ],
+  "searchTime": 1473,
+  "costDollars": {
+   "total": 0.007,
+   "search": {
+    "neural": 0.007
+   }
+  }
+ }
+}

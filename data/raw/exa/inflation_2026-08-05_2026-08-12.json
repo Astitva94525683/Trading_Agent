@@ -1,0 +1,104 @@
+{
+ "theme": "inflation",
+ "query": "US inflation CPI PCE consumer prices",
+ "start": "2026-08-05",
+ "end": "2026-08-12",
+ "fetched_utc": "2026-10-12T10:06:44Z",
+ "response": {
+  "requestId": "38a285f6bf4fa9383f7875718f5caa1e",
+  "resolvedSearchType": "",
+  "results": [
+   {
+    "id": "https://dataporium.tech/articles/q2-2026-gdp-grew-1-5-why-slower-growth-and-5-1-pce-inflation-split-the-fed",
+    "title": "Q2 2026 GDP Grew 1.5%: Why Slower Growth and 5.1% PCE Inflation Split the Fed | DataPorium",
+    "url": "https://dataporium.tech/articles/q2-2026-gdp-grew-1-5-why-slower-growth-and-5-1-pce-inflation-split-the-fed",
+    "publishedDate": "2026-08-05T00:00:00.000Z",
+    "author": "Dataporium LLC",
+    "text": "Q2 2026 GDP Grew 1.5%: Why Slower Growth and 5.1% PCE Inflation Split the Fed | DataPorium\n\n# Q2 2026 GDP Grew 1.5%: Why Slower Growth and 5.1% PCE Inflation Split the Fed\n\nQ2 2026 GDP grew 1.5% annualized, down from 2.1%, while the PCE price index jumped 5.1%. One day earlier three Fed officials dissented in favor of a rate hike.\n\nPublished August 5, 2026· DataPorium\n\n## Key takeaways\n\n- Real GDP grew 1.5% annualized in Q2 2026, down from 2.1% in Q1.\n- Real final sales to private domestic purchasers accelerated to 3.9%, so private demand was stronger than the headline.\n- The PCE price index rose 5.1% annualized, but core PCE slowed to 3.4% from 4.4%.\n- The FOMC held at 3.50% to 3.75% on July 29 with three dissents in favor of a hike.\n- The 10-year Treasury yield rose to 4.59% and the 30-year to 5.28% on July 31, 2026.\n\nQ2 2026 GDP grew at a 1.5% annual rate, down from 2.1% in the first quarter, according to the Bureau of Economic Analysis advance estimate released on July 30, 2026 [1]",
+    "image": "https://cdn.dataporium.io/logo/original.png?v=1"
+   },
+   {
+    "id": "https://www.ceicdata.com/en/united-states/ceic-nowcast-personal-consumption-expenditure-pce-inflation-core/core-pcepi-inflation-nowcast-sa-contribution-labour-market-unemployment-insurance-jobless-claims-initial-sa",
+    "title": "United States Core PCEPI Inflation Nowcast: sa: Contribution: Labour Market: Unemployment Insurance: Jobless Claims: Initial: sa | Economic Indicators | CEIC",
+    "url": "https://www.ceicdata.com/en/united-states/ceic-nowcast-personal-consumption-expenditure-pce-inflation-core/core-pcepi-inflation-nowcast-sa-contribution-labour-market-unemployment-insurance-jobless-claims-initial-sa",
+    "publishedDate": "2026-08-06T00:00:00.000Z",
+    "text": "United States Core PCEPI Inflation Nowcast: sa: Contribution: Labour Market: Unemployment Insurance: Jobless Claims: Initial: sa | Economic Indicators | CEIC\n\n# United States Core PCEPI Inflation Nowcast: sa: Contribution: Labour Market: Unemployment Insurance: Jobless Claims: Initial: sa\n\n2019 - 2026 | Weekly | % | CEIC Data\n\nUnited States Core PCEPI Inflation Nowcast: sa: Contribution: Labour Market: Unemployment Insurance: Jobless Claims: Initial: sa data was reported at 0.000 % in 05 Oct 2026. This stayed constant from the previous number of 0.000 % for 28 Sep 2026. United States Core PCEPI Inflation Nowcast: sa: Contribution: Labour Market: Unemployment Insurance: Jobless Claims: Initial: sa data is updated weekly, averaging 0.000 % from Apr 2019 (Median) to 05 Oct 2026, with 393 observations. The data reached an all-time high of 100.000 % in 20 Jan 2020 and a record low of 0.000 % in 05 Oct 2026. United States Core PCEPI Inflation Nowcast: sa: Contribution: Labour Market: Unemplo"
+   },
+   {
+    "id": "https://www.aljazeera.com/economy/2026/8/12/us-consumer-inflation-slows-in-july-as-energy-prices-briefly-retreat",
+    "title": "US consumer inflation slows in July as energy prices briefly retreat | Inflation News | Al Jazeera",
+    "url": "https://www.aljazeera.com/economy/2026/8/12/us-consumer-inflation-slows-in-july-as-energy-prices-briefly-retreat",
+    "publishedDate": "2026-08-12T00:00:00.000Z",
+    "author": "Andy Hirschfeld",
+    "text": "US consumer inflation slows in July as energy prices briefly retreat | Inflation News | Al Jazeera\n\n# US consumer inflation slows in July as energy prices briefly retreat\n\nEnergy prices declined 1.5 percent in July but remain 14.7 percent higher compared with a year ago.\n\nFuel prices are rising again after a slight retreat last week [File: Gene J Puskar/AP]\n\nBy Andy Hirschfeld\n\nPublished On 12 Aug 2026 12 Aug 2026\n\nUnited States consumer inflation has slowed in July amid a short retreat in energy prices and hopes that the Strait of Hormuz would reopen.\n\nShipping continues to be severely disrupted since Iran established a maritime “toll booth” in the strait shortly after the US and Israel launched a war against the country in late February.\n\nConsumer inflation rose by 0.1 percent compared with this time last month but was 3.4 percent higher than this time a year ago, according to data released by the Department of Labor’s Bureau of Labor Statistics (BLS) on Wednesday.\n\nInflation has bee",
+    "image": "https://www.aljazeera.com/wp-content/uploads/2026/08/ap_6a7b4cf06ad23-1786465520.jpg?resize=1920%2C1440"
+   },
+   {
+    "id": "https://www.jec.senate.gov/public/index.cfm/republicans/2026/8/consumer-price-index-up-slightly-in-july-by-0-07-percent-in-line-with-projections",
+    "title": "Consumer Price Index Up Slightly in July by 0.07 Percent, In Line with Projections  - Consumer Price Index Up Slightly in July by 0.07 Percent, In Line with Projections  - U.S. Congress Joint Economic Committee",
+    "url": "https://www.jec.senate.gov/public/index.cfm/republicans/2026/8/consumer-price-index-up-slightly-in-july-by-0-07-percent-in-line-with-projections",
+    "publishedDate": "2026-08-12T00:00:00.000Z",
+    "author": "United States Joint Economic Committee",
+    "text": "# Consumer Price Index Up Slightly in July by 0.07 Percent, In Line with Projections  - Consumer Price Index Up Slightly in July by 0.07 Percent, In Line with Projections  - U.S. Congress Joint Economic Committee\n\nAuthor: United States Joint Economic Committee\nPublished: 2026-08-12T00:00:00Z\nSource: jec.senate.gov\nLanguage: en\n\n## Story\n\nConsumer Price Index Up Slightly in July by 0.07 Percent, In Line with Projections - Consumer Price Index Up Slightly in July by 0.07 Percent, In Line with Projections - U.S. Congress Joint Economic Committee\n[\nSkip to main content\n](#content)\n# Consumer Price Index Up Slightly in July by 0.07 Percent, In Line with Projections\n# Consumer Price Index Up Slightly in July by 0.07 Percent, In Line with Projections\n####\nAugust 12, 2026\n* **Print\n* [**Facebook](https://www.facebook.com/sharer/sharer.php?u=https://www.jec.senate.gov/public/index.cfm/republicans/2026/8/consumer-price-index-up-slightly-in-july-by-0-07-percent-in-line-with-projections)\n* [**Twit"
+   },
+   {
+    "id": "https://finance-commerce.com/2026/08/us-inflation-july-fed-rate-hike/",
+    "title": "U.S. inflation cools in July, easing Fed rate hike odds",
+    "url": "https://finance-commerce.com/2026/08/us-inflation-july-fed-rate-hike/",
+    "publishedDate": "2026-08-12T00:00:00.000Z",
+    "author": "Reuters",
+    "text": "U.S. inflation cools in July, easing Fed rate hike odds\n\n## U.S. inflation cools in July, easing Fed rate hike odds \n\nBy Lucia Mutikani, Reuters// August 12, 2026// \n\nA woman walks near food on display in an Aldi grocery store in New York on June 17. U.S. consumer prices rose just 0.1% in July as gasoline prices fell, reducing the odds of a Fed rate hike. (Photo: Vincent Alban/Reuters)\n\nU.S. inflation cools in July, easing Fed rate hike odds\n\nA woman walks near food on display in an Aldi grocery store in New York on June 17. U.S. consumer prices rose just 0.1% in July as gasoline prices fell, reducing the odds of a Fed rate hike. (Photo: Vincent Alban/Reuters)\n\n# U.S. inflation cools in July, easing Fed rate hike odds \n\nBy Lucia Mutikani, Reuters// August 12, 2026// \n\n##### The Blueprint\n\n- U.S. consumer prices rose 0.1% in July after falling 0.4% in June.\n- Annual CPI inflation eased to 3.4% from 3.5% in June.\n- Gasoline prices fell 2.9% in July after a 9.7% drop in June.\n- Cooler inf",
+    "image": "https://finance-commerce.com/files/2026/08/Inflation.jpg"
+   },
+   {
+    "id": "https://piedmontcrescentcapital.com/july-2026-cpi-trend-slips-again/",
+    "title": "July CPI Report Comes In As Expected: Overall CPI +0.1%, Core +0.2% - Piedmont Crescent Capital",
+    "url": "https://piedmontcrescentcapital.com/july-2026-cpi-trend-slips-again/",
+    "publishedDate": "2026-08-12T00:00:00.000Z",
+    "author": "Mark Vitner",
+    "text": "July CPI Report Comes In As Expected: Overall CPI +0.1%, Core +0.2% - Piedmont Crescent Capital\n\n# The Trend Slips Again, the Paycheck Slips Back\n\nCore prices rose 0.2% in July and the 12-month rate eased to 2.5%, pulling our HP-filtered estimate of underlying inflation down to 2.51%, the lowest reading since March 2021, while real hourly earnings fell back below year-ago levels.\n\nEconomic Indicator Report · Consumer Price Index, July 2026 | Mark P. Vitner, Chief Economist | Piedmont Crescent Capital | August 12, 2026\n\n## Early Signals\n\n- The trend keeps grinding lower. Our one-sided HP-filter estimate of underlying core inflation eased to 2.51% in July from 2.55% in June and 2.80% in May, the lowest reading since March 2021 and the third consecutive monthly decline.\n- Energy set the headline again, in both directions. The all items index rose 0.1% in July after falling 0.4% in June, as the energy index declined 1.5% and gasoline fell 2.9%. The 12-month rate slipped to 3.4% from 3.5%, ",
+    "image": "https://piedmontcrescentcapital.com/wp-content/uploads/2022/11/piedmont-crescent-capital-social-share-image-1.jpg"
+   },
+   {
+    "id": "https://finchannel.com/u-s-consumer-price-index-summary/133473/american-business-trends/markets/2026/08/",
+    "title": "U.S. Consumer Price Index Summary - FINCHANNEL",
+    "url": "https://finchannel.com/u-s-consumer-price-index-summary/133473/american-business-trends/markets/2026/08/",
+    "publishedDate": "2026-08-12T00:00:00.000Z",
+    "text": "U.S. Consumer Price Index Summary - FINCHANNEL\n\n# U.S. Consumer Price Index Summary\n\n by The FINANCIAL \n\n August 12, 2026 \n\nThe Consumer Price Index for All Urban Consumers (CPI-U) increased 0.1 percent on a seasonally adjusted basis in July after falling 0.4 percent in June, the U.S. Bureau of Labor Statistics reported today. Over the last 12 months, the all items index increased 3.4 percent before seasonal adjustment.\n\nThe index for shelter rose 0.1 percent in July, accounting for roughly two-thirds of the monthly all items increase. The index for food also increased 0.1 percent over the month, as the index for food away from home increased 0.3 percent. In contrast, the energy index declined 1.5 percent in July.\n\nThe index for all items less food and energy rose 0.2 percent after being unchanged in June. Indexes that increased over the month include medical care, airline fares, communication, education, and recreation. Conversely, the index for motor vehicle insurance was among the m",
+    "image": "https://finchannel.com/wp-content/uploads/2017/04/usa_028FlagStethoscope.jpg"
+   },
+   {
+    "id": "https://www.inddist.com/economy/news/22972318/inflation-slows-but-prices-remain-elevated-as-iran-war-and-spending-on-ai-push-up-prices",
+    "title": "Inflation Slows but Prices Remain Elevated as Iran War and Spending on AI Push Up Prices | Industrial Distribution",
+    "url": "https://www.inddist.com/economy/news/22972318/inflation-slows-but-prices-remain-elevated-as-iran-war-and-spending-on-ai-push-up-prices",
+    "publishedDate": "2026-08-12T00:00:00.000Z",
+    "author": "Christopher Rugaber",
+    "text": "Inflation Slows but Prices Remain Elevated as Iran War and Spending on AI Push Up Prices | Industrial Distribution\n\n# Inflation Slows but Prices Remain Elevated as Iran War and Spending on AI Push Up Prices\n\nConsumer prices increased 3.4% in July from a year ago.\n\nChristopher Rugaber\n\nAug 12, 2026\n\nFaith Maeba, a student at Virginia Commonwealth University, shares an assignment for a Practical AI Synthesis course, Stafford, Va., July 20, 2026.\n\nAP Photo/Moriah Ratner\n\nWASHINGTON (AP) — U.S. inflation declined slightly last month as the cost of gas and groceries slipped, though prices are still rising more quickly than before the Iran war, posing challenges for the White House as the midterm elections near.\n\nConsumer prices increased 3.4% in July from a year ago, down slightly from 3.5% in June, the Labor Department said Wednesday. Inflation had fallen to 2.4% before the Iran war. On a monthly basis, prices rose just 0.1% from June to July.\n\nThe mild decrease is the second straight decl"
+   },
+   {
+    "id": "https://invezz.com/ie/news/2026/08/12/us-cpi-report-inflation-rises-as-per-estimates-as-fed-rate-hike-bets-ease-for-now/",
+    "title": "US CPI report: Inflation rises as per estimates as Fed rate hike bets ease for now",
+    "url": "https://invezz.com/ie/news/2026/08/12/us-cpi-report-inflation-rises-as-per-estimates-as-fed-rate-hike-bets-ease-for-now/",
+    "publishedDate": "2026-08-12T00:00:00.000Z",
+    "text": "US CPI report: Inflation rises as per estimates as Fed rate hike bets ease for now\n\n# US CPI report: Inflation rises as per estimates as Fed rate hike bets ease for now\n\nAuthor\n\nVatsala Gaur Vatsala G.\n\n12 Aug 2026, 14:14 PM\n\nCPI matched estimates: core +0.2% m/m and annual core 2.5% keep the “no urgent hike” narrative alive. That supports risk assets, especially growth/tech (Nasdaq futures +~1% on the print). Buy SPY for a continuation move as rate-hike odds don’t jump immediately and yields stay contained.\n\nKey Risk: A sudden re-pricing toward a September hike (yields jump) on follow-up inflation or Fed messaging that forces the market to price faster tightening.\n\nSell 2Y Treasury (IEF)\n\nIf the Fed can “wait,” the front end should stop rallying less and yields should drift lower. Sell IEF (2Y exposure) to express that the next move is delayed tightening rather than immediate hikes, benefiting from reduced urgency in the policy path.\n\nKey Risk: Inflation re-accelerates or the Fed turn",
+    "image": "https://invezz-wp-media.lon1.digitaloceanspaces.com/2026/08/image-2-1786539423.png"
+   },
+   {
+    "id": "https://www.pimco.com/us/en/insights/underlying-inflation-gauges-trimming-noise-or-trimming-signal",
+    "title": "Macro Signposts | Underlying Inflation Gauges: Trimming Noise or Trimming Signal? | PIMCO",
+    "url": "https://www.pimco.com/us/en/insights/underlying-inflation-gauges-trimming-noise-or-trimming-signal",
+    "publishedDate": "2026-08-05T00:00:00.000Z",
+    "author": "Tiffany Wilding",
+    "text": "Macro Signposts | Underlying Inflation Gauges: Trimming Noise or Trimming Signal? | PIMCO\n\n# Underlying Inflation Gauges: Trimming Noise or Trimming Signal? \n\n Macro Signposts highlights takeaways from the data analysis conducted by our team of economists and other experts. \n\n \n\n Tiffany Wilding \n\n 8/5/2026 | {read_time} min read \n\n## Underlying Inflation Gauges: Trimming Noise or Trimming Signal?\n\nBy repeatedly describing standard inflation gauges as “imperfect measures of underlying inflation,” Federal Reserve Chair Kevin Warsh has pushed a long-running technical debate into the center of the policy conversation: What is the best way to measure underlying inflation?\n\nWith most measures of underlying U.S. inflation still running above the Fed’s 2% target, policymakers are understandably concerned about these gauges and what they mean for the inflation outlook – and for monetary policy.\n\nOur analysis of key measures suggests that underlying U.S. inflation is running around 2.2% to 2.8%",
+    "image": "https://www.pimco.com/us/en/-/media/global-assets/insights/economic-and-market-commentary/macro-signposts/2026/08/underlying-inflation-gauges-trimming-noise-or-trimming-signal/msp-26-w31-gbl-underlying-inflation-imagery-76301-v1-2560x1440.webp?rev=a8d4b4dd3f5140b091e0db9ff7de91a5&hash=5771CE0003F61D0C9D172E82CB2C9B26"
+   }
+  ],
+  "searchTime": 1343.6,
+  "costDollars": {
+   "total": 0.007,
+   "search": {
+    "neural": 0.007
+   }
+  }
+ }
+}

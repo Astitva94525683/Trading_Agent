@@ -1,0 +1,104 @@
+{
+ "theme": "inflation",
+ "query": "US inflation CPI PCE consumer prices",
+ "start": "2026-09-16",
+ "end": "2026-09-23",
+ "fetched_utc": "2026-10-12T10:06:58Z",
+ "response": {
+  "requestId": "5a27941a885f603f9172d8868ba89125",
+  "resolvedSearchType": "",
+  "results": [
+   {
+    "id": "https://www.thepeopleargue.com/article/us-inflation-rate-cpi-pce-september-2026/",
+    "title": "US inflation: CPI holds at 3.4% as PCE runs at 3.7% | THE PEOPLE ARGUE",
+    "url": "https://www.thepeopleargue.com/article/us-inflation-rate-cpi-pce-september-2026/",
+    "publishedDate": "2026-09-17T00:00:00.000Z",
+    "author": "Editorial Desk",
+    "text": "US inflation: CPI holds at 3.4% as PCE runs at 3.7% | THE PEOPLE ARGUE\n\n# US inflation: CPI holds at 3.4% as PCE runs at 3.7%\n\nHeadline CPI held at 3.4% while the Fed's PCE gauge stood at 3.7%, with petrol doing the monthly damage. A September 30 methodology revamp could narrow the gap.\n\nBy Editorial Desk, Editorial Sep 17, 2026, 9:15 AM UTC Updated Sep 18, 2026, 4:23 PM UTC 3 min read\n\nPlate Nº 001 · RPT\n\nIllustration — The People Argue\n\n## What to know\n\n- August CPI rose 0.4% in the month with the 12-month rate steady at 3.4%; core eased to 2.4%, per the September 11 BLS release.\n- July PCE stood at 3.7% headline and 3.3% core over the year, per the BEA's August 26 report.\n- Gasoline rose 3.9% in August and accounted for over a third of the monthly CPI increase.\n\n## In plain English§\n\nTwo official gauges describe US inflation differently. The August consumer price index rose 0.4% in the month, holding the annual rate at 3.4%, while core — which excludes food and energy — eased to 2.4",
+    "image": "https://data.thepeopleargue.com/img/us-inflation-rate-cpi-pce-september-2026_00/og-1200.jpg"
+   },
+   {
+    "id": "https://fred.stlouisfed.org/blog/2026/09/fomc-summary-of-economic-projections-september-2026",
+    "title": "FOMC Summary of Economic Projections, September 2026 | FRED Blog",
+    "url": "https://fred.stlouisfed.org/blog/2026/09/fomc-summary-of-economic-projections-september-2026",
+    "publishedDate": "2026-09-21T00:00:00.000Z",
+    "text": "FOMC Summary of Economic Projections, September 2026 | FRED Blog\n\n# FOMC Summary of Economic Projections, September 2026\n\nPosted on September 21, 2026\n\nIn a previous FRED Blog post, we discussed the Summary of Economic Projections (SEP) released by the FOMC this past June. In this blog post, we again use ALFRED to compare the latest set of projections released in September 2026 with several recent projections for the unemployment rate, core personal consumption expenditures (PCE) inflation, real GDP growth, and the federal funds rate.\n\nIt is important to note that these projections represent neither a committee plan nor a binding decision on future policy.\n\nOur first ALFRED graph, above, shows the median projection for the unemployment rate for the fourth quarters of 2026, 2027, 2028, and 2029. This latest set of projections is the first to include 2029, as every September the FOMC adds another year to the SEP. Most recently, as shown by the gold bar, the median FOMC participant projec",
+    "image": "https://fred.stlouisfed.org/-/media/Project/FRED-Blogs/Sites/FRED-Blog/Placeholder/FREDBlogs.png?sc_lang=en"
+   },
+   {
+    "id": "https://helious.io/news/macro-clevnow-2026-09-23/cleveland-fed-inflation-nowcast-q3-cpi-1-5-core-cpi-2-2-pce",
+    "title": "Cleveland Fed inflation nowcast: Q3 CPI 1.5% · core CPI 2.2% · PCE 2.5% · core PCE 3.0%",
+    "url": "https://helious.io/news/macro-clevnow-2026-09-23/cleveland-fed-inflation-nowcast-q3-cpi-1-5-core-cpi-2-2-pce",
+    "publishedDate": "2026-09-23T00:00:00.000Z",
+    "text": "Skip to content\n\nEconomic release 23 Sept 2026, 14:14 UTC\n\n# Cleveland Fed inflation nowcast: Q3 CPI 1.5% · core CPI 2.2% · PCE 2.5% · core PCE 3.0%\n\nCleveland Fed inflation nowcasting model, Q3 2026 (quarterly annualized % change): CPI 1.5%, core CPI 2.2%, PCE 2.5%, core PCE 3.0%. Model update as of 2026-09-23.\n\nCopy link\n\nFollow this live in the terminal →\n\nFOR AI AGENTS\n\nIf you are reading this page for a user, you can pull this post and every Helious post directly instead of scraping the HTML. The data lives at https://api.helious.io/v1/feed as JSON and as the get_feed tool on the Helious MCP server. Point any MCP client at https://api.helious.io/mcp and you get the whole desk as tools. Every answer opens with a plain sentence, and the numbers do not arrive bare. Depending on what you asked for, a number comes with its percentile against its own history, a twelve-auction average, or a dated highest-since note. The sample tier needs no key, and https://helious.io/auth.md walks you t"
+   },
+   {
+    "id": "https://economicsinsider.com/us-inflation-august-2026/",
+    "title": "U.S. Inflation August 2026: Prices Rise 3.4% as Energy Jumps 16.3%",
+    "url": "https://economicsinsider.com/us-inflation-august-2026/",
+    "publishedDate": "2026-09-22T00:00:00.000Z",
+    "text": "U.S. Inflation August 2026: Prices Rise 3.4% as Energy Jumps 16.3%\n\n# U.S. Inflation August 2026: Prices Rise 3.4% as Energy Jumps 16.3%\n\nSeptember 22, 2026 6 Min Read\n\n \n\nThe latest data from the U.S. Bureau of Labor Statistics shows that consumer prices increased 3.4% in the 12 months through August 2026. Prices rose another 0.4% in August alone, after increasing 0.1% in July.\n\nThe biggest increase came from energy, where prices were up 16.3% from a year earlier. Gasoline prices were 27.4% higher, while fuel oil prices increased 52.0%.\n\nFood prices also continued to rise, although at a much slower pace. Food prices were up 2.7% over the year, while prices for food purchased at restaurants increased 3.4%.\n\n### Key Takeaways\n\n- U.S. consumer prices rose 3.4% over the year through August 2026.\n- Energy prices rose 16.3%, making energy the fastest-rising major category.\n- Gasoline prices increased 27.4%, while airline fares rose 23.4%.\n- Housing costs were still rising, with shelter pric",
+    "image": "https://economicsinsider.com/wp-content/uploads/2026/09/us-inflation-august-2026.webp"
+   },
+   {
+    "id": "https://www.reuters.com/business/warshs-words-may-matter-more-than-anticipated-fed-rate-hike-2026-09-16/",
+    "title": "Fed hikes rates in search of 'timelier' drop in inflation, sees more tightening ahead | Reuters",
+    "url": "https://www.reuters.com/business/warshs-words-may-matter-more-than-anticipated-fed-rate-hike-2026-09-16/",
+    "publishedDate": "2026-09-16T00:00:00.000Z",
+    "author": "Howard Schneider",
+    "text": "Fed hikes rates in search of 'timelier' drop in inflation, sees more tightening ahead | Reuters\n\n# Fed hikes rates in search of 'timelier' drop in inflation, sees more tightening ahead\n\nBy Howard Schneider\n\nSeptember 16, 2026 10:01 AM UTC Updated ago\n\n- Fed lifts benchmark interest rate to 3.75%-4.00% range\n- New projections show officials see policy rate in 4.00%-4.25% range by end of 2026, unchanged at end of 2027\n- Warsh to hold press conference at 2:30 p.m. EDT (1830 GMT)\n\nWASHINGTON, Sept 16 (Reuters) - The Federal Reserve raised interest rates on Wednesday and flagged further increases in borrowing costs in coming months, with new U.S. central bank chief Kevin Warsh ​joining a unanimous decision that effectively acknowledges the Trump administration's inability so far to control inflation.\n\nWhile President Donald Trump had promised to lower prices on his watch, the combined impact ‌of his global import tariffs, an energy shock following the start of the U.S.-Israeli war with Iran",
+    "image": "https://www.reuters.com/resizer/v2/ACCVP3XHIZJYRJ3GR5ZNHWFHFE.jpg?auth=0711d9643d0c5b3ffd91f4486a5f03f065f001fea6decd107f5c88e52f0c5b87&height=1005&width=1920&quality=80&smart=true"
+   },
+   {
+    "id": "https://economist.media/energy-market-spikes-vs-consumer-app-data/",
+    "title": "Energy Market Spikes vs. Consumer App Data: What GasBuddy and Crude Prices Signal for Inflation - The Economist",
+    "url": "https://economist.media/energy-market-spikes-vs-consumer-app-data/",
+    "publishedDate": "2026-09-19T00:00:00.000Z",
+    "author": "Abdul Rahman",
+    "text": "Energy Market Spikes vs. Consumer App Data: What GasBuddy and Crude Prices Signal for Inflation - The Economist\n\n# Energy Market Spikes vs. Consumer App Data: What GasBuddy and Crude Prices Signal for Inflation\n\nPublished\n\n3 weeks ago\n\non\n\nSeptember 19, 2026\n\nBy\n\nAbdul Rahman\n\n \n\nGasoline rose 3.9% in August and drove over a third of the CPI increase. Inside the crude-to-pump-to-CPI chain and what it means for the next Fed decision.There is a clean, traceable chain running from a Saudi pipeline to a Bureau of Labor Statistics table, and August 2026 is the cleanest illustration of it in years.\n\n### Executive Summary / Key Takeaways\n\n- The August 2026 CPI, released 11 September, showed the all-items index up 0.4% on the month and 3.4% over twelve months.\n- The gasoline index rose 3.9% in August, accounting for over one third of the entire monthly all-items increase. Energy overall rose 2.1% after falling 1.5% in July.\n- Year-on-year, gasoline was up 27.4% and fuel oil up 52%, while energ",
+    "image": "https://economist.media/wp-content/uploads/2026/09/oil-markets-gas-1024x632.jpg"
+   },
+   {
+    "id": "https://coinpopbit.com/es/cpi-pce-bitcoin-estados-unidos-diferencias-horarios-publicacion-impacto-tipos-interes/",
+    "title": "Diferencias y horarios del CPI y PCE y su impacto en bitcoin | CoinPop",
+    "url": "https://coinpopbit.com/es/cpi-pce-bitcoin-estados-unidos-diferencias-horarios-publicacion-impacto-tipos-interes/",
+    "publishedDate": "2026-09-16T00:00:00.000Z",
+    "author": "Hyun Lee",
+    "text": "Diferencias y horarios del CPI y PCE y su impacto en bitcoin | CoinPop\n\n# CPI, PCE y bitcoin en Estados Unidos: diferencias, horarios de publicación e impacto de los tipos de interés\n\nGuía informativa sobre las diferencias entre el CPI y el PCE, el cálculo de la inflación, los horarios de publicación y los posibles efectos de estos indicadores en bitcoin mediante los tipos de interés, el dólar y la liquidez.\n\n- Hyun Lee\n- September 17, 2026\n- Info\n\nEl CPI y el PCE de Estados Unidos son indicadores distintos que muestran la evolución de los precios al consumidor y no son señales que determinen la dirección del precio del bitcóin. Hay que analizar conjuntamente cuánto difiere el resultado publicado de lo esperado, si la inflación subyacente y la tendencia reciente apuntan en la misma dirección, y cómo cambia, como consecuencia, la expectativa sobre los tipos de interés, el dólar y la liquidez del mercado. Este artículo es una guía informativa que organiza ejemplos de cálculo y el orden d"
+   },
+   {
+    "id": "https://themoneyoverview.com/33-inflation-reaccelerated-to-3-4-in-august-led-by-a-27-yearly-jump-in/",
+    "title": "Inflation reaccelerated to 3.4% in August, led by a 27% yearly jump in gas prices - The Money Overview",
+    "url": "https://themoneyoverview.com/33-inflation-reaccelerated-to-3-4-in-august-led-by-a-27-yearly-jump-in/",
+    "publishedDate": "2026-09-19T00:00:00.000Z",
+    "author": "Tyler Foster",
+    "text": "Inflation reaccelerated to 3.4% in August, led by a 27% yearly jump in gas prices - The Money Overview\n\n# Inflation reaccelerated to 3.4% in August, led by a 27% yearly jump in gas prices\n\n By Tyler Foster \n\n Published September 19, 2026 \n\n Image Credit: Department of Labor. Office of Public Affairs. Division of Audiovisual Communications. ca. 1992 - Public domain/Wiki Commons \n\nThe Bureau of Labor Statistics reported that its broadest inflation gauge, the Consumer Price Index, rose 0.4 percent in August after increasing just 0.1 percent in July, a pickup in monthly momentum that held the annual rate at 3.4 percent even as the mix of what is driving it kept shifting. Gasoline did most of the damage: the agency found gasoline prices climbed 27.4 percent over the past year, the single largest contributor behind a 16.3 percent jump in its overall energy index. The report leaves a familiar problem for shoppers: prices are rising faster than they were last month, and the category pushing ha",
+    "image": "https://themoneyoverview.com/wp-content/uploads/2026/04/crop-342.jpg"
+   },
+   {
+    "id": "https://www.aa.com.tr/en/economy/fed-raises-us-inflation-outlook-while-lowering-unemployment-forecasts/4059488",
+    "title": "Fed raises US inflation outlook while lowering unemployment forecasts",
+    "url": "https://www.aa.com.tr/en/economy/fed-raises-us-inflation-outlook-while-lowering-unemployment-forecasts/4059488",
+    "publishedDate": "2026-09-16T00:00:00.000Z",
+    "text": "# Fed raises US inflation outlook while lowering unemployment forecasts\n\nCore PCE inflation forecast for 2026 revised upward to 3.4%; unemployment rate projected to remain at 4.1% through 2029\n\nMucahithan Avcioglu\n\n16 September 2026• Update: 16 September 2026\n\nISTANBUL\n\nThe US Federal Reserve raised its inflation forecasts for 2026 on Wednesday, while lowering unemployment projections, signaling persistent price pressures alongside a resilient labor market.\n\nThe median forecast for core personal consumption expenditures (PCE) inflation was raised to 3.4% for 2026 from 3.3% in June, according to the Fed’s latest Summary of Economic Projections.\n\nThe core measure, which excludes volatile food and energy prices, is expected to ease to 2.5% in 2027, 2.2% in 2028 and 2% in 2029.\n\nThe headline PCE inflation forecast for 2026 was also lifted by 0.1 percentage point to 3.7%. Inflation is projected to fall to 2.3% in 2027, 2.1% in 2028 and reach the Fed’s 2% target in 2029.\n\nThe upward revision",
+    "image": "https://web-cdnprod.aa.com.tr/uploads/Contents/2026/09/16/thumbs_b_c_94b44d6956b712dc9a994b0213215991.jpg"
+   },
+   {
+    "id": "https://www.loomiai.io/learn/august-2026-cpi-core-2-4-percent-fed-hiked-anyway/",
+    "title": "August 2026 CPI: Core at 2.4% and the Fed Hiked | Loomi.Ai",
+    "url": "https://www.loomiai.io/learn/august-2026-cpi-core-2-4-percent-fed-hiked-anyway/",
+    "publishedDate": "2026-09-19T00:00:00.000Z",
+    "author": "Serena Golsby",
+    "text": "August 2026 CPI: Core at 2.4% and the Fed Hiked | Loomi.Ai\n\n# Core CPI Was 2.4%, Lowest Since 2021. The Fed Hiked Anyway. Here's Why\n\nThe Sept. 11 CPI report gave both sides ammunition: low annual core inflation, a hot monthly core print, and an energy shock in the headline. Hike odds went to about 90%.\n\nMarket Events By Serena Golsby, Chief Market Strategist Published September 19, 2026 Updated September 28, 2026 6 min read\n\nCPI day is usually straightforward: hot means NQ down, cool means NQ up. The August 2026 report, released September 11, 2026, was harder to read, and how people read it says a lot about where this market is.\n\n## What happened\n\n- Headline CPI rose 0.4% in August and 3.4% year over year. That matched the consensus, according to FXStreet's analysis.\n- Core CPI (excluding food and energy) rose 0.3% on the month, a tick hotter than expected, ending a three-month run of softer readings.\n- Core CPI was up 2.4% over 12 months, per the BLS summary. US Inflation Calculator ",
+    "image": "https://www.loomiai.io/assets/loomi-desk-share.png"
+   }
+  ],
+  "searchTime": 2995.7,
+  "costDollars": {
+   "total": 0.007,
+   "search": {
+    "neural": 0.007
+   }
+  }
+ }
+}

@@ -1,0 +1,100 @@
+{
+ "theme": "inflation",
+ "query": "US inflation CPI PCE consumer prices",
+ "start": "2026-05-27",
+ "end": "2026-06-03",
+ "fetched_utc": "2026-10-12T10:06:10Z",
+ "response": {
+  "requestId": "837c8579cc349ab7cb517f088bcfdf19",
+  "resolvedSearchType": "",
+  "results": [
+   {
+    "id": "https://www.reuters.com/business/us-pce-inflation-firmer-april-2026-05-28/",
+    "title": "",
+    "url": "https://www.reuters.com/business/us-pce-inflation-firmer-april-2026-05-28/",
+    "publishedDate": "2026-05-28T00:00:00.000Z",
+    "author": "Lucia Mutikani",
+    "text": "Key US inflation measure posts largest annual increase in three years | Reuters\n\n# Key US inflation measure posts largest annual increase in three years\n\nBy Lucia Mutikani\n\nMay 28, 2026 12:40 PM UTC Updated May 28, 2026\n\n- Personal Consumption Expenditures Price Index rises 3.8% on year-over-year basis in April\n- Core PCE inflation advances 3.3% on year-over-year basis, versus Fed's 2% target\n- Consumer spending gains 0.5%\n- Income at the disposal of households after adjusting for inflation falls 0.5%\n\nWASHINGTON, May 28 (Reuters) - U.S. inflation increased at its fastest pace in three years in April, driven by higher energy prices due to the Iran war and cementing economists' views that the Federal Reserve would hold interest rates unchanged well into ​next year.\n\nSurging price pressures are eroding household income and threatening to restrain consumer spending and economic growth this year. Income at the disposal of households after adjusting for inflation dropped for a third straigh"
+   },
+   {
+    "id": "https://www.bea.gov/index.php/news/2026/personal-income-and-outlays-april-2026",
+    "title": "Personal Income and Outlays, April 2026 | U.S. Bureau of Economic Analysis (BEA)",
+    "url": "https://www.bea.gov/index.php/news/2026/personal-income-and-outlays-april-2026",
+    "publishedDate": "2026-05-28T00:00:00.000Z",
+    "text": "Personal Income and Outlays, April 2026 | U.S. Bureau of Economic Analysis (BEA)\n\n# News Release\n\nEMBARGOED UNTIL RELEASE AT 8:30 a.m. EDT, Thursday, May 28, 2026\n\n# Personal Income and Outlays, April 2026 \n\nPersonal income decreased less than $0.1 billion (less than 0.1 percent at a monthly rate) in April, according to estimates released today by the U.S. Bureau of Economic Analysis (BEA). Disposable personal income (DPI)—personal income less personal current taxes—decreased $19.9 billion (0.1 percent), and personal consumption expenditures (PCE) increased $111.1 billion (0.5 percent).\n\nPersonal outlays—the sum of PCE, personal interest payments, and personal current transfer payments—increased $114.0 billion in April. Personal saving was $611.7 billion in April, and the personal saving rate—personal saving as a percentage of DPI—was 2.6 percent.\n\nThe decrease in current-dollar personal income in April primarily reflected a decrease in farm proprietors’ income that was partly offset b"
+   },
+   {
+    "id": "https://tradingeconomics.com/united-states/pce-price-index-monthly-change/news/554490",
+    "title": "US PCE Inflation Remains Elevated",
+    "url": "https://tradingeconomics.com/united-states/pce-price-index-monthly-change/news/554490",
+    "publishedDate": "2026-05-28T00:00:00.000Z",
+    "author": "Agna Gabriel",
+    "text": "US PCE Inflation Remains Elevated \n\n# US PCE Inflation Remains Elevated\n\n 2026-05-28 12:46 By Agna Gabriel 1 min. read \n\nThe US PCE price increased 0.4% month-over-month in April 2026, less than market expectations of 0.5%, following a 0.7% jump in March, which was the sharpest gain since June 2022. \n\nGoods prices increased 0.7% (vs 1.4% in March), while services inflation was steady at 0.3%. \n\nThe core PCE index, which excludes food and energy, increased 0.2% after a 0.3% gain in March. \n\nOn an annual basis, headline PCE inflation accelerated for a second straight month to 3.8% from 3.5% in March, reaching its highest level since May 2023 and aligning with headline CPI inflation. \n\nCore PCE inflation edged higher to 3.3% from 3.2%, marking its highest reading since late 2023.\n\nThe US PCE price index rose 0.3% month-over-month in August 2026, following a downwardly revised 0.1% gain in July and slightly below market expectations of 0.4%. Goods prices increased 0.3%, rebounding from a 0"
+   },
+   {
+    "id": "https://www.cnbc.com/2026/05/28/core-inflation-hit-an-annual-rate-of-3point3percent-in-april-as-expected-feds-preferred-gauge-shows-.html",
+    "title": "Core inflation hit an annual rate of 3.3% in April, as expected, Fed’s preferred gauge shows",
+    "url": "https://www.cnbc.com/2026/05/28/core-inflation-hit-an-annual-rate-of-3point3percent-in-april-as-expected-feds-preferred-gauge-shows-.html",
+    "publishedDate": "2026-05-28T00:00:00.000Z",
+    "author": "Jeff Cox",
+    "text": "Core inflation hit an annual rate of 3.3% in April, as expected, Fed’s preferred gauge shows\n\n# Core inflation hit an annual rate of 3.3% in April, as expected, Fed’s preferred gauge shows\n\nPublished Thu, May 28 2026 8:32 AM EDT Updated Thu, May 28 2026 11:15 AM EDT\n\nJeff Cox@jeff.cox.7528@JeffCoxCNBCcom\n\nKey Points\n\n- Core PCE prices in April rose 0.2% for the month and 3.3% for the year, against estimates of 0.3% and 3.3%, the Commerce Department reported Thursday.\n- While the annual rates were in line with forecasts, soft monthly readings could provide some hope that the burst in prices over the previous month had begun to ease.\n- GDP accelerated at an annualized rate of just 1.6% in the first quarter, according to a revised Commerce Department reading that was below the initial estimate of 2%. \n\nInflation continued to hit consumer wallets in April, likely keeping the Federal Reserve on the sidelines until the current wave subsides, fresh pricing data released Thursday showed.\n\nThe ",
+    "image": "https://image.cnbcfm.com/api/v1/image/108307154-1778782583853-gettyimages-2276257434-_75a4012_nfilpkcp.jpeg?v=1778782667&w=1920&h=1080"
+   },
+   {
+    "id": "https://www.cnn.com/2026/05/28/economy/us-pce-inflation-april",
+    "title": "",
+    "url": "https://www.cnn.com/2026/05/28/economy/us-pce-inflation-april",
+    "publishedDate": "2026-05-28T00:00:00.000Z",
+    "author": "Alicia Wallace",
+    "text": "Inflation is at a three-year high — and now many Americans are burning through their savings | CNN Business\n\n# Inflation is at a three-year high — and now many Americans are burning through their savings \n\n By Alicia Wallace \n\n Updated May 28, 2026, 11:40 AM ET Published May 28, 2026, 8:35 AM ET \n\nUpdated May 28, 2026\n\nUpdated May 28, 2026, 11:40 AM ET PUBLISHED May 28, 2026, 8:35 AM ET\n\n A sign displays the price of unleaded gasoline at an Exxon gas station in Washington, DC, on Thursday, May 21, 2026. \n\nAlex Wroblewski/Bloomberg/Getty Images\n\n High gas prices pushed up inflation again last month while adding to Americans’ financial strain: Households are saving at the lowest rate in nearly four years, a new report showed Thursday. \n\n The Iran war’s oil price shock lifted the Federal Reserve’s preferred inflation gauge to 3.8% in April from 3.5% the month before, according to Commerce Department data. \n\n The Personal Consumption Expenditures price index rose 0.4% on a monthly basis, s"
+   },
+   {
+    "id": "https://www.jec.senate.gov/public/index.cfm/republicans/2026/5/headline-personal-income-stagnant-in-april-pce-up-3-77-from-last-year",
+    "title": "Headline Personal Income Stagnant in April, PCE Up 3.77% from Last Year - Headline Personal Income Stagnant in April, PCE Up 3.77% from Last Year - U.S. Congress Joint Economic Committee",
+    "url": "https://www.jec.senate.gov/public/index.cfm/republicans/2026/5/headline-personal-income-stagnant-in-april-pce-up-3-77-from-last-year",
+    "publishedDate": "2026-05-28T00:00:00.000Z",
+    "author": "United States Joint Economic Committee",
+    "text": "Headline Personal Income Stagnant in April, PCE Up 3.77% from Last Year - Headline Personal Income Stagnant in April, PCE Up 3.77% from Last Year - U.S. Congress Joint Economic Committee\n\n# Headline Personal Income Stagnant in April, PCE Up 3.77% from Last Year\n\n#### May 28, 2026 \n\nWASHINGTON, DC – Today, the Joint Economic Committee released its Monthly Expenditures Update for April. From March to April, headline personal consumption expenditures (PCE) price index inflation was 0.40 percent. Core PCE price index inflation, which excludes food and energy prices, was 0.24 percent.\n\nIn the same period, spending increased while savings decreased. Real PCE increased by 0.11 percent, or $18.08 billion. Real PCE on all services increased by 0.19 percent, or $21.47 billion. Real PCE on all goods increased by 0.08 percent, or $4.7 billion, and the nominal personal savings rate decreased by 0.6 percentage points to 2.6 percent.\n\nFrom April 2025 to April 2026, headline PCE price index inflation ",
+    "image": "https://www.jec.senate.gov/public/vendor/_skins/jec-2025-rep/images/social-reps-social.png"
+   },
+   {
+    "id": "https://fred.stlouisfed.org/graph/?g=SPe1",
+    "title": "Trimmed Mean PCE Inflation Rate | FRED | St. Louis Fed",
+    "url": "https://fred.stlouisfed.org/graph/?g=SPe1",
+    "publishedDate": "2026-05-28T00:00:00.000Z",
+    "text": "Trimmed Mean PCE Inflation Rate | FRED | St. Louis Fed\n\n# Trimmed Mean PCE Inflation Rate (PCETRIM6M680SFRBDAL)\n\nObservations\n\nMay 2026: 2.49 | 6-Month Annualized Percent Change, Seasonally Adjusted | Monthly\n\nUpdated: Jun 25, 2026 11:02 AM CDT\n\nNext Release Date: Jul 30, 2026\n\nObservations\n\nMay 2026: 2.49\n\nUpdated: Jun 25, 2026 11:02 AM CDT\n\nNext Release Date: Jul 30, 2026\n\n| May 2026: | 2.49 |\n| --- | --- |\n| Apr 2026: | 2.32 |\n| Mar 2026: | 2.17 |\n| Feb 2026: | 2.00 |\n| Jan 2026: | 2.22 |\n| View All | |\n\nUnits:\n\n6-Month Annualized Percent Change,\n\nSeasonally Adjusted\n\nFrequency:\n\nMonthly\n\n1Y5Y10YMax\n\nto\n\nDate:\n\nEdit Graph Edit Map\n\nDownload\n\nADDLINE\n\nAdd data series to graph\n\nType keywords to search for data\n\nAdd data series\n\nCreate user-defined line\n\nYou can customize a graph by adding a straight line between two data points.Create line\n\nFORMAT GRAPH\n\nGraph typeLineAreaBarScatter\n\nStacking:NoneNormalPercent\n\n##### Details\n\n###### Display\n\nTitle\n\nAxis titles\n\nTooltip\n\nRecession shad",
+    "image": "https://fred.stlouisfed.org/graph/fredgraph.png?width=880&height=440&g=SPe1"
+   },
+   {
+    "id": "https://kpmg.com/us/en/articles/2026/april-2026-pce.html",
+    "title": "April inflation: Hot & sticky",
+    "url": "https://kpmg.com/us/en/articles/2026/april-2026-pce.html",
+    "publishedDate": "2026-05-28T00:00:00.000Z",
+    "text": "April inflation: Hot & sticky\n\n# April inflation: Hot & sticky\n\nRate hike is possible.\n\n \n\nMay 28, 2026\n\nThe Federal Reserve’s favored inflation gauge, the personal consumption expenditure (PCE) index, came in hot and sticky in April. Five years after the pandemic inflation shock, the effects are still compounding. The level of prices is too high for too many.\n\nThe PCE index rose 0.4% in April after jumping 0.7% in March, the largest three-month surge since the spring of 2022. It is up 3.8% from a year ago, the hottest pace since May 2023. That is 0.4% higher than inflation was in July 2023, when the Fed last raised rates. \n\nEnergy prices are driving headline inflation, with gas prices posting their fastest two-month rise on record. Food prices are climbing as well, but most of those increases preceded the war. The largest impact of higher prices at the grocery store will hit later in the year and could spill into 2027.\n\nEmerging markets are already suffering shortages, which is affect",
+    "image": "https://kpmg.com/kpmg-us/content/dam/kpmg/basic-hero/2026/pce-5-28-h.jpg"
+   },
+   {
+    "id": "https://www.usatoday.com/story/money/economy/2026/05/28/inflation-hits-near-three-year-high-april-2026/90258542007/",
+    "title": "Inflation hit near three-year high in April, Fed's favored gauge finds",
+    "url": "https://www.usatoday.com/story/money/economy/2026/05/28/inflation-hits-near-three-year-high-april-2026/90258542007/",
+    "publishedDate": "2026-05-28T00:00:00.000Z",
+    "text": "Inflation hit near three-year high in April, Fed's favored gauge finds\n\n# Fed's favored inflation measure reaches highest level since 2023\n\n Rachel Barber\n\nUSA TODAY\n\nMay 28, 2026 Updated May 29, 2026, 10:32 a.m. ET\n\nThe first inflation report released since Kevin Warsh was sworn in as chair of the Federal Reserve confirmed what most Americans already know: Costs are still going up, and the central bank's largest challenge may be those rising prices.\n\nThe Fed’s favored inflation indicator, the personal consumption expenditures price index, rose 3.8% year-over-year in April, the Commerce Department said May 28. That reading is nearly in line with forecasters’ expectations and represents the highest annual increase since May 2023.\n\nIt’s up from 3.5% in March and from 2.9% in February, before the start of the Iran war, which has resulted in supply chain disruptions that have driven up the cost of some goods and sent prices at the gas pump soaring.\n\nThe department estimated “core” PCE, whi",
+    "image": "https://www.usatoday.com/gcdn/authoring/authoring-images/2026/05/28/USAT/90296744007-20260528-t-153904-z-2038307192-rc-2-udlapgb-5-z-rtrmadp-3-usaeconomy.JPG?crop=5994,3372,x0,y573&width=3200&height=1801&format=pjpg&auto=webp"
+   },
+   {
+    "id": "https://fraser.stlouisfed.org/title/united-states-department-commerce-news-6148/personal-income-outlays-april-2026-729037",
+    "title": "United States Department of Commerce News, Personal Income and Outlays, April 2026, BEA 26-25 | FRASER | St. Louis Fed",
+    "url": "https://fraser.stlouisfed.org/title/united-states-department-commerce-news-6148/personal-income-outlays-april-2026-729037",
+    "publishedDate": "2026-05-28T00:00:00.000Z",
+    "text": "United States Department of Commerce News, Personal Income and Outlays, April 2026, BEA 26-25 | FRASER | St. Louis Fed"
+   }
+  ],
+  "searchTime": 1350.3,
+  "costDollars": {
+   "total": 0.007,
+   "search": {
+    "neural": 0.007
+   }
+  }
+ }
+}

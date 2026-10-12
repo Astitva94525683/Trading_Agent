@@ -1,0 +1,106 @@
+{
+ "theme": "fed",
+ "query": "Federal Reserve FOMC interest rate decision Powell",
+ "start": "2026-06-10",
+ "end": "2026-06-17",
+ "fetched_utc": "2026-10-12T10:04:47Z",
+ "response": {
+  "requestId": "b6e8582d737b55f9508f272a3ba5d830",
+  "resolvedSearchType": "",
+  "results": [
+   {
+    "id": "https://www.federalreserve.gov/newsevents/pressreleases/monetary20260617a.htm",
+    "title": "Federal Reserve Board - Federal Reserve issues FOMC statement",
+    "url": "https://www.federalreserve.gov/newsevents/pressreleases/monetary20260617a.htm",
+    "publishedDate": "2026-06-17T00:00:00.000Z",
+    "text": "Federal Reserve Board - Federal Reserve issues FOMC statement\n\n## Press Release \n\nJune 17, 2026\n\n### Federal Reserve issues FOMC statement\n\nFor release at 2:00 p.m. EDT \n\nThe Federal Open Market Committee approved the following statement for release by a 12 – 0 vote:\n\nThe Committee decided to maintain the target range for the federal funds rate at 3-1/2 to 3-3/4 percent, in support of the Federal Reserve's dual mandate. The Committee reaffirmed its policy of maintaining ample reserves in the banking system.\n\nEconomic activity is expanding at a solid pace despite elevated uncertainty that owes, in part, to the conflict in the Middle East. Productivity growth and capital investment are strong. Job gains have kept pace with the workforce, and the unemployment rate has changed little.\n\nInflation remains elevated relative to the Committee's 2 percent goal, in part reflecting supply shocks that have driven price increases in certain sectors, including energy. The Committee will deliver price",
+    "image": "https://www.federalreserve.gov/images/social-media/social-default-image-opengraph.jpg"
+   },
+   {
+    "id": "https://www.npr.org/2026/06/17/nx-s1-5860084/fed-chief-warsh-first-fomc-meeting",
+    "title": "Federal Reserve holds interest rates steady and hints at rate hike later this year : NPR",
+    "url": "https://www.npr.org/2026/06/17/nx-s1-5860084/fed-chief-warsh-first-fomc-meeting",
+    "publishedDate": "2026-06-17T00:00:00.000Z",
+    "author": "Scott Horsley",
+    "text": "Federal Reserve holds interest rates steady and hints at rate hike later this year : NPR\n\nAccessibility links\n\nFederal Reserve holds interest rates steady and hints at rate hike later this year The Federal Reserve left its benchmark interest rates unchanged Wednesday, and signaled its next move could be a rate increase. It's the first rate decision under the new Fed chairman, Kevin Warsh.\n\n### Economy\n\nhttps://www.npr.org/sections/economy/\n\n# Federal Reserve holds interest rates steady and hints at rate hike later this year\n\n2:34 PM ET\n\nHeard on Morning Edition\n\n#### 3 things to know about the new Fed chief's first meeting\n\nListen · 3:45 3:45\n\nTranscript Toggle more options\n\nEmbed\n\nEmbed` `\n\n- Download\n- Transcript\n\nKevin Warsh chaired his first meeting of the Federal Reserve's interest-rate setting committee this week. With inflation at a three-year high, the committee left its benchmark rate unchanged. Aaron Schwartz/AFP hide caption\n\ntoggle caption\n\nAaron Schwartz/AFP\n\nSign up for t",
+    "image": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/3312x1863+0+173/resize/1400/quality/85/format/jpeg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F0c%2F7c%2F10845ce3422e8bcac9f42972ac33%2Fgettyimages-2277129850.jpg",
+    "favicon": "https://media.npr.org/chrome/favicon/favicon-32x32.png"
+   },
+   {
+    "id": "https://www.atlantafed.org/news-and-events/2026/06/17/fomc-statement",
+    "title": "Federal Reserve Issues FOMC Statement - Federal Reserve Bank of Atlanta",
+    "url": "https://www.atlantafed.org/news-and-events/2026/06/17/fomc-statement",
+    "publishedDate": "2026-06-17T00:00:00.000Z",
+    "text": "Federal Reserve Issues FOMC Statement - Federal Reserve Bank of Atlanta\n\n# Federal Reserve Issues FOMC Statement\n\n June 17, 2026 \n\n The Federal Open Market Committee announced its decision to maintain the target range for the federal funds rate at 3-1/2 to 3‑3/4 percent. FOMC Statement",
+    "image": "https://www.atlantafed.org/-/media/Project/Atlanta/FRBA/Images/gallery/federal-reserve/fomc/003-fomc-meeting-with-chairman-kevin-warsh/hero.webp"
+   },
+   {
+    "id": "https://kelo.com/2026/06/17/warsh-kicks-off-fed-chief-era-with-sweeping-review-as-rates-remain-unchanged/",
+    "title": "Warsh kicks off Fed chief era with sweeping review as rates remain unchanged | KELO-AM",
+    "url": "https://kelo.com/2026/06/17/warsh-kicks-off-fed-chief-era-with-sweeping-review-as-rates-remain-unchanged/",
+    "publishedDate": "2026-06-17T00:00:00.000Z",
+    "author": "Thomson Reuters",
+    "text": "Warsh kicks off Fed chief era with sweeping review as rates remain unchanged | KELO-AM\n\n# Warsh kicks off Fed chief era with sweeping review as rates remain unchanged\n\n By Thomson Reuters Jun 17, 2026 | 1:04 PM \n\nBy Howard Schneider, Ann Saphir and Michael S. Derby\n\nWASHINGTON, June 17 (Reuters) – Federal Reserve Chairman Kevin Warsh opened a new era of U.S. monetary policy on Wednesday, with officials agreeing to leave interest rates unchanged despite inflation stuck well above their target but also launching an ambitious review that could reshape how the central bank makes decisions and communicates with the public.\n\nWarsh, who took over as Fed chief last month, made an immediate imprint in organizing a unanimous consensus around a stripped-down policy statement that jettisoned any forward guidance on what actions the central bank might take ​in the near term, although new quarterly projections, eschewed by Warsh himself, showed nine of 19 policymakers now anticipate a rate hike by t",
+    "image": "https://storage.googleapis.com/media.mwcradio.com/mimesis/2026-06/17/2026-06-17T180422Z_2_LYNXMPEM5G1JS_RTROPTP_3_USA-FED.JPG"
+   },
+   {
+    "id": "https://www.theguardian.com/business/2026/jun/17/federal-reserve-interest-rates",
+    "title": "Federal Reserve holds rates steady but signals possible hike before year’s end | Federal Reserve | The Guardian",
+    "url": "https://www.theguardian.com/business/2026/jun/17/federal-reserve-interest-rates",
+    "publishedDate": "2026-06-17T00:00:00.000Z",
+    "author": "Gaya Gupta",
+    "text": "Federal Reserve holds rates steady but signals possible hike before year’s end | Federal Reserve | The Guardian\n\n# Federal Reserve holds rates steady but signals possible hike before year’s end\n\nOpen markets committee says ‘economic activity is expanding at a solid pace’ in first meeting under new chair Kevin Warsh\n\nGaya Gupta in Washington\n\nWed 17 Jun 2026 16.34 EDT\n\nFirst published on Wed 17 Jun 2026 14.06 EDT\n\nUS stock markets dropped on Wednesday afternoon after the Federal Reserve left interest rates unchanged and signaled a possible rate hike before the end of the year.\n\nThe Fed was widely expected to keep rates at a range of 3.5% to 3.75%, where they have remained since December. The decision was unanimously supported by the Fed’s voting committee.\n\n“Economic activity is expanding at a solid pace despite elevated uncertainty that owes, in part, to the conflict in the Middle East,” the Fed’s open market committee said in the statement.\n\nThe Dow closed 500 points lower, and the S&",
+    "image": "https://i.guim.co.uk/img/media/c92c1c20bcac8189f2e9705c2645f342475fccde/540_0_5396_4317/master/5396.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=e277f1196ab01271524dc5c837ef4d95"
+   },
+   {
+    "id": "https://www.pimco.com/eu/en/insights/hawkish-leaning-committee-reform-minded-chair-warshs-first-fed-meeting",
+    "title": "Macro Signposts | Hawkish-Leaning Committee, Reform-Minded Chair: Warsh’s First Fed Meeting | PIMCO",
+    "url": "https://www.pimco.com/eu/en/insights/hawkish-leaning-committee-reform-minded-chair-warshs-first-fed-meeting",
+    "publishedDate": "2026-06-17T00:00:00.000Z",
+    "author": "Tiffany Wilding",
+    "text": "Macro Signposts | Hawkish-Leaning Committee, Reform-Minded Chair: Warsh’s First Fed Meeting | PIMCO\n\n# Hawkish-Leaning Committee, Reform-Minded Chair: Warsh’s First Fed Meeting \n\n Macro Signposts highlights takeaways from the data analysis conducted by our team of economists and other experts. \n\n \n\n Tiffany Wilding \n\n 17/06/2026 | {read_time} min read \n\n## Hawkish-Leaning Committee, Reform-Minded Chair: Warsh’s First Fed Meeting\n\nThe Federal Reserve held the policy rate steady at 3.50%–3.75% at its June meeting – an outcome that was never really in doubt. The more interesting signals came from the Summary of Economic Projections (SEP), the policy statement, and Chair Kevin Warsh’s first press conference, which may prove to be his most substantial. The statement was simplified and stripped of forward guidance, while the SEP showed a committee roughly split between holding rates steady for the remainder of the year and hiking at least once, a hawkish shift versus the previous projections",
+    "image": "https://www.pimco.com/eu/en/-/media/global-assets/insights/legacy/blog/2023/12/pimco_blog_wilding_boxer_dec2023_og-tag1_1200x630.webp?rev=56eddb979a0c48ffa37ce07699473c0d&hash=FFD924DF97CA15DBF0F116E4CFA538E3"
+   },
+   {
+    "id": "https://www.cbsnews.com/news/federal-reserve-interest-rates-kevin-warsh-june-2026/",
+    "title": "Kevin Warsh set to lead his first Federal Reserve interest rate meeting. Here's what to expect. - CBS News",
+    "url": "https://www.cbsnews.com/news/federal-reserve-interest-rates-kevin-warsh-june-2026/",
+    "publishedDate": "2026-06-16T00:00:00.000Z",
+    "text": "Kevin Warsh set to lead his first Federal Reserve interest rate meeting. Here's what to expect. - CBS News\n\n# Kevin Warsh set to lead his first Federal Reserve interest rate meeting. Here's what to expect.\n\n By \n\n Aimee Picchi \n\nAimee Picchi Associate Managing Editor, MoneyWatch\n\n Aimee Picchi \n\n Updated on: June 17, 2026 / 11:53 AM EDT / CBS News \n\nFederal Reserve Chairman Kevin Warsh will hold his first press conference on Wednesday, offering borrowers and investors a chance to assess his plans to keep the U.S. economy on track. \n\nWarsh, who has vowed that the Fed will remain \" strictly independent\" in overseeing monetary policy, last month succeeded former chair Jerome Powell at a difficult juncture, with inflation surging to its highest level in more than three years. \n\nAt the same time, President Trump has previously underlined his eagerness for the Fed to lower interest rates, the central bank's main tool for spurring economic growth. Yet Warsh could also benefit from some econom",
+    "image": "https://assets2.cbsnewsstatic.com/hub/i/r/2026/05/13/ac0abc97-774f-4e52-bb36-f21a2d6f45fa/thumbnail/1200x630g3/799c2c23566e9f6c202eb8caa6c3ea11/gettyimages-2271841728.jpg"
+   },
+   {
+    "id": "https://www-cdn.abcnews.com/Business/fed-set-make-interest-rate-decision-inflation-hits/story?id=133758112",
+    "title": "Fed holds interest rates steady as inflation hits 3-year high - ABC News",
+    "url": "https://www-cdn.abcnews.com/Business/fed-set-make-interest-rate-decision-inflation-hits/story?id=133758112",
+    "publishedDate": "2026-06-17T00:00:00.000Z",
+    "author": "Max Zahn",
+    "text": "Fed holds interest rates steady as inflation hits 3-year high - ABC News\n\n# Fed holds interest rates steady as inflation hits 3-year high\n\nFutures markets overwhelmingly expected the Fed to keep rates unchanged.\n\nBy Max Zahn\n\nJune 17, 2026, 2:52 PM\n\nFederal Reserve chairman Kevin Warsh speaks during a press conference in Washington, June 17, 2026.\n\nBrendan Smialowski/AFP via Getty Images\n\nThe Federal Reserve held interest rates steady on Wednesday as the economy weathers its highest inflation in three years.\n\nThe announcement marked the first decision on interest rates rates since Trump nominee Kevin Warsh took the helm as Fed chair.\n\nSpeaking at a press conference, Warsh voiced a commitment to bring inflation down to the Fed's desired level of 2%. The annual pace of price increases currently registers at more than twice that target rate.\n\n\"Persistently high prices are a burden for the American people,\" Warsh told reporters in Washington, D.C. \"This committee will deliver price stabili",
+    "image": "https://i.abcnewsfe.com/a/a517a115-5364-4d6f-9e77-a1ceb8481719/kevin-warsh-5-gty-gmh-260617_1781722852827_hpMain_16x9.jpg?w=1600"
+   },
+   {
+    "id": "https://www.cjme.com/2026/06/17/federal-reserve-policymakers-show-support-for-rate-hikes-as-warsh-reins-in-guidance/",
+    "title": "Federal Reserve policymakers show support for rate hikes as Warsh reins in guidance | 980 CJME",
+    "url": "https://www.cjme.com/2026/06/17/federal-reserve-policymakers-show-support-for-rate-hikes-as-warsh-reins-in-guidance/",
+    "publishedDate": "2026-06-17T00:00:00.000Z",
+    "author": "The Canadian Press",
+    "text": "Federal Reserve policymakers show support for rate hikes as Warsh reins in guidance | 980 CJME\n\n# Federal Reserve policymakers show support for rate hikes as Warsh reins in guidance\n\n By The Canadian Press Jun 17, 2026 | 3:55 PM \n\nWASHINGTON (AP) — The Federal Reserve kept its key rate unchanged Wednesday yet almost half the central bank’s policymakers said they could support a rate hike later this year.\n\nThe unexpectedly aggressive tilt toward higher rates would disappoint President Trump and suggests heightened concerns about persistent inflation among Fed officials.\n\nIn an unusually short statement after their two-day meeting, the officials dropped language that had suggested their next move would be to cut the key rate. The brief statement reflects the influence of new chair Kevin Warsh, who was appointed by Trump. Warsh has previously criticized the Fed for commenting too broadly on the economy. \n\nStill, Warsh’s 18 colleagues on the Fed’s rate-setting committee sent a clear messag",
+    "image": "https://media-cdn.socastsrm.com/wpRssService/imageRedirect?url=http%3A%2F%2Fmapi.cp.org%2Fasset-photos%2F19c308bc-f94b-4612-bd28-e1ae34152c72%2Fe05e0169df6539a1be31ddb91ebd91784ca773d5325d7b7f5a767d17cd40fa49.jpg"
+   },
+   {
+    "id": "https://www.scotiabank.com/ca/en/about/economics/economics-publications/post.other-publications.economic-indicators.scotia-flash.-june-17--2026-.html",
+    "title": "FOMC Recap — Markets Lost a Friend Today | Post",
+    "url": "https://www.scotiabank.com/ca/en/about/economics/economics-publications/post.other-publications.economic-indicators.scotia-flash.-june-17--2026-.html",
+    "publishedDate": "2026-06-17T00:00:00.000Z",
+    "text": "FOMC Recap — Markets Lost a Friend Today | Post\n\n# FOMC Recap — Markets Lost a Friend Today \n\n Wed Jun 17 2026 20:30:00 GMT+0000 · Derek Holt \n\n- FOMC leaves policy rate at 3.75% and balance sheet unchanged\n\n- Warsh boycotted forward guidance, but the FOMC is split 50–50 on hiking in 2026…\n\n- ...after which the most hawkish District Presidents lose their votes\n\n- Uncertainty was added to short-dated Treasury purchases, adding to flattening\n\n- Five taskforces were established and are to report findings by year-end\n\n- Growth was revised down, inflation up\n\n- Bond yields soared, stocks dropped and the dollar rallied\n\n- The Fed exported its inflation problem to other central banks, including the BoC\n\n- Consumer frailties and waiting for taskforces could set a high bar against hiking\n\n- It’s unclear if Warsh sought the market reaction, is buying time, or learning the ropes\n\nWhile it will be difficult to separate intent from unintended consequences perhaps to be revisited in subsequent commu"
+   }
+  ],
+  "searchTime": 3446.7,
+  "costDollars": {
+   "total": 0.007,
+   "search": {
+    "neural": 0.007
+   }
+  }
+ }
+}

@@ -1,0 +1,96 @@
+{
+ "theme": "fed",
+ "query": "Federal Reserve FOMC interest rate decision Powell",
+ "fetched_utc": "2026-10-12T10:10:07Z",
+ "response": {
+  "query": "Federal Reserve FOMC interest rate decision Powell",
+  "follow_up_questions": null,
+  "answer": null,
+  "images": [],
+  "results": [
+   {
+    "url": "https://www.kansan.com/opinion/opinion-inflation-is-stealing-your-starting-salary-why-monetary-policy-matters-to-you/article_2c1d2b3f-0b41-461f-b63b-3161d3836b3c.html",
+    "title": "OPINION: Inflation is Stealing Your Starting Salary: Why Monetary Policy Matters to You | Opinion | kansan.com",
+    "content": "Recently, newly appointed Federal Reserve Chairman Kevin Warsh announced that the Federal Reserve would raise interest rates by a quarter percentage point, from 3.75% to 4%. This comes after three consecutive cycles of Chairman Jerome Powell holding the interest rate flat. [...] Warsh’s decision to raise rates is especially interesting considering that, since beginning his second term, Trump has been publicly feuding with the chairman, Jerome Powell, for not cutting rates at his request. The Federal Reserve is designed to be independent to protect monetary policy from outside influence, and Trump was unable to exert the changes he wished for. [...] He was, however, able to appoint a new chairman when Powell’s term ended, selecting Kevin Warsh out of many candidates who were vying for the role. The assumption was that Warsh would be a hollow vessel to enact Trump’s policy, but Warsh’s decisions to raise rates and end forward guidance are big indicators that he aims to be independent and respect the dual mandate.",
+    "score": 0.63098115,
+    "published_date": "Tue, 06 Oct 2026 16:28:00 GMT",
+    "raw_content": null,
+    "id": "fd8560-00"
+   },
+   {
+    "url": "https://abcnews.com/Business/fed-expected-hold-interest-rates-steady/story?id=132450311",
+    "title": "Fed chair Jerome Powell says he will stay on central bank's board after term expires next month - ABC News",
+    "content": "The Federal Reserve held interest rates steady on Wednesday as prices rise in response to an oil shock set off by the Iran war.\n\nStephen Miran, a former Trump administration official who recently joined the board, cast the lone dissenting vote on the level of interest rates. He called for a quarter-point rate cut. [...] # Fed chair Jerome Powell says he will stay on central bank's board after term expires next month\n\nThe Fed held interest rates steady on Wednesday.\n\nByMax Zahn\n\nApril 29, 2026, 3:01 PM\n\nFederal Reserve Chair Jerome Powell on Wednesday said he would stay on at the central bank's board of governors after his term expires next month as an investigation into the central bank's office renovation continues, he said. [...] The central bank's move on Wednesday marked the third consecutive time it has opted to maintain interest rates at current levels since the outset of 2026. Before that, the Fed cut interest rates a quarter-point three straight times.\n\nWarsh, a former Fed official, is currently a fellow at a conservative think tank called the Hoover Institution, which is based at Stanford University.\n\nRelated\n\nWhat to know about the Elon Musk versus Sam Altman trial over OpenAI",
+    "score": 0.5053471,
+    "published_date": "Sun, 11 Oct 2026 02:00:00 GMT",
+    "raw_content": null,
+    "id": "24feb7-01"
+   },
+   {
+    "url": "https://www.stocktitan.net/articles/fed-minutes-september-2026-second-rate-hike",
+    "title": "Fed Minutes: Another Hike Likely, Ahead of November CPI",
+    "content": "We found no policy text in that window from the Chair, Powell, Bowman, Waller, Hammack or Kashkari on the Board’s or their Reserve Bank’s sites. Hammack and Kashkari both dissented for a hike in July, so the absence of text from them says nothing about a change of view.\n\n## The bond market’s move and the committee’s view of it [...] A few facts frame the sentence. The September decision itself had no dissent: the statement passed 12-0, and the minutes record \"Voting against this action: None.\" Before that, all participants, voters and non-voters alike, \"supported raising the target range for the federal funds rate 1/4 percentage point to 3-3/4 to 4 percent.\" The decision, the vote and the press conference were covered in our September 16 article on the hike, so this piece stays with what the minutes add. [...] In the September dot plot, 16 of the 18 participants who submitted projections placed the end-2026 rate midpoint at 4.125% or 4.375%, one or two hikes above the current 3.875% midpoint. Two placed it at 3.875%. The Chair did not submit a projection.\n\n### When is the next Fed meeting in 2026?\n\nThe next FOMC meeting is October 27-28, 2026, followed by December 8-9, which comes with a new Summary of Economic Projections, according to the Federal Reserve’s meeting calendar.",
+    "score": 0.37511167,
+    "published_date": "Wed, 07 Oct 2026 19:48:36 GMT",
+    "raw_content": null,
+    "id": "ad12d8-02"
+   },
+   {
+    "url": "https://www.cnbc.com/2026/10/09/trump-lisa-cook-fed-firing-committee-explained.html",
+    "title": "Trump’s Fed Lisa Cook committee explained: What happens next",
+    "content": "Trump's decision to establish the committee has no immediate bearing on Powell's standing at the Fed. Powell ended his term as Fed chairman in May but can remain on as a voting member of the Fed's Board of Governors through January 2028.\n\nPast Fed chairs have resigned their governorships once their term as the Fed's leader expired, but Powell said in March he wanted to stay on in order to see the end of a separate investigation against him \"with transparency and finality.\" [...] That investigation concluded two weeks ago without any criminal charges, and the Department of Justice said it would not pursue the matter further. Powell hasn't spoken about the Cook matter since the Supreme Court's ruling.\n\nThe White House criticized a third Fed governor, Michael Barr, over his involvement as the Fed's top bank regulator in the failure of Silicon Valley Bank in 2023. But the White House stopped short of calling for his resignation. [...] But notably, the Supreme Court didn't require Trump or other presidents to follow that example. The court says Cook was entitled to notice of the president's decision, an explanation of the evidence, and an opportunity to present her defense. That process could take place entirely in writing, Roberts notes.\n\nA Fed governor is not \"entitled to an audience with the President or a full-blown judicial trial,\" Roberts writes.",
+    "score": 0.3606697,
+    "published_date": "Fri, 09 Oct 2026 18:20:57 GMT",
+    "raw_content": null,
+    "id": "630d0c-03"
+   },
+   {
+    "url": "https://www.aljazeera.com/economy/2026/10/9/trump-launches-probe-into-federal-reserve-governor-lisa-cook",
+    "title": "Trump launches probe into Federal Reserve Governor Lisa Cook | Business and Economy News | Al Jazeera",
+    "content": "Advertisement\n\nThe ruling left Cook in her position, but kicked the case against her back to a federal district court.\n\nThe case has been closely watched as Trump has put political pressure on the central bank to cut interest rates, including launching investigations into then-Federal Reserve Chairman Jerome Powell, whose term ended in May. [...] In December 2025, Trump said he would only appoint someone who agreed with him on cutting interest rates. He appointed Kevin Warsh as Powell’s replacement. [...] Amid ongoing tensions with Iran, pressure on the oil market and rising inflation, the Fed last month raised the benchmark interest rate by a quarter of a percentage point to 3.75–4 percent, the first hike in three years. With the final rate decision before the midterm elections later this month, CME FedWatch, which tracks the likelihood of monetary policy decisions, forecasts that rates will likely remain unchanged.\n\nAdvertisement",
+    "score": 0.3450175,
+    "published_date": "Fri, 09 Oct 2026 16:01:37 GMT",
+    "raw_content": null,
+    "id": "c93e60-04"
+   },
+   {
+    "url": "https://ca.finance.yahoo.com/news/u-fed-raises-interest-rates-093000118.html",
+    "title": "U.S. Fed raises interest rates despite Trump: ‘Important shift’ Canadians must make as fixed mortgage rates respond",
+    "content": "money.ca\n\n# U.S. Fed raises interest rates despite Trump: ‘Important shift’ Canadians must make as fixed mortgage rates respond\n\nSteven Brennan\n\n4 min read\n\nPresident Trump and Fed Reserve Chair Jerome Powell + mortgage rate concept\n\nPresident Trump and Fed Reserve Chair Jerome Powell + mortgage rate concept [...] Three weeks after the U.S. Federal Reserve raised interest rates, Canadian fixed mortgage rates have moved higher too. But borrowers shouldn't assume the Fed's latest decision means Canadian fixed rates are headed sharply higher from here.\n\nThe Fed voted unanimously on Sept. 16 to raise its federal funds rate from 3.75% to 4%, despite President Donald Trump's calls for rates of 1% or lower. [...] ## What should Canadian borrowers do?\n\nFor someone buying a home, renewing a mortgage or refinancing, that makes trying to time the market particularly difficult.\n\nThe Fed's decision could contribute to further movement in bond yields, but what happens next will depend on more than one rate decision. Inflation, employment and economic growth will all influence how markets view the path for interest rates in the weeks ahead.",
+    "score": 0.29516947,
+    "published_date": "Wed, 07 Oct 2026 10:00:00 GMT",
+    "raw_content": null,
+    "id": "47f3cc-05"
+   },
+   {
+    "url": "https://edition.cnn.com/2026/10/09/economy/white-house-committee-investigate-lisa-cook-federal-reserve",
+    "title": "Trump launches new effort to oust Fed Governor Lisa Cook | CNN Business",
+    "content": "Trump has long berated the politically independent Fed because it hasn’t lowered interest rates to his liking, publicly targeting Cook and former Fed Chair Jerome Powell. But Trump has spared the current chairman, Kevin Warsh, whom he appointed to the position earlier this year after Powell’s term at the head of the central bank expired. Instead, Trump has insisted that Warsh is blocked by a “political” Board of Governors. [...] The central bank’s eight-member Board votes on interest rate decisions, along with regional Fed presidents. While the Fed leader often plays an influential role in shaping the discussion on policy moves, decisions are ultimately the result of the 12-person committee process.\n\nAt its September meeting, all 12 members, including Warsh, voted to raise rates for the first time in three years in an effort to contain inflation that has heated up largely due to the US war with Iran. [...] The formation of the committee marks the latest salvo in Trump’s ongoing attempts to reshape the Fed and comes just weeks ahead of its next monetary policy meeting, where officials will consider whether interest rate changes are merited.\n\nbetsy klein.jpg\n\nTrump lashes out after Fed raises rates, signals more to come",
+    "score": 0.2325719,
+    "published_date": "Fri, 09 Oct 2026 14:26:00 GMT",
+    "raw_content": null,
+    "id": "72de0b-06"
+   },
+   {
+    "url": "https://www.moomoo.com/news/post/1000856648/fed-minutes-offer-a-guide-to-future-interest-rate-moves",
+    "title": "Fed Minutes Offer a Guide to Future Interest Rate Moves. First, You Must Decode Them.",
+    "content": "ByMegan Leonhardt Three weeks after each meeting of the Federal Reserve's policy-setting committee, the central bank releases a summary of the closed-door",
+    "score": 0.10102949,
+    "published_date": "Sat, 10 Oct 2026 10:00:00 GMT",
+    "raw_content": null,
+    "id": "b156d1-07"
+   },
+   {
+    "url": "https://www.noradarealestate.com/blog/fed-interest-rate-forecast-for-the-next-5-years-2026-to-2031",
+    "title": "Fed Interest Rate Forecast for the Next 5 Years: 2026 to 2031",
+    "content": "Fed interest rate forecast 2026-2031: Will rates drop? An in-depth look at the \"higher for longer\" reality and what it means for your money.",
+    "score": 0.08315053,
+    "published_date": "Fri, 09 Oct 2026 10:00:00 GMT",
+    "raw_content": null,
+    "id": "fd03ea-08"
+   }
+  ],
+  "response_time": 1.05,
+  "request_id": "f8e6bc7e-0df9-4f17-93b2-67998a7b57f9"
+ }
+}

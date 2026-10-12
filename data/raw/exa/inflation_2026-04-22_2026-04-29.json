@@ -1,0 +1,107 @@
+{
+ "theme": "inflation",
+ "query": "US inflation CPI PCE consumer prices",
+ "start": "2026-04-22",
+ "end": "2026-04-29",
+ "fetched_utc": "2026-10-12T10:05:53Z",
+ "response": {
+  "requestId": "cc151e7ddbf4541220947224d937ca44",
+  "resolvedSearchType": "",
+  "results": [
+   {
+    "id": "https://blsmon1.bls.gov/news-release/archives/consumer-price-index-2026-05-15.htm",
+    "title": "Consumer Price Index - 2026 M03 - News Release",
+    "url": "https://blsmon1.bls.gov/news-release/archives/consumer-price-index-2026-05-15.htm",
+    "publishedDate": "2026-04-24T00:00:00.000Z",
+    "text": "Consumer Price Index - 2026 M03 - News Release\n\n# Consumer Price Index - March 2026\n\nTransmission of material in this release is embargoed until 8:30 am (ET) April 24, 2026\n\n## Top Takeaways\n\n1-month percent change, March 2026 \n\n+0.9%\n\n CPI-U, all items, seasonally adjusted\n\n12-month percent change, March 2026 \n\n+3.3%\n\n CPI-U, all items, not seasonally adjusted\n\n## Abstract\n\n CPI NextGen Test 5/15/2026 - In March, the Consumer Price Index for All Urban Consumers rose 0.9 percent, seasonally adjusted, and rose 3.3 percent over the last 12 months, not seasonally adjusted. The index for all items less food and energy increased 0.2 percent in March (SA). \n\n- All items and selected categories\n- Food\n- Energy\n- All items less food and energy\n\nCPI, 1-month percent change, seasonally adjusted, March 2023 to March 2026\n\n| Month | All items | Food | Energy | All items less food and energy |\n| --- | --- | --- | --- | --- |\n| Mar 2023 | 0.1% | 0.0% | -2.0% | 0.3% |\n| Apr 2023 | 0.3% | 0.2% | -0.7%",
+    "image": "https://www.bls.gov/images/bls_emblem_2016.png"
+   },
+   {
+    "id": "https://www.bloomberg.com/news/articles/2026-04-24/economists-raise-us-inflation-forecasts-as-iran-war-drags-on",
+    "title": "Economists Raise US Inflation Forecasts as Iran War Drags On - Bloomberg",
+    "url": "https://www.bloomberg.com/news/articles/2026-04-24/economists-raise-us-inflation-forecasts-as-iran-war-drags-on",
+    "publishedDate": "2026-04-24T00:00:00.000Z",
+    "author": "Mark Niquette",
+    "text": "Economists Raise US Inflation Forecasts as Iran War Drags On - Bloomberg\n\n# Economists Raise US Inflation Forecasts as Iran War Drags On\n\nUS households are dealing with gasoline prices that have been hovering around $4 a gallon on average, Photographer: David Paul Morris/Bloomberg\n\nBy Mark Niquette and Dana Morgan\n\nApril 24, 2026 at 10:00 AM UTC\n\nEconomists raised their estimates for US inflation and said they expect only one Federal Reserve interest-rate cut this year amid elevated energy costs sparked by the Iran war.\n\nThe personal consumption expenditures price index is now seen rising 3.6% in the second quarter from a year earlier, according to Bloomberg’s April survey of economists. That compares with the 3.3% estimate in the March survey.",
+    "image": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/i9Q6UfbRhxm4/v1/1200x800.jpg"
+   },
+   {
+    "id": "https://www.cnbc.com/2026/04/22/kevin-warsh-inflation-trend-pce-trump.html",
+    "title": "Kevin Warsh's preferred inflation measure could come back to bite him",
+    "url": "https://www.cnbc.com/2026/04/22/kevin-warsh-inflation-trend-pce-trump.html",
+    "publishedDate": "2026-04-22T00:00:00.000Z",
+    "author": "Alex Harring",
+    "text": "Kevin Warsh's preferred inflation measure could come back to bite him\n\n# Kevin Warsh gave his preferred way for measuring inflation. It could come back to bite him\n\nPublished Wed, Apr 22 2026 2:00 PM EDT Updated Wed, Apr 22 2026 3:29 PM EDT\n\nAlex Harring@alex_harring\n\nKey Points\n\n- Kevin Warsh said he preferred to follow inflation through a trimmed gauge as opposed to the Fed's favored core price index for personal consumption expenditures.\n- But Bank of America warned that such a change may not play out as he hopes.\n\nVIDEO 5:31 05:31\n\nKevin Warsh, President Donald Trump's nominee for Federal Reserve chair, told lawmakers that he would like the central bank to change its strategy for measuring inflation.\n\nBut Bank of America economist Aditya Bhave warned Wednesday that such a reconfiguration — part of a broader \"regime change\" that Warsh has promised for the central bank — might not pan out as he hopes.\n\nThe Fed has long favored the core price index for personal consumption expenditure",
+    "image": "https://image.cnbcfm.com/api/v1/image/108294945-1776803982199-gettyimages-2271864612-warsh_senate_499_042126.jpeg?v=1776804021&w=1920&h=1080"
+   },
+   {
+    "id": "https://piedmontcrescentcapital.com/a-view-from-the-piedmont-hot-headline-patient-core-and-a-cleared-runway/",
+    "title": "A View from the Piedmont: Hot Headline, Patient Core, and a Cleared Runway - Piedmont Crescent Capital",
+    "url": "https://piedmontcrescentcapital.com/a-view-from-the-piedmont-hot-headline-patient-core-and-a-cleared-runway/",
+    "publishedDate": "2026-04-27T00:00:00.000Z",
+    "author": "Mark Vitner",
+    "text": "A View from the Piedmont: Hot Headline, Patient Core, and a Cleared Runway - Piedmont Crescent Capital\n\n# A VIEW FROM THE PIEDMONT\n\nHot Headline, Patient Core, and a Cleared Runway at the Fed\n\nMark P. Vitner, Chief Economist · mark.vitner@piedmontcrescentcapital.com · April 26, 2026\n\n#### Highlights of the Week\n\n- Economic Pulse: Strong consumer in the data, weakening confidence in the surveys. The expansion is holding even as the war embeds itself in headline prices.\n- Consumer: March retail sales beat expectations at +1.7% headline and +0.7% control group, the strongest since August. Tax refunds are doing real work.\n- Inflation: Headline CPI jumped to 3.3% YoY on a 21% gasoline surge, but core CPI was 0.2% m/m and Cleveland median and trimmed-mean both ran 0.2%. The trend signal is intact.\n- Markets: 10-yr at 4.31%, equities at all-time highs, Brent ~$104. Risk and rate markets disagree on the war's trajectory. Bonds look right.\n- Geopolitics: Strait of Hormuz remains effectively clo",
+    "image": "https://piedmontcrescentcapital.com/wp-content/uploads/2022/11/PCC_VFTP_Hero1.jpg"
+   },
+   {
+    "id": "https://metapress.net/economy/2026/04/22/inflation-held-sticky-at-3-as-u-s-headed-into-war-with-iran-key-fed-gauge-shows/",
+    "title": "Inflation held sticky at 3% as U.S. headed into war with Iran, key Fed gauge shows – Metapress",
+    "url": "https://metapress.net/economy/2026/04/22/inflation-held-sticky-at-3-as-u-s-headed-into-war-with-iran-key-fed-gauge-shows/",
+    "publishedDate": "2026-04-22T00:00:00.000Z",
+    "author": "metapress.net",
+    "text": "Inflation held sticky at 3% as U.S. headed into war with Iran, key Fed gauge shows – Metapress\n\n# Inflation held sticky at 3% as U.S. headed into war with Iran, key Fed gauge shows \n\n By metapress.net On Apr 22, 2026 \n\nCore inflation held above the Federal Reserve’s target before the recent surge in energy prices, according to a key gauge released Thursday that offers the central bank a snapshot of conditions leading into the Iran war.\n\nThe core personal consumption expenditures price index, which excludes food and energy, rose a seasonally adjusted 3% in February, the Commerce Department reported. The all-items headline inflation measure increased 2.8%.\n\nBoth readings were in line with the Dow Jones consensus. The core annual inflation rate was 0.1 percentage point lower than in January while headline was unchanged.\n\nOn a monthly basis, both core and headline prices rose 0.4%, also meeting forecasts.\n\nThe Fed uses the PCE price index as its primary yardstick and forecasting tool for i",
+    "image": "https://image.cnbcfm.com/api/v1/image/108287548-1775508188931-gettyimages-2270117620-img_0329_10cdpirk.jpeg?v=1775508273&w=1920&h=1080"
+   },
+   {
+    "id": "https://www.investing.com/analysis/upcoming-market-dates-pce-inflation-and-q1-gdp-determining-the-feds-next-move-200679249",
+    "title": "Upcoming Market Dates: PCE Inflation and Q1 GDP Determining the Fed’s Next Move | Investing.com",
+    "url": "https://www.investing.com/analysis/upcoming-market-dates-pce-inflation-and-q1-gdp-determining-the-feds-next-move-200679249",
+    "publishedDate": "2026-04-28T00:00:00.000Z",
+    "author": "The Tokenist",
+    "text": "Upcoming Market Dates: PCE Inflation and Q1 GDP Determining the Fed’s Next Move | Investing.com\n\n# Upcoming Market Dates: PCE Inflation and Q1 GDP Determining the Fed’s Next Move\n\nBy The Tokenist\n\nAuthor Tim Baker\n\nPublished 04/28/2026, 01:27 AM\n\nIn this article:\n\nBitcoin US Dollar+0.71%\n\nTwo key market dates are hitting at 8:30 am ET on Thursday, April 30 carry the combined weight of the Federal Reserve’s rate path through the second half of 2026: Q1 GDP, where consensus is anchored at 1.8% annualized growth, and core PCE inflation, where Barclays economist Pooja Sriram forecasts a month-over-month print of 0.24% to 0.28%, translating to 3.1% year-over-year in the stronger reading.\n\nBoth numbers land the morning after Jerome Powell’s final FOMC press conference as Fed Chair, when CME FedWatch assigns a 99.0% probability that the central bank will keep the federal funds rate target range at 3.50% to 3.75%.\n\nIf there’s any deviation from the consensus on either release, we’ll reprice th",
+    "image": "https://i-invdn-com.investing.com/redesign/images/seo/investingcom_analysis_og.jpg"
+   },
+   {
+    "id": "https://www.reuters.com/markets/us/warsh-led-feds-2-inflation-goal-might-be-different-2-2026-04-23/",
+    "title": "A Warsh-led Fed's 2% inflation goal might be a different 2% | Reuters",
+    "url": "https://www.reuters.com/markets/us/warsh-led-feds-2-inflation-goal-might-be-different-2-2026-04-23/",
+    "publishedDate": "2026-04-23T00:00:00.000Z",
+    "author": "Mike Dolan",
+    "text": "A Warsh-led Fed's 2% inflation goal might be a different 2% | Reuters\n\n# A Warsh-led Fed's 2% inflation goal might be a different 2%\n\nMike Dolan\n\nApril 23, 2026 6:05 AM UTC Updated April 23, 2026\n\nThe exterior of the Marriner S. Eccles Federal Reserve Board Building is seen in Washington, D.C., U.S., June 14, 2022. REUTERS/Sarah Silbiger Purchase Licensing Rights, opens new tab\n\nLONDON, April 23 (Reuters) - Central bankers have always sliced and diced inflation statistics to burnish their record of hitting targets over time. But there's growing speculation that the incoming Federal Reserve boss may try to shift the goalposts.\n\nFed Chair nominee Kevin Warsh's congressional hearing this week was broadly as expected: he affirmed a belief in Fed independence, and outlined his ​views on Fed reform, balance sheet reduction and the long-term trajectory of the economy.\n\nDespite President Donald Trump's continued calls for lower interest rates, Warsh said Trump did not ask him to commit to cutt",
+    "image": "https://www.reuters.com/resizer/v2/YRB5EOQTB5ARZNOMPTKCQZMKTE.JPG?auth=fbdac2d3ba0413fc717d7a5da3e05a4662a69a74d88b4a9a5999157702234a61&height=1005&width=1920&quality=80&smart=true"
+   },
+   {
+    "id": "https://thewealthbreak.com/news/march-2026-cpi-inflation-report/",
+    "title": "US Inflation Hits 3.3% in March 2026: What to Know - Wealth Break",
+    "url": "https://thewealthbreak.com/news/march-2026-cpi-inflation-report/",
+    "publishedDate": "2026-04-23T00:00:00.000Z",
+    "text": "US Inflation Hits 3.3% in March 2026: What to Know - Wealth Break\n\n# US Inflation Hits 3.3% in March 2026: What to Know\n\n Written by: Malik Saaka\n\n April 23, 2026 \n\n## Key Takeaways\n\n- The March 2026 Consumer Price Index rose 3.3% year-over-year, the highest reading since May 2024.\n- Prices rose 0.9% month-over-month, the biggest monthly gain since June 2022.\n- Gasoline prices jumped 21.2% in a single month – the largest monthly surge since 1967.\n- Core inflation (excluding food and energy) ticked up to 2.6% annually, showing broader price pressure.\n- The report reduces the chances of Federal Reserve rate cuts in 2026 and keeps pressure on household budgets.\n\nThe Bureau of Labor Statistics dropped an inflation bombshell on April 10, 2026. The headline Consumer Price Index surged to 3.3% on an annual basis in March, up from 2.4% in both January and February. That makes March the hottest inflation print in nearly two years, and it has forced economists, investors, and the Federal Reserve",
+    "image": "https://thewealthbreak.com/wp-content/uploads/2025/03/social-share-card-1.png"
+   },
+   {
+    "id": "https://srnnews.com/warshs-quest-for-better-inflation-data-is-a-well-worn-difficult-pursuit-for-fed/",
+    "title": "Warsh's quest for better inflation data is a well-worn, difficult pursuit for Fed - SRN News",
+    "url": "https://srnnews.com/warshs-quest-for-better-inflation-data-is-a-well-worn-difficult-pursuit-for-fed/",
+    "publishedDate": "2026-04-24T00:00:00.000Z",
+    "author": "jgiesler",
+    "text": "Warsh's quest for better inflation data is a well-worn, difficult pursuit for Fed - SRN News\n\n## Politics\n\n## Warsh’s quest for better inflation data is a well-worn, difficult pursuit for Fed\n\n Fri, Apr 24, 2026 0 Comments \n\nEnlarge\n\nBy Howard Schneider\n\nWASHINGTON, April 24 (Reuters) – Federal Reserve Chair nominee Kevin Warsh has called for a major rethink of how to measure inflation, but he may have less trouble finding new ideas at the central bank than in choosing from an expanding set of alternate models, measures and forecasts designed to understand how the price level is changing.\n\nOne month of recent data shows the dilemma.\n\nFebruary inflation numbers under the key measure tracked by the Fed came in nearly a percentage point above the central bank’s 2% target. Separate calculations at the Dallas Federal Reserve, using a methodology preferred by Warsh that discards outliers like the 384% annualized price jump for moving services or the 50% annualized crash for calculators and t",
+    "image": "https://www.srnnews.com/media/2026/04/17770251268711405t9G2brsL4.jpg?x39338"
+   },
+   {
+    "id": "https://www.rbc.com/en/economics/us-week-ahead/compounding-shocks-to-keep-the-fed-sidelined/",
+    "title": "Compounding shocks to keep the Fed sidelined - RBC Economics",
+    "url": "https://www.rbc.com/en/economics/us-week-ahead/compounding-shocks-to-keep-the-fed-sidelined/",
+    "publishedDate": "2026-04-24T00:00:00.000Z",
+    "text": "Compounding shocks to keep the Fed sidelined - RBC Economics\n\n## Compounding shocks to keep the Fed sidelined \n\nWe expect a largely uneventful Fed meeting next week for a committee that is increasingly taking a backseat role – observing macroeconomic conditions and responding to them rather than steering them from the driver’s seat. In the face of compounding inflation shocks (a geopolitical event and a trade war), we expect that the Fed will stand pat and await additional data.\n\nAs a result of these shocks, we anticipate inflation will heat up in the coming months which will derail the Fed’s path towards what Chair Powell has characterized as the middle-range of neutral. At the last press conference, Chair Powell emphasized, “[…] you can characterize it (the current policy rate) as in the high end of neutral, or you can characterize it as perhaps mildly restrictive, even modestly restrictive.” Our Rates Strategists, Blake Gwinn and Izaac Brook, expect that the April 29 th meeting will",
+    "image": "https://www.rbc.com/en/economics/wp-content/uploads/sites/23/2025/10/FG-WA.png?quality=80"
+   }
+  ],
+  "searchTime": 1650.5,
+  "costDollars": {
+   "total": 0.007,
+   "search": {
+    "neural": 0.007
+   }
+  }
+ }
+}

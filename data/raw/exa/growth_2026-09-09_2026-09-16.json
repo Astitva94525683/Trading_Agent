@@ -1,0 +1,104 @@
+{
+ "theme": "growth",
+ "query": "US economy GDP growth recession retail sales ISM",
+ "start": "2026-09-09",
+ "end": "2026-09-16",
+ "fetched_utc": "2026-10-12T10:09:48Z",
+ "response": {
+  "requestId": "2920989946f3d626471558518fc87f1c",
+  "resolvedSearchType": "",
+  "results": [
+   {
+    "id": "https://www.advisorperspectives.com/dshort/updates/2026/09/30/q2-gdp-third-estimate-real-gdp-at-2-2",
+    "title": "Q2 GDP Third Estimate: Real GDP Revised Upward to 2.2% - dshort - Advisor Perspectives",
+    "url": "https://www.advisorperspectives.com/dshort/updates/2026/09/30/q2-gdp-third-estimate-real-gdp-at-2-2",
+    "publishedDate": "2026-09-11T00:00:00.000Z",
+    "author": "Jennifer Nash",
+    "text": "Q2 GDP Third Estimate: Real GDP Revised Upward to 2.2% - dshort - Advisor Perspectives\n\n# Q2 GDP Third Estimate: Real GDP Revised Upward to 2.2%\n\nby Jennifer Nash, 9/30/26 \n\nQ2 GDP growth was revised higher from the advance and second estimates at an annualized rate of 2.2%, according to the BEA’s third estimate. This represents a slowdown from the 2.5% pace recorded in Q1, which was also revised higher.\n\n## Key Takeaways\n\n1. The third estimate for Q2 GDP of 2026 was revised higher as U.S. real GDP expanded at an annualized rate of 2.2%, slowing from 2.5% in Q1.\n2. Economic expansion during the quarter was driven primarily by sustained momentum across consumer spending, private business investment, and exports.\n3. The first quarter of 2026 saw an upward revision of 0.4% to 2.5% due to higher exports of services and consumer spending.\n\nHere is the opening text from the Bureau of Economic Analysis news release:\n\n> Real gross domestic product (GDP) increased at an annual rate of 2.2 perce",
+    "image": "https://www.advisorperspectives.com/dshort/charts/a631955242ae28a5f01fa3b46a25ae72fcad5e99.png"
+   },
+   {
+    "id": "https://industrialsupplymagazine.com/pages/News-090926-Services-sector-continues-expansion-with-PMI-at-554.php",
+    "title": "Services sector continues expansion with PMI at 55.4% - Industrial Supply Magazine",
+    "url": "https://industrialsupplymagazine.com/pages/News-090926-Services-sector-continues-expansion-with-PMI-at-554.php",
+    "publishedDate": "2026-09-09T00:00:00.000Z",
+    "text": "Services sector continues expansion with PMI at 55.4% - Industrial Supply Magazine\n\nPosted September 9, 2026\n\n# Services sector continues expansion with PMI at 55.4%\n\nEconomic activity in the services sector continued to expand in August, say the nation’s purchasing and supply executives in the latest ISM Services PMI Report. The Services PMI registered 55.4%, the 26th consecutive month in expansion territory.\n\nThe report was issued by Steve Miller, CPSM, CSCP, chair of the Institute for Supply Management (ISM) Services Business Survey Committee:\n\n“In August, the Services PMI registered 55.4%, an increase of 1.3 percentage points compared to July’s figure of 54.1%. The Business Activity Index remained in expansion territory in August, increasing 2.6 percentage points to 61.7% from July’s reading of 59.1%. The New Orders Index registered 60.9%, 3.7 percentage points above July’s figure of 57.2%. The Employment Index contracted for a second straight month with a reading of 47.8%, a 0.4-p",
+    "image": "https://industrialsupplymagazine.com/content/sharing/site.jpg"
+   },
+   {
+    "id": "https://www.portfolioai.com/report/recession-analysis-2026-09-16-search-signal",
+    "title": "Recession Attention Rises, but the Labor Signal Holds",
+    "url": "https://www.portfolioai.com/report/recession-analysis-2026-09-16-search-signal",
+    "publishedDate": "2026-09-16T00:00:00.000Z",
+    "author": "Shaun McQuaker",
+    "text": "Recession Attention Rises, but the Labor Signal Holds\n\nPortfolioAI Recession Analysis · September 16, 2026\n\n# Recession Attention Rises, but the Labor Signal Holds\n\nA pickup in public concern and a firmer prediction-market price deserve attention; the available output and labor evidence still argues against calling a near-term contraction.\n\n## Executive Summary\n\nThe U.S. economy remains in an expansionary position, with a narrower margin for error than the headline data alone suggests. Unemployment was 4.1% in August, the Sahm Rule was −0.07—well below its 0.50 trigger—and real GDP reached $24.27 trillion in the second quarter, above the first-quarter level. The Federal Reserve’s smoothed recession-probability series was 0.76% in July. None of those readings resembles a recession already under way.\n\nThe forward-looking evidence is less settled. Searches for “recession” rose 32.9% from roughly a week earlier, while Polymarket priced a year-end recession at 10.5%. Neither is a business-c",
+    "image": "https://www.portfolioai.com/img/portfolio-ai-og.webp"
+   },
+   {
+    "id": "https://fxpro.news/market-overview/manufacturing-ism-inflation-up-activity-down/",
+    "title": "Forex - Manufacturing ISM: inflation up, activity down | Market Overview September 10, 2026",
+    "url": "https://fxpro.news/market-overview/manufacturing-ism-inflation-up-activity-down/",
+    "publishedDate": "2026-09-10T00:00:00.000Z",
+    "text": "Forex - Manufacturing ISM: inflation up, activity down | Market Overview September 10, 2026\n\n# Manufacturing ISM: inflation up, activity down\n\nApril 02, 2025 @ 17:19 +03:00\n\nTuesday’s ISM Manufacturing Indicator confirmed a worrying divergence in the US economy: economic activity is down, and inflation is rising. Often, the latter follows the former, but not now. A prolonged period of such dynamics is called stagflation, and it forces the Fed to make difficult choices in its dual mandate.\n\nThe ISM manufacturing business activity index fell from 50.3 to 49 last month. Strictly speaking, this is contractionary territory for the sector’s activity, but due to the greater resilience of the service sector, historically, US GDP has declined when the indicator falls below 42.3.\n\nThe price component climbed to 69.4, recording its highest value since mid-2022. Unlike the episode three years ago, this has nothing to do with the economy overheating. We recall that the University of Michigan previo",
+    "image": "https://fxpro.news/wp-content/uploads/2025/04/US-Man-ISM-250402-1024x585.png"
+   },
+   {
+    "id": "https://www.eetimes.com/uncertainty-stymies-manufacturing-activity/",
+    "title": "Uncertainty Stymies Manufacturing Activity - EE Times",
+    "url": "https://www.eetimes.com/uncertainty-stymies-manufacturing-activity/",
+    "publishedDate": "2026-09-15T00:00:00.000Z",
+    "author": "Barbara Jorgensen",
+    "text": "Uncertainty Stymies Manufacturing Activity - EE Times\n\n# Uncertainty Stymies Manufacturing Activity\n\n By Barbara Jorgensen 11.04.2024 0 \n\nUncertainty over the U.S. election and subsequent monetary policy have stagnated the U.S. manufacturing sector for the seventh straight month. A leading indicator of factory activity, the Institute for Supply Management’s PMI, dipped by 0.7 percent further into contraction territory to a level of 46.5 percent. Any reading below 50.0 indicates contraction, and October’s was the lowest reading since July 2023.\n\n“Demand remains subdued, as companies continue to show an unwillingness to invest in capital and inventory due to concerns [for example, inflation resurgence] about federal monetary policy direction in light of the fiscal policies proposed by both major parties,” said Tim Fiore, chair of the ISM’s manufacturing survey committee. “Demand continues to be weak, output declined, and inputs stayed accommodative [to future growth.]”\n\nNew orders remain",
+    "image": "https://www.eetimes.com/wp-content/uploads/2024/11/business-graph.jpeg?resize=1200,675"
+   },
+   {
+    "id": "https://www.jec.senate.gov/public/vendor/_accounts/JEC-R/inflation/Monthly%20Inflation%20Update.html",
+    "title": "Monthly-Inflation-Update-website.knit",
+    "url": "https://www.jec.senate.gov/public/vendor/_accounts/JEC-R/inflation/Monthly%20Inflation%20Update.html",
+    "publishedDate": "2026-09-11T00:00:00.000Z",
+    "text": "# Monthly-Inflation-Update-website.knit\n\nPublished: 2026-09-11T00:00:00Z\nSource: jec.senate.gov\nLanguage: en\n\n## Story\n\nMonthly-Inflation-Update-website.knit\n#### **August 2026** | Released September 11, 2026\n+3.40\npercent\nConsumer Price Index\ninflation\nAug 2025 to Aug\n2026\n+0.40\npercent\nConsumer Price Index\ninflation\nJul 2026 to Aug\n2026\n+0.16\npercent\nChange in real\naverage weekly earnings\nJul\n2026 to Aug 2026\n### **Consumer Price Index**\n#### **From July 2026 to August 2026:**\n* Headline CPI-U inflation was **0.40 percent**.\n* Food price inflation was **0.12 percent**.\n* Energy price inflation was **2.10 percent**.\n* Core CPI-U inflation was **0.29 percent**.\n#### **From August 2025 to August 2026:**\n* Headline CPI-U inflation was **3.40 percent**.\n* Food price inflation was **2.67 percent**.\n* Energy price inflation was **16.28 percent**.\n* Core CPI-U inflation was **2.45 percent**.\n**Note: ** Core CPI-U excludes food and energy.\n#### **Table 1. Consumer Price Index inflation**\n||\nA"
+   },
+   {
+    "id": "https://www.haver.com/articles/u-s-empire-state-manufacturing-index-cools-sharply-in-september",
+    "title": "U.S. Empire State Manufacturing Index Cools Sharply in September - Haver Analytics",
+    "url": "https://www.haver.com/articles/u-s-empire-state-manufacturing-index-cools-sharply-in-september",
+    "publishedDate": "2026-09-15T00:00:00.000Z",
+    "author": "Winnie Tapasanun Author",
+    "text": "U.S. Empire State Manufacturing Index Cools Sharply in September - Haver Analytics\n\n| Sep 15 2026\n\n# U.S. Empire State Manufacturing Index Cools Sharply in September\n\nby: Winnie Tapasanun\n\n| in: Economy in Brief\n\n###### Summary\n\n- General Business Conditions Index down 13.0 pts. to 7.6 in Sept.; sixth straight expansion.\n- New orders (2.0), down 15.3 pts.; weakest level since Dec. ’25, still indicating expansion.\n- Shipments (-3.2), down 14.9 pts.; first negative reading since March.\n- Unfilled orders (5.9), down 9.6 pts. but staying positive; inventories (8.9), highest since May.\n- Employment (10.6), up 1.3 pts.; eighth consecutive expansion.\n- Prices paid (63.1), highest since July '22; prices received (28.1), a three-month high.\n- Firms still optimistic: Future Business Conditions Index down to a still-expansionary 29.0; future prices paid rising to 67.3, highest since June ’22.\n\nThe Empire State Manufacturing Index of General Business Conditions fell sharply to a lower-than-expecte"
+   },
+   {
+    "id": "https://www.veritaseuropaea.eu/blog/2026/09/15/ai-vs-us-economy-growth-2026/",
+    "title": "AI contribution to US GDP growth: What Really Drove US Growth in 2026",
+    "url": "https://www.veritaseuropaea.eu/blog/2026/09/15/ai-vs-us-economy-growth-2026/",
+    "publishedDate": "2026-09-15T00:00:00.000Z",
+    "author": "Jan Bostl",
+    "text": "AI contribution to US GDP growth: What Really Drove US Growth in 2026\n\n# AI Versus the Rest of the Economy: Inside America’s 1.5 Percent Problem\n\n15.09.2026\n\nJan Bostl\n\nThe Bureau of Economic Analysis put second-quarter growth at 1.5 percent annualized. That reading sits well below the 2.1 percent the economy managed in the first quarter. It also undershot the 2.1 percent consensus that economists had penciled in beforehand. What Really Drove US Growth\n\nBeneath that soft headline, the composition tells a stranger story. Corporate profits jumped by $400.9 billion in a single quarter. Profit margins reached 14.9 percent of GDP, an all-time record, according to EY-Parthenon’s reading of the release.\n\nSo American companies earned more than ever, while the economy they operate in slowed sharply. That gap sits at the center of this year’s argument about artificial intelligence. One question now dominates every macro desk in New York and London. How much of US growth actually belongs to the A",
+    "image": "https://www.veritaseuropaea.eu/wp-content/uploads/2026/09/gettyimages-2226519693_2k.avif"
+   },
+   {
+    "id": "https://recessionpulse.com/blog/weekly-recession-report-september-13-2026",
+    "title": "Weekly Recession Report — September 13, 2026 | RecessionPulse",
+    "url": "https://recessionpulse.com/blog/weekly-recession-report-september-13-2026",
+    "publishedDate": "2026-09-13T00:00:00.000Z",
+    "text": "Weekly Report September 13, 2026\n\n# Weekly Recession Report — September 13, 2026\n\nThe Weekly Recession Report for the week of September 13, 2026, indicates that while the U.S. economy remains in a **late-cycle** phase with **low layoffs** and **high equities**, signs of **deterioration** in labor-market dynamics and **consumer sentiment** suggest underlying vulnerabilities. Key indicators show **industrial production expanding** and a **slight uptick in unemployment**, highlighting a complex economic landscape.\n\n# Weekly Recession Report — Week of September 13, 2026\n\nThe U.S. economy continues to look late-cycle but not recessionary in the headline data: layoffs remain rare, financial conditions are loose, and equities are near highs. But the composition of the cycle is deteriorating—especially in labor-market churn (quits), temp staffing, freight/goods activity, and household buffers (savings). This week’s news flow reinforced that tension: initial jobless claims stayed low at 206K (w",
+    "image": "https://recessionpulse.com/og-image.png"
+   },
+   {
+    "id": "https://piedmontcrescentcapital.com/broad-and-real-except-at-the-pump-retail-sales-august-2026/",
+    "title": "Retail Sales, August 2026: Broad and Real, Except at the Pump - Piedmont Crescent Capital",
+    "url": "https://piedmontcrescentcapital.com/broad-and-real-except-at-the-pump-retail-sales-august-2026/",
+    "publishedDate": "2026-09-16T00:00:00.000Z",
+    "author": "Mark Vitner",
+    "text": "Retail Sales, August 2026: Broad and Real, Except at the Pump - Piedmont Crescent Capital\n\n# Retail Sales, August 2026: Broad and Real, Except at the Pump\n\nEconomic Indicator Report · Retail Sales, August 2026\n\n# Broad and Real, Except at the Pump\n\nRetail and food services sales rose 1.2% in August, and all thirteen major categories are higher than a year ago. Gasoline's gain is almost entirely pump prices; strip it out and the control group's 1.4% increase, running near a 5% real annual pace, stands on its own.\n\nMark P. Vitner, Chief Economist · Piedmont Crescent Capital · September 16, 2026\n\n## Early Signals\n\n1. The headline, and what it hides. Retail and food services sales rose 1.2% in August after falling a revised 0.5% in July. Sales are up 6.0% over the past twelve months, and every one of the thirteen major categories Census tracks is higher than it was a year ago.\n2. The control group is the number that matters. Core retail sales, which exclude motor vehicles, gasoline, buildi",
+    "image": "https://piedmontcrescentcapital.com/wp-content/uploads/2022/11/piedmont-crescent-capital-social-share-image-1.jpg"
+   }
+  ],
+  "searchTime": 3989,
+  "costDollars": {
+   "total": 0.007,
+   "search": {
+    "neural": 0.007
+   }
+  }
+ }
+}

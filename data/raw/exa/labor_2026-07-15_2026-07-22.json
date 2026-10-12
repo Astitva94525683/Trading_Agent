@@ -1,0 +1,105 @@
+{
+ "theme": "labor",
+ "query": "US jobs report nonfarm payrolls unemployment labor market",
+ "start": "2026-07-15",
+ "end": "2026-07-22",
+ "fetched_utc": "2026-10-12T10:08:04Z",
+ "response": {
+  "requestId": "5128d873192f735b970501bea8d6bc4d",
+  "resolvedSearchType": "",
+  "results": [
+   {
+    "id": "https://111things.com/data/u-s-jobs-report-what-the-june-2026-employment-situation-says-about-hiring-unemployment-and-wages-and-what-to-watch-next/",
+    "title": "U.S. jobs report: What the June 2026 Employment Situation says about hiring, unemployment, and wages—and what to watch next | Interactive News",
+    "url": "https://111things.com/data/u-s-jobs-report-what-the-june-2026-employment-situation-says-about-hiring-unemployment-and-wages-and-what-to-watch-next/",
+    "publishedDate": "2026-07-15T00:00:00.000Z",
+    "author": "Brian Bateman",
+    "text": "U.S. jobs report: What the June 2026 Employment Situation says about hiring, unemployment, and wages—and what to watch next | Interactive News\n\n# U.S. jobs report: What the June 2026 Employment Situation says about hiring, unemployment, and wages—and what to watch next\n\n July 15, 2026 2:00 pm Data, Local Headlines \n\nThe latest U.S. jobs report (BLS’s Employment Situation for June 2026) paints a mixed but steady picture for hiring. Payroll employment rose by +57,000 and the unemployment rate held at 4.2%, while labor-force participation fell and long-term unemployment remains elevated.\n\nReleased July 2, 2026, the report combines two different surveys—one tracking job growth through payrolls, and another tracking unemployment through household labor-force status. Reading both is key to understanding what changed for job seekers and employers.\n\n## June’s headline numbers: steady payroll growth, unemployment flat\n\nBLS reported that total nonfarm payroll employment changed little in June at",
+    "image": "https://jetpack.com/redirect/?source=sigenerate&query=t%3DeyJpbWciOiJodHRwczpcL1wvMTExdGhpbmdzLmNvbVwvd3AtY29udGVudFwvdXBsb2Fkc1wvMjAyNlwvMDZcL2Fic3RyYWN0LWJhY2tncm91bmQtb2YtZGVmb2N1c2VkLWJ1aWxkaW5nLWxpZ2h0cy1vZi1pbGx1bWluYXRlZC1tb2Rlcm4tY2l0eS1hdC1kYXJrLW5pZ2h0LTQxMzkxNDMtMTAyNHg2ODMuanBnIiwidHh0IjoiVS5TLiBqb2JzIHJlcG9ydDogV2hhdCB0aGUgSnVuZSAyMDI2IEVtcGxveW1lbnQgU2l0dWF0aW9uIHNheXMgYWJvdXQgaGlyaW5nLCB1bmVtcGxveW1lbnQsIGFuZCB3YWdlc1x1MjAxNGFuZCB3aGF0IHRvIHdhdGNoIG5leHQiLCJ0ZW1wbGF0ZSI6ImhpZ2h3YXkiLCJmb250IjoiIiwiYmxvZ19pZCI6MTI2NDgzMDY3fQ.fYKEj44SLmgE45uagAjGTTcDPpgvXgT_2rKk0GBNTnQMQ"
+   },
+   {
+    "id": "https://gdpquery.ai/insights/us-payrolls-add-57k-june-unemployment-slips-to-4-2-percent",
+    "title": "U.S. Payrolls Add 57K in June, Unemployment Slips to 4.2% | GDPQuery.ai Insights",
+    "url": "https://gdpquery.ai/insights/us-payrolls-add-57k-june-unemployment-slips-to-4-2-percent",
+    "publishedDate": "2026-07-16T00:00:00.000Z",
+    "text": "U.S. Payrolls Add 57K in June, Unemployment Slips to 4.2% | GDPQuery.ai Insights\n\n# U.S. Payrolls Add 57K in June, Unemployment Slips to 4.2%\n\nJuly 16, 2026\n\nDrafted by Claude Opus 4.8 · Reviewed by a human before publication · Data through June 2026\n\n## Highlights\n\n- Print\n\nEmployers added just 57,000 nonfarm jobs in June, and the unemployment rate ticked down to 4.2 percent.\n- Print\n\nApril and May were revised down by a combined 74,000 jobs, with May cut from +172,000 to +129,000 and April from +179,000 to +148,000.\n- Read\n\nUnemployment fell for the wrong reason: participation dropped 0.3 percentage point to 61.5 percent and the household survey's count of the employed fell 507,000 on the month.\n- Read\n\nHiring was strikingly narrow, with professional and business services adding 36,000 while leisure and hospitality shed 61,000, and the concentration of growth in so few sectors is itself a warning sign.\n- Read\n\nThe labor market is cooling rather than cracking, and the August 28 prelim"
+   },
+   {
+    "id": "https://www.deloitte.com/us/en/insights/topics/economy/spotlight/private-sector-job-growth.html",
+    "title": "US labor market trends and risks | Deloitte Insights",
+    "url": "https://www.deloitte.com/us/en/insights/topics/economy/spotlight/private-sector-job-growth.html",
+    "publishedDate": "2026-07-19T00:00:00.000Z",
+    "author": "Akrur Barua",
+    "text": "US labor market trends and risks | Deloitte Insights\n\n# Resilience with a pinch of caution for the US labor market\n\n## The July 2026 Economics Insider analyzes the rebound in the US labor market this year, its drivers, and the risks it faces amid softer consumer spending and economic uncertainty\n\n By Akrur Barua \n\n20 July 2026\n\nFor much of 2025, a weakening labor market was an important consideration in US monetary policy decisions. Just seven months back, the US Federal Reserve cited downside risks to the labor market when it reduced the federal funds rate by 25 basis points. 1 Indeed, total nonfarm payroll growth stalled to a monthly average of just 10,000 last year, with jobs even declining in the fourth quarter. 2 \n\nFast forward to July 2026, and we have a slightly different scenario: Recent US Fed statements seem to suggest that, right now, it is more concerned about inflation than the labor market. Job growth has picked up after all and unemployment remains relatively low. 3 Is t",
+    "image": "https://media.deloitte.com/is/image/deloitte/IN189178_Social:1200-x-627"
+   },
+   {
+    "id": "https://isp.netscape.com/news/us/story/0001/20260716/4ad283af1308077358aa2b038cb6e64d",
+    "title": "US weekly unemployment claims fall to 208,000, fewest in 10 weeks - Netscape News",
+    "url": "https://isp.netscape.com/news/us/story/0001/20260716/4ad283af1308077358aa2b038cb6e64d",
+    "publishedDate": "2026-07-16T00:00:00.000Z",
+    "author": "MATT OTT AP Business Writer",
+    "text": "US weekly unemployment claims fall to 208,000, fewest in 10 weeks - Netscape News\n\nNetscape Internet Service US News\n\nWASHINGTON (AP) — Filings for unemployment benefits fell last week to the lowest level in 10 weeks as U.S. layoffs remain historically low.\n\nThe number of Americans applying for jobless aid in the week ending July 11 dropped by 8,000 to 208,000, the Labor Department reported Thursday. That's well below the 219,000 new applications forecast by analysts surveyed by the data firm FactSet.\n\nWeekly filings for unemployment benefits are considered a proxy for layoffs and are close to a real-time indicator of the health of the U.S. job market.\n\nIn its more comprehensive June jobs report earlier this month, the government reported that employers pulled back on hiring in June, adding only 57,000 jobs. That’s less than half the previous month’s total and a sign that companies remain cautious about adding to their head counts. The unemployment rate dropped to 4.2% from 4.3% in May",
+    "image": "https://pslca.web.aol.com/fotosrch/2/81501f35b7384ca4af7c9ed7edbdf513.jpg"
+   },
+   {
+    "id": "https://truthsandnews.com/economy/june-2026-jobs-report-adp-heres-what-it-all-means",
+    "title": "June 2026 Jobs Report ADP - Here's What It All Means - TNN",
+    "url": "https://truthsandnews.com/economy/june-2026-jobs-report-adp-heres-what-it-all-means",
+    "publishedDate": "2026-07-15T00:00:00.000Z",
+    "author": "Kasia Davis",
+    "text": "June 2026 Jobs Report ADP - Here's What It All Means - TNN\n\n# June 2026 Jobs Data Is In: ADP Missed at 98K, Then the BLS Shocked at 57K — Here’s What It All Means \n\n July 14, 2026 #Jobs Report \n\nJune 2026 Jobs Report ADP —>> Two employment reports landed in a single week — and together, they paint the most nuanced picture of the U.S. labor market since the Iran conflict redrew the economic map in early 2026.\n\nOn July 1, ADP reported 98,000 private sector jobs added in June, missing the 118,000 forecast but coming in above the worst fears. On July 2, the Bureau of Labor Statistics dropped the official Nonfarm Payrolls report — released one day early ahead of the July 4 holiday — showing just 57,000 total jobs added. Economists had expected 115,000.\n\nThe result: rate hike fears cooled overnight. Federal Reserve Chair Kevin Warsh has some breathing room. And the labor market, while still adding jobs, is clearly operating in a lower gear than earlier in 2026.\n\nHere’s everything.\n\n# The Dou",
+    "image": "https://truthsandnews.com/wp-content/uploads/2026/07/June_Jobs_Report-1500x965-1.jpg"
+   },
+   {
+    "id": "https://polymarkettrader.com/events/us-jobs-report-2026/",
+    "title": "September 2026 Jobs Report Results: 29,000 Jobs Added, Unemployment Rate 4.2%",
+    "url": "https://polymarkettrader.com/events/us-jobs-report-2026/",
+    "publishedDate": "2026-07-21T00:00:00.000Z",
+    "text": "September 2026 Jobs Report Results: 29,000 Jobs Added, Unemployment Rate 4.2%\n\n# September 2026 Jobs Report: 29,000 Jobs Added\n\nThe BLS released the September 2026 Employment Situation on Friday, October 2, 2026 at 8:30 a.m. ET: payrolls rose 29,000, the unemployment rate ticked up to 4.2%, and July and August were revised down by a combined 60,000. Polymarket's two event boards converged to the print, and the October Fed board repriced toward a hold.\n\nPublished July 21, 2026 · Updated October 2, 2026 · Release shipped · Next planned refresh: settlement confirmation (~October 5–6), then pre-release check for November 6\n\n## The answer first\n\nThe September 2026 U.S. jobs report, released Friday, October 2, 2026 at 8:30 a.m. ET, reported +29,000 nonfarm payroll jobs (preliminary; the BLS called the change \"little\") and the unemployment rate ticked up to 4.2% from 4.1%. Labor force participation rose to 61.8%, average hourly earnings edged up 5 cents to $37.81 (+0.1% on the month, +3.0% ov",
+    "image": "https://polymarkettrader.com/og-image.png"
+   },
+   {
+    "id": "https://pomegra.io/news/us-jobs-57000-added-in-june-unemployment-at-42",
+    "title": "US Jobs: 57,000 Added in June, Unemployment at… | Pomegra News",
+    "url": "https://pomegra.io/news/us-jobs-57000-added-in-june-unemployment-at-42",
+    "publishedDate": "2026-07-20T00:00:00.000Z",
+    "author": "PomiNews",
+    "text": "US Jobs: 57,000 Added in June, Unemployment at 4.2% | Pomegra\n\n# US Jobs: 57,000 Added in June, Unemployment at 4.2%\n\nBy PomiNews\n\nEconomy Jul 20 6 min read\n\nThe US labor market posted a sharper-than-expected cooling in June 2026, with employers adding just 57,000 jobs — roughly half the consensus forecast — as tariff pressures and reduced labor force participation reshaped the employment picture heading into summer.\n\n- US economy added 57,000 nonfarm payroll jobs in June, missing the 110,000 consensus by a wide margin.\n- The unemployment rate edged down to 4.2% from 4.3%, but the decline was driven by a drop in labor force participation, not increased hiring.\n- The soft report sharply reduced odds of a Federal Reserve rate hike at the July 29 meeting, with markets now pricing a hold at roughly 78% probability.\n\n## Lead\n\nWashington, July 2, 2026 — The US labor market added 57,000 jobs in June, the Bureau of Labor Statistics reported Thursday, falling well short of the 110,000 Dow Jones",
+    "image": "https://object.pomegra.io/public/us-jobs-57-000-added-in-june-unemployment-at-4-2.webp"
+   },
+   {
+    "id": "https://www.indexbox.io/blog/fed-beige-book-shows-mixed-us-labor-market-gains-through-june-2026/",
+    "title": "Fed Beige Book: Employment Gains in 5 Districts, Hiring Challenges Persist - News and Statistics - IndexBox",
+    "url": "https://www.indexbox.io/blog/fed-beige-book-shows-mixed-us-labor-market-gains-through-june-2026/",
+    "publishedDate": "2026-07-15T00:00:00.000Z",
+    "text": "Fed Beige Book: Employment Gains in 5 Districts, Hiring Challenges Persist - News and Statistics - IndexBox\n\n Jul 15, 2026 \n\n# Fed Beige Book Shows Mixed U.S. Labor Market Gains Through June 2026\n\nThe labor market is showing signs of improvement in certain regions of the United States, according to the Federal Reserve's latest Beige Book report.\n\nThe report noted that five of the Fed's 12 districts recorded what it described as modest, moderate, or solid gains in employment during May and June. This marks an increase from the previous reporting period, when only one district reported such gains. The remaining districts experienced little to no change, a pattern consistent with what the Fed characterized as a low-hire, low-fire dynamic that has persisted in the economy.\n\nThese positive shifts in some areas align with recent national jobs reports that have indicated steady payroll growth, an improvement compared to the weaker conditions seen in 2025. The unemployment rate in June also de",
+    "image": "https://www.indexbox.io/landing/img/blog/telegram-fallback/8c37be337eb8b587abed3173f81f210f.webp"
+   },
+   {
+    "id": "https://www.lisep.org/content/wages-down-in-q2-june-functional-unemployment-up-says-ludwig-institute",
+    "title": "Wages Down in Q2, June ‘Functional Unemployment’ Up, Says Ludwig Institute",
+    "url": "https://www.lisep.org/content/wages-down-in-q2-june-functional-unemployment-up-says-ludwig-institute",
+    "publishedDate": "2026-07-22T00:00:00.000Z",
+    "author": "‍Jim Gardner",
+    "text": "Wages Down in Q2, June ‘Functional Unemployment’ Up, Says Ludwig Institute\n\nWages Down in Q2, June ‘Functional Unemployment’ Up, Says Ludwig Institute\n\nTrue Rate of Unemployment inching upward but remains below late 2025 peak\n\nJuly 22, 2026 For Immediate Release\n\nWASHINGTON, D.C. — Functional unemployment continued to inch upward in June, while second-quarter real median weekly earnings declined year over year, according to the Ludwig Institute for Shared Economic Prosperity (LISEP). \n\nLISEP has issued its June True Rate of Unemployment (TRU) and Q2 2026 True Weekly Earnings (TWE) reports. The TRU measures the “functionally unemployed” — defined as the jobless, the involuntarily part-time, or those earning a poverty wage. The TWE measures inflation-adjusted median weekly earnings across the entire workforce, including part-time workers and those unemployed but seeking work.\n\nThe median Q2 TWE declined 0.5% year over year to $1,033, while remaining flat compared to the previous quarter."
+   },
+   {
+    "id": "https://koryomacro.com/us-jobs-report-latest/",
+    "title": "US Jobs Report: Latest Numbers, Explained",
+    "url": "https://koryomacro.com/us-jobs-report-latest/",
+    "publishedDate": "2026-07-21T00:00:00.000Z",
+    "author": "Richard Lee",
+    "text": "US Jobs Report: Latest Numbers, Explained\n\n# US Jobs Report: Latest Numbers, Explained\n\nWritten by \n\nRichard Lee\n\nin\n\nUpdated October 3, 2026 · Latest release: September 2026 jobs report (released October 2) · Next release: October report on November 6, 2026 (8:30 a.m. ET)\n\nThe August jobs report showed the unemployment rate holding at 4.1%, with payrolls rising by 162,000 — the strongest month since March — and the labor force participation rate edging up to 61.6%. Revisions lifted June and July by a combined 55,000, turning July from a reported decline into a small gain. The short version: hiring is slowing, but firing hasn’t started — jobless claims remain low. Here are the numbers, what moved, and what to watch.\n\n## The numbers right now\n\n| Metric | September 2026 | Prior | Direction |\n| --- | --- | --- | --- |\n| Unemployment rate | 4.2% | 4.1% | ↑ up 0.1 point |\n| Nonfarm payrolls (monthly change) | +29,000 | +133,000 (revised) | ↓ slower than August |\n| Average hourly earnings (Y",
+    "image": "https://koryomacro.com/wp-content/uploads/2026/10/jobs-latest_cover_1911_2026-10.webp"
+   }
+  ],
+  "searchTime": 1422.8,
+  "costDollars": {
+   "total": 0.007,
+   "search": {
+    "neural": 0.007
+   }
+  }
+ }
+}

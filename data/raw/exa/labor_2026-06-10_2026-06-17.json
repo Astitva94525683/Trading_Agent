@@ -1,0 +1,105 @@
+{
+ "theme": "labor",
+ "query": "US jobs report nonfarm payrolls unemployment labor market",
+ "start": "2026-06-10",
+ "end": "2026-06-17",
+ "fetched_utc": "2026-10-12T10:07:46Z",
+ "response": {
+  "requestId": "59f8bf0250a1a98115f18439509a002b",
+  "resolvedSearchType": "",
+  "results": [
+   {
+    "id": "http://www.bls.gov/opub/ted/2026/total-nonfarm-payroll-employment-increased-by-172000-in-may-2026.htm",
+    "title": "Total nonfarm payroll employment increased by 172,000 in May 2026 : The Economics Daily : U.S. Bureau of Labor Statistics",
+    "url": "http://www.bls.gov/opub/ted/2026/total-nonfarm-payroll-employment-increased-by-172000-in-may-2026.htm",
+    "publishedDate": "2026-06-12T00:00:00.000Z",
+    "text": "Total nonfarm payroll employment increased by 172,000 in May 2026 : The Economics Daily : U.S. Bureau of Labor Statistics\n\n# Total nonfarm payroll employment increased by 172,000 in May 2026 \n\nJune 12, 2026\n\nTotal nonfarm payroll employment increased by 172,000 in May 2026, similar to the gain of 179,000 in April. In May, job gains occurred in leisure and hospitality, local government, and health care. Employment in financial activities declined. \n\n- Chart Image\n- Chart Data\n\n## Employment change by industry, May 2026, seasonally adjusted \n\nBar chart with 14 bars.\n\nThe chart has 1 X axis displaying categories. \n\nThe chart has 1 Y axis displaying values. Data ranges from -22000 to 70000.\n\nView chart menu, Employment change by industry, May 2026, seasonally adjusted\n\nEnd of interactive chart.\n\n Employment change by industry, May 2026, seasonally adjusted \n\n| Industry | 1-month net change |\n| --- | --- |\n| Mining and logging | 4,000 |\n| Logging | -500 |\n| Mining, quarrying, and oil and ga",
+    "image": "https://www.bls.gov/images/bls_emblem_2016.png"
+   },
+   {
+    "id": "https://www.roberthalf.com/us/en/insights/research/may-2026-labor-market-update-for-employers-and-job-seekers",
+    "title": "May 2026 Labor Market Update: What employers and job seekers should know | Robert Half",
+    "url": "https://www.roberthalf.com/us/en/insights/research/may-2026-labor-market-update-for-employers-and-job-seekers",
+    "publishedDate": "2026-06-16T00:00:00.000Z",
+    "text": "May 2026 Labor Market Update: What employers and job seekers should know | Robert Half\n\n# May 2026 Labor Market Update: What employers and job seekers should know\n\nThe May jobs report delivered a stronger-than-expected result, showing U.S. employers added 172,000 jobs, according to the Bureau of Labor Statistics (BLS). That figure is well above economists’ projections and marks the first time since early 2024 that the economy has seen 3 consecutive months of job gains above 100,000. The BLS also revised March and April payrolls higher by a combined 93,000 jobs.\n\nThose numbers point to a labor market that has remained resilient despite ongoing economic uncertainty and market volatility. However, the recent pattern of job growth doesn’t erase the persistent hiring challenges many organizations face, including small and midsize firms. NFIB data shows 34% of small business owners had job openings they could not staff in April, and among owners hiring or trying to hire, 87% reported few or ",
+    "image": "https://www.roberthalf.com/content/dam/roberthalf/images/blogs/us/en/hr1/discoverinsights-blog-hero-labormarket-may26-us-en-3072x1229.png"
+   },
+   {
+    "id": "https://thefinancialanalyst.net/2026/06/13/u-s-jobs-surge-signals-labor-market-resilience-but-risks-linger/",
+    "title": "U.S. Jobs Surge Signals Labor Market Resilience, But Risks Linger - The Financial Analyst",
+    "url": "https://thefinancialanalyst.net/2026/06/13/u-s-jobs-surge-signals-labor-market-resilience-but-risks-linger/",
+    "publishedDate": "2026-06-13T00:00:00.000Z",
+    "author": "Emily Chen",
+    "text": "U.S. Jobs Surge Signals Labor Market Resilience, But Risks Linger - The Financial Analyst\n\n# U.S. Jobs Surge Signals Labor Market Resilience, But Risks Linger\n\nBy Emily Chen / June 13, 2026 \n\nThe U.S. labor market’s latest jobs report signals a genuine shift from the sluggishness that defined much of 2023, yet it arrives with a warning: resilience is not synonymous with comfort. Nonfarm payrolls surged by 172,000 in May, crushing the consensus expectation of 105,000 and extending a three-month streak of gains above 100,000—a pattern unseen since early 2024. The unemployment rate held at 4.3%, and revisions to March and April data added a combined 93,000 jobs, lifting the three-month average to 188,000. This is not a boom, but it is a marked improvement over last year’s near-stagnation, when monthly job growth hovered below 10,000.\n\nWhat stands out is the broadening of hiring beyond the narrow pillars that have propped up the labor market for months. While healthcare, leisure and hospit",
+    "image": "https://thefinancialanalyst.net/wp-content/uploads/2025/07/The-Financial-Analyst-full-logo-whtbknd.png"
+   },
+   {
+    "id": "https://thefinancialwire.com/us-employers-added-172000-jobs-in-may-but-health-care-and-government-drove-nearly-all-the-gains/",
+    "title": "US employers added 172,000 jobs in May, but health care and government drove nearly all the gains - The Financial Wire",
+    "url": "https://thefinancialwire.com/us-employers-added-172000-jobs-in-may-but-health-care-and-government-drove-nearly-all-the-gains/",
+    "publishedDate": "2026-06-16T00:00:00.000Z",
+    "author": "David Keller",
+    "text": "US employers added 172,000 jobs in May, but health care and government drove nearly all the gains - The Financial Wire\n\n# US employers added 172,000 jobs in May, but health care and government drove nearly all the gains\n\n David Keller 4 months ago 4 months ago 0 9 mins \n\n DC Studio/Freepik\n\nAmerican workers looking for jobs outside health care and government got little encouragement from the May 2026 employment report. Total nonfarm payroll employment increased by 172,000, and the unemployment rate held at 4.3 percent, but the gains were sharply concentrated in a handful of publicly funded or demographically driven sectors. For hiring managers and job seekers in manufacturing, retail, and professional services, the headline number masked a much thinner labor market.\n\n## Health care and government hiring shaped the May payroll count\n\nThe 172,000-job increase reported in the latest employment situation landed close to recent monthly averages, but the composition told a different story. H",
+    "image": "https://thefinancialwire.com/wp-content/uploads/2026/06/featured-image-1781610131389.jpg"
+   },
+   {
+    "id": "https://treasurytoday.com/press-releases/press-release-adp-national-employment-report-private-sector-employment-increased-by-122000-jobs-in-may-annual-pay-was-up-4-4/",
+    "title": "Press release: ADP National Employment Report: private sector employment increased by 122,000 jobs in may; annual pay was up 4.4% | Treasury Today",
+    "url": "https://treasurytoday.com/press-releases/press-release-adp-national-employment-report-private-sector-employment-increased-by-122000-jobs-in-may-annual-pay-was-up-4-4/",
+    "publishedDate": "2026-06-10T00:00:00.000Z",
+    "author": "Joanna Smith",
+    "text": "Press release: ADP National Employment Report: private sector employment increased by 122,000 jobs in may; annual pay was up 4.4% | Treasury Today\n\n## Press release: ADP National Employment Report: private sector employment increased by 122,000 jobs in may; annual pay was up 4.4% \n\n##### Published: Jun 2026\n\n3 rd June 2026 — Private sector employment increased by 122,000 jobs in May and pay was up 4.4 percent year-over-year according to the May ADP National Employment Report ® produced by ADP Research in collaboration with the Stanford Digital Economy Lab (“Stanford Lab”).\n\n \n\nThe ADP National Employment Report is an independent measure of the labor market based on the anonymized weekly payroll data of more than 26 million private-sector employees in the United States. ADP’s Pay Insights captures over 15 million individual pay change observations each month. Together, the jobs report and pay insights use ADP’s fine-grained data to provide a representative and highfrequency picture of t"
+   },
+   {
+    "id": "https://www.gate.com/news/detail/us-nonfarm-payrolls-surge-172k-in-may-sharply-beat-88k-forecast-as-21701771",
+    "title": "U.S. Nonfarm Payrolls Surge 172K in May, Sharply Beat 88K Forecast as Unemployment Holds at 4.3% | Gate News",
+    "url": "https://www.gate.com/news/detail/us-nonfarm-payrolls-surge-172k-in-may-sharply-beat-88k-forecast-as-21701771",
+    "publishedDate": "2026-06-10T00:00:00.000Z",
+    "text": "U.S. Nonfarm Payrolls Surge 172K in May, Sharply Beat 88K Forecast as Unemployment Holds at 4.3% | Gate News\n\n# U.S. Nonfarm Payrolls Surge 172K in May, Sharply Beat 88K Forecast as Unemployment Holds at 4.3%\n\n2026-06-07 22:22:07\n\nIn May, U.S. employers added 172,000 jobs, significantly exceeding analyst expectations of 88,000, while the unemployment rate remained steady at 4.3%, according to official labor data. Average hourly earnings rose in line with forecasts. The manufacturing sector strengthened further, with the ISM Manufacturing Index showing expansion in new orders, production, and order backlogs, indicating broader economic resilience beyond the labor market.",
+    "image": "https://gimg2.staticimgs.com/share/share_poster_20260302_121136_a0592b2d6e5969154ee79c30e0ad7e6e.webp"
+   },
+   {
+    "id": "https://www.staffersblog.com/post/may-jobs-beat-expectations",
+    "title": "May Jobs Beat Expectations",
+    "url": "https://www.staffersblog.com/post/may-jobs-beat-expectations",
+    "publishedDate": "2026-06-11T00:00:00.000Z",
+    "text": "May Jobs Beat Expectations\n\n# May Jobs Beat Expectations\n\n- Nick Andriacchi\n- Jun 11\n- 2 min read\n\n• Nonfarm payrolls increased by 172,000 in May, while the unemployment rate held steady at 4.3%, showing continued labor market resilience despite economic uncertainty.\n\n• Temporary help employment rose for the fourth consecutive month, a potentially important leading indicator that businesses may be slowly rebuilding hiring pipelines after a cautious start to 2026.\n\n• The latest JOLTS report showed job openings jumped to 7.62 million in April while layoffs remained historically low, reinforcing the view that employers are still holding onto workers even as hiring remains selective.\n\nThe May 2026 employment report showed a labor market that continues to hold up better than many expected heading into the summer. Employers added 172,000 jobs in May, well above forecasts, while the unemployment rate stayed at 4.3%. Healthcare, leisure and hospitality, and government hiring (on the local leve",
+    "image": "https://static.wixstatic.com/media/3c3755_c33cb607fc03466680912e2cf0b74c79~mv2.jpg/v1/fill/w_569,h_1000,al_c,q_85,usm_0.66_1.00_0.01/3c3755_c33cb607fc03466680912e2cf0b74c79~mv2.jpg"
+   },
+   {
+    "id": "https://www.aol.com/articles/economy-keeps-adding-jobs-many-090301000.html",
+    "title": "The economy keeps adding jobs. Why are so many people having trouble finding one? - AOL",
+    "url": "https://www.aol.com/articles/economy-keeps-adding-jobs-many-090301000.html",
+    "publishedDate": "2026-06-14T00:00:00.000Z",
+    "author": "AOL",
+    "text": "The economy keeps adding jobs. Why are so many people having trouble finding one? - AOL\n\n# The economy keeps adding jobs. Why are so many people having trouble finding one?\n\nMadison Hoff\n\nUpdated Sun, June 14, 2026 at 11:52 AM UTC\n\nThe US is adding jobs on net, but it's still a tough time to be job-searching.Scott Olson/Getty Images\n\n- The job market is showing revived strength, despite big-name companies announcing layoffs.\n- The economy had its best three-month average job growth since early 2024.\n- But it's still hard for some to find a job, and inflation outpacing wage growth is a new issue.\n\nFrom about 8,000 layoffs at Meta to thousands of cuts at Amazon, media outlets have been following high-profile employment changes.\n\nHowever, cuts at major tech companies this year represent only a sliver of what's happening in the massive job market, filled with millions of workers and unemployed Americans across different industries and business sizes.\n\nThat larger job market is showing rene",
+    "image": "https://s.yimg.com/cv/apiv2/aolfp/images/og-image.png"
+   },
+   {
+    "id": "https://eskisignal.com/may-2026-jobs-report-results-nonfarm-payrolls/",
+    "title": "May 2026 Jobs Report: 172K Added, Unemployment 4.3% | EskiSignal",
+    "url": "https://eskisignal.com/may-2026-jobs-report-results-nonfarm-payrolls/",
+    "publishedDate": "2026-06-15T00:00:00.000Z",
+    "author": "Caglar A.",
+    "text": "May 2026 Jobs Report: 172K Added, Unemployment 4.3% | EskiSignal\n\n# May 2026 Jobs Report: 172,000 Added, Unemployment Steady at 4.3%\n\nCaglar A.\n\nJune 15, 2026\n\n \n\nLast updated: June 14, 2026, 3:30 PM ET Market context: U.S. employment data (nonfarm payrolls), released by the Bureau of Labor Statistics.\n\nThis article is for informational and educational purposes only. It is not financial advice, investment advice, or a recommendation to buy, sell, or hold any security, cryptocurrency, or financial product. Always verify data with official sources before making financial decisions.\n\n## Short answer: what the May 2026 jobs report showed\n\nThe U.S. economy added 172,000 nonfarm payroll jobs in May 2026, according to the Bureau of Labor Statistics report released June 5, 2026. That came in well above the consensus estimate (reported around 80,000–88,000) and was only slightly below April’s upwardly revised 179,000. The unemployment rate held at 4.3%, and average hourly earnings rose 0.3% on ",
+    "image": "https://eskisignal.com/wp-content/uploads/2026/06/may-2026-job-report.png"
+   },
+   {
+    "id": "https://www.dooprimenews.com/expert-insights/market-dive/may-2026-non-farm-payrolls-jobs-beat-fed-hike",
+    "title": "May 2026 Non-Farm Payrolls: Why the Jobs Beat May Not Trigger a Fed Hike - D Prime News",
+    "url": "https://www.dooprimenews.com/expert-insights/market-dive/may-2026-non-farm-payrolls-jobs-beat-fed-hike",
+    "publishedDate": "2026-06-12T00:00:00.000Z",
+    "author": "MKT- Evely Tan",
+    "text": "May 2026 Non-Farm Payrolls: Why the Jobs Beat May Not Trigger a Fed Hike - D Prime News\n\n# May 2026 Non-Farm Payrolls: Why the Jobs Beat May Not Trigger a Fed Hike\n\n# May 2026 Non-Farm Payrolls: Why the Jobs Beat May Not Trigger a Fed Hike\n\n2026-06-12 | Fed rate cuts , Fed Rate Hike , Federal Reserve , Nonfarm Payrolls , US Jobs Report , Weekly Market Dive \n\nMay 2026 non-farm payrolls beat expectations, but the Fed may still avoid a rate hike.\n\n## May 2026 Non-Farm Payrolls Beats Expectations, But Markets Sell Off \n\nThe May 2026 Non-Farm Payrolls report beat expectations sharply, but the details suggest the US labor market may not be strong enough to justify a Fed rate hike. \n\nAt first glance, the number looked hot. \n\nThe US economy added 172,000 jobs in May, far above the market consensus of 85,000 and significantly higher than April’s 115,000. \n\nUS non-farm payrolls rose by 172,000 in May 2026, beating market expectations.\n\nImage Source: Trading Economics \n\nMarkets reacted fast. \n\nGo",
+    "image": "https://www.dooprimenews.com/assets/DPEA_MU_logo.png"
+   }
+  ],
+  "searchTime": 4656.2,
+  "costDollars": {
+   "total": 0.007,
+   "search": {
+    "neural": 0.007
+   }
+  }
+ }
+}

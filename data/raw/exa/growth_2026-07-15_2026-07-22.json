@@ -1,0 +1,105 @@
+{
+ "theme": "growth",
+ "query": "US economy GDP growth recession retail sales ISM",
+ "start": "2026-07-15",
+ "end": "2026-07-22",
+ "fetched_utc": "2026-10-12T10:09:22Z",
+ "response": {
+  "requestId": "74c3cc1b7693b604771d3eea5c167abb",
+  "resolvedSearchType": "",
+  "results": [
+   {
+    "id": "https://www.census.gov/retail/sales.html",
+    "title": "Monthly Retail Trade - Sales Report",
+    "url": "https://www.census.gov/retail/sales.html",
+    "publishedDate": "2026-07-16T00:00:00.000Z",
+    "author": "US Census Bureau",
+    "text": "Monthly Retail Trade - Sales Report\n\n#### FOR IMMEDIATE RELEASE: Wednesday, September 16, 2026 \n\n## Advance Monthly Sales for Retail and Food Services\n\n September 16, 2026 \n\n Advance Estimates of U.S. Retail and Food Services Advance estimates of U.S. retail and food services sales for August 2026, adjusted for seasonal variation and holiday and trading-day differences, but not for price changes, were $773.9 billion, up 1.2 percent (±0.4 percent) from the previous month, and up 6.0 percent (±0.5 percent) from August 2025. Total sales for the June 2026 through August 2026 period were up 6.0 percent (±0.5 percent) from the same period a year ago. The June 2026 to July 2026 percent change was revised from down 0.6 percent (±0.4 percent) to down 0.5 percent (±0.2 percent). \n\n### Additional Release Tables - August 2026\n\nFiles are available as Excel or Adobe PDF. All Files are [<1MB]. \n\n Advance Monthly Retail Trade Report \n\n MARTS Time Series (Adjusted Sales Data/Seasonal Factors—1992 to pr"
+   },
+   {
+    "id": "https://www.federalreserve.gov/releases/G17/20260717/default.htm",
+    "title": "Federal Reserve Board - Industrial Production and Capacity Utilization -\n      G.17",
+    "url": "https://www.federalreserve.gov/releases/G17/20260717/default.htm",
+    "publishedDate": "2026-07-17T00:00:00.000Z",
+    "text": "Federal Reserve Board - Industrial Production and Capacity Utilization - G.17\n\n## Industrial Production and Capacity Utilization - G.17\n\n During the week of November 9, the “Build Your Package” feature in the Data Download Program (DDP) will be removed in preparation for the eventual retirement of the DDP. Users can access data and expanded download options through the Federal Reserve Bank of St. Louis's Federal Reserve Economic Data (FRED). Learn more about the DDP and FRED partnership. \n\n### Current Release PDF ASCII RSS Data Download FRED XML \n\nRelease Date: July 17, 2026\n\nRevision of Industrial Production and Capacity Utilization Notice Below\n\nIndustrial production (IP) ticked up 0.1 percent in June and grew at an annual rate of 4.0 percent in the second quarter. Manufacturing output was unchanged in June but rose at an annual rate of 4.7 percent in the second quarter. The indexes for mining and for utilities both grew 0.4 percent in June. At 102.6 percent of its 2017 average, tota",
+    "image": "https://www.federalreserve.gov/images/Social_Default_Image.jpg"
+   },
+   {
+    "id": "https://finance-commerce.com/2026/07/us-retail-sales-june-consumer-spending/",
+    "title": "U.S. retail sales rise as consumer spending stays resilient",
+    "url": "https://finance-commerce.com/2026/07/us-retail-sales-june-consumer-spending/",
+    "publishedDate": "2026-07-16T00:00:00.000Z",
+    "author": "Reuters",
+    "text": "U.S. retail sales rise as consumer spending stays resilient\n\n## U.S. retail sales rise as consumer spending stays resilient \n\nBy Lucia Mutikani, Reuters// July 16, 2026// \n\nPeople shop at a Costco store in the Staten Island borough of New York on Jan. 16. U.S. retail sales edged higher in June, while a stable labor market reinforced economic resilience. (Photo: Brendan McDermid/Reuters)\n\nU.S. retail sales rise as consumer spending stays resilient\n\nPeople shop at a Costco store in the Staten Island borough of New York on Jan. 16. U.S. retail sales edged higher in June, while a stable labor market reinforced economic resilience. (Photo: Brendan McDermid/Reuters)\n\n# U.S. retail sales rise as consumer spending stays resilient \n\nBy Lucia Mutikani, Reuters// July 16, 2026// \n\n##### The Blueprint\n\n- U.S. retail sales increased 0.2% in June, matching expectations.\n- Lower gasoline prices reduced spending at service stations.\n- Core retail sales rose 0.5%, signaling stronger consumer spending i",
+    "image": "https://finance-commerce.com/files/2026/07/Retail-Sales.jpg"
+   },
+   {
+    "id": "https://www.prnewswire.com/news-releases/the-conference-board-leading-economic-index-lei-for-the-us-declined-in-june-and-partially-reversed-gains-from-prior-two-months-302829618.html",
+    "title": "The Conference Board Leading Economic Index® (LEI) for the US Declined in June and Partially Reversed Gains from Prior Two Months",
+    "url": "https://www.prnewswire.com/news-releases/the-conference-board-leading-economic-index-lei-for-the-us-declined-in-june-and-partially-reversed-gains-from-prior-two-months-302829618.html",
+    "publishedDate": "2026-07-20T00:00:00.000Z",
+    "author": "The Conference Board",
+    "text": "The Conference Board Leading Economic Index® (LEI) for the US Declined in June and Partially Reversed Gains from Prior Two Months\n\n# The Conference Board Leading Economic Index® (LEI) for the US Declined in June and Partially Reversed Gains from Prior Two Months\n\nJul 20, 2026, 10:00 ET\n\nNEW YORK, July 20, 2026 /PRNewswire/ -- The Conference Board Leading Economic Index® (LEI) for the US declined by 0.2% in June 2026 to 99.1 (2016=100), following a 0.1% increase in May. However, the LEI is down by only 0.3% over the first half of 2026, a much smaller rate of decline than its 1.1% contraction over the second half of 2025.\n\n\"In June, the Leading Economic Index (LEI) for the US declined and partially reversed gains registered in May and April,\" said Justyna Zabinska-La Monica, Senior Manager, Business Cycle Indicators, at The Conference Board. \"While some components of the LEI were little changed, the largest positive contribution from the yield spread, followed by marginal positive input ",
+    "image": "https://mmx.prnewswire.com/media/MS461842/The-Conference-Board-Logo.jpg?id=OA2770859&p=facebook"
+   },
+   {
+    "id": "https://www.investing.com/analysis/us-economy-holds-near-q1-pace-as-labor-market-stability-offsets-softer-sales-200684129",
+    "title": "US Economy Holds Near Q1 Pace as Labor Market Stability Offsets Softer Sales | Investing.com",
+    "url": "https://www.investing.com/analysis/us-economy-holds-near-q1-pace-as-labor-market-stability-offsets-softer-sales-200684129",
+    "publishedDate": "2026-07-17T00:00:00.000Z",
+    "text": "US Economy Holds Near Q1 Pace as Labor Market Stability Offsets Softer Sales | Investing.com\n\nStocks turn mixed after stellar start to August takes Wall Street back to record\n\nSpaceX tumble amid AI spending concerns; Musk outlines $1 trillion revenue target\n\nOur AI knew it: This high-conviction medtech just jumped 27%+ on blowout earnings\n\nAMD shares slide 6% after Musk flags plans to buy Nvidia chips for SpaceX\n\nAdvertisement\n\nAdvertisement\n\n# US Economy Holds Near Q1 Pace as Labor Market Stability Offsets Softer Sales\n\nPublished 07/17/2026, 07:30 AM\n\nUS Economy Holds Near Q1 Pace as Labor Market Stability Offsets Softer Sales\n\nView all comments (0)0\n\nUS Economy Holds Near Q1 Pace as Labor Market Stability Offsets Softer Sales\n\nView all comments (0)0\n\nArticles(4317)| My Homepage\n\nFollow\n\nEconomic activity is on track to expand close to the pace reported in the first quarter, based on the latest Q2 nowcasts compiled by The Capital Spectator. The median estimate suggests growth will eas",
+    "image": "https://i-invdn-com.investing.com/redesign/images/seo/investingcom_analysis_og.jpg",
+    "favicon": "https://www.investing.com/favicon-32x32.png"
+   },
+   {
+    "id": "https://fred.stlouisfed.org/graph/?id=MARTSMPCSM44X72USS%2C",
+    "title": "Advance Retail Sales: Retail Trade and Food Services | FRED | St. Louis Fed",
+    "url": "https://fred.stlouisfed.org/graph/?id=MARTSMPCSM44X72USS%2C",
+    "publishedDate": "2026-07-16T00:00:00.000Z",
+    "text": "Advance Retail Sales: Retail Trade and Food Services | FRED | St. Louis Fed\nSkip to main content\n**\n#\n\nAdvance Retail Sales: Retail Trade and Food Services (MARTSMPCSM44X72USS)\nObservations **\nAug 2026: 1.2 |\nPercent Change from Preceding Period, Seasonally Adjusted |\nMonthly\nUpdated:\nSep 16, 2026\n7:39 AM CDT\n\nNext Release Date:\nOct 15, 2026\n\nObservations **\nAug 2026:\n1.2\nUpdated:\nSep 16, 2026\n7:39 AM CDT\n\nNext Release Date:\nOct 15, 2026\n\n|Aug 2026: |1.2| |\n|Jul 2026: |-0.5| |\n|Jun 2026: |0.3| |\n|May 2026: |0.9| |\n|Apr 2026: |0.7| |\n|View All|\nUnits:\nPercent Change from Preceding Period,\nSeasonally Adjusted\nFrequency:\nMonthly\nFullscreen **\n**Data in this graph are copyrighted. Please review the copyright information in the series notes before sharing.**\nShare Graph **\n* ** Custom Graph Link\n* ** Embed in Website\n* ** Graph Image Link\nAccount Tools **\n*\n*\n* ** Add to Data List\n* ** Get Email Notification\n*\n \n**\n**\n**\n##\nNotes\n**Source:**\nU.S. Census Bureau\n** \n**Release:**\nAdvance Month"
+   },
+   {
+    "id": "https://recessionpulse.com/blog/weekly-recession-report-july-19-2026",
+    "title": "Weekly Recession Report — July 19, 2026 | RecessionPulse",
+    "url": "https://recessionpulse.com/blog/weekly-recession-report-july-19-2026",
+    "publishedDate": "2026-07-19T00:00:00.000Z",
+    "author": "RecessionPulse",
+    "text": "# Weekly Recession Report — July 19, 2026\n\nThis week's recession report highlights a **late-cycle U.S. economy** characterized by a **growing gap between soft and hard data**, with low layoffs and expanding industrial production contrasting sharply with weak consumer sentiment and a slump in temporary help. Despite a mixed near-term recession signal, indicators suggest the economy is **losing forward momentum** as labor-market leading indicators raise concerns.\n\n## Weekly Recession Report (Week of July 19, 2026)\n\nThis week’s dashboard paints a late-cycle U.S. economy with a widening “soft data vs. hard data” gap. On the hard side, layoffs remain low (initial claims 208K) and industrial production is still expanding. On the soft/leading side, however, the temporary help slump, weak freight, crisis-level consumer sentiment, and low savings are consistent with an economy that is losing forward momentum even while markets hover near highs and credit spreads remain tight. The near-term rece",
+    "image": "https://recessionpulse.com/og-image.png"
+   },
+   {
+    "id": "https://recessionpulse.com/blog/daily-recession-risk-july-19-2026",
+    "title": "Recession Risk 34/100 — July 19, 2026 | RecessionPulse",
+    "url": "https://recessionpulse.com/blog/daily-recession-risk-july-19-2026",
+    "publishedDate": "2026-07-19T00:00:00.000Z",
+    "author": "RecessionPulse",
+    "text": "Daily Risk Assessment July 19, 2026\n\n# Recession Risk 34/100 — July 19, 2026\n\nNear-term (90-day) recession risk is MODERATE because the highest-weight labor-market recession triggers are not flashing: the Sahm Rule remains far below its 0.50pp trigger (latest available through June 2026), and initial jobless claims are still low at 208k for the week ending July 11, 2026. Financial conditions are not signaling imminent stress—high-yield credit spreads remain tight (~2.7% OAS mid-July), equities are near highs, and the 2s10s curve has re-steepened to positive territory, which historically tends to occur late-cycle but does not, by itself, confirm a recession is imminent. The main risk is a growth downshift: Atlanta Fed GDPNow has been volatile but points to below-trend growth for Q2 2026 (recent updates ranging roughly ~1.2% to ~1.7% SAAR in early-to-mid July). Soft indicators are mixed: Conference Board LEI is modestly positive (+0.1% in May 2026) while consumer confidence remains subdu",
+    "image": "https://recessionpulse.com/api/og/risk-trend?size=og&date=2026-07-19"
+   },
+   {
+    "id": "https://kpmg.com/us/en/articles/2026/june-2026-retail-sales.html",
+    "title": "Retail sales better than appear at first blush",
+    "url": "https://kpmg.com/us/en/articles/2026/june-2026-retail-sales.html",
+    "publishedDate": "2026-07-16T00:00:00.000Z",
+    "text": "Retail sales better than appear at first blush \n\n# Retail sales better than appear at first blush\n\nLower gas prices provide cushion. \n\nJuly 16, 2026\n\nRetail sales rose 0.2% in June, the weakest pace since January. May sales were revised higher. Sales excluding autos fell 0.2%. Sales are not adjusted for inflation. Real retail sales increased 0.6% as the consumer price index (CPI) recorded its largest monthly drop since April 2020 due to falling oil prices. \n\nMotor vehicle and parts dealers gained 1.9% on the month and 5.7% on the year, helped by flat new vehicle prices and motor vehicle insurance falling 2.0%. Unit sales rebounded in June. New vehicle buying remains concentrated among high-income households. Vehicle parts and maintenance costs are rising in response to tariffs and escalating input costs (petroleum derivatives and transportation) which should add to a new wave of insurance premium hikes in the vehicle sector as we move into 2027. \n\nSales at gasoline stations fell 5.3% b",
+    "image": "https://kpmg.com/kpmg-us/content/dam/kpmg/basic-hero/2026/retail-sales-7-17-h.jpg"
+   },
+   {
+    "id": "http://bonddad.blogspot.com/2025/07/putting-markers-down-what-will-it-take.html",
+    "title": "The Bonddad Blog: Putting markers down: what will it take for my forecast to activate a “recession watch”?",
+    "url": "http://bonddad.blogspot.com/2025/07/putting-markers-down-what-will-it-take.html",
+    "publishedDate": "2026-07-19T00:00:00.000Z",
+    "author": "Posted by\n \n \n \n New Deal democrat",
+    "text": "The Bonddad Blog: Putting markers down: what will it take for my forecast to activate a “recession watch”?\n\n- by New Deal democrat\n\nOur data drought won’t end until next Tuesday. In the meantime, let me follow up on a theme from my analysis of the economic data from last week. To wit: there are several metrics that I have already stated are worth a “recession watch;” namely, housing units under construction (down almost 20% from peak), and the 3 month economically weighted ISM new orders subindexes (just into contraction territory at 49.3). Additionally, real aggregate nonsupervisory payrolls look like they may be rolling over. But there are many other measures that are not signaling a recession in the immediate near term (e.g, employment in the goods producing sector).\n\nAs I noted several weeks ago, in the past 50+ years, in addition to COVID, almost always there has been a domestic political or geopolitical shock that has precipitated US recessions. There are two excellent candidates",
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj84YeI61yCg7ELDNqIihrE9Y_cI4ROsFBKKMOMWnO3slwUKD5JkVHKp45XsF20Yh71xt-Jeo7F-0IrXA4iu22kwI5oAgy-9QuvZJaqsbxIED9hjAUUE1ZHsZJATzbJnBMF1lUgC_FI3aB_a0tq8V8jecK2Hsm-rBGlGq364MISoxv3gJhy5O6QMI4olCUi/w1200-h630-p-k-no-nu/0D3F07D3-A4E1-46D1-BF75-B3CBA35BC84F.jpeg"
+   }
+  ],
+  "searchTime": 1767.5,
+  "costDollars": {
+   "total": 0.007,
+   "search": {
+    "neural": 0.007
+   }
+  }
+ }
+}

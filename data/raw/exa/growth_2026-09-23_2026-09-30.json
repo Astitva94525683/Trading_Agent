@@ -1,0 +1,100 @@
+{
+ "theme": "growth",
+ "query": "US economy GDP growth recession retail sales ISM",
+ "start": "2026-09-23",
+ "end": "2026-09-30",
+ "fetched_utc": "2026-10-12T10:09:54Z",
+ "response": {
+  "requestId": "db20d893380491d0fb2d98306da4d35d",
+  "resolvedSearchType": "",
+  "results": [
+   {
+    "id": "https://www.bea.gov/news/2026/gdp-third-estimate-industries-corporate-profits-state-gdp-and-state-personal-income-2nd",
+    "title": "GDP (Third Estimate), Industries, Corporate Profits, State GDP, and State Personal Income, 2nd Quarter 2026; State PCE, 2025 | U.S. Bureau of Economic Analysis (BEA)",
+    "url": "https://www.bea.gov/news/2026/gdp-third-estimate-industries-corporate-profits-state-gdp-and-state-personal-income-2nd",
+    "publishedDate": "2026-09-30T00:00:00.000Z",
+    "text": "GDP (Third Estimate), Industries, Corporate Profits, State GDP, and State Personal Income, 2nd Quarter 2026; State PCE, 2025 | U.S. Bureau of Economic Analysis (BEA)\n\nEMBARGOED UNTIL RELEASE AT 8:30 a.m. EDT, Wednesday, September 30, 2026\n\n# GDP (Third Estimate), Industries, Corporate Profits, State GDP, and State Personal Income, 2nd Quarter 2026; State PCE, 2025 \n\nReal gross domestic product (GDP) increased at an annual rate of 2.2 percent in the second quarter of 2026 (April, May, and June), according to the third estimate released today by the U.S. Bureau of Economic Analysis (BEA). In the first quarter, real GDP increased 2.5 percent (revised).\n\nReal GDP was revised up 0.7 percentage point from the second estimate, primarily reflecting upward revisions to investment, consumer spending, and government spending. For more information, refer to the \" Technical Notes\" below\n\nThe contributors to the increase in real GDP in the second quarter were consumer spending, investment, and expor"
+   },
+   {
+    "id": "https://staging.gdpquery.ai/insights/retail-sales-rise-1-2-percent-august-2026-ex-auto-sales-climb-1-4-percent",
+    "title": "Retail Sales Rise 1.2% in August 2026 as Ex-Auto Sales Climb 1.4% | GDPQuery.ai Insights",
+    "url": "https://staging.gdpquery.ai/insights/retail-sales-rise-1-2-percent-august-2026-ex-auto-sales-climb-1-4-percent",
+    "publishedDate": "2026-09-29T00:00:00.000Z",
+    "text": "Retail Sales Rise 1.2% in August 2026 as Ex-Auto Sales Climb 1.4% | GDPQuery.ai Insights\n\n# Retail Sales Rise 1.2% in August 2026 as Ex-Auto Sales Climb 1.4%\n\nSeptember 29, 2026\n\nDrafted by claude-opus-5-5 · Reviewed by a human before publication · Released September 16, 2026 · Data through August 2026\n\n## Highlights\n\n- Print\n\nRetail and food services sales rose 1.2% in August to $773.9 billion, more than reversing a July pullback that was revised from down 0.6 percent to down 0.5 percent.\n- Read\n\nSales excluding motor vehicles and parts climbed 1.4% while dealers managed only 0.6%, so autos held the headline back rather than inflating it.\n- Read\n\nGasoline station receipts are up 21.0% from a year ago, most likely on fuel prices rather than gallons, but sales excluding gasoline stations still rose 1.1%, above the 0.4% monthly rise in consumer prices, so the real gain does not depend on the pump.\n- Read\n\nNominal retail spending growing at 6.0% a year is running far faster than hourly wa"
+   },
+   {
+    "id": "https://money.usnews.com/investing/news/articles/2026-09-30/us-second-quarter-gdp-revised-higher-amid-robust-consumer-spending",
+    "title": "US Second-Quarter GDP Revised Higher Amid Robust Consumer Spending",
+    "url": "https://money.usnews.com/investing/news/articles/2026-09-30/us-second-quarter-gdp-revised-higher-amid-robust-consumer-spending",
+    "publishedDate": "2026-09-30T00:00:00.000Z",
+    "author": "Reuters",
+    "text": "US Second-Quarter GDP Revised Higher Amid Robust Consumer Spending\n\n# US Second-Quarter GDP Revised Higher Amid Robust Consumer Spending\n\nBy Reuters\n\nSept. 30, 2026\n\nBy Reuters\n\nSept. 30, 2026, at 9:09 a.m. \n\nReuters\n\nShoppers walk down 5th Avenue in Manhattan in New York City, U.S., January 6, 2026. REUTERS/Angelina Katsanis\n\nWASHINGTON, Sept 30 (Reuters) - The US economy grew at a solid ⁠clip ⁠in the second quarter, driven by ⁠robust consumer spending and business investment related to the buildout of AI infrastructure.\n\nGross ​domestic product increased at a 2.2% annualized rate, revised up from the previously estimated 1.5% pace, the Commerce Department's Bureau of ‌Economic Analysis said in its third ‌estimate of second-quarter GDP on Wednesday. Economists polled by Reuters had expected that GDP growth would be unrevised. \n\nThe ⁠economy grew at ⁠a 2.5% rate in the first quarter. That was revised up from the ​previously reported 2.1% pace.\n\nThe BEA revised GDP data going back to 20",
+    "image": "https://www.usnews.com/dims4/USNEWS/ebfcaa6/2147483647/thumbnail/970x647/quality/85/?url=https%3A%2F%2Fwww.usnews.com%2Fcmsmedia%2F57%2Fcb6e54eb19fa4b131d172a9b6344ef%2Ftag%3Areuters.com%2C2026%3Anewsml_LYNXMPEM8T197%3A12026-09-30T135812Z_1_LYNXMPEM8T197_RTROPTP_3_USA-DAILYLIFE.JPG"
+   },
+   {
+    "id": "https://timesofmalta.com/article/economic-review-us-services-index-tops-forecast.1054258",
+    "title": "Economic review: US services index tops forecast, calming recession fears",
+    "url": "https://timesofmalta.com/article/economic-review-us-services-index-tops-forecast.1054258",
+    "publishedDate": "2026-09-29T00:00:00.000Z",
+    "text": "Economic review: US services index tops forecast, calming recession fears\n\n# Economic review: US services index tops forecast, calming recession fears\n\nEurozone retail sales dip in July while German industrial output continues sliding\n\nAn index that measures activity in the US service sector grew at a quicker rate than expected in August, according to a report published on Wednesday by the Institute for Supply Management (ISM).\n\nThe US ISM Services purchasing managers’ index (PMI) rose from 52.7 in July to 54.5 in August, exceeding expectations of 52.6. Looking at some subsectors, business activity/production inched up from 57.1 to 57.3. On the other hand, new orders soared from 55.0 to 57.5 while employment leapt to 54.7 from 50.7. Prices also rose from 56.7 to 58.9.\n\nPolicymakers at the Federal Reserve, the US central bank, consider the services sector as crucial to bringing inflation down to their two per cent target, and Wednesday’s ISM report does not show that any economic slowdo",
+    "image": "https://cdn-attachments.timesofmalta.com/91bb844429df76d8e98dc27e8ecd9271f58ad22c-1694283879-7bfed3e3-1200x630.jpg"
+   },
+   {
+    "id": "https://www.haver.com/articles/u-s-gdp-growth-revised-up-in-both-q1-and-q2-benchmark-revision-small",
+    "title": "U.S. GDP Growth Revised Up in both Q1 and Q2; Benchmark Revision Small - Haver Analytics",
+    "url": "https://www.haver.com/articles/u-s-gdp-growth-revised-up-in-both-q1-and-q2-benchmark-revision-small",
+    "publishedDate": "2026-09-30T00:00:00.000Z",
+    "author": "Sandy Batten Author",
+    "text": "U.S. GDP Growth Revised Up in both Q1 and Q2; Benchmark Revision Small - Haver Analytics\n\n| Sep 30 2026\n\n# U.S. GDP Growth Revised Up in both Q1 and Q2; Benchmark Revision Small\n\nby: Sandy Batten\n\n| in: Economy in Brief\n\n###### Summary\n\n- The third estimate of Q2 real GDP raised growth to 2.2% q/q saar from 1.5% in both the advance and second estimate.\n- In the annual benchmark revision, Q1 growth was revised up to 2.5% from 2.1%.\n- The sources of the Q3 revision were rather widespread—leading the way, faster consumption and nonresidential investment and a smaller drag from inventories\n- The strong Q2 domestic demand growth reported in the advance and second estimates was revised even stronger.\n- The Q2 rise in corporate profits were revised down slightly but still posted the strongest quarterly advance since Q2 2021.\n- Total benchmark revisions were relatively small with average annual GDP growth from 2020 to 2025 revised up only 0.1%-point to a robust 3.4%.\n- The largest annual revis"
+   },
+   {
+    "id": "https://www.gdpdynamics.com/commentaries/2026-09-25_gdp-dynamics-q3-nowcast-falls-to-2-49-as-consumer-signal-weakens",
+    "title": "GDP Dynamics Q3 Nowcast Falls to 2.49% as Consumer Signal Weakens",
+    "url": "https://www.gdpdynamics.com/commentaries/2026-09-25_gdp-dynamics-q3-nowcast-falls-to-2-49-as-consumer-signal-weakens",
+    "publishedDate": "2026-09-25T00:00:00.000Z",
+    "text": "GDP Dynamics Q3 Nowcast Falls to 2.49% as Consumer Signal Weakens\n\n# GDP Dynamics Q3 Nowcast Falls to 2.49% as Consumer Signal Weakens\n\n Date: 2026-09-25 Author: GDP Dynamics Share \n\nThe GDP Dynamics nowcast for third-quarter U.S. real GDP growth fell to 2.49% SAAR on September 25, down 0.19 percentage points from yesterday’s estimate. That is equivalent to roughly 0.62% growth quarter-over-quarter.\n\nThe decline came almost entirely from the consumer side of the model. Consumer spending’s estimated contribution fell by 0.22 percentage points, more than offsetting small improvements in business fixed investment and residential investment. The change leaves an interesting split in the incoming data: household signals weakened while capital spending continues to look surprisingly strong.\n\n## Consumer Spending Takes a Hit\n\nConsumer spending remains at a high estimated contribution of 3.09 percentage points, but that level shouldn’t obscure what changed today. Its contribution fell 0.22 per",
+    "image": "https://www.gdpdynamics.com/commentaries/assets/2026-09-25_gdp-dynamics-q3-nowcast-falls-to-2-49-as-consumer-signal-weakens/2026Q3_2026-09-25_nowcast_path.png"
+   },
+   {
+    "id": "https://www.prnewswire.com/news-releases/us-consumer-confidence-fell-in-september-302892867.html",
+    "title": "US Consumer Confidence Fell in September",
+    "url": "https://www.prnewswire.com/news-releases/us-consumer-confidence-fell-in-september-302892867.html",
+    "publishedDate": "2026-09-29T00:00:00.000Z",
+    "author": "The Conference Board",
+    "text": "US Consumer Confidence Fell in September\n\nSep 29, 2026, 10:00 ET\n\nViews of the present situation and expectations for the future both deteriorated\n\nNEW YORK, Sept. 29, 2026 /PRNewswire/ -- The Conference Board Consumer Confidence Index ® fell by 6.7 points to 81.9 (1985=100) in September, down from 88.6 in August. The Present Situation Index—based on consumers' assessment of current business and labor market conditions—retreated by 7.9 points to 109.3. The Expectations Index—based on consumers' short-term outlook for income, business, and labor market conditions—fell by 5.9 points to 63.6, its third consecutive monthly decline. The survey period for this month's preliminary results was September 1-23, which included a federal funds rate hike and ongoing geopolitical tensions.\n\n\"The Consumer Confidence Index deteriorated notably in September, following two prior months of softening,\" said Dana M Peterson, Chief Economist, The Conference Board. \"The Present Situation Index fell sharply, ",
+    "image": "https://mmx.prnewswire.com/media/MS461842/The-Conference-Board-Logo.jpg?id=OA2976505&p=facebook"
+   },
+   {
+    "id": "https://www.jec.senate.gov/public/vendor/_accounts/JEC-R/gdp/Monthly%20GDP%20Update%20mobile.html",
+    "title": "Monthly-GDP-Update-mobile-r.knit",
+    "url": "https://www.jec.senate.gov/public/vendor/_accounts/JEC-R/gdp/Monthly%20GDP%20Update%20mobile.html",
+    "publishedDate": "2026-09-30T00:00:00.000Z",
+    "text": "# Monthly-GDP-Update-mobile-r.knit\n\nPublished: 2026-09-30T00:00:00Z\nSource: jec.senate.gov\nLanguage: en\n\n## Story\n\nMonthly-GDP-Update-mobile-r.knit\n#### **Q2 2026, Third Estimate**\n#### Released September 30, 2026\n+2.22\npercent\nChange in real\nGDP\nQ1 2026 to Q2 2026,\nannualized\n+8.49\npercent\nChange in\ncurrent-dollar GDP\nQ1 2026 to\nQ2 2026, annualized\n$32.563T\nCurrent-dollar GDP\nQ2 2026\n#### **From Q1 2026 to Q2 2026:**\n* Real GDP **increased by 2.22 percent** annualized.\n* Current-dollar nominal GDP **increased by 8.49\npercent** annualized, or $656.756 billion, to a level of $32.563\ntrillion, the current size of the U.S. economy.\n* The ratio of debt held by the public to GDP **increased by\n0.25 percentage points** to 99.62 percent, and the ratio of total\nnational debt to GDP **decreased by -0.30 percentage\npoints** to 123.38 percent.\n* Real GDP growth was **revised upward by 0.74 percentage\npoints** from the previous estimate.\n* Current-dollar GDP growth was **revised upward by 0.47\nper"
+   },
+   {
+    "id": "https://timesofmalta.com/article/us-manufacturing-activity-allays-recession-fears.706601",
+    "title": "US manufacturing activity allays recession fears",
+    "url": "https://timesofmalta.com/article/us-manufacturing-activity-allays-recession-fears.706601",
+    "publishedDate": "2026-09-29T00:00:00.000Z",
+    "text": "US manufacturing activity allays recession fears\n\n# US manufacturing activity allays recession fears\n\nA gauge of US manufacturing activity rose in March, indicating that recession fears have been greatly overblown. The Institute for Supply Management (ISM)’s national factory activity index rose sharply to 55.3 in March from 54.2 in February, the latter...\n\nA gauge of US manufacturing activity rose in March, indicating that recession fears have been greatly overblown. The Institute for Supply Management (ISM)’s national factory activity index rose sharply to 55.3 in March from 54.2 in February, the latter being the lowest level since November 2016. March’s print was above expectations of 54.5. A reading above 50 indicates expansion in activity.\n\nNew orders rose while inventories subsided – a classic positive signal. Every recession since 1960 has been preceded by a sharp downturn in the ISM to below 50, with the only exception being in late 1973, when the oil embargo suddenly prodded th",
+    "image": "https://cdn-attachments.timesofmalta.com/tom-fallback-cover-620x348.jpg"
+   },
+   {
+    "id": "https://www.portfolioai.com/report/recession-analysis-2026-09-28-growth-slows-without-labor-break",
+    "title": "Slower Output, Steady Jobs: The Recession Risk Divide",
+    "url": "https://www.portfolioai.com/report/recession-analysis-2026-09-28-growth-slows-without-labor-break",
+    "publishedDate": "2026-09-28T00:00:00.000Z",
+    "author": "Shaun McQuaker",
+    "text": "Slower Output, Steady Jobs: The Recession Risk Divide\n\nU.S. recession analysis · September 28, 2026\n\n# Slower Output, Steady Jobs: The Recession Risk Divide\n\nGrowth has lost some speed, but the labor-market trigger remains quiet. The next recession test is whether a modest output slowdown becomes a sustained rise in unemployment.\n\n### Next 3 months\n\nRecession not the base case\n\nAugust unemployment was 4.1% and the Sahm indicator was −0.07 percentage point, well below its +0.50 trigger. Watch weekly claims and hiring breadth for a change in direction.\n\n### Next 6 months\n\nSlowdown risk exceeds imminent-contraction risk\n\nReal GDP rose in the latest available quarter, though its pace eased. A persistent employment deterioration alongside weaker output would change this assessment.\n\n### Next 12 months\n\nA wider uncertainty band\n\nThe year-end event-market price cannot be stretched into a 12-month forecast. Energy, credit and household income will determine whether the current expansion surviv",
+    "image": "https://www.portfolioai.com/img/portfolio-ai-og.webp"
+   }
+  ],
+  "searchTime": 3083.8,
+  "costDollars": {
+   "total": 0.007,
+   "search": {
+    "neural": 0.007
+   }
+  }
+ }
+}

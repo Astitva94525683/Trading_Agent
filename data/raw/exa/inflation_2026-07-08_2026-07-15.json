@@ -1,0 +1,107 @@
+{
+ "theme": "inflation",
+ "query": "US inflation CPI PCE consumer prices",
+ "start": "2026-07-08",
+ "end": "2026-07-15",
+ "fetched_utc": "2026-10-12T10:06:30Z",
+ "response": {
+  "requestId": "fdd18f28e06687489d6f2d01c1460178",
+  "resolvedSearchType": "",
+  "results": [
+   {
+    "id": "https://www.reuters.com/business/us-consumer-inflation-slows-more-than-expected-june-2026-07-14/",
+    "title": "US consumer inflation moderates; upside risks remain amid renewed Middle East conflict | Reuters",
+    "url": "https://www.reuters.com/business/us-consumer-inflation-slows-more-than-expected-june-2026-07-14/",
+    "publishedDate": "2026-07-14T00:00:00.000Z",
+    "author": "Lucia Mutikani",
+    "text": "US consumer inflation moderates; upside risks remain amid renewed Middle East conflict | Reuters\n\n# US consumer inflation moderates; upside risks remain amid renewed Middle East conflict\n\nBy Lucia Mutikani\n\nJuly 14, 2026 12:40 PM UTC Updated July 14, 2026\n\n- Consumer Price Index increases 3.5% year-on-year in June, below market expectations for a 3.8% rise\n- Decline in gasoline prices accounts for most of the moderation in the CPI\n- Excluding food and energy, the CPI rose 2.6% year-on-year\n\nWASHINGTON, July 14 (Reuters) - U.S. consumer inflation slowed more than expected in June as energy prices retreated, but the moderation was insufficient to convince financial markets to take an interest rate increase from the Federal Reserve ​this year off the table against the backdrop of renewed conflict in the Middle East.\n\nThe report from the Labor Department on Tuesday, which also showed underlying inflation subsiding last month, gave officials ‌at the U.S. central bank some breathing room whe",
+    "image": "https://www.reuters.com/resizer/v2/SBJ4SQP6WZPFLK2LGROYEAEUCU.jpg?auth=58b5105b8fb60d82029b4c4cce90ba64156b24584890d3200ad19f6275c710fa&height=1005&width=1920&quality=80&smart=true"
+   },
+   {
+    "id": "https://www.cnbc.com/2026/07/14/consumer-price-index-inflation-report-june-2026.html",
+    "title": "Consumer price index inflation report June 2026:",
+    "url": "https://www.cnbc.com/2026/07/14/consumer-price-index-inflation-report-june-2026.html",
+    "publishedDate": "2026-07-14T00:00:00.000Z",
+    "author": "Jeff Cox",
+    "text": "Consumer price index inflation report June 2026:\n\n# Consumer prices rose 3.5% annually in June, less than expected as energy prices eased\n\nPublished Tue, Jul 14 2026 8:32 AM EDT Updated Tue, Jul 14 2026 5:05 PM EDT\n\nJeff Cox@jeff.cox.7528@JeffCoxCNBCcom\n\nKey Points\n\n- The consumer price index fell a seasonally adjusted 0.4% for the month, bringing the annual inflation rate down to 3.5%. Wall Street had expected a 0.2% monthly decline and 3.8% annual level. The monthly drop was the largest since April 2020.\n- Core inflation, which excludes food and energy, was flat on the month, putting the 12-month rate at 2.6%. The consensus forecast was for respective increases of 0.2% and 2.9%.\n- The easing of prices came from a big decline in energy and an easing in services costs, particularly for housing.\n\nVIDEO 3:18 03:18\n\nInflation eases to 3.5% annually, biggest drop since April 2020\n\nMarkets and Politics Digital Original Video\n\nConsumer prices posted their biggest decline in more than six yea",
+    "image": "https://image.cnbcfm.com/api/v1/image/108334610-1784029865903-gettyimages-2285936099-anotherday239786436_tv1tvbr3.jpeg?v=1784029894&w=1920&h=1080"
+   },
+   {
+    "id": "https://archive.ph/g6GpE",
+    "title": "Consumer Price Index Summary - 2026 M06 Results",
+    "url": "https://archive.ph/g6GpE",
+    "publishedDate": "2026-07-14T00:00:00.000Z",
+    "text": "Consumer Price Index Summary - 2026 M06 Results\n\nfrom host www.bls.gov\n\n# Consumer Price Index Summary \n\n```\nTransmission of material in this release is embargoed until                                        \n8:30 a.m. (ET) Tuesday, July 14, 2026               USDL-26-1191\n\t\nTechnical information: (202) 691-7000  *  cpi_info@bls.gov  *  www.bls.gov/cpi\nMedia contact:         (202) 691-5902  *  PressOffice@bls.gov \n\nCONSUMER PRICE INDEX - JUNE 2026\n\nThe Consumer Price Index for All Urban Consumers (CPI-U) decreased 0.4 percent on a seasonally adjusted basis in June \nafter rising 0.5 percent in May, the U.S. Bureau of Labor Statistics reported today. This decline in the all items \nindex was the largest 1-month decrease since April 2020 when it fell 0.8 percent. Over the last 12 months, the all \nitems index increased 3.5 percent before seasonal adjustment.\n\nThe index for energy fell 5.7 percent in June after rising 3.9 percent in May, 3.8 percent in April, and 10.9 percent \nin March. The ",
+    "image": "https://archive.ph/g6GpE/af27d242109d6f2aeba4c2b6fd840ba53a473dc5/scr.png"
+   },
+   {
+    "id": "https://apnews.com/article/inflation-trump-food-prices-gas-53d221aa918c466172af494ba7debc00",
+    "title": "US inflation cools with a 0.4% June drop, but Iran conflict threatens a reversal | AP News",
+    "url": "https://apnews.com/article/inflation-trump-food-prices-gas-53d221aa918c466172af494ba7debc00",
+    "publishedDate": "2026-07-14T00:00:00.000Z",
+    "author": "Christopher Rugaber",
+    "text": "US inflation cools with a 0.4% June drop, but Iran conflict threatens a reversal | AP News\n\n# Inflation cools more than expected in June as gas costs fall, underlying prices ease\n\nWhen the cost of nearly everything is rising, economists call it inflation. Even if paychecks also rise, inflation typically leads people feel like it’s harder to make ends meet, and it often becomes a major political issue.\n\nGas pumps are seen at a gas station in Buffalo Grove, Thursday, June 25, 2026. (AP Photo/Nam Y. Huh)\n\n By CHRISTOPHER RUGABER\n\nWASHINGTON (AP) — U.S. inflation cooled last month as the cost of gas, clothes, and used cars fell, providing some relief to consumers, while underlying price pressures also slowed more than expected. \n\nConsumer prices dropped 0.4% from May to June, the largest monthly drop in four years, the Labor Department said Tuesday, after rising 0.5% in the previous month. On a yearly basis, inflation declined to 3.5%, down from a year-over-year gain of 4.2% in May and low",
+    "image": "https://dims.apnews.com/dims4/default/3c01bdd/2147483647/strip/true/crop/4426x2949+0+0/resize/980x653!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2Fb9%2F98%2Fcdba218696e428e750733b15e61c%2F345216ed7b614f9696a1d6d9b4b36583"
+   },
+   {
+    "id": "https://www.cnbc.com/2026/07/14/inflation-cpi-june-2026-in-one-chart.html",
+    "title": "Here’s the inflation breakdown for June 2026 — in one chart",
+    "url": "https://www.cnbc.com/2026/07/14/inflation-cpi-june-2026-in-one-chart.html",
+    "publishedDate": "2026-07-14T00:00:00.000Z",
+    "author": "Greg Iacurci",
+    "text": "Here’s the inflation breakdown for June 2026 — in one chart\n\n# Here’s the inflation breakdown for June 2026 — in one chart\n\nPublished Tue, Jul 14 2026 11:52 AM EDT Updated Tue, Jul 14 2026 5:02 PM EDT\n\nGreg Iacurci@GregIacurci\n\nKey Points\n\n- The consumer price index rose 3.5% in June 2026 from a year earlier, the Bureau of Labor Statistics said Tuesday. \n- It was a slowdown from May, the first pullback in the annual inflation rate since January. \n- The deceleration came amid lower energy and gasoline prices as tensions over the Iran war eased in June. Inflation risks rising again as the U.S. and Iran have reignited hostilities in recent days. \n\nVIDEO 3:18 03:18\n\nConsumer prices pulled back in June on the heels of lower energy and gasoline prices, a reversal after moving sharply upward in recent months due to the Iran war. However, inflation risks re-igniting in coming months amid renewed hostilities between the U.S. and Iran, economists said. \n\nThe consumer price index, an inflation ba",
+    "image": "https://image.cnbcfm.com/api/v1/image/108329956-1784057136138-108329956-1783002249998-gettyimages-2283750818-JULY_4_TRAVEL.jpeg?v=1784057176&w=1920&h=1080"
+   },
+   {
+    "id": "https://www.rbc.com/en/economics/us-analysis/us-data-flashes/us-cpi-one-month-buys-the-fed-time-but-it-doesnt-buy-a-trend/",
+    "title": "US CPI: One month buys the Fed time but it doesn’t buy a trend - RBC Economics",
+    "url": "https://www.rbc.com/en/economics/us-analysis/us-data-flashes/us-cpi-one-month-buys-the-fed-time-but-it-doesnt-buy-a-trend/",
+    "publishedDate": "2026-07-14T00:00:00.000Z",
+    "author": "Ryan",
+    "text": "US CPI: One month buys the Fed time but it doesn’t buy a trend - RBC Economics\n\n#### Bottom Line:\n\nThe June CPI report gave the Fed a welcome surprise, as both headline and core reported below expectations. Headline inflation declined -0.4% m/m, helped in large part by the drop in gas prices. More notable was the core inflation reading – at 0.0% m/m it was a welcome reprieve. And while it rounded to flat, this was technically the first negative month-over-month print since May 2020. Tariff pressures appear to have peaked in H1 (as we anticipated), and we did not end up seeing any pressures from FIFA as expected. Still, recent geopolitical events present upside risks to both headline and core inflation and importantly, there remains a notable gap between the y/y pace of PPI and CPI, meaning there is pressure in the pipeline.\n\nIndeed, one month doesn’t make a trend but the underlying details should allow the Fed to remain on hold for the foreseeable future. The June print was especially ",
+    "image": "https://www.rbc.com/en/economics/wp-content/uploads/sites/23/2026/04/inf-US.png?quality=80"
+   },
+   {
+    "id": "https://111things.com/data/may-pce-inflation-gauge-rises-core-pce-for-grocery-rent-borrowing-costs/",
+    "title": "May PCE inflation gauge rises: core PCE for grocery, rent, borrowing costs | Interactive News",
+    "url": "https://111things.com/data/may-pce-inflation-gauge-rises-core-pce-for-grocery-rent-borrowing-costs/",
+    "publishedDate": "2026-07-09T00:00:00.000Z",
+    "author": "Brian Bateman",
+    "text": "May PCE inflation gauge rises: core PCE for grocery, rent, borrowing costs | Interactive News\n\n# May PCE inflation gauge rises: core PCE for grocery, rent, borrowing costs\n\n July 9, 2026 2:21 pm Data, Local Headlines \n\nBEA’s monthly inflation update, released as part of Personal Income and Outlays for May 2026, shows prices rising again—at least according to the inflation measure the Federal Reserve watches closely. The key question for household budgets is whether the “core” trend (prices excluding food and energy) is cooling or re-accelerating.\n\n## What changed in May 2026: headline vs. core PCE\n\nBEA’s headline PCE price index (which includes food and energy) rose:\n\n- 0.4% month over month (MoM)\n- 4.1% year over year (YoY)\n\nBEA’s core PCE—PCE prices excluding food and energy—rose:\n\n- 0.3% MoM\n- 3.4% YoY\n\nIn plain English: headline inflation can be nudged around by more volatile categories (especially energy and food), while core is the better check on whether underlying price pressur",
+    "image": "https://jetpack.com/redirect/?source=sigenerate&query=t%3DeyJpbWciOiJodHRwczpcL1wvaTAud3AuY29tXC8xMTF0aGluZ3MuY29tXC93cC1jb250ZW50XC91cGxvYWRzXC8yMDI2XC8wNlwvYWJzdHJhY3QtYmFja2dyb3VuZC1vZi1kZWZvY3VzZWQtYnVpbGRpbmctbGlnaHRzLW9mLWlsbHVtaW5hdGVkLW1vZGVybi1jaXR5LWF0LWRhcmstbmlnaHQtNDEzOTE0My1zY2FsZWQuanBnP2ZpdD0xMDI0JTJDNjgzJnNzbD0xIiwidHh0IjoiTWF5IFBDRSBpbmZsYXRpb24gZ2F1Z2UgcmlzZXM6IGNvcmUgUENFIGZvciBncm9jZXJ5LCByZW50LCBib3Jyb3dpbmcgY29zdHMiLCJ0ZW1wbGF0ZSI6ImhpZ2h3YXkiLCJmb250IjoiIiwiYmxvZ19pZCI6MTI2NDgzMDY3fQ.t4pJqHYt8JidQuJLhp4SBCnScBhsYBynODwei7K4n7wMQ"
+   },
+   {
+    "id": "https://www.jec.senate.gov/public/index.cfm/republicans/2026/7/consumer-price-index-fell-0-42-percent-in-june-biggest-monthly-decline-in-six-years",
+    "title": "Consumer Price Index fell 0.42 percent in June, Biggest Monthly Decline in Six Years - Consumer Price Index fell 0.42 percent in June, Biggest Monthly Decline in Six Years - U.S. Congress Joint Economic Committee",
+    "url": "https://www.jec.senate.gov/public/index.cfm/republicans/2026/7/consumer-price-index-fell-0-42-percent-in-june-biggest-monthly-decline-in-six-years",
+    "publishedDate": "2026-07-14T00:00:00.000Z",
+    "author": "United States Joint Economic Committee",
+    "text": "Consumer Price Index fell 0.42 percent in June, Biggest Monthly Decline in Six Years - Consumer Price Index fell 0.42 percent in June, Biggest Monthly Decline in Six Years - U.S. Congress Joint Economic Committee\n\n# Consumer Price Index fell 0.42 percent in June, Biggest Monthly Decline in Six Years\n\n#### July 14, 2026 \n\nWASHINGTON, DC – Today, the Joint Economic Committee released its Monthly Inflation Update for June, showing that consumer prices continued to rise, but at a slower rate than anticipated. Headline Consumer Price Index (CPI-U) dropped by 0.42 percent in June and rose to 3.53 percent over the past year. Core CPI, which excludes food and energy, dropped 0.02 percent in June and rose to 2.59 percent over the past year. Energy price inflation was down by 5.71 percent in June and was up 15.70 percent over the past year. Food price inflation rose 0.21 percent in June and was up 3.01 percent over the past year. Inflation varied by region, with annual headline CPI inflation hig",
+    "image": "https://www.jec.senate.gov/public/vendor/_skins/jec-2025-rep/images/social-reps-social.png"
+   },
+   {
+    "id": "https://www.xxquant.com/en/institution/institutional-research/63144528a0a1a88c9b51144fa6f79e36",
+    "title": "Consumer Electronics: U.S. inflation cooled unexpectedly in June, with the core PCE forecast revised down | Report Interpretation | Hilo Research",
+    "url": "https://www.xxquant.com/en/institution/institutional-research/63144528a0a1a88c9b51144fa6f79e36",
+    "publishedDate": "2026-07-14T00:00:00.000Z",
+    "text": "Consumer Electronics: U.S. inflation cooled unexpectedly in June, with the core PCE forecast revised down | Report Interpretation | Hilo Research\n\n# Consumer Electronics: U.S. inflation cooled unexpectedly in June, with the core PCE forecast revised down\n\nNomura believes the June decline in core CPI was mainly driven by weaker services components and some one-off noise, and revised the month-over-month core PCE forecast down to 0.168%, supporting the Fed's hold-no-hike stance.\n\nInstitution Nomura Date 2026-07-14 Industry Consumer Electronics\n\nSummary\n\nNomura believes the June decline in core CPI was mainly driven by weaker services components and some one-off noise, and revised the month-over-month core PCE forecast down to 0.168%, supporting the Fed's hold-no-hike stance.\n\nMacro data tracking report with no stock ratings or target price; policy implication is dovish.\n\nU.S. inflation core CPI core PCE Federal Reserve services inflation tariff impact AI hardware prices\n\n- Core CPI in Ju"
+   },
+   {
+    "id": "https://www.aljazeera.com/economy/2026/7/14/us-consumer-prices-drop-in-june-as-energy-costs-tumble",
+    "title": "US consumer prices drop in June as energy costs tumble | Inflation News | Al Jazeera",
+    "url": "https://www.aljazeera.com/economy/2026/7/14/us-consumer-prices-drop-in-june-as-energy-costs-tumble",
+    "publishedDate": "2026-07-14T00:00:00.000Z",
+    "author": "Andy Hirschfeld",
+    "text": "US consumer prices drop in June as energy costs tumble | Inflation News | Al Jazeera\n\n# US consumer prices drop in June as energy costs tumble\n\nInflation eased due to cheaper energy, but experts warn price increases may return after renewed US-Iran tensions.\n\nAverage US petrol prices have jumped from $3.79 per gallon (3.78 literes) to $3.86 in the past week, according to the American Automobile Association [Brandon Bell/Getty via AFP]\n\nBy Andy Hirschfeld\n\nPublished On 14 Jul 2026 14 Jul 2026\n\nConsumer prices in the United States tumbled in June as energy prices fell, led by cheaper petrol, after concerns in global energy markets over the Strait of Hormuz temporarily eased.\n\nPrices fell by 0.4 percent on a monthly basis, according to the Department of Labor’s Bureau of Labor Statistics Consumer Price Index (CPI) released on Tuesday.\n\nEnergy prices led the declines, tumbling 5.7 percent, marking the biggest monthly decline since April 2020. Oil prices led the way, falling 9.7 percent, wh",
+    "image": "https://www.aljazeera.com/wp-content/uploads/2026/07/afp_6a565380ed8b-1784042368.jpg?resize=1920%2C1440"
+   }
+  ],
+  "searchTime": 3468.5,
+  "costDollars": {
+   "total": 0.007,
+   "search": {
+    "neural": 0.007
+   }
+  }
+ }
+}

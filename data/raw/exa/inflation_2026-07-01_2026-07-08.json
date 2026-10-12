@@ -1,0 +1,105 @@
+{
+ "theme": "inflation",
+ "query": "US inflation CPI PCE consumer prices",
+ "start": "2026-07-01",
+ "end": "2026-07-08",
+ "fetched_utc": "2026-10-12T10:06:25Z",
+ "response": {
+  "requestId": "d8d1d9a19e148d31c68ddd0068caaa60",
+  "resolvedSearchType": "",
+  "results": [
+   {
+    "id": "https://www.axios.com/2026/07/06/inflation-fed-pce",
+    "title": "Fed's inflation math is getting a makeover",
+    "url": "https://www.axios.com/2026/07/06/inflation-fed-pce",
+    "publishedDate": "2026-07-06T00:00:00.000Z",
+    "author": "Neil Irwin",
+    "text": "Fed's inflation math is getting a makeover\n\nJul 6, 2026 - Economy\n\n# Measurement tweaks will make inflation data look better\n\n- Neil Irwin\n\nIllustration: Lindsey Bailey/Axios\n\nChanges to the methodology underneath the Federal Reserve's go-to inflation measure are on track to make the numbers look a couple of ticks better later this year.\n\nWhy it matters: The changes are entirely defensible on technical grounds and should make the Personal Consumption Expenditures Price Index better able to mirror overall price dynamics over time.\n\n- But coming at a fraught moment — when the independence of statistical agencies has been attacked and the Fed has overshot its inflation target for half a decade — the optics aren't great.\n\nState of play: The Bureau of Economic Analysis, which calculates the PCE inflation measure, announced late last month the methodological changes to how price changes are calculated in three subcategories.\n\n- It will change the calculation of prices for portfolio managemen",
+    "image": "https://images.axios.com/GB86EMZwBWeK47p37qVNvcmwHOY=/0x0:4000x2250/1366x768/2026/01/23/1769206575108.jpeg"
+   },
+   {
+    "id": "https://finbarrow.com/actualidad/cpi-june-2026-savings-impact/",
+    "title": "June CPI cools to 3.5%: what the official print means for savers — finbarrow",
+    "url": "https://finbarrow.com/actualidad/cpi-june-2026-savings-impact/",
+    "publishedDate": "2026-07-08T00:00:00.000Z",
+    "author": "Cristian Corrales",
+    "text": "June CPI cools to 3.5%: what the official print means for savers — finbarrow\n\n# June CPI cools to 3.5%: what the official print means for savers\n\nOfficial BLS figures: June CPI cooled to 3.5% year-over-year with core at 2.6%. What the first real relief in four months means for I-bonds, COLA, and HYSAs.\n\nAuthor\n\n## Cristian Corrales\n\n Founding editor of finbarrow. Math-first analysis of US personal finance, anchored to primary sources (CFPB, FDIC, FRB, IRS, FICO, FINRA, SEC, NCUA). \n\n Published July 8, 2026 · Updated September 10, 2026 · 7-minute read \n\nThe Bureau of Labor Statistics released June Consumer Price Index data on Tuesday, July 14, 2026, and the print delivered the relief scenario. Headline CPI rose 3.5% over the prior twelve months, down sharply from May’s 4.2% and the first genuine deceleration after three straight months of acceleration. On the month, the all-items index actually fell 0.4% seasonally adjusted, as the energy spike tied to the supply shock from the conflict",
+    "image": "https://finbarrow.com/img/actualidad/cpi-june-2026-savings-impact.webp"
+   },
+   {
+    "id": "https://www.cnbc.com/2026/07/01/warsh-faces-multiple-alternative-inflation-signs-as-fed-charts-new-course.html",
+    "title": "Warsh faces multiple alternative inflation signs as Fed charts new course",
+    "url": "https://www.cnbc.com/2026/07/01/warsh-faces-multiple-alternative-inflation-signs-as-fed-charts-new-course.html",
+    "publishedDate": "2026-07-01T00:00:00.000Z",
+    "author": "Jeff Cox",
+    "text": "Warsh faces multiple alternative inflation signs as Fed charts new course\n\n# Warsh faces multiple alternative inflation signs as Fed charts new course\n\nPublished Wed, Jul 1 2026 1:20 PM EDT\n\nJeff Cox@jeff.cox.7528@JeffCoxCNBCcom\n\nKey Points\n\n- Federal Reserve Chairman Kevin Warsh has said that inflation is a \"choice.\" The same could also be true of how inflation is measured.\n- Warsh has formulated five task forces to look at an array of Fed functions. One will be data-focused while another will look at how officials specifically measure, and react to, inflation.\n- The Fed can use the process as a way to bring in other data points that paint a more complete picture of the cost-of-living challenges consumers face from inflation, which has been running hot for five years. \n\nKevin Warsh, Chairman of the Federal Reserve, speaking at the ECB Forum in Sintra, Portugal on July 1st, 2026. \n\nFederal Reserve Chairman Kevin Warsh has said that inflation is a \"choice.\" The same could also be true o",
+    "image": "https://image.cnbcfm.com/api/v1/image/108329282-1782913164570-Screenshot-2026-07-01-at-93751_AM.jpg?v=1782913253&w=1920&h=1080"
+   },
+   {
+    "id": "https://isimarkets.com/insights/even-with-post-war-energy-relief-us-inflation-is-still-getting-worse/",
+    "title": "Even with post-war energy relief, US inflation is still getting worse - ISI",
+    "url": "https://isimarkets.com/insights/even-with-post-war-energy-relief-us-inflation-is-still-getting-worse/",
+    "publishedDate": "2026-07-03T00:00:00.000Z",
+    "author": "Gina White",
+    "text": "Even with post-war energy relief, US inflation is still getting worse - ISI\n\n# Even with post-war energy relief, US inflation is still getting worse\n\n- Gina White\n- 03.07.2026\n- under a minute read\n\nInflationary pressures are broadening in the US, increasing the dilemma facing new Federal Reserve Board chief Kevin Warsh. PCE inflation data for May showed headline and core figures both accelerated to the highest since 2023.\n\nCEIC’s proprietary weekly nowcasts show even more cause for concern. Oil prices are at their lowest since the outbreak of the Middle East war. But while our headline nowcast reflects that cease-fire relief, our core PCE nowcast (which strips out food and energy prices) has kept ticking higher since the end of May.\n\nThe goods component of core PCE is now contributing meaningfully to inflation alongside services. On the upside for Warsh, his hawkish stance might have already helped push down longer-term inflation expectations – both in the markets and widely watched s",
+    "image": "https://isimarkets.com/wp-content/uploads/2026/07/Besides-the-Hormuz-energy-shock-core-goods-hashed-started-contributing-to-inflationary-pressures-again.png"
+   },
+   {
+    "id": "https://en.econmesh.com/macroeconomics-and-policy/inflation-deflation/core-inflation-core-pce/core-pce-june-2026-structural-factors-and-target-deviation/",
+    "title": "Core PCE June 2026: Structural Factors and Target Deviation",
+    "url": "https://en.econmesh.com/macroeconomics-and-policy/inflation-deflation/core-inflation-core-pce/core-pce-june-2026-structural-factors-and-target-deviation/",
+    "publishedDate": "2026-07-01T00:00:00.000Z",
+    "author": "Konstantin Kurbatov",
+    "text": "Core PCE June 2026: Structural Factors and Target Deviation\n\n# Core PCE Acceleration in June 2026: Structural Components, Statistical Revisions and Deviation from Target\n\n 01 July 2026 8 min read Konstantin Kurbatov Type: Deep Dive \n\nCore PCE dynamics (year-over-year), % — June 2026. Source: Bureau of Economic Analysis.\n\nAccording to data released by the Bureau of Economic Analysis (BEA) on June 30, 2026, the Core Personal Consumption Expenditures (Core PCE) price index registered 3.4% on a year-over-year basis in June 2026. This reading represents an increase of 0.3 percentage points from the May 2026 level and constitutes the highest value since October 2023 [1].\n\nThe Core PCE trajectory has demonstrated a sustained upward trend since the beginning of 2026. Monthly readings registered 2.8% in January, 2.9% in February, 3.0% in March, 3.1% in April, 3.1% in May (revised), and 3.4% in June [2]. The 0.3 percentage point month-over-month increase represents the largest single-month chang"
+   },
+   {
+    "id": "https://www.smh.com.au/business/the-economy/us-inflation-is-running-hot-so-why-not-change-the-way-it-is-measured-20260707-p60d6m.html",
+    "title": "US inflation is running hot, so why not change the way it is measured?",
+    "url": "https://www.smh.com.au/business/the-economy/us-inflation-is-running-hot-so-why-not-change-the-way-it-is-measured-20260707-p60d6m.html",
+    "publishedDate": "2026-07-07T00:00:00.000Z",
+    "author": "Stephen Bartholomeusz",
+    "text": "US inflation is running hot, so why not change the way it is measured?\n\nThis was published 3 months ago\n\n# US inflation is running hot, so why not change the way it is measured?\n\nStephen Bartholomeusz Senior business columnist\n\nJuly 7, 2026 — 12:01pm\n\nThe US Bureau of Economic Analysis doesn’t like the answers to the questions it is asking of inflation data it collects, so it’s changing the questions.\n\nNot for the first time, the bureau (the BEA), which produces America’s key economic data, is planning to revise its methodology in a way that will reduce the published inflation rate that, for more than 25 years, has been the key number the US Federal Reserve Board has focused on in deciding monetary policy.\n\nTrump’s America is changing the way it interprets economic data. Aresna Villanueva\n\nIn January, without any public disclosure of the change, the bureau made a change to the way it calculates legal services costs to exclude a sudden spike in prices. The change may have shaved about 1",
+    "image": "https://static.ffx.io/images/$zoom_0.6549%2C$multiply_0.7554%2C$ratio_1.777778%2C$width_1059%2C$x_105%2C$y_0/t_crop_custom/q_86%2Cf_auto/t_metro_opinion_social_wm/l_text:PT%20Sans_25_bold_italic:%20from%20%2Cg_north_west%2Cy_7%2Cx_280%2Cco_rgb:0a1633/l_text:AbrilTitling-Bold.ttf_55:%202026%20%2Cg_north_west%2Cy_32%2Cx_270%2Cco_rgb:0a1633/e1b8974286e93d6bff9d8bdec81f4e4f2b85409bef46a6cc4330f49bbdbec596"
+   },
+   {
+    "id": "https://ctasc.com/personal-income-and-outlays-may-2026/",
+    "title": "Personal Income and Outlays, May 2026 - CTASC.comPersonal Income and Outlays, May 2026",
+    "url": "https://ctasc.com/personal-income-and-outlays-may-2026/",
+    "publishedDate": "2026-07-04T00:00:00.000Z",
+    "text": "Personal Income and Outlays, May 2026 - CTASC.comPersonal Income and Outlays, May 2026\n\n# Personal Income and Outlays, May 2026\n\nFriday, July 3, 2026 from BEA:\n\nPersonal income increased $181.6 billion (0.7 percent at a monthly rate) in May, according to estimates released today by the U.S. Bureau of Economic Analysis (BEA). Disposable personal income (DPI)—personal income less personal current taxes—increased $164.9 billion (0.7 percent), and personal consumption expenditures (PCE) increased $156.1 billion (0.7 percent).\n\nPersonal outlays—the sum of PCE, personal interest payments, and personal current transfer payments—increased $159.9 billion in May. Personal saving was $704.2 billion in May, and the personal saving rate—personal saving as a percentage of DPI—was 3.0 percent.\n\nThe increase in current-dollar personal income in May primarily reflected increases in farm proprietors’ income and compensation.\n\nThe $156.1 billion increase in current-dollar PCE in May reflected increases o",
+    "image": "https://ctasc.com/wp-content/uploads/2025/07/CTASC-Sticker-1024x410.jpg"
+   },
+   {
+    "id": "https://www.xxquant.com/en/institution/institutional-research/9de52d51c2e4af419d547cbbe9697a2d",
+    "title": "United States: BEA methodological adjustments could lower U.S. core PCE inflation by about 20 bps | Report Interpretation | Hilo Research",
+    "url": "https://www.xxquant.com/en/institution/institutional-research/9de52d51c2e4af419d547cbbe9697a2d",
+    "publishedDate": "2026-07-07T00:00:00.000Z",
+    "text": "United States: BEA methodological adjustments could lower U.S. core PCE inflation by about 20 bps | Report Interpretation | Hilo Research\n\n# United States: BEA methodological adjustments could lower U.S. core PCE inflation by about 20 bps\n\nNomura believes technical methodological changes to the PCE price index and multiple inflation-fading factors will push U.S. core PCE to peak and decline over the next several quarters, reducing the Fed's hawkish-policy risk.\n\nInstitution Nomura Date 2026-07-07\n\nSummary\n\nNomura believes technical methodological changes to the PCE price index and multiple inflation-fading factors will push U.S. core PCE to peak and decline over the next several quarters, reducing the Fed's hawkish-policy risk.\n\nMacro research with no stock ratings or target price; policy implication is reduced inflation concern and a continued view that the Federal Reserve is likely to stay on hold for the longer term.\n\nU.S. inflation core PCE BEA methodological change Federal Reserve"
+   },
+   {
+    "id": "https://www.fxstreet.com/news/united-states-sideways-growth-sticky-inflation-td-securities-202607061419",
+    "title": "United States: Sideways growth, sticky inflation – TD Securities",
+    "url": "https://www.fxstreet.com/news/united-states-sideways-growth-sticky-inflation-td-securities-202607061419",
+    "publishedDate": "2026-07-06T00:00:00.000Z",
+    "text": "United States: Sideways growth, sticky inflation – TD Securities\n\n07/06/2026 14:19:28 GMT\n\n# United States: Sideways growth, sticky inflation – TD Securities\n\nFXStreet Insights Team FXStreet\n\nTD Securities projects US output growth to move sideways in 2026, slightly below trend, with Real Gross Domestic Product (GDP) at 2.0% Q4/Q4 and unemployment around 4.3%. The Iran conflict and an oil shock pose stagflationary risks, while AI and high-income consumers support demand. Core Consumer Price Index (CPI) is seen peaking near 3.0% year-on-year in Q4 2026, with disinflation resuming in 2027.\n\n## Sideways growth with stagflation risks\n\n\"We expect output growth to move sideways this year, reflecting the lingering impact of the oil shock. The Iran conflict presents stagflationary risks, which we expect will keep the Fed on hold for the entire year. AI and high-income consumers have supported underlying growth.\"\n\n\"GDP growth will likely remain slightly below trend in 2026, ending with 2.0% Q4/",
+    "image": "https://editorial.fxsstatic.com/images/i/usa-vector-map_Medium.png"
+   },
+   {
+    "id": "https://thefinancialwire.com/the-feds-preferred-inflation-gauge-hit-4-1-in-may-the-fastest-in-three-years/",
+    "title": "The Fed's preferred inflation gauge hit 4.1% in May, the fastest in three years - The Financial Wire",
+    "url": "https://thefinancialwire.com/the-feds-preferred-inflation-gauge-hit-4-1-in-may-the-fastest-in-three-years/",
+    "publishedDate": "2026-07-02T00:00:00.000Z",
+    "author": "Warren Cohen",
+    "text": "The Fed's preferred inflation gauge hit 4.1% in May, the fastest in three years - The Financial Wire\n\n# The Fed’s preferred inflation gauge hit 4.1% in May, the fastest in three years\n\n Warren Cohen 2 months ago 2 months ago 0 10 mins \n\n The Yuri Arcurs Collection/Freepik\n\nAmerican households watched prices climb at the fastest rate in three years last month, with the Federal Reserve’s preferred inflation measure jumping to 4.1 percent in May 2026 compared with a year earlier. The reading, up sharply from 3.8 percent in April and 2.9 percent as recently as February, signals that the central bank’s fight against inflation has lost ground after two years of gradual progress. With the Fed’s own target set at 2 percent, the gap between policy ambition and price reality is now wider than at any point since spring 2023.\n\n## Why a 4.1 percent PCE reading changes the rate-cut calculus\n\nThe personal consumption expenditures price index is not just one gauge among many. The Federal Reserve expli",
+    "image": "https://thefinancialwire.com/wp-content/uploads/2026/07/featured-image-1782988949078.jpg"
+   }
+  ],
+  "searchTime": 4365.8,
+  "costDollars": {
+   "total": 0.007,
+   "search": {
+    "neural": 0.007
+   }
+  }
+ }
+}

@@ -1,0 +1,107 @@
+{
+ "theme": "growth",
+ "query": "US economy GDP growth recession retail sales ISM",
+ "start": "2026-04-22",
+ "end": "2026-04-29",
+ "fetched_utc": "2026-10-12T10:08:48Z",
+ "response": {
+  "requestId": "7e60bb344b77104e7985ae99698010b6",
+  "resolvedSearchType": "",
+  "results": [
+   {
+    "id": "https://wdsm710.com/2026/04/29/us-growth-likely-picked-up-in-first-quarter-but-consumer-spending-probably-cooled/",
+    "title": "US growth likely picked up in first quarter, but consumer spending probably cooled | 710 AM WDSM",
+    "url": "https://wdsm710.com/2026/04/29/us-growth-likely-picked-up-in-first-quarter-but-consumer-spending-probably-cooled/",
+    "publishedDate": "2026-04-29T00:00:00.000Z",
+    "author": "Thomson Reuters",
+    "text": "US growth likely picked up in first quarter, but consumer spending probably cooled | 710 AM WDSM\n\n# US growth likely picked up in first quarter, but consumer spending probably cooled\n\n By Thomson Reuters Apr 29, 2026 | 11:09 PM \n\nBy Lucia Mutikani\n\nWASHINGTON, April 30 (Reuters) – U.S. economic growth likely accelerated in the first quarter on a rebound in government spending after a crippling government shutdown, but the pickup is expected to be short-lived as the war with Iran drives up gasoline prices and squeezes household budgets.\n\nThe anticipated increase in gross domestic product last quarter also would reflect robust growth in business investment in equipment, fueled by an artificial intelligence spending boom and the building of ​data centers underpinning the technology.\n\nThe Commerce Department’s advance estimate of first-quarter gross domestic product on Thursday is, however, expected to show consumer spending losing further ‌momentum even before the U.S.-Israeli war with Ir",
+    "image": "https://storage.googleapis.com/media.mwcradio.com/mimesis/2026-04/30/2026-04-30T040954Z_3_LYNXMPEM3T05T_RTROPTP_3_USA-ECONOMY.JPG"
+   },
+   {
+    "id": "https://www.reuters.com/business/us-business-activity-recovers-april-war-with-iran-is-boosting-prices-sp-global-2026-04-23/",
+    "title": "US business activity recovers in April, war with Iran is boosting prices, S&P Global survey shows | Reuters",
+    "url": "https://www.reuters.com/business/us-business-activity-recovers-april-war-with-iran-is-boosting-prices-sp-global-2026-04-23/",
+    "publishedDate": "2026-04-23T00:00:00.000Z",
+    "author": "Lucia Mutikani",
+    "text": "US business activity recovers in April, war with Iran is boosting prices, S&P Global survey shows | Reuters\n\n# US business activity recovers in April, war with Iran is boosting prices, S&P Global survey shows\n\nBy Lucia Mutikani\n\nApril 23, 2026 1:49 PM UTC Updated April 23, 2026\n\nItem 1 of 2 A Boeing worker passes by a 737 MAX airplane on the final assembly production line during a media tour of the Boeing factory in Renton, Washington, U.S., April 15, 2026. REUTERS/Genna Martin\n\n[1/2] A Boeing worker passes by a 737 MAX airplane on the final assembly production line during a media tour of the Boeing factory in Renton, Washington, U.S., April 15, 2026. REUTERS/Genna Martin Purchase Licensing Rights, opens new tab\n\n- Business activity recovers as worries about shortages spur stock building\n- Supplier delivery performance worsens, output prices rise sharply\n\nWASHINGTON, April 23 (Reuters) - U.S. business activity picked up in April after nearly stalling in the prior month, but supplier de",
+    "image": "https://www.reuters.com/resizer/v2/BEL5UA75JNPD7GPP4OWVCRSLRY.jpg?auth=dbc73198786db574d2fb38e0664a283ed69bb2006cd40fced0d4ae69edad13ea&height=1005&width=1920&quality=80&smart=true"
+   },
+   {
+    "id": "https://cepr.net/publications/gdp-preview-first-quarter-2026-report/",
+    "title": "GDP Preview Q1 2026: Modest Growth with Weak Foundations – CEPR",
+    "url": "https://cepr.net/publications/gdp-preview-first-quarter-2026-report/",
+    "publishedDate": "2026-04-28T00:00:00.000Z",
+    "author": "Dean Baker",
+    "text": "GDP Preview Q1 2026: Modest Growth with Weak Foundations – CEPR\n\n#### GDP Preview: What to Expect in the First Quarter 2026 Report\n\nApr 28, 2026\n\nBy Dean Baker\n\n## Key Takeaways\n\n- Q1 GDP growth may hit 2 percent, but the rebound is fragile because it depends on temporary boosts rather than broad-based economic strength.\n- Government spending is carrying growth, with shutdown recovery and war-related expenditures providing much of the quarter’s gains.\n- Consumer demand remains weak, with flat goods spending and health care accounting for most of the increase in consumption.\n- Business investment is strong but narrow, driven mainly by the data center boom, which may not be sustainable.\n- Inflation and falling exports are warning signs, as war-related disruptions and weaker trade point to mounting economic risks.\n\nGDP growth in the fourth quarter was extraordinarily weak at just 0.5 percent. The main factor depressing growth was a 16.6 percent decline in federal spending, which subtracte",
+    "image": "https://cepr.net/wp-content/uploads/2026/04/GDP_Preview_2026.jpg"
+   },
+   {
+    "id": "https://www.ftportfolios.com/blogs/EconBlog/2026/4/27/gdp-mediocre-top-line,-weaker-details",
+    "title": "GDP: Mediocre Top-Line, Weaker Details",
+    "url": "https://www.ftportfolios.com/blogs/EconBlog/2026/4/27/gdp-mediocre-top-line,-weaker-details",
+    "publishedDate": "2026-04-27T00:00:00.000Z",
+    "text": "GDP: Mediocre Top-Line, Weaker Details \n\n| | GDP: Mediocre Top-Line, Weaker Details |\n| --- | --- |\n\nFor all the chatter about Artificial Intelligence lifting economic growth, GDP isn’t showing it yet. We are projecting that real GDP grew at a 2.0% annual rate in the first quarter, matching the average annualized pace of growth since the peak back in late 2007, right before the Financial Panic and so-called Great Recession. In other words, mediocre growth. \n\nBut the details for the first quarter are likely to be worse than the headline. Real GDP grew at a slow 0.5% rate in the fourth quarter of 2025 in some part because it was artificially held down by a lack of purchases by the federal government during a prolonged shutdown. Excluding government, Real GDP grew at a 1.7% rate in Q4. For the first quarter, this process should work in reverse. Purchases by the federal government went back to normal in Q1, which should artificially boost GDP growth for the quarter. \n\nWe are estimating tha",
+    "image": "https://www.ftportfolios.com/common/images/socialmedia/Economics.jpg"
+   },
+   {
+    "id": "https://economic-research.bnpparibas.com/html/en-US/United-States-Growth-Full-Employment-tested-Uncertainty-4/24/2026,53423",
+    "title": "United States: Growth and Full Employment tested by Uncertainty",
+    "url": "https://economic-research.bnpparibas.com/html/en-US/United-States-Growth-Full-Employment-tested-Uncertainty-4/24/2026,53423",
+    "publishedDate": "2026-04-27T00:00:00.000Z",
+    "text": "United States: Growth and Full Employment tested by Uncertainty \n\n# United States: Growth and Full Employment tested by Uncertainty \n\n 04/27/2026 \n\nUS growth remains robust, exhibiting strong momentum, but is still reliant on a narrow base – AI on the activity side and healthcare for jobs. The energy shock presents a new challenge, and its impact will depend on both the duration and severity of the Iran war. In any case, this situation is likely to drive inflation further above the target. Our baseline scenario projects 2.4% annual GDP growth in 2026 (down 0.3pp vs. the pre-conflict outlook) and 2.5% in 2027 (+0.3pp). Inflation is expected to reach 3.2% y/y in 2026. Against this backdrop, we expect the Fed to adopt a two-sided stance, with balanced risks around the Fed Funds rate and a hold as the baseline scenario. Tariffs continue to pose significant uncertainty, as does the trajectory of the federal deficit, which is set to widen, notably due to conflict-related outlays.\n\n### Growth",
+    "image": "https://economic-research.bnpparibas.com/Handlers/DisplayImage.ashx?id=44904&type=Chapter"
+   },
+   {
+    "id": "https://ofgltd.com/newsletters/cio-macro-trends-the-refund-ran-out-before-the-gas-bill-did/",
+    "title": "CIO Macro Trends: The Refund Ran Out Before the Gas Bill Did - Oxford Financial Group, Ltd.™",
+    "url": "https://ofgltd.com/newsletters/cio-macro-trends-the-refund-ran-out-before-the-gas-bill-did/",
+    "publishedDate": "2026-04-28T00:00:00.000Z",
+    "text": "CIO Macro Trends: The Refund Ran Out Before the Gas Bill Did - Oxford Financial Group, Ltd.™\n\nOxford news and updates from Jeff Thomasson, Chief Executive Officer & Managing Director.\n\n- April 28, 2026 \n\nBy Robert “Bo” D. Ramsey III, JD, MBA, CFA, CAIA Co-Managing Partner & Chief Investment Officer\n\n## CIO Macro Trends: The Refund Ran Out Before the Gas Bill Did\n\nMarch retail sales beat expectations, consumer sentiment found a floor (even if the floor is a 75-year low) and pending home sales surprised to the upside. Read the fine print, though, and the picture is less encouraging. A blockbuster tax refund season carried the consumer through the first quarter, but that windfall has nearly run its course, and gasoline prices north of $4 a gallon are not going anywhere soon. \n\nExecutive Summary \n\n- Retail sales rose 1.7% in March, beating consensus forecast, with control group sales up 0.7%. Income tax refunds surged 22.4% year-over-year in March, driving much of the upside. It is estimat"
+   },
+   {
+    "id": "https://www.ceicdata.com/en/united-states/ceic-nowcast-retail-sales/retail-sales-nowcast-sa-yoy-contribution-gdp-nowcast-gdp-nowcast-growth-qoq-current-quarter-united-states",
+    "title": "Retail Sales Nowcast: sa: YoY: Contribution:(GDP) Gross Domestic ProductNowcast: GDP Nowcast: Growth: QoQ: Current Quarter: United States | Economic Indicators | CEIC",
+    "url": "https://www.ceicdata.com/en/united-states/ceic-nowcast-retail-sales/retail-sales-nowcast-sa-yoy-contribution-gdp-nowcast-gdp-nowcast-growth-qoq-current-quarter-united-states",
+    "publishedDate": "2026-04-25T00:00:00.000Z",
+    "text": "Retail Sales Nowcast: sa: YoY: Contribution:(GDP) Gross Domestic ProductNowcast: GDP Nowcast: Growth: QoQ: Current Quarter: United States | Economic Indicators | CEIC\n\nThis website stores cookies on your computer. These cookies are used to collect information about how you interact with our website and allow us to remember you. We use this information in order to improve and customize your browsing experience and for analytics and metrics about our visitors both on this website and other media. To find out more about the cookies we use, see our Cookies Policy.\n\nIf you decline, your information won’t be tracked when you visit this website. A single cookie will be used in your browser to remember your preference not to be tracked.\n\nHome> Countries/Regions> United States> CEIC Nowcast: Retail Sales> United States Retail Sales Nowcast: sa: YoY: Contribution: GDP Nowcast: GDP Nowcast: Growth: QoQ: Current Quarter: United States\n\n# Retail Sales Nowcast: sa: YoY: Contribution:(GDP) Gross Dome",
+    "image": "https://www.ceicdata.com/datapage/charts/o_united-states_retail-sales-nowcast-sa-yoy-contribution-gdp-nowcast-gdp-nowcast-growth-qoq-current-quarter-united-states/?type=area&from=2026-01-12&to=2026-03-30&lang=en",
+    "favicon": "https://www.ceicdata.com/themes/ceicdata/favicon.ico"
+   },
+   {
+    "id": "https://www.marketscreener.com/news/1q-gdp-and-pce-prices-on-tap-data-week-ahead-update-ce7f59dddb88fe23",
+    "title": "1Q GDP and PCE Prices on Tap -- Data Week Ahead Update | MarketScreener",
+    "url": "https://www.marketscreener.com/news/1q-gdp-and-pce-prices-on-tap-data-week-ahead-update-ce7f59dddb88fe23",
+    "publishedDate": "2026-04-27T00:00:00.000Z",
+    "author": "Dow Jones",
+    "text": "1Q GDP and PCE Prices on Tap -- Data Week Ahead Update | MarketScreener\n\n# 1Q GDP and PCE Prices on Tap -- Data Week Ahead Update\n\nPublished on 04/27/2026 at 02:15 pm EDT\n\nDow Jones\n\nShare\n\nThe following are median forecasts for this week's remaining U.S. data from a survey compiled by The Wall Street Journal.\n\n```\n\n \nDATE      TIME  RELEASE                       PERIOD     CONSENSUS    PREVIOUS \nTuesday   0900  S&P/Case-Shiller 20-City       Feb       +1.0%   (4)  +1.18% \n                  HPI Y/Y \n          1000  Consumer Confidence            Apr        89.0   (16)  91.8 \n          1000  Richmond Fed Mfg Svy           Apr       -2.0    (3)   0 \nWednesday 0830  Durable Goods Orders           Mar       +0.2%   (15) -1.4% \n          0830  Housing Starts                 Feb        1.36M  (11)  1.487M* \n                  -- percent change            Feb       -8.5%        +7.2%* \n          0830  Building Permits               Feb        1.39M  (8)   1.376M* \n                  -- percent ",
+    "image": "https://www.marketscreener.com/images/twitter_MS_fdnoir.png",
+    "favicon": "https://www.marketscreener.com/favicon.ico"
+   },
+   {
+    "id": "https://recessionpulse.com/blog/weekly-recession-report-april-26-2026",
+    "title": "Weekly Recession Report — April 26, 2026 | RecessionPulse",
+    "url": "https://recessionpulse.com/blog/weekly-recession-report-april-26-2026",
+    "publishedDate": "2026-04-26T00:00:00.000Z",
+    "author": "RecessionPulse",
+    "text": "Weekly Report April 26, 2026\n\n# Weekly Recession Report — April 26, 2026\n\nRecession risk remains elevated but not imminent as the economy shows a split between healthy labor-market data and signs of late-cycle stress, including rising unemployment and consumer pessimism. While financial conditions are stable, the key concern is whether the softening labor market will lead to a self-reinforcing slowdown.\n\n## Weekly Recession Risk Report — Week of April 26, 2026\n\nRecession risk remains elevated but not imminent. The economy is increasingly split in two: “hard” labor-market data still looks healthy (initial claims holding near ~214K), while forward-looking and sentiment-heavy indicators are flashing late-cycle stress (Conference Board LEI recession signal active; crisis-level consumer pessimism; pronounced weakness in temp help and freight). Financial conditions are not tight in an outright recessionary way—equities are near highs and volatility is subdued—but credit is no longer “easy,” ",
+    "image": "https://recessionpulse.com/og-image.png"
+   },
+   {
+    "id": "https://recessionpulse.com/blog/daily-recession-risk-april-27-2026",
+    "title": "Recession Risk 44/100 — April 27, 2026 | RecessionPulse",
+    "url": "https://recessionpulse.com/blog/daily-recession-risk-april-27-2026",
+    "publishedDate": "2026-04-27T00:00:00.000Z",
+    "author": "RecessionPulse",
+    "text": "# Recession Risk 44/100 — April 27, 2026\n\nUS recession risk over the next 90 days is ELEVATED but not high because the highest-weight real-time trigger (Sahm Rule) is still safely below recession territory (~0.27 vs 0.50 trigger), while weekly initial jobless claims remain low (214k for week ending Apr 18). The yield curve is no longer inverted (2s10s about +50 to +53 bps as of mid-April), which materially reduces near-term recession odds versus 2023–2024 style setups. However, leading indicators are flashing yellow-to-red: the Conference Board LEI has been weak enough to keep the “3Ds” recession signal in play, and forward-looking labor demand proxies (temporary help) are deteriorating. Net: the economy looks like it is skirting stall speed—more consistent with a growth scare/slowdown than a clean recession start inside 90 days, but downside tail risk is rising.\n\n## Recession Risk Score: 44/100 — ELEVATED\n\nToday’s 44/100 (ELEVATED) score signals a U.S. economy that is cooling toward s",
+    "image": "https://recessionpulse.com/og-image.png"
+   }
+  ],
+  "searchTime": 1494.4,
+  "costDollars": {
+   "total": 0.007,
+   "search": {
+    "neural": 0.007
+   }
+  }
+ }
+}

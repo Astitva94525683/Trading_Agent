@@ -1,0 +1,106 @@
+{
+ "theme": "inflation",
+ "query": "US inflation CPI PCE consumer prices",
+ "start": "2026-04-15",
+ "end": "2026-04-22",
+ "fetched_utc": "2026-10-12T10:05:49Z",
+ "response": {
+  "requestId": "ad2527f5c5a2ab5d273c7c9f36e605a8",
+  "resolvedSearchType": "",
+  "results": [
+   {
+    "id": "https://continuumeconomics.com/a/169561d6/preview-due-april-30-us-march-personal-income-and-spending-core-pce-prices-to-outperform-core-cpi",
+    "title": "Preview: Due April 30 - U.S. March Personal Income and Spend",
+    "url": "https://continuumeconomics.com/a/169561d6/preview-due-april-30-us-march-personal-income-and-spending-core-pce-prices-to-outperform-core-cpi",
+    "publishedDate": "2026-04-21T00:00:00.000Z",
+    "author": "Dave Sloan",
+    "text": "Preview: Due April 30 - U.S. March Personal Income and Spend\n\nPublished: 2026-04-21T14:38:57.000Z\n\n# Preview: Due April 30 - U.S. March Personal Income and Spending - Core PCE Prices to outperform core CPI\n\nMarch’s personal income and spending data may be overshadowed by the Q1 GDP report due at the same time and to which it will contribute. We expect a 0.9% rise in personal spending, to exceed both a 0.2% rise in personal income and a 0.7% rise in PCE prices. For core PCE prices, we expect an increase of 0.3%.\n\nCPI increased by 0.9% in March with core CPI up a moderate 0.2%. A 0.7% rise in PCE prices would be consistent with the fact CPI is more sensitive to gasoline prices than PCE prices. We expect core PCE prices to rise by 0.3%, exceeding the core CPI. While March’s core PPI was subdued, its components that contribute to core PCE prices were firm.\n\nThis would see yr/yr growth in overall PCE prices rising to 3.5% from 2.8%, reaching their highest since May 2024, while core PCE pric"
+   },
+   {
+    "id": "https://www.dallasfed.org/research/economics/2026/0416",
+    "title": "Skewness warrants caution as Trimmed Mean PCE inflation eases - Dallasfed.org",
+    "url": "https://www.dallasfed.org/research/economics/2026/0416",
+    "publishedDate": "2026-04-16T00:00:00.000Z",
+    "author": "Tyler Atkinson, Jim Dolmas, Rebecca Zarutskie",
+    "text": "Skewness warrants caution as Trimmed Mean PCE inflation eases - Dallasfed.org\n\n# Skewness warrants caution as Trimmed Mean PCE inflation eases\n\nTyler Atkinson, Jim Dolmas and Rebecca Zarutskie\n\nApril 16, 2026\n\nA widely used method of assessing the medium-term underlying trend of inflation is to omit categories of price changes reflected in headline inflation that are volatile and unlikely to persist.\n\nOne of the most common measures excludes food and energy prices, and is often called “core” inflation. Another is Trimmed Mean PCE inflation, which excludes price changes above and below certain percentile thresholds.\n\nThe 12-month rates of core personal consumption expenditures (PCE) inflation and Trimmed Mean PCE inflation moved within a close range of each other from 2023 through September 2025 (Chart 1). But after that, the two measures diverged. Core PCE increased to 3.0 percent through February, while Trimmed Mean PCE declined to 2.3 percent. \n\nThe seemingly divergent moves prompt t",
+    "image": "https://www.dallasfed.org/-/media/Images/research/economics/2026/0416/hand-shrunken-dollar-pri.jpg"
+   },
+   {
+    "id": "https://www.interactivebrokers.eu/campus/traders-insight/securities/macro/inflations-first-official-debut/",
+    "title": "Inflation’s First Official Debut | Traders' Insight",
+    "url": "https://www.interactivebrokers.eu/campus/traders-insight/securities/macro/inflations-first-official-debut/",
+    "publishedDate": "2026-04-16T00:00:00.000Z",
+    "author": "Kevin Flanagan",
+    "text": "Inflation’s First Official Debut | Traders' Insight\n\n# Inflation’s First Official Debut\n\nPosted April 16, 2026 at 11:00 am\n\n \n\nKevin Flanagan\n\nHead of Fixed Income Strategy\n\nKevin Flanagan\n\n \n\nWisdomTree U.S.\n\n www.wisdomtree.com\n\nWisdomTree U.S.\n\n## Key Takeaways\n\n- The March Consumer Price Index (CPI) rose +0.9% month over month—the largest increase since 2022—showing that the war-related surge in gasoline prices is already pushing headline inflation higher and resetting near-term market expectations.\n- Core CPI was more contained at +2.6% year over year, but the March reading ended its recent disinflation trend, reminding investors that underlying price pressures remain above the Fed’s comfort zone.\n- With core personal consumption expenditures (PCE) already at +3.0% prior to the March energy shock, the Fed appears likely to remain in a holding pattern, looking through energy-driven inflation and leaving rate cuts near the end of this easing cycle.\n\nThe Middle East war has replaced ",
+    "image": "https://www.interactivebrokers.eu/campus/wp-content/uploads/sites/3/2024/02/inflation-toy-featured-img.jpg"
+   },
+   {
+    "id": "https://pipexch.com/pce-inflation-holds-steady-at-2-8-in-february/",
+    "title": "PCE Inflation Holds Steady at 2.8% in February",
+    "url": "https://pipexch.com/pce-inflation-holds-steady-at-2-8-in-february/",
+    "publishedDate": "2026-04-16T00:00:00.000Z",
+    "author": "Joshua Hebert",
+    "text": "PCE Inflation Holds Steady at 2.8% in February\n\n# PCE Inflation Holds Steady at 2.8% in February\n\n# PCE Inflation Holds Steady at 2.8% in February\n\n- HEADLINES OF INTEREST \n- Published on April 15, 2026 \n\nU.S. inflation increased as expected in February and likely rose further in March amid the war with Iran, a trend that is expected to discourage the Federal Reserve from cutting interest rates for a while.\n\nThe personal consumption expenditures price index climbed 0.4% after an unrevised 0.3 gain in January, the Commerce Department’s Bureau of Economic Analysis said on Thursday. Economists polled by Reuters had forecast the PCE price index rising 0.4%. In the 12 months through February, PCE inflation advanced 2.8% after increasing by the same margin in January.\n\nThe BEA is still catching up on data releases following delays caused by last year’s government shutdown. Inflation was already elevated before the war, largely because of President Donald Trump’s import duties.\n\nThe U.S.-Isra"
+   },
+   {
+    "id": "https://www.frbsf.org/research-and-insights/publications/fedviews/2026/04/sf-fedviews-april-16-2026/",
+    "title": "SF FedViews: Volatile Oil Markets Cloud the Economic Outlook - San Francisco Fed",
+    "url": "https://www.frbsf.org/research-and-insights/publications/fedviews/2026/04/sf-fedviews-april-16-2026/",
+    "publishedDate": "2026-04-16T00:00:00.000Z",
+    "text": "SF FedViews: Volatile Oil Markets Cloud the Economic Outlook - San Francisco Fed\n\n# SF FedViews: Volatile Oil Markets Cloud the Economic Outlook\n\nAuthor\n\nAdam Shapiro\n\nApril 16, 2026\n\nAdam Shapiro, vice president at the Federal Reserve Bank of San Francisco, shared views on the current economy and the outlook from the Economic Research Department as of April 16, 2026.\n\nOil markets have experienced considerable volatility, significantly clouding the economic outlook. While long-term inflation expectations remain anchored, new price pressures pose the risk of pushing the economy further away from the Fed’s 2% inflation goal in the near term. With the labor market and consumer spending already slowing in recent months, the disruptions in energy markets also increase downside risks to economic activity. The ultimate economic impact will depend critically on how long these disruptions persist.\n\n## Oil prices are high and volatile\n\nOil prices have surged and remained volatile in response to ",
+    "image": "https://www.frbsf.org/wp-content/uploads/carousel_SF-Fedviews_0116.jpg"
+   },
+   {
+    "id": "https://www.mnimarkets.com/articles/a-detailed-look-at-core-pce-estimates-incl-legal-services-impact-1776253811468",
+    "title": "US INFLATION: A Detailed Look At Core PCE Estimat...- 04-15-2026 | MNI",
+    "url": "https://www.mnimarkets.com/articles/a-detailed-look-at-core-pce-estimates-incl-legal-services-impact-1776253811468",
+    "publishedDate": "2026-04-15T00:00:00.000Z",
+    "author": "Chris Harrison",
+    "text": "US INFLATION: A Detailed Look At Core PCE Estimat...- 04-15-2026 | MNI\n\n# US INFLATION: A Detailed Look At Core PCE Estimates, Incl Legal Services Impact\n\nApr-15 11:50\n\n- Analyst unrounded core PCE estimates for March sit at 0.26% (median)/0.27% (average) M/M across the seven names noted below, up from closer to 0.22-0.23 prior to yesterday’s PPI report.\n- There is more uncertainty than usual this month due to the handling of legal services, with the BEA usually taking the CPI series but briefly swapping to the PPI version in January when the CPI series spiked (by our calculations 11.6% M/M NSA). As noted at the time, we calculated CPI legal services fell -4.4% M/M NSA in March (Nomura estimated -6.0% which we think is SA), but there has been no guidance as to whether the BEA will again switch to the PPI series, which by Nomura’s estimate increased 0.7% M/M SA, or stick with CPI. \n- This uncertainty has helped drive this month's range of estimates: MS at the bottom of the range assume ",
+    "image": "https://www.mnimarkets.com/logos/MNI-icon-white.svg"
+   },
+   {
+    "id": "https://longbridge.com/en/events/3131394",
+    "title": "U.S. to release Personal Income and Outlays data for March 2026 | Longbridge",
+    "url": "https://longbridge.com/en/events/3131394",
+    "publishedDate": "2026-04-15T00:00:00.000Z",
+    "author": "LongbridgeAI",
+    "text": "U.S. to release Personal Income and Outlays data for March 2026 | Longbridge\n\n# U.S. to release Personal Income and Outlays data for March 2026\n\nApr 15, 2026 at 04:51 PM 1 sources including Analyst Research\n\n## Summary\n\nThe U.S. Bureau of Economic Analysis is set to release the March 2026 personal income and spending report, which includes the Personal Consumption Expenditures (PCE) price index, the Federal Reserve’s preferred inflation metric. The data is being watched for insights into consumer health and inflation trends.\n\n## Impact Analysis\n\nThis is the key print everyone is waiting for. The market is looking for confirmation that the disinflation trend is intact after February’s CPI came in as expected Analyst Research. However, I’m seeing a real tug-of-war in the underlying data. The interesting part isn’t just the headline PCE number , but the conflicting signals leading up to it. For example, the NY Fed’s March survey showed a jump in one-year inflation expectations to 3.4%, a ",
+    "image": "https://assets.lbctrl.com/uploads/b510b04f-9238-4fe0-b39d-11e076876ac1/longbridge-og.png!web"
+   },
+   {
+    "id": "https://www.financialjuice.com/News/9549411/US-PCE-inflation-to-average-37-in-Q2-34-in-Q3-and-32-in-Q4-33-31-and-29-in-the-late-March-poll---Poll.aspx?xy=rss",
+    "title": "US PCE inflation to average 3.7% in Q2, 3.4% in Q3 and 3.2% in Q4 (3.3%, 3.1% and 2.9% in the late March poll) - Poll.",
+    "url": "https://www.financialjuice.com/News/9549411/US-PCE-inflation-to-average-37-in-Q2-34-in-Q3-and-32-in-Q4-33-31-and-29-in-the-late-March-poll---Poll.aspx?xy=rss",
+    "publishedDate": "2026-04-22T00:00:00.000Z",
+    "text": "US PCE inflation to average 3.7% in Q2, 3.4% in Q3 and 3.2% in Q4 (3.3%, 3.1% and 2.9% in the late March poll) - Poll. \n\n# US PCE inflation to average 3.7% in Q2, 3.4% in Q3 and 3.2% in Q4 (3.3%, 3.1% and 2.9% in the late March poll) - Poll.\n\n 22 Apr 2026 12:46 US Bonds US Indexes USD \n\nLAUNCH\n\nDELAYED\n\nVOICE NEWS",
+    "image": "https://www.financialjuice.com/assets/images/need-to-know.jpg"
+   },
+   {
+    "id": "https://www.stoneflaregroup.com/blog/april-17-reality-check-pce-up-0405-unemployment-4344not-the-slump-you-heard-20260420",
+    "title": "April 17 Reality Check: PCE Up 0.4%/0.5%, Unemployment 4.3–4.4%—Not the Slump You Heard | StoneFlare Group | StoneFlare",
+    "url": "https://www.stoneflaregroup.com/blog/april-17-reality-check-pce-up-0405-unemployment-4344not-the-slump-you-heard-20260420",
+    "publishedDate": "2026-04-20T00:00:00.000Z",
+    "author": "StoneFlare Analyst",
+    "text": "April 17 Reality Check: PCE Up 0.4%/0.5%, Unemployment 4.3–4.4%—Not the Slump You Heard | StoneFlare Group | StoneFlare\n\nMarket Analysis • April 20, 2026\n\n# April 17 Reality Check: PCE Up 0.4%/0.5%, Unemployment 4.3–4.4%—Not the Slump You Heard\n\nApril 20, 2026• 5 min read• Fed\n\nOn April 17, 2026, the official press release landed with a labor-market cautionary tone and an inflation risk warning. The problem: several headline claims don’t line up with the government data provided alongside it. Payrolls were misquoted, consumer “softness” showed up as spending growth, and inflation narratives leaned on unverified March numbers and an unsubstantiated “tariff-adjusted” method to claim underlying inflation “near 2%.” The data through February paint a different picture: a volatile but resilient economy with PCE +0.4% (Jan) and +0.5% (Feb), stable unemployment at 4.3–4.4%, and CPI and PPI both firming month over month.\n\nHere’s what the data reveals: - Payroll changes in the speech—+160k (Jan)",
+    "image": "https://www.stoneflaregroup.com/og-default.svg"
+   },
+   {
+    "id": "https://trupocket.com/blog/inflation-is-3-3-percent-your-number-is-different",
+    "title": "Inflation Is 3.3%. Your Number Is Probably Different. | Trupocket",
+    "url": "https://trupocket.com/blog/inflation-is-3-3-percent-your-number-is-different",
+    "publishedDate": "2026-04-19T00:00:00.000Z",
+    "author": "ForceCore LLC",
+    "text": "Inflation Is 3.3%. Your Number Is Probably Different. | Trupocket\n\n# Inflation Is 3.3%. Your Number Is Probably Different.\n\nChristopher Wilbanks· April 19, 2026· 7 min read\n\nThe March 2026 CPI report landed at 3.3%, the highest annual reading since May 2024. Gasoline prices jumped 21.2% in a single month, the largest monthly gasoline increase since the BLS started tracking it in 1967. The national average for a gallon of regular crossed $4 for the first time since August 2022. The University of Michigan's Consumer Sentiment index fell to 47.6 in early April, per CNBC's coverage of the release, the lowest reading in the survey's 74-year history.\n\nThose numbers are real. Inflation is real. Every time I fill up the tank I feel it, and so does everyone I talk to.\n\n## The Headline Is Honest. It Is Also an Average.\n\nThe 3.3% figure is honest math. The Bureau of Labor Statistics calculates it from a fixed basket of goods, weighted by how the average American household spends. Shelter carries ",
+    "image": "https://trupocket.com/og-image.png"
+   }
+  ],
+  "searchTime": 3119.4,
+  "costDollars": {
+   "total": 0.007,
+   "search": {
+    "neural": 0.007
+   }
+  }
+ }
+}

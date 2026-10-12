@@ -1,0 +1,98 @@
+{
+ "theme": "inflation",
+ "query": "US inflation CPI PCE consumer prices",
+ "start": "2026-09-23",
+ "end": "2026-09-30",
+ "fetched_utc": "2026-10-12T10:07:01Z",
+ "response": {
+  "requestId": "8d1d0766c1bb31464dfc600290715a38",
+  "resolvedSearchType": "",
+  "results": [
+   {
+    "id": "https://www.bea.gov/index.php/news/2026/personal-income-and-outlays-august-2026",
+    "title": "Personal Income and Outlays, August 2026 | U.S. Bureau of Economic Analysis (BEA)",
+    "url": "https://www.bea.gov/index.php/news/2026/personal-income-and-outlays-august-2026",
+    "publishedDate": "2026-09-30T00:00:00.000Z",
+    "text": "Personal Income and Outlays, August 2026 | U.S. Bureau of Economic Analysis (BEA)\n\nEMBARGOED UNTIL RELEASE AT 8:30 a.m. EDT, Wednesday, September 30, 2026 \n\n# Personal Income and Outlays, August 2026 \n\nPersonal income increased $66.6 billion (0.2 percent at a monthly rate) in August, according to estimates released today by the U.S. Bureau of Economic Analysis (BEA). Disposable personal income (DPI)—personal income less personal current taxes—increased $68.6 billion (0.3 percent), and personal consumption expenditures (PCE) increased $190.8 billion (0.9 percent).\n\nPersonal outlays—the sum of PCE, personal interest payments, and personal current transfer payments—increased $190.7 billion in August. Personal saving was $990.2 billion, and the personal saving rate—personal saving as a percentage of DPI—was 4.1 percent.\n\nThe increase in current-dollar personal income in August primarily reflected increases in compensation and government social benefits.\n\nThe $190.8 billion increase in curr"
+   },
+   {
+    "id": "https://www.haver.com/articles/personal-income-consumption-and-prices-in-august",
+    "title": "Personal Income, Consumption, and Prices in August - Haver Analytics",
+    "url": "https://www.haver.com/articles/personal-income-consumption-and-prices-in-august",
+    "publishedDate": "2026-09-30T00:00:00.000Z",
+    "author": "Michael J. Moran Author",
+    "text": "Personal Income, Consumption, and Prices in August - Haver Analytics\n\n| Sep 30 2026\n\n# Personal Income, Consumption, and Prices in August\n\nby: Michael J. Moran\n\n| in: Economy in Brief\n\n###### Summary\n\n- Higher energy prices and still-firm increases in core prices.\n- Households spend briskly after a pause in July; Q3 activity appears strong.\n\nWith inflation and tighter monetary policy now front-line issues, the price index for personal consumption expenditures has arguably become the most important component of this report. Results for August were a bit unsettling. Energy prices jumped 2.3% month-to-month, which left a year-over-year change of 16.8%. Prices excluding food and energy (the core index), rose 0.2%, but the measure almost rounded up to 0.3% (0.247%). The year-over-year change in the core index totaled 3.0%, in line with other readings this year and a full percentage point above the target of the Federal Reserve. Food prices were tame in August: unchanged month-to month and u"
+   },
+   {
+    "id": "https://www.jec.senate.gov/public/index.cfm/republicans/2026/9/annual-pce-inflation-lower-than-expected-spending-up-and-savings-down-slightly-in-august-q2-gdp-increased",
+    "title": "Annual PCE Inflation Lower than Expected, Spending Up and Savings Down Slightly in August, Q2 GDP Increased  - Annual PCE Inflation Lower than Expected, Spending Up and Savings Down Slightly in August, Q2 GDP Increased  - U.S. Congress Joint Economic Committee",
+    "url": "https://www.jec.senate.gov/public/index.cfm/republicans/2026/9/annual-pce-inflation-lower-than-expected-spending-up-and-savings-down-slightly-in-august-q2-gdp-increased",
+    "publishedDate": "2026-09-30T00:00:00.000Z",
+    "author": "United States Joint Economic Committee",
+    "text": "Annual PCE Inflation Lower than Expected, Spending Up and Savings Down Slightly in August, Q2 GDP Increased - Annual PCE Inflation Lower than Expected, Spending Up and Savings Down Slightly in August, Q2 GDP Increased - U.S. Congress Joint Economic Committee\n\n# Annual PCE Inflation Lower than Expected, Spending Up and Savings Down Slightly in August, Q2 GDP Increased \n\n#### September 30, 2026 \n\nWASHINGTON, DC – Today, the Joint Economic Committee released its Monthly Expenditures Update for August. From July to August, headline personal consumption expenditures (PCE) price index inflation was 0.31 percent. Core PCE price index inflation, which excludes food and energy prices, remained flat from July at 0.25 percent.\n\nIn the same period, spending increased slightly while savings decreased. Real PCE increased by 0.55 percent, or $92.82 billion. Real PCE on all services increased by 0.20 percent, or $22.27 billion. Real PCE on all goods increased by 1.33 percent, or $76.44 billion. The no",
+    "image": "https://www.jec.senate.gov/public/vendor/_skins/jec-2025-rep/images/social-reps-social.png"
+   },
+   {
+    "id": "https://kpmg.com/us/en/articles/2026/august-2026-pce.html",
+    "title": "Cooler on paper, hot underneath",
+    "url": "https://kpmg.com/us/en/articles/2026/august-2026-pce.html",
+    "publishedDate": "2026-09-30T00:00:00.000Z",
+    "text": "Cooler on paper, hot underneath\n\n# Cooler on paper, hot underneath\n\nBenefits are rising so fast they are crowding out wage gains.\n\nSeptember 30, 2026\n\nThe Personal Consumption Expenditures (PCE) index, the Federal Reserve’s inflation target, rose 0.3% in August and 3.4% from a year ago. Both measures undershot expectations of 0.4% and 3.7%. Benchmark revisions shaved about 0.3 percentage points from annual inflation. The data cooled. The economy did not.\n\nThe reset centered on financial services and computer software and accessories. July headline inflation has been revised now to 3.4%, not 3.7%. The measuring stick moved. The inflation problem did not. These was about methodology but change the experience consumers are feeling in their wallets.\n\nThe Fed saw the revisions coming and expected more relief than markets did. It raised rates anyway. Revisions can cool one report. They cannot cure persistent inflation.\n\nCore PCE rose 0.2% in August and 3.0% from a year ago. In comparison, co",
+    "image": "https://kpmg.com/kpmg-us/content/dam/kpmg/basic-hero/2026/pce-9-30-h.jpg"
+   },
+   {
+    "id": "https://www.rbc.com/en/economics/us-analysis/us-featured-analysis/pce-deflator-update-a-retroactive-revision-not-a-disinflationary-signal/",
+    "title": "PCE deflator update: A retroactive revision, not a disinflationary signal - RBC Economics",
+    "url": "https://www.rbc.com/en/economics/us-analysis/us-featured-analysis/pce-deflator-update-a-retroactive-revision-not-a-disinflationary-signal/",
+    "publishedDate": "2026-09-24T00:00:00.000Z",
+    "author": "viktoriyapanahova",
+    "text": "PCE deflator update: A retroactive revision, not a disinflationary signal - RBC Economics\n\n## PCE deflator update: A retroactive revision, not a disinflationary signal \n\nUpdates to the Personal Consumption Expenditures (PCE) deflator methodology set to be released this month will be a one-time shift in measured inflation in the US—which we think will lead to a lower-than-expected reading—but that shouldn’t alter the underlying trend.\n\nThe Bureau of Economic Analysis (BEA) announced updates to the PCE deflator methodology to be released on Sept, 30, 2026. The changes will be applied retroactively through Q1 2021, and be used in the estimation of monthly PCE deflators going forward.\n\nWe anticipate an 18-basis-point reduction in the annual pace of core PCE as a result—meaning core PCE in July would be revised down to 3.1% from 3.3%.\n\nImportantly, we caution against misinterpreting a lower-than-expected reading on Wednesday as a sign of disinflation ahead.\n\nThree changes are being made to ",
+    "image": "https://www.rbc.com/en/economics/wp-content/uploads/sites/23/2026/06/RBC-Economics-US.webp"
+   },
+   {
+    "id": "https://www.kitco.com/news/off-the-wire/2026-09-30/us-inflation-rises-below-expectations-august-gives-fed-breathing-space",
+    "title": "US inflation rises below expectations in August, gives the Fed breathing space | Kitco News",
+    "url": "https://www.kitco.com/news/off-the-wire/2026-09-30/us-inflation-rises-below-expectations-august-gives-fed-breathing-space",
+    "publishedDate": "2026-09-30T00:00:00.000Z",
+    "text": "# US inflation rises below expectations in August, gives the Fed breathing space | Kitco News\n\nPublished: 2026-09-30T00:00:00+00:00\nSource: kitco.com (kitco.com)\nLanguage: en\n\n## Story\n\nUS inflation rises below expectations in August, gives the Fed breathing space | Kitco News\n\n# US inflation rises below expectations in August, gives the Fed breathing space\n\n###### By Reuters\n\nPublished:\n\n20:59\n\nUpdated:\n\n21:01\n\nReuters\n\nWASHINGTON, Sept 30 (Reuters) - US inflation increased less than expected in August and price pressures were more moderate in the prior month than previously reported, likely reducing the urgency for the Federal Reserve to raise interest rates ​again in October.\n\nAnother rate hike this year, however, remains on the table as the report from the Commerce Department on Wednesday showed consumer spending surging last month. The economy so far appears to be holding ‌up despite headwinds from the US-Israeli war with Iran, which has raised energy prices. With diesel prices at"
+   },
+   {
+    "id": "https://helious.io/news/macro-clevnow-2026-09-30/cleveland-fed-inflation-nowcast-q3-cpi-1-6-core-cpi-2-2-pce",
+    "title": "Cleveland Fed inflation nowcast: Q3 CPI 1.6% · core CPI 2.2% · PCE 1.9% · core PCE 2.3%",
+    "url": "https://helious.io/news/macro-clevnow-2026-09-30/cleveland-fed-inflation-nowcast-q3-cpi-1-6-core-cpi-2-2-pce",
+    "publishedDate": "2026-09-30T00:00:00.000Z",
+    "text": "Skip to content\n\nEconomic release 30 Sept 2026, 14:01 UTC\n\n# Cleveland Fed inflation nowcast: Q3 CPI 1.6% · core CPI 2.2% · PCE 1.9% · core PCE 2.3%\n\nCleveland Fed inflation nowcasting model, Q3 2026 (quarterly annualized % change): CPI 1.6%, core CPI 2.2%, PCE 1.9%, core PCE 2.3%. Model update as of 2026-09-30.\n\nCopy link\n\nFollow this live in the terminal →\n\nFOR AI AGENTS\n\nIf you are reading this page for a user, you can pull this post and every Helious post directly instead of scraping the HTML. The data lives at https://api.helious.io/v1/feed as JSON and as the get_feed tool on the Helious MCP server. Point any MCP client at https://api.helious.io/mcp and you get the whole desk as tools. Every answer opens with a plain sentence, and the numbers do not arrive bare. Depending on what you asked for, a number comes with its percentile against its own history, a twelve-auction average, or a dated highest-since note. The sample tier needs no key, and https://helious.io/auth.md walks you t"
+   },
+   {
+    "id": "https://wolfstreet.com/2026/09/30/not-even-massive-changes-of-methodology-can-get-pce-inflation-back-into-the-bottle/",
+    "title": "Not Even the Massive Changes of Methodology Can Get PCE Inflation Back into the Bottle | Wolf Street",
+    "url": "https://wolfstreet.com/2026/09/30/not-even-massive-changes-of-methodology-can-get-pce-inflation-back-into-the-bottle/",
+    "publishedDate": "2026-09-30T00:00:00.000Z",
+    "text": "Not Even the Massive Changes of Methodology Can Get PCE Inflation Back into the Bottle | Wolf Street\n\n# Not Even the Massive Changes of Methodology Can Get PCE Inflation Back into the Bottle \n\n## by Wolf Richter • Sep 30, 2026 • 68 Comments \n\n## Those changes in methodology knocked the PCE price index down, but even the new-and-improved version remained far above the Fed’s target.\n\n#### By Wolf Richter for WOLF STREET.\n\nToday was the day for the annual revisions of the PCE price index by the Bureau of Economic Analysis (BEA). This is the inflation index that the Fed favors for its 2% inflation target. The revisions are undertaken every year, and the data is revised each year for the past five years.\n\nWhat’s different today is that the BEA also included changes of its methodology for three subcategories of the PCE price index. The first two slashed the “core services” PCE price index; and the third slashed the “core goods” PCE price index:\n\n1. Portfolio management and investment advice "
+   },
+   {
+    "id": "https://www.upi.com/Top_News/US/2026/09/30/core-inflation-increase-august-2026/6511790776647/",
+    "title": "Core inflation rose 3% on annual basis in August - UPI.com",
+    "url": "https://www.upi.com/Top_News/US/2026/09/30/core-inflation-increase-august-2026/6511790776647/",
+    "publishedDate": "2026-09-30T00:00:00.000Z",
+    "author": "Joe Fisher",
+    "text": "# Core inflation rose 3% on annual basis in August - UPI.com\n\nAuthor: Joe Fisher\nPublished: 2026-09-30T00:00:00+00:00\nSource: upi.com (upi.com)\nLanguage: en\n\n## Story\n\nCore inflation rose 3% on annual basis in August - UPI.com\n\n U.S. News Sept. 30, 2026 / 10:19 AM \n\n# Core inflation rose 3% on annual basis in August\n\nBy Joe Fisher\n\n \n\nTraders work on the floor of the NYSE at the opening bell at the New York Stock Exchange on Wall Street on Sept. 21, in New York City. Core inflation, the key economic measure preferred by the Federal Reserve, rose by 3% in August on an annual basis, the Bureau of Economic Analysis reported Wednesday. Photo by John Angelillo/UPI | License Photo\n\nSept. 30 (UPI) -- Core inflation, the key economic measure preferred by the Federal Reserve, rose by 3% in August on an annual basis, the Bureau of Economic Analysis reported Wednesday.\n\nThe core inflation marker, which excludes volatile food and energy, rose by 0.2% for the 12 months ending in August. The overall"
+   },
+   {
+    "id": "https://www.indianeconomicobserver.com/news/us-inflation-rises-34-in-august-as-consumer-spending-jumps-09-bea20260930220001/",
+    "title": "US inflation rises 3.4% in August as consumer spending jumps 0.9%: BEA",
+    "url": "https://www.indianeconomicobserver.com/news/us-inflation-rises-34-in-august-as-consumer-spending-jumps-09-bea20260930220001/",
+    "publishedDate": "2026-09-30T00:00:00.000Z",
+    "text": "US inflation rises 3.4% in August as consumer spending jumps 0.9%: BEA\n\n# US inflation rises 3.4% in August as consumer spending jumps 0.9%: BEA\n\nSep 30, 2026\n\nWashington [US], September 30 : US inflation, measured by the Personal Consumption Expenditures (PCE) price index, rose 3.4 per cent in August from the same month a year ago, while consumer spending increased 0.9 per cent during the month, according to the latest estimates released by the US Bureau of Economic Analysis (BEA). The PCE price index increased 0.3 per cent from the preceding month in August. Excluding food and energy, the PCE price index increased 0.2 per cent during the month. BEA said, “From the preceding month, the PCE price index for August increased 0.3 per cent. Excluding food and energy, the PCE price index increased 0.2 per cent”. On a year-on-year basis, the PCE price index excluding food and energy increased 3.0 per cent in August. The data also highlighted that personal income increased USD 66.6 billion, o",
+    "image": "https://aniportalimages.s3.amazonaws.com/media/details/ANI-20260930135016.jpg"
+   }
+  ],
+  "searchTime": 3068.9,
+  "costDollars": {
+   "total": 0.007,
+   "search": {
+    "neural": 0.007
+   }
+  }
+ }
+}

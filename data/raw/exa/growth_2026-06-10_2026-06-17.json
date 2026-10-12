@@ -1,0 +1,108 @@
+{
+ "theme": "growth",
+ "query": "US economy GDP growth recession retail sales ISM",
+ "start": "2026-06-10",
+ "end": "2026-06-17",
+ "fetched_utc": "2026-10-12T10:09:05Z",
+ "response": {
+  "requestId": "ba8c8d8aaecdd86c7e563ad49b0b8c97",
+  "resolvedSearchType": "",
+  "results": [
+   {
+    "id": "https://www.haver.com/articles/u-s-retail-sales-jumped-more-than-expected-in-may",
+    "title": "U.S. Retail Sales Jumped More than Expected in May - Haver Analytics",
+    "url": "https://www.haver.com/articles/u-s-retail-sales-jumped-more-than-expected-in-may",
+    "publishedDate": "2026-06-17T00:00:00.000Z",
+    "author": "Sandy Batten Author",
+    "text": "U.S. Retail Sales Jumped More than Expected in May - Haver Analytics\n\n| Jun 17 2026\n\n# U.S. Retail Sales Jumped More than Expected in May\n\nby: Sandy Batten\n\n| in: Economy in Brief\n\n###### Summary\n\n- Total sales increased 0.9% m/m in May, nearly twice expectations.\n- Auto sales rebounded, rising 1.2% m/m in May, more than reversing a 0.9% monthly decline in April.\n- Gasoline sales rose 3.4% m/m in May.\n- Excluding auto and gasoline sales, remaining sales increased by a solid 0.5% m/m in May, the same monthly increase as in April.\n- Sales of the retail control group that is used to construct PCE rose 0.7% m/m in May and are 8.6% annualized above the Q1 average.\n\nTotal retail sales rose a much larger-than-expected 0.9% m/m (6.9%y/y) in May following a slightly downwardly revised 0.4% monthly gain in April (previously 0.5% m/m), according to data released by the U.S. Census Bureau. The Action Economics Forecast Survey looked for a 0.5% m/m gain. Excluding autos, other sales increased 0.8% "
+   },
+   {
+    "id": "https://recessionpulse.com/blog/daily-recession-risk-june-16-2026",
+    "title": "Recession Risk 34/100 — June 16, 2026 | RecessionPulse",
+    "url": "https://recessionpulse.com/blog/daily-recession-risk-june-16-2026",
+    "publishedDate": "2026-06-16T00:00:00.000Z",
+    "author": "RecessionPulse",
+    "text": "Daily Risk Assessment June 16, 2026\n\n# Recession Risk 34/100 — June 16, 2026\n\nNear-term recession risk over the next 90 days is moderate, not elevated, because the highest-weight labor triggers are not flashing: the Sahm Rule is still safely below the 0.50 threshold (your tracker shows 0.10) and initial claims remain low at 229K for the week ending June 6, 2026 with a 4-week average near 219K. The growth backdrop is slowing but still positive: BEA’s Q1 2026 real GDP was +1.6% (2nd estimate), and Atlanta Fed GDPNow for 2026:Q2 is still tracking positive growth (recently around low-to-mid single digits SAAR depending on the update). Manufacturing surveys are not consistent with an imminent recession: ISM Manufacturing PMI rose to 54.0 in May 2026 (expansion), although the ISM employment subindex remains contractionary at 48.6, which is a meaningful yellow flag. The key tension is a “soft” consumer and some classic leading signals (temps, freight, sentiment, savings) deteriorating while f",
+    "image": "https://recessionpulse.com/api/og/risk-trend?size=og&date=2026-06-16"
+   },
+   {
+    "id": "https://forecast.eller.arizona.edu/news/sp-global-us-forecast-update-june-2026",
+    "title": "S&P Global U.S. Forecast Update June 2026 | Forecasting Project",
+    "url": "https://forecast.eller.arizona.edu/news/sp-global-us-forecast-update-june-2026",
+    "publishedDate": "2026-06-10T00:00:00.000Z",
+    "author": "Niaoniao You, EBRC Senior Economic Forecaster",
+    "text": "S&P Global U.S. Forecast Update June 2026 | Forecasting Project\n\n# S&P Global U.S. Forecast Update June 2026 \n\nJune 10, 2026\n\nBy Niaoniao You, EBRC Senior Economic Forecaster\n\nPersistent inflation and marginally improved jobs complicate the Fed's rate decision\n\nImage\n\n \n\nS&P Global have released their June 2026 forecast update for the U.S. The current forecast is based on the following assumptions:\n\n- The forecast includes provisions in the One Big Beautiful Bill Act (OBBBA), which indefinitely extends cuts to marginal personal tax rates enacted in the 2017 Tax Cuts and Jobs Act and adds new deductions for tip income and overtime pay, among other personal tax provisions. The OBBBA includes increased federal direct spending but reduces outlays for Medicaid, ACA insurance premium tax credits, and SNAP benefits. It also introduces new expensing provisions and expanded deductions for businesses and corporations, while rescinding most of the clean-energy tax credits introduced by the Inflat",
+    "image": "https://forecast.eller.arizona.edu/sites/default/files/2023-09/blog-header-04-20-20-phx-forecast-flash_0.jpg"
+   },
+   {
+    "id": "https://www.federalreserve.gov/releases/G17/20260615/",
+    "title": "Federal Reserve Board - Industrial Production and Capacity Utilization -\n      G.17",
+    "url": "https://www.federalreserve.gov/releases/G17/20260615/",
+    "publishedDate": "2026-06-15T00:00:00.000Z",
+    "text": "Federal Reserve Board - Industrial Production and Capacity Utilization - G.17\n\n## Industrial Production and Capacity Utilization - G.17\n\n### Current Release PDF ASCII RSS Data Download FRED \n\nRelease Date: June 15, 2026\n\nRevision of Industrial Production and Capacity Utilization Notice Below\n\nIndustrial production (IP) edged up 0.1 percent in May after rising 0.9 percent in April. Manufacturing output was unchanged in May after increasing 0.7 percent in April. In May, the index for mining rose 1.3 percent, and the index for utilities decreased 0.4 percent. At 102.6 percent of its 2017 average, total IP in May was 1.7 percent above its year-earlier level. Capacity utilization edged up to 76.2 percent, a rate that is 3.2 percentage points below its long-run (1972–2025) average. \n\n##### Industrial Production and Capacity Utilization: Summary\n\nSeasonally adjusted\n\n| Industrial production | 2017=100 | | | | | | Percent change | | | | | | |\n| --- | --- | --- | --- | --- | --- | --- | --- | -",
+    "image": "https://www.federalreserve.gov/images/Social_Default_Image.jpg"
+   },
+   {
+    "id": "https://blog.epbresearch.com/p/how-to-read-the-gdp-report-in-4-steps",
+    "title": "How to Read the GDP Report in 4 Steps - by Eric Basmajian",
+    "url": "https://blog.epbresearch.com/p/how-to-read-the-gdp-report-in-4-steps",
+    "publishedDate": "2026-06-10T00:00:00.000Z",
+    "author": "Eric Basmajian",
+    "text": "How to Read the GDP Report in 4 Steps - by Eric Basmajian\n\n### Most of GDP can't tell you where the cycle is going. Here's the part that can.\n\nEric Basmajian\n\nJun 10, 2026\n\nBefore diving into the post, I wanted to let you know that EPB Research has a free Sunday newsletter.\n\nNow, let’s talk GDP and how to use it.\n\nGDP is the most widely reported statistic in economic data, but the headline number contains very little information about the direction or momentum of the economy.\n\nWhen the GDP numbers are released, and everyone starts quoting the growth rate, what you really want to know is if the economy is in danger or if it’s all clear ahead. \n\nThe single GDP number the financial media reports will not do that. \n\nThe economy moves in a sequence, with some sectors always moving before the average and some sectors always moving after the average.\n\nThe commonly cited headline GDP number blends leading and lagging sectors, masking the true signal of the underlying economy and any warning si",
+    "image": "https://substackcdn.com/image/fetch/$s_!Lynf!,w_1200,h_675,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F7fec29fc-1098-4679-9ec3-ad74769dec82_2894x1640.png"
+   },
+   {
+    "id": "https://wsau.com/2026/06/12/us-consumer-sentiment-improves-in-june-2/",
+    "title": "US consumer sentiment pushes off record lows as gasoline prices ease | WSAU News/Talk 550 AM · 99.9 FM | Wausau, Stevens Point",
+    "url": "https://wsau.com/2026/06/12/us-consumer-sentiment-improves-in-june-2/",
+    "publishedDate": "2026-06-12T00:00:00.000Z",
+    "author": "Thomson Reuters",
+    "text": "US consumer sentiment pushes off record lows as gasoline prices ease | WSAU News/Talk 550 AM · 99.9 FM | Wausau, Stevens Point\n\n# US consumer sentiment pushes off record lows as gasoline prices ease\n\n By Thomson Reuters Jun 12, 2026 | 9:16 AM \n\nBy Lucia Mutikani\n\nWASHINGTON, June 12 (Reuters) – U.S. consumer sentiment bounced off record lows in early June as easing gasoline prices offered households some relief, though concerns about inflation stoked by the Middle East conflict lingered.\n\nLower-income households led the broad improvement in sentiment reported by the University of Michigan’s Surveys of Consumers on Friday. Gasoline prices have dropped from four-year highs over the ​past three weeks, according to data from motorist advocacy group AAA, as oil prices stayed below $100 a barrel despite a ‌fragile ceasefire.\n\nLabor market resilience, marked by three consecutive months of above-expectations job growth and a stable unemployment rate, also likely contributed to the increase in ",
+    "image": "https://storage.googleapis.com/media.mwcradio.com/mimesis/2026-06/12/2026-06-12T141652Z_2_LYNXMPEM5B129_RTROPTP_3_HOLIDAYSHOPPING-RETAIL-WALMART.JPG"
+   },
+   {
+    "id": "http://bonddad.blogspot.com/2025/08/recession-watch-instituted-for-us.html",
+    "title": "The Bonddad Blog: “Recession Watch” instituted for US economy, as economically weighted ISM indexes indicate present contraction",
+    "url": "http://bonddad.blogspot.com/2025/08/recession-watch-instituted-for-us.html",
+    "publishedDate": "2026-06-11T00:00:00.000Z",
+    "author": "Posted by\n \n \n \n New Deal democrat",
+    "text": "The Bonddad Blog: “Recession Watch” instituted for US economy, as economically weighted ISM indexes indicate present contraction\n\n## Tuesday, August 5, 2025\n\n### “Recession Watch” instituted for US economy, as economically weighted ISM indexes indicate present contraction \n\n - by New Deal democrat\n\nTwo months ago, in response to the new orders components of the economically weighted ISM manufacturing and services indexes, I hoisted a yellow flag “Recession Watch.” That continued last month as well.\n\nThis month the economically weighted headline numbers tipped into contraction as well. Together with other negative readings in the goods-producing sector of the economy and flagging if still positive services indicators, the yellow flag now transitions into a red flag “recession watch” for the economy as a whole.\n\nLet’s start with this morning’s crucial report.\n\nAccording to ISM, in July the services sector of the US economy grew at the lowest increment possible, just 0.1 over the balance ",
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhmb-eVqR2Mbogmi5nYFspjSjjitqm9EjMYmWr5yOxdby3NDx-MWmCny9rnaobGb_qMcRBOhh0kmbJ8Xk_IXzJo7EH-Oycawk7F3piof7pMJmZEERnvmehIeEnrrm466EDIIvcNJMVFR8qE77zZ2cPL_NG8UCJufjTRygewup4oiy9VFxxKuqfX_2ys5RcO/w1200-h630-p-k-no-nu/8DF07CDA-1D43-4AD5-AE8A-8544F21D618E.jpeg"
+   },
+   {
+    "id": "https://247wallst.com/investing/2026/06/11/the-fed-just-quietly-released-surprisingly-bad-economic-news-is-a-recession-already-starting/",
+    "title": "The Fed Just Quietly Released Surprisingly Bad Economic News. Is a Recession Already Starting? - 24/7 Wall St.",
+    "url": "https://247wallst.com/investing/2026/06/11/the-fed-just-quietly-released-surprisingly-bad-economic-news-is-a-recession-already-starting/",
+    "publishedDate": "2026-06-11T00:00:00.000Z",
+    "author": "Rich Duprey",
+    "text": "The Fed Just Quietly Released Surprisingly Bad Economic News. Is a Recession Already Starting? - 24/7 Wall St.\n\n# The Fed Just Quietly Released Surprisingly Bad Economic News. Is a Recession Already Starting?\n\nEconomic slowdowns rarely arrive with a flashing warning sign. More often, they show up in obscure data releases, weaker spending patterns, and subtle shifts in consumer behavior long before the headlines catch up. That’s why investors should pay attention to…\n\n By Rich Duprey Published June 11, 2026, 8:30am ET · 4 min read \n\n## Quick Read\n\n- Inflation-adjusted food and services spending fell 1.3% in May, reversing from flat in April and a 0.8% gain in February.\n- Mark Zandi warns that rising prices, slowing consumer demand, and labor deterioration could create a negative feedback loop threatening economic growth.\n- The labor market added 172,000 jobs in May with unemployment at 4.3%, suggesting the economy has not yet entered freefall.\n- Just released. Our analysts combed the en",
+    "image": "https://247wallst.com/wp-content/uploads/2026/05/Kevin-Warsh-1.png"
+   },
+   {
+    "id": "https://d2461.cms.socastsrm.com/2026/06/15/us-factory-production-flat-in-may-ai-investment-supporting-manufacturing/",
+    "title": "US factory production flat in May; AI investment supporting manufacturing | MWC Template Example",
+    "url": "https://d2461.cms.socastsrm.com/2026/06/15/us-factory-production-flat-in-may-ai-investment-supporting-manufacturing/",
+    "publishedDate": "2026-06-15T00:00:00.000Z",
+    "author": "Thomson Reuters",
+    "text": "US factory production flat in May; AI investment supporting manufacturing | MWC Template Example\n\n×\n\n# US factory production flat in May; AI investment supporting manufacturing\n\nBy Thomson Reuters Jun 15, 2026 | 8:38 AM\n\nBy Lucia Mutikani\n\nWASHINGTON, June 15 (Reuters) – U.S. factory production was unexpectedly unchanged in May after gains in the prior months, which some economists said were related to businesses building up inventory in anticipation of shortages and higher prices due to the war in the Middle East.\n\nDespite the flat reading in output reported by the Federal Reserve on Monday, an artificial intelligence spending boom by businesses is offering a lifeline to manufacturing, helping to offset some of the drag from import tariffs and the recent oil price shock. ‌Business tax incentives for equipment investment are also supporting the sector.\n\nA separate survey from the New York Fed showed delivery times at factories in New York state lengthened further in June, with its meas",
+    "image": "https://storage.googleapis.com/media.mwcradio.com/mimesis/2026-06/15/2026-06-15T133847Z_3_LYNXMPEM5E15I_RTROPTP_3_USA-TRUMP-100-DAYS-STEEL.JPG"
+   },
+   {
+    "id": "https://usmanufacturingreport.com/article/may-2026-monthly-manufacturing-insights/",
+    "title": "May 2026 Monthly Manufacturing Insights - US Manufacturing Report, by Sustainment",
+    "url": "https://usmanufacturingreport.com/article/may-2026-monthly-manufacturing-insights/",
+    "publishedDate": "2026-06-15T00:00:00.000Z",
+    "author": "US MFG Editor",
+    "text": "May 2026 Monthly Manufacturing Insights - US Manufacturing Report, by Sustainment\n\n# May 2026 Monthly Manufacturing Insights\n\nUS MFG Editor\n\n4 months ago\n\nJune 15, 2026\n\nU.S. manufacturing posted its strongest month in four years in May 2026, with both major purchasing manager indexes reaching levels not seen since mid-2022. The sector is now firmly in expansion territory, driven by accelerating production and surging new orders across a broad base of industries. All six of the largest manufacturing sectors grew during the month, and only one of 18 tracked industries reported contraction.\n\nBut the headline numbers tell only part of the story. The war in the Middle East and the closure of the Strait of Hormuz are exerting enormous pressure on input costs, supply chains, and business sentiment. Rising fuel and petroleum prices are rippling through every corner of the manufacturing economy, and nearly 70 percent of ISM survey panelists’ comments expressed negative sentiment about conditio",
+    "image": "https://usmanufacturingreport.com/wp-content/uploads/2026/06/life-sciences-mfg-1200x675.webp"
+   }
+  ],
+  "searchTime": 3191.9,
+  "costDollars": {
+   "total": 0.007,
+   "search": {
+    "neural": 0.007
+   }
+  }
+ }
+}

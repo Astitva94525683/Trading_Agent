@@ -1,0 +1,106 @@
+{
+ "theme": "inflation",
+ "query": "US inflation CPI PCE consumer prices",
+ "start": "2026-06-17",
+ "end": "2026-06-24",
+ "fetched_utc": "2026-10-12T10:06:17Z",
+ "response": {
+  "requestId": "32586463968d81fee8fd28986fdbdc23",
+  "resolvedSearchType": "",
+  "results": [
+   {
+    "id": "https://www.morningstar.com/economy/may-pce-expected-show-rising-inflation",
+    "title": "May PCE Expected to Show Rising Inflation | Morningstar",
+    "url": "https://www.morningstar.com/economy/may-pce-expected-show-rising-inflation",
+    "publishedDate": "2026-06-23T00:00:00.000Z",
+    "author": "Irza Waraich",
+    "text": "May PCE Expected to Show Rising Inflation | Morningstar\n\n# May PCE Expected to Show Rising Inflation \n\nForecasts say the Fed’s favored inflation measure should come in well above target.\n\n Irza Waraich Jun 23, 2026\n\n## Key Takeaways\n\n- The annual rate of PCE inflation is forecast to be 4.1% by FactSet, its highest level since April 2023.\n- Economists expect May to mark this year’s inflation peak, as lower oil prices and easing tariff effects might curb price pressures in the coming months.\n- Economists are pricing in interest rate hikes later this year, even as the Fed signals a more aggressive approach to monetary policy.\n\nEconomists expect the May Personal Consumption Expenditures Price Index report to show another month of sticky inflation, with the annual rate reaching its highest level since April 2023 as higher energy prices continue to fuel consumer price pressures.\n\nForecasts call for the May PCE Index—the Federal Reserve’s preferred measure of inflation—to rise 4.1% from its y",
+    "image": "https://media.morningstar.com/resizer/v2/377FNZF5VBDRVG4HDMYAQISWKA.png?auth=d73534e1f554ff00916f48d73ab0c69e49d3183ea973034846641c0be60acc01&quality=80&height=1350&width=2400&crop=0,0:2400,1350"
+   },
+   {
+    "id": "https://www.rbc.com/en/economics/us-week-ahead/may-spending-to-outpace-income-as-the-savings-rate-slides/",
+    "title": "May spending to outpace income as the savings rate slides - RBC Economics",
+    "url": "https://www.rbc.com/en/economics/us-week-ahead/may-spending-to-outpace-income-as-the-savings-rate-slides/",
+    "publishedDate": "2026-06-18T00:00:00.000Z",
+    "author": "viktoriyapanahova",
+    "text": "May spending to outpace income as the savings rate slides - RBC Economics\n\n## May spending to outpace income as the savings rate slides \n\nWe will be watching the PCE deflators next week following Warsh’s comments at his first meeting as the new Fed Chair. The notable shift in tone suggests the Fed will be focused on bringing inflation down, and PCE has been the Fed’s preferred measure of inflation.\n\nUnfortunately for the Fed, we do not expect that the reprieve that we saw in core CPI will be reflected in core PCE. In fact, we are forecasting a +0.3% m/m increase in core PCE in the month of May, which would leave the year-over-year pace of price growth at 3.3%. Headline PCE is expected to rise +0.4% m/m, with year-over-year price growth for all items at 4.0%. The components of PPI that matter most for PCE, namely health care and financial services, accelerated in May.\n\nAs oil prices settle lower for the first time in months, core inflation remains the most pressing concern for the Fed. ",
+    "image": "https://www.rbc.com/en/economics/wp-content/uploads/sites/23/2025/10/FG-WA.png"
+   },
+   {
+    "id": "https://particle.news/story/pce-inflation-jumps-to-41-as-core-hits-34-raising-pressure-on-fed",
+    "title": "Particle: PCE Inflation Jumps to 4.1% as Core Hits 3.4%, Raising Pressure on Fed",
+    "url": "https://particle.news/story/pce-inflation-jumps-to-41-as-core-hits-34-raising-pressure-on-fed",
+    "publishedDate": "2026-06-23T00:00:00.000Z",
+    "text": "Particle: PCE Inflation Jumps to 4.1% as Core Hits 3.4%, Raising Pressure on Fed\n\n# PCE Inflation Jumps to 4.1% as Core Hits 3.4%, Raising Pressure on Fed \n\n Energy-driven price shocks have lifted underlying inflation and increased the risk that the Fed eral Reserve will raise interest rates. \n\n## Overview\n\n- The Commerce Department reported on June 25 that the Personal Consumption Expenditures index rose 4.1% year‑over‑year in May while core PCE, which excludes food and energy, climbed to 3.4%, the highest core reading since October 2023. \n- Much of the headline move reflects a sharp surge in oil and gasoline tied to the conflict with Iran, which pushed energy costs dramatically higher in May before prices began to retreat after preliminary peace developments. \n- Consumer demand remained strong as personal consumption expenditures rose 0.7% in May and the Commerce Department revised first‑quarter GDP up to 2.1%, a mix that complicates the Fed’s choice between supporting growth and cut",
+    "image": "https://storage.googleapis.com/uploads.mongoosehq.com/url/media/148866604/723050c1a498a7780a4482e7760799b934a86760bdaa459c69bd8497da8ab1f1"
+   },
+   {
+    "id": "https://libertystreeteconomics.newyorkfed.org/2026/06/the-new-york-fed-dsge-model-forecast-june-2026/",
+    "title": "The New York Fed DSGE Model Forecast—June 2026 - Liberty Street Economics",
+    "url": "https://libertystreeteconomics.newyorkfed.org/2026/06/the-new-york-fed-dsge-model-forecast-june-2026/",
+    "publishedDate": "2026-06-22T00:00:00.000Z",
+    "text": "The New York Fed DSGE Model Forecast—June 2026 - Liberty Street Economics\n\nJune 22, 2026\n\n# The New York Fed DSGE Model Forecast—June 2026 \n\n Marco Del Negro, Keshav Dogra, Elena Elbarmi, Donggyu Lee, and Michael Pham\n\nThis post presents an update of the economic forecasts generated by the Federal Reserve Bank of New York’s dynamic stochastic general equilibrium (DSGE) model. We describe very briefly our forecast and its change since March 2026. To summarize, inflation forecasts are higher in 2026 than predicted in March. Projections for the short-run real natural rate of interest (r*) increased slightly relative to March.\n\nNote: The DSGE model forecast is not an official New York Fed forecast, but only an input to the Research staff’s overall forecasting process. For more information about the model and variables discussed here, see our DSGE model Q & A. \n\nThe New York Fed DSGE model forecasts use data released through 2026:Q1, augmented for 2026:Q2 with median forecasts for real GDP ",
+    "image": "https://libertystreeteconomics.newyorkfed.org/wp-content/uploads/sites/2/2024/06/LSE_dsge-photo2_460.jpg"
+   },
+   {
+    "id": "https://newsio.com/2026/06/17/inflation-tops-4-for-the-first-time-in-three-years-as-iran-war-drives-energy-costs-higher-7/",
+    "title": "Inflation tops 4% for the first time in three years as Iran war drives energy costs higher - News IO",
+    "url": "https://newsio.com/2026/06/17/inflation-tops-4-for-the-first-time-in-three-years-as-iran-war-drives-energy-costs-higher-7/",
+    "publishedDate": "2026-06-17T00:00:00.000Z",
+    "author": "admin",
+    "text": "Inflation tops 4% for the first time in three years as Iran war drives energy costs higher - News IO\n\nConnect with us\n\n# Inflation tops 4% for the first time in three years as Iran war drives energy costs higher\n\n#### More Videos\n\nInflation shot past 4% in May for the first time in three years as higher energy costs amid the war in Iran weighed on prices seeping into everything from food to airfares as Americans face a rising cost-of-living.\n\nThe Consumer Price Index rose 4.2% in May over the past 12 months, heating up from 3.8% in April, the Bureau of Labor Statistics said Wednesday and those pressures are unlikely to let up anytime soon.\n\nFor the week ending June 5, a pound of Cosmic Crisp apples cost $2.37 on average a 54.9% jump from $1.53 last year, according to the US Department of Agricultures most recently available data.\n\nA pound of tomatoes cost $1.97 on average, up 21.6% from the previous year, while green bell peppers were $1.78 per pound, a 19.5% jump, according to the dat",
+    "image": "https://newsio.com/wp-content/uploads/2022/09/download.png",
+    "favicon": "https://newsio.com/wp-content/uploads/2025/06/cropped-NEWSIO-favicon-32x32.jpg"
+   },
+   {
+    "id": "https://www.investing.com/analysis/economic-week-ahead-will-pce-inflation-validate-the-feds-hawkish-shift-200682501",
+    "title": "Economic Week Ahead: Will PCE Inflation Validate the Fed’s Hawkish Shift? | Investing.com",
+    "url": "https://www.investing.com/analysis/economic-week-ahead-will-pce-inflation-validate-the-feds-hawkish-shift-200682501",
+    "publishedDate": "2026-06-22T00:00:00.000Z",
+    "text": "Economic Week Ahead: Will PCE Inflation Validate the Fed’s Hawkish Shift? | Investing.com\n\nPicked by our AI, this AI-tech play is up 76% already and still has a 63%+ upside\n\nStocks end lower as oil pops; investors eye Fed minutes, retail earnings this week\n\nIs Treasury selloff a major issue for stock market bulls?\n\nWhy this Wall Street strategist says the \"trade is long gold\"\n\nAdvertisement\n\nAdvertisement\n\n# Economic Week Ahead: Will PCE Inflation Validate the Fed’s Hawkish Shift?\n\nPublished 06/22/2026, 01:11 AM\n\nEconomic Week Ahead: Will PCE Inflation Validate the Fed’s Hawkish Shift?\n\nView all comments (0)0\n\nEconomic Week Ahead: Will PCE Inflation Validate the Fed’s Hawkish Shift?\n\nView all comments (0)0\n\nArticles(1094)| My Homepage\n\nFollow\n\nIn this article:\n\nThe US economic calendar is mostly quiet this week, but Thursday packs a heavy data load: final Q1-2026 GDP, May PCED, May durable goods orders, and weekly jobless claims.\n\nLots of Fedspeak will be provided by FOMC participants ",
+    "image": "https://i-invdn-com.investing.com/redesign/images/seo/investingcom_analysis_og.jpg",
+    "favicon": "https://www.investing.com/favicon-32x32.png"
+   },
+   {
+    "id": "https://www.investing.com/analysis/this-weeks-pce-report-could-reinforce-higher-rates-and-a-stronger-us-dollar-200682498",
+    "title": "This Week’s PCE Report Could Reinforce Higher Rates and a Stronger US Dollar | Investing.com",
+    "url": "https://www.investing.com/analysis/this-weeks-pce-report-could-reinforce-higher-rates-and-a-stronger-us-dollar-200682498",
+    "publishedDate": "2026-06-22T00:00:00.000Z",
+    "text": "This Week’s PCE Report Could Reinforce Higher Rates and a Stronger US Dollar | Investing.com\n\nU.S. strikes dozens of targets in Iran after intercepting missile attacks\n\nMicrosoft surges after hours on strong revenue outlook, maintained capex guidance\n\nFed’s Warsh says no forward guidance may have driven rise in Treasury yields\n\nMeta sinks after Q3 revenue forecast misses Wall Street estimates\n\nAdvertisement\n\nAdvertisement\n\n# This Week’s PCE Report Could Reinforce Higher Rates and a Stronger US Dollar\n\nPublished 06/22/2026, 02:57 AM\n\nThis Week’s PCE Report Could Reinforce Higher Rates and a Stronger US Dollar\n\nView all comments (0)0\n\nThis Week’s PCE Report Could Reinforce Higher Rates and a Stronger US Dollar\n\nView all comments (0)0\n\nArticles(1876)| My Homepage\n\nFollow\n\nIn this article:\n\nUS Dollar Japanese Yen+0.15%\n\nThe PCE report will be the key economic release this week and is expected to show headline PCE inflation rising by 0.5% in May, up from 0.4% in April, while the year-over-y",
+    "image": "https://i-invdn-com.investing.com/redesign/images/seo/investingcom_analysis_og.jpg",
+    "favicon": "https://www.investing.com/favicon-32x32.png"
+   },
+   {
+    "id": "https://www.fxstreet.com/analysis/will-pce-inflation-data-fuel-bets-of-early-fed-rate-hike-202606230851",
+    "title": "Will PCE inflation data fuel bets of early Fed rate hike?",
+    "url": "https://www.fxstreet.com/analysis/will-pce-inflation-data-fuel-bets-of-early-fed-rate-hike-202606230851",
+    "publishedDate": "2026-06-23T00:00:00.000Z",
+    "author": "Raffi Boyadjian",
+    "text": "Will PCE inflation data fuel bets of early Fed rate hike?\n\n06/23/2026 08:51:01 GMT\n\n# Will PCE inflation data fuel bets of early Fed rate hike?\n\n- Warsh’s hawkish debut sparks sharp repricing in Fed funds futures.\n- Inflation is front and centre as September hike now seen likely.\n- Will PCE report due Thursday, 12:30 GMT, support the hawkish bets?\n\nRaffi Boyadjian XM\n\n## Markets brace for first Fed hike in 3 years\n\nNew Fed chief Kevin Warsh didn’t waste any time in stamping his authority when he chaired his first ever FOMC meeting on June 16 and 17. Not only did he ditch the much-loved-by-the-markets forward guidance, he also set up task forces to oversee a host of other reforms such as evaluating the size of the balance sheet and the inflation framework.\n\nBut those are problems for another day. In the immediate term, investors are still reeling from the Fed’s far bigger hawkish shift than anyone anticipated. Although FOMC members were split almost 50/50 whether rates should move highe",
+    "image": "https://editorial.fxsstatic.com/images/i/inflation-01_Medium.jpg"
+   },
+   {
+    "id": "https://www.streetinsider.com/Investing/Goldman+sees+inflation+cooling+by+2027+as+AI+and+energy+effects+fade/26675779.html",
+    "title": "Goldman sees inflation cooling by 2027 as AI and energy effects fade",
+    "url": "https://www.streetinsider.com/Investing/Goldman+sees+inflation+cooling+by+2027+as+AI+and+energy+effects+fade/26675779.html",
+    "publishedDate": "2026-06-23T00:00:00.000Z",
+    "text": "Goldman sees inflation cooling by 2027 as AI and energy effects fade\n\n# Goldman sees inflation cooling by 2027 as AI and energy effects fade\n\nJune 23, 2026 7:19 AM EDT\n\nInvesting.com -- Core PCE inflation is set to remain elevated through the end of 2026 before cooling sharply in 2027 as artificial intelligence-related price pressures and energy passthrough effects dissipate, according to Goldman Sachs.\n\nAnalyst Manuel Abecasis forecasts year-over-year core PCE inflation of 3.2% in December 2026, followed by a slowdown to 2.2% by December 2027 \"as the AI and energy effects wane.\" \n\nCore CPI, which Goldman said is \"less affected by AI measurement issues and stock market swings,\" is projected to reach 2.6% year-over-year by December 2026 and 2.2% by December 2027.\n\nThe U.S.-Iran agreement has provided near-term relief, according to the bank. Goldman's commodity strategists lowered their oil forecasts to $80 per barrel on average in Q4 2026 and $75 in 2027, implying approximately 0.2 perc",
+    "image": "http://www.streetinsider.com/images/news2/266/26675779/resize_tradereyes.jpg"
+   },
+   {
+    "id": "https://pressclub.us/may-pce-lands-june-25-into-a-record-tape-the-core-number-is-the-only-one-that-matters/",
+    "title": "May PCE Lands June 25 Into a Record Tape: The Core Number Is the Only One That Matters | Press Club US",
+    "url": "https://pressclub.us/may-pce-lands-june-25-into-a-record-tape-the-core-number-is-the-only-one-that-matters/",
+    "publishedDate": "2026-06-19T00:00:00.000Z",
+    "text": "May PCE Lands June 25 Into a Record Tape: The Core Number Is the Only One That Matters | Press Club US\n\n# May PCE Lands June 25 Into a Record Tape: The Core Number Is the Only One That Matters\n\nJune 19, 2026\n\nThe Personal Consumption Expenditures report for May arrives Thursday, June 25, and it is the strangest kind of market event: a number almost designed to be ignored. It is the Federal Reserve’s preferred inflation gauge, it lands with equities at record highs, and it will almost certainly run hot. None of that should matter, because the force that will make it hot has already reversed.\n\n## The headline is stale before it prints\n\nMay is the reference month, and May was the peak of the energy shock. The Consumer Price Index for the same month, released June 10, rose 0.5 percent on the month and 4.2 percent over the year, with energy alone accounting for more than sixty percent of the monthly increase. The PCE headline will tell a version of the same story, because it is built from t"
+   }
+  ],
+  "searchTime": 3992.8,
+  "costDollars": {
+   "total": 0.007,
+   "search": {
+    "neural": 0.007
+   }
+  }
+ }
+}

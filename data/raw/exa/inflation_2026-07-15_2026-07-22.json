@@ -1,0 +1,105 @@
+{
+ "theme": "inflation",
+ "query": "US inflation CPI PCE consumer prices",
+ "start": "2026-07-15",
+ "end": "2026-07-22",
+ "fetched_utc": "2026-10-12T10:06:34Z",
+ "response": {
+  "requestId": "c1f45df8426e778a6075ffc7c64585c8",
+  "resolvedSearchType": "",
+  "results": [
+   {
+    "id": "https://www.aol.com/articles/revamp-core-pce-measure-could-093136000.html",
+    "title": "Revamp of 'core' PCE measure could help Fed estimate underlying inflation, research says - AOL",
+    "url": "https://www.aol.com/articles/revamp-core-pce-measure-could-093136000.html",
+    "publishedDate": "2026-07-15T00:00:00.000Z",
+    "author": "AOL",
+    "text": "Revamp of 'core' PCE measure could help Fed estimate underlying inflation, research says - AOL\n\nWed, July 15, 2026 at 9:31 AM UTC\n\n0\n\nBy Howard Schneider\n\nWASHINGTON, July 15 (Reuters) - The U.S. Federal Reserve could more accurately estimate underlying inflation by including food and utility prices in its \"core\" Personal Consumption Expenditures Price Index, capturing a greater share of household spending and better reflecting people's experience with the cost of living, according to St. Louis Federal Reserve research released on Wednesday.\n\nThe overhaul would exclude from underlying inflation only energy goods, including things like gasoline, that are tightly tied to global oil prices and subject to the most volatile short-term swings, making it appropriate for the central bank to ignore them in making interest rate decisions aimed at keeping inflation at 2% over the medium to long term, the research concluded.\n\nMeasures of core inflation currently exclude food purchased to prepare a",
+    "image": "https://s.yimg.com/cv/apiv2/aolfp/images/og-image.png"
+   },
+   {
+    "id": "https://www.mnimarkets.com/articles/analysts-eye-june-core-pce-of-017-018percent-after-cpi-ppi-1784142877341",
+    "title": "US INFLATION: Analysts Eye June Core PCE Of ~0.17...- 07-15-2026 | MNI",
+    "url": "https://www.mnimarkets.com/articles/analysts-eye-june-core-pce-of-017-018percent-after-cpi-ppi-1784142877341",
+    "publishedDate": "2026-07-15T00:00:00.000Z",
+    "author": "Tim Cooper",
+    "text": "US INFLATION: Analysts Eye June Core PCE Of ~0.17...- 07-15-2026 | MNI\n\n# US INFLATION: Analysts Eye June Core PCE Of ~0.17-0.18% After CPI, PPI\n\nJul-15 19:14\n\nFollowing the softer-than-expected June CPI and PPI reports, analysts now eye core PCE of between 0.17-0.19% M/M for the month with a median in our 5-analyst sample of 0.175%. That is a little lower compared with 0.18% M/M prior to the PPI report and well down from vs 0.27% M/M before yesterday's CPI release. It also slightly narrowed the positive wedge over the surprisingly soft core CPI of -0.02% M/M, though estimates are still due some fine tuning later this week after the international airfares component of the Import / Export price report on Friday.\n\n- Re the PPI report's PCE-related categories, analysts largely noted lower financial services inflation than they had expected, offset by higher healthcare. From highest-to-lowest current core PCE M/M estimates:\n- Barclays: 0.19% (from 0.21% post-CPI, pre-PPI). Downgrade \"refle",
+    "image": "https://www.mnimarkets.com/logos/mni-og.png"
+   },
+   {
+    "id": "https://au.marketscreener.com/news/fed-s-williams-cpi-was-a-little-piece-of-inflation-returning-toward-goal-ce7f5ed2d88df32c",
+    "title": "Fed's Williams: CPI was a 'little piece' of inflation returning toward goal | MarketScreener Australia",
+    "url": "https://au.marketscreener.com/news/fed-s-williams-cpi-was-a-little-piece-of-inflation-returning-toward-goal-ce7f5ed2d88df32c",
+    "publishedDate": "2026-07-15T00:00:00.000Z",
+    "author": "Reuters",
+    "text": "Fed's Williams: CPI was a 'little piece' of inflation returning toward goal | MarketScreener Australia\n\n# Fed's Williams: CPI was a 'little piece' of inflation returning toward goal \n\nPublished on 07/15/2026 at 11:11 pm AEST\n\n Reuters \n\nThis article is reserved for members",
+    "image": "https://au.marketscreener.com/images/twitter_MS_fdblanc.png"
+   },
+   {
+    "id": "https://www.thejakartapost.com/business/2026/07/15/us-inflation-cools-in-june-before-renewed-mideast-fighting",
+    "title": "US inflation cools in June before renewed Mideast fighting - Economy - The Jakarta Post",
+    "url": "https://www.thejakartapost.com/business/2026/07/15/us-inflation-cools-in-june-before-renewed-mideast-fighting",
+    "publishedDate": "2026-07-15T00:00:00.000Z",
+    "author": "Beiyi Seow",
+    "text": "US inflation cools in June before renewed Mideast fighting - Economy - The Jakarta Post\n\n# US inflation cools in June before renewed Mideast fighting\n\n Wed, July 15, 2026 Published on Jul. 15, 2026 Published on 2026-07-15T10:43:35+07:00 \n\n People shop for groceries at a Wegman's store in Brooklyn on July 13, 2026 in New York City. (AFP/Getty Images/Spencer Platt) \n\nS consumer inflation cooled more than expected in June as energy costs fell on a temporary easing of the US-Iran war, government data showed Tuesday, but renewed hostilities could stoke price pressures.\n\nThe consumer price index (CPI) rose by 3.5 percent on a year-on-year basis in June, down from a three-year high of 4.2 percent in May, the Labor Department said.\n\nA drop in energy costs had more than offset upticks in housing and food prices.\n\nTrump touted the report, saying: \"Prices are coming way down, and we're going to bring them much lower yet.\"\n\n\"Remember that for the midterms,\" he added, invoking voters' concerns over",
+    "image": "https://img.jakpost.net/c/2026/07/15/2026_07_15_177638_1784087000._large.jpg"
+   },
+   {
+    "id": "https://www.xxquant.com/en/institution/institutional-research/088c707603f003baa7bfd1cd5458b78b",
+    "title": "Macroeconomics: Cooling U.S. inflation supports the Fed staying on hold in the short term | Report Interpretation | Hilo Research",
+    "url": "https://www.xxquant.com/en/institution/institutional-research/088c707603f003baa7bfd1cd5458b78b",
+    "publishedDate": "2026-07-17T00:00:00.000Z",
+    "text": "Macroeconomics: Cooling U.S. inflation supports the Fed staying on hold in the short term | Report Interpretation | Hilo Research\n\n# Macroeconomics: Cooling U.S. inflation supports the Fed staying on hold in the short term\n\nNomura believes June inflation slowed markedly, lowering its core PCE month-over-month forecast to 0.175%, but because growth and employment remain resilient, the Fed is more likely to continue waiting on the sidelines, with policy risks still tilted toward hikes rather than cuts.\n\nInstitution Nomura Securities International, Inc. Date 2026-07-17 Industry Macroeconomics\n\nSummary\n\nNomura believes June inflation slowed markedly, lowering its core PCE month-over-month forecast to 0.175%, but because growth and employment remain resilient, the Fed is more likely to continue waiting on the sidelines, with policy risks still tilted toward hikes rather than cuts.\n\nThis report does not involve stock ratings or target prices; the core macro view is that the Fed will keep rat"
+   },
+   {
+    "id": "https://www.gate.com/news/detail/bea-revises-pce-inflation-calculation-methodology-for-three-sectors-22795163",
+    "title": "BEA Revises PCE Inflation Calculation Methodology for Three Sectors | Gate News",
+    "url": "https://www.gate.com/news/detail/bea-revises-pce-inflation-calculation-methodology-for-three-sectors-22795163",
+    "publishedDate": "2026-07-20T00:00:00.000Z",
+    "author": "GateMacroTradfiHub",
+    "text": "BEA Revises PCE Inflation Calculation Methodology for Three Sectors | Gate News\n\n# BEA Revises PCE Inflation Calculation Methodology for Three Sectors\n\n2026-07-20 04:45:32\n\nThe US Bureau of Economic Analysis (BEA) announced on the 19th (local time) a revision to the methodology for calculating the Personal Consumption Expenditures (PCE) price index, a key inflation indicator used by the Federal Reserve. The changes will be implemented on September 30 and will affect three sectors: portfolio management and investment advisory services, legal services, and computer software and related services. The revision aims to more accurately reflect the composition of goods and services within these consumption categories. Market analysts note that the methodology change could influence the Fed's inflation assessments and interest rate decisions.\n\n## BEA Announces PCE Methodology Revision Covering 2021-2026 Period\n\nAccording to the BEA website on the 19th (local time), the BEA issued an 'Advance N",
+    "image": "https://gimg2.staticimgs.com/share/share_poster_20260302_121136_a0592b2d6e5969154ee79c30e0ad7e6e.webp"
+   },
+   {
+    "id": "https://www.pimco.com/us/en/insights/fed-policymaker-comments-raise-the-stakes-for-inflation-data",
+    "title": "Macro Signposts | Fed Policymaker Comments Raise the Stakes for Inflation Data | PIMCO",
+    "url": "https://www.pimco.com/us/en/insights/fed-policymaker-comments-raise-the-stakes-for-inflation-data",
+    "publishedDate": "2026-07-15T00:00:00.000Z",
+    "author": "Tiffany Wilding",
+    "text": "Macro Signposts | Fed Policymaker Comments Raise the Stakes for Inflation Data | PIMCO\n\n# Fed Policymaker Comments Raise the Stakes for Inflation Data \n\n Macro Signposts highlights takeaways from the data analysis conducted by our team of economists and other experts. \n\n \n\n Tiffany Wilding \n\n 7/15/2026 | {read_time} min read \n\n## Fed Policymaker Comments Raise the Stakes for Inflation Data\n\nOn Monday, in a speech at the New York Association for Business Economics, Federal Reserve Governor Christopher Waller discussed the U.S. economic outlook and the implications for “monetary policy at a crossroads.” His remarks were more hawkish than many observers expected. Indeed, he’s the first voting member of the Federal Open Market Committee (FOMC) to publicly articulate a conditional path toward rate hikes this year – if we see another “hot” inflation reading.\n\nAnd on Tuesday, the U.S. Bureau of Labor Statistics (BLS) released the June Consumer Price Index (CPI) inflation data. The headline fi",
+    "image": "https://www.pimco.com/us/en/-/media/global-assets/insights/economic-and-market-commentary/macro-signposts/2026/07/fed-policymaker-comments-raise-the-stakes-for-inflation-data/msp-header-imagery-6354929-102025-final-27_2560x1440.webp?rev=3a77573334fc4525bdef9f1af07f4ede&hash=7FA6055713A957CC80F6AAFFE1931AE6"
+   },
+   {
+    "id": "https://wsj.com/economy/stubborn-inflation-better-growth-economists-weigh-in-a4afd3cd",
+    "title": "Stubborn Inflation, Better Growth: Economists Weigh In - WSJ",
+    "url": "https://wsj.com/economy/stubborn-inflation-better-growth-economists-weigh-in-a4afd3cd",
+    "publishedDate": "2026-07-15T09:30:00.000Z",
+    "author": "Peter Santilli, Anthony DeBarros",
+    "text": "# Stubborn Inflation, Better Growth: Economists Weigh In - WSJ\n\nAuthor: Peter Santilli, Anthony DeBarros\nPublished: 2026-07-15T09:30:00Z\nSource: wsj.com\nLanguage: en"
+   },
+   {
+    "id": "https://247wallst.com/investing/2026/07/19/why-inflation-may-suddenly-look-better-even-though-everything-still-costs-more/",
+    "title": "Why Inflation May Suddenly Look Better Even Though Everything Still Costs More - 24/7 Wall St.",
+    "url": "https://247wallst.com/investing/2026/07/19/why-inflation-may-suddenly-look-better-even-though-everything-still-costs-more/",
+    "publishedDate": "2026-07-19T00:00:00.000Z",
+    "author": "Rich Duprey",
+    "text": "Why Inflation May Suddenly Look Better Even Though Everything Still Costs More - 24/7 Wall St.\n\n# Why Inflation May Suddenly Look Better Even Though Everything Still Costs More\n\nThe government just quietly changed how it calculates the inflation number the Federal Reserve trusts most, and the timing could not matter more for investors betting on interest rate cuts.\n\n By Rich Duprey Published July 19, 2026, 9:37am ET · 4 min read \n\n## Quick Read\n\n- The BEA is revising PCE inflation formulas retroactively over five years, expected to lower reported core inflation by 0.2 percentage points after September 2026.\n- Cooler PCE readings could reinforce Fed rate-cut expectations, lifting rate-sensitive sectors including technology, housing, and consumer discretionary stocks.\n- The revisions don't reduce actual prices. Inflation still sits above the Fed's 2% target and pre-pandemic price levels won't return.\n- It sounds nuts, but SoFi is giving new Active Invest users up to $3,000 in stock for a",
+    "image": "https://247wallst.com/wp-content/uploads/2022/10/imageForEntry5-Zoc.jpg"
+   },
+   {
+    "id": "https://gdpquery.ai/insights/cpi-falls-0-4-percent-june-annual-inflation-cools-3-5-percent",
+    "title": "U.S. CPI Falls 0.4% in June, Annual Inflation Cools to 3.5% | GDPQuery.ai Insights",
+    "url": "https://gdpquery.ai/insights/cpi-falls-0-4-percent-june-annual-inflation-cools-3-5-percent",
+    "publishedDate": "2026-07-16T00:00:00.000Z",
+    "text": "U.S. CPI Falls 0.4% in June, Annual Inflation Cools to 3.5% | GDPQuery.ai Insights\n\n# U.S. CPI Falls 0.4% in June, Annual Inflation Cools to 3.5%\n\nJuly 16, 2026\n\nDrafted by Claude Opus 4.8 · Reviewed by a human before publication · Data through June 2026\n\n## Highlights\n\n- Print\n\nThe CPI decreased 0.4 percent in June, the largest 1-month decline since April 2020, and the all items index rose 3.5 percent over 12 months, down from the 4.2 percent annual pace through May.\n- Read\n\nThe core index was unchanged on the month and its 12-month rate eased to 2.6 percent from 2.9 percent, a clear signal that the headline drop reflected volatile energy swings rather than any broad cooling in prices.\n- Read\n\nThe energy index fell 5.7 percent, but the energy-driven drop will likely prove transitory, since June's 9.7 percent gasoline decline could reverse just as quickly as it arrived.\n- Read\n\nShelter rose just 0.1 percent, the smallest 1-month change since January 2021 and the most encouraging signal"
+   }
+  ],
+  "searchTime": 1854.7,
+  "costDollars": {
+   "total": 0.007,
+   "search": {
+    "neural": 0.007
+   }
+  }
+ }
+}

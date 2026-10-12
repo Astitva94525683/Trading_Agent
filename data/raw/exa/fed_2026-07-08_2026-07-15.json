@@ -1,0 +1,105 @@
+{
+ "theme": "fed",
+ "query": "Federal Reserve FOMC interest rate decision Powell",
+ "start": "2026-07-08",
+ "end": "2026-07-15",
+ "fetched_utc": "2026-10-12T10:05:03Z",
+ "response": {
+  "requestId": "5e47053ddacc5a39603ea7c99a9a6440",
+  "resolvedSearchType": "",
+  "results": [
+   {
+    "id": "https://www.federalreserve.gov/newsevents/pressreleases/monetary20260708a.htm",
+    "title": "Federal Reserve Board - Minutes of the Federal Open Market Committee, June 16-17, 2026",
+    "url": "https://www.federalreserve.gov/newsevents/pressreleases/monetary20260708a.htm",
+    "publishedDate": "2026-07-08T00:00:00.000Z",
+    "text": "Federal Reserve Board - Minutes of the Federal Open Market Committee, June 16-17, 2026\n\n## Press Release \n\nJuly 08, 2026\n\n### Minutes of the Federal Open Market Committee, June 16-17, 2026\n\nFor release at 2:00 p.m. EDT \n\nThe Federal Reserve on Wednesday released the minutes of the Federal Open Market Committee meeting that was held on June 16–17, 2026.\n\nThe minutes for each regularly scheduled meeting of the Committee are generally published three weeks after the day of the policy decision. The descriptions of economic and financial conditions contained in these minutes are based solely on the information that was available to the Committee at the time of the meeting.\n\nThe minutes can be viewed on the Board's website.\n\nFor media inquiries, e-mail media@frb.gov or call 202-452-2955.\n\nMinutes of the Federal Open Market Committee June 16-17, 2026: HTML | PDF",
+    "image": "https://www.federalreserve.gov/images/social-media/social-default-image-opengraph.jpg"
+   },
+   {
+    "id": "https://www.cnbc.com/2026/07/08/fed-minutes-june-2026-.html",
+    "title": "Fed minutes June 2026: officials split on rates",
+    "url": "https://www.cnbc.com/2026/07/08/fed-minutes-june-2026-.html",
+    "publishedDate": "2026-07-08T00:00:00.000Z",
+    "author": "Jeff Cox",
+    "text": "Fed minutes June 2026: officials split on rates\n\n# Fed officials were split on direction of interest rates at last meeting, minutes show\n\nPublished Wed, Jul 8 2026 2:00 PM EDT Updated Wed, Jul 8 2026 3:05 PM EDT\n\nJeff Cox@jeff.cox.7528@JeffCoxCNBCcom\n\nKey Points\n\n- Fed policymakers were split on the future of interest rates at their June meeting, with officials offering competing cases for hikes or cuts, according to minutes released Wednesday.\n- The meeting summary provided few details of what new Chairman Kevin Warsh described as a \"family fight\" over policy direction.\n- True to Warsh's disdain for forward guidance, the meeting summary provided little information on where policymakers stand for the future, noting that decisions would be made based on \"incoming information.\"\n\nVIDEO 2:16 02:16\n\nFed officials were split on direction of interest rates at last meeting, minutes show\n\nPower Lunch\n\nFederal Reserve officials were split last month about the future of interest rates, with polic",
+    "image": "https://image.cnbcfm.com/api/v1/image/108323437-17817219452026-06-17t184458z_564357433_rc2uvlaq5l92_rtrmadp_0_usa-fed.jpeg?v=1781721972&w=1920&h=1080"
+   },
+   {
+    "id": "https://bankingjournal.aba.com/2026/07/despite-fed-vote-to-keep-rates-steady-fomc-minutes-show-divide/",
+    "title": "Despite Fed vote to keep rates steady, FOMC minutes show divide | ABA Banking Journal",
+    "url": "https://bankingjournal.aba.com/2026/07/despite-fed-vote-to-keep-rates-steady-fomc-minutes-show-divide/",
+    "publishedDate": "2026-07-08T00:00:00.000Z",
+    "author": "ABA Banking Journal Staff",
+    "text": "Despite Fed vote to keep rates steady, FOMC minutes show divide | ABA Banking Journal\n\n# Despite Fed vote to keep rates steady, FOMC minutes show divide\n\n July 8, 2026 Reading Time: 2 mins read \n\nFederal Reserve officials seemed to be divided over interest rates, according to minutes released today from the Federal Open Market Committee June 16-17 meeting.\n\nThe gathering was Fed Chair Kevin Warsh’s inaugural FOMC meeting. Some participants argued for a hike in rates, while the broader committee was divided between holding rates steady and further tightening.\n\nIn the end, the committee voted unanimously to maintain the target range for the federal funds rate at 3.5%-3.75%.\n\n“Economic activity is expanding at a solid pace despite elevated uncertainty that owes, in part, to the conflict in the Middle East,” according to the minutes. “Productivity growth and capital investment are strong. Job gains have kept pace with the workforce, and the unemployment rate has changed little. Inflation r",
+    "image": "https://bankingjournal.aba.com/wp-content/uploads/2026/05/shutterstock_2209189715-Fed-Reserve-Building-Sunset-DC.jpg"
+   },
+   {
+    "id": "https://www.whenthefedspeaks.com/doc/monetary_policy_report_20260710",
+    "title": "Monetary Policy Report — When the Fed Speaks",
+    "url": "https://www.whenthefedspeaks.com/doc/monetary_policy_report_20260710",
+    "publishedDate": "2026-07-10T00:00:00.000Z",
+    "author": "Federal Reserve",
+    "text": "Monetary Policy Report — When the Fed Speaks\n\n# Monetary Policy Report\n\nFor use at 11:00 a.m. EDT July 10, 2026 REPORT TO CONGRESS Monetary Policy Report July 2026 BOARD OF GOVERNORS OF THE FEDERAL RESERVE SYSTEM\n\ni Contents Statement on Longer-Run Goals and Monetary Policy Strategy . . . . . . . . . . . . . . .iii Abbreviations . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . v Summary . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 1 Recent Economic and Financial Developments . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 1 Monetary Policy . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 3 Special Topics . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 4 Recent Economic and Financial Developments "
+   },
+   {
+    "id": "https://www.federalreserve.gov/newsevents/testimony/warsh20260714a.htm?_sp=9aac1695-a7c5-44ee-98f8-7ec5b65773f1",
+    "title": "Testimony by Chairman Warsh on the semiannual Monetary Policy Report to Congress - Federal Reserve Board",
+    "url": "https://www.federalreserve.gov/newsevents/testimony/warsh20260714a.htm?_sp=9aac1695-a7c5-44ee-98f8-7ec5b65773f1",
+    "publishedDate": "2026-07-14T00:00:00.000Z",
+    "text": "Testimony by Chairman Warsh on the semiannual Monetary Policy Report to Congress - Federal Reserve Board\n\n## Testimony \n\nJuly 14, 2026\n\n### Semiannual Monetary Policy Report to the Congress\n\n Chairman Kevin Warsh \n\nBefore the Committee on Financial Services, U.S. House of Representatives\n\nChairman Warsh submitted identical remarks to the Committee on Banking, Housing, and Urban Affairs, U.S. Senate, on July 15, 2026.\n\nChairman Hill, Ranking Member Waters, and other members of the Committee—good morning.\n\nIt's a privilege to join you. At my first appearance before this panel, I am particularly honored to represent my superb colleagues throughout the Federal Reserve System.\n\nIn submitting the Board's Monetary Policy Report, I think of a long line of central bank chiefs who came before Congress in keeping with the Federal Reserve Act. I think also of earlier efforts, going back to the time of the Framers, to create a central bank that would endure and serve the nation's founding principle",
+    "image": "https://www.federalreserve.gov/images/social-media/social-default-image-opengraph.jpg"
+   },
+   {
+    "id": "https://www.newsquawk.com/headlines/fomc-minutes--participants-generally-saw-upside-risks-to-price-stability-as-elevated-while-downside-risks-to-maximum-employment-goal-had-moderated-a-bit",
+    "title": "FOMC MINUTES:  Participants generally saw upside risks to price stability as elevated, while downside risks to maximum employment goal had moderated a bit | Newsquawk",
+    "url": "https://www.newsquawk.com/headlines/fomc-minutes--participants-generally-saw-upside-risks-to-price-stability-as-elevated-while-downside-risks-to-maximum-employment-goal-had-moderated-a-bit",
+    "publishedDate": "2026-07-08T00:00:00.000Z",
+    "text": "FOMC MINUTES: Participants generally saw upside risks to price stability as elevated, while downside risks to maximum employment goal had moderated a bit | Newsquawk\n\n# FOMC MINUTES: Participants generally saw upside risks to price stability as elevated, while downside risks to maximum employment goal had moderated a bit\n\nNewsquawk Staff/ Federal Reserve news/ Published 8 Jul 2026, 18:20 UTC\n\nBurnham’s economic blueprint focuses on small business and cost of living, FT reports\n\nMichael Burry says he bought shares of Draftkings (DKNG) and Flutter (FLTR) \n\nFOMC MINUTES: Participants generally saw upside risks to price stability as elevated, while downside risks to maximum employment goal had moderated a bit\n\nTurkey's President Erdogan says Trump has positive view on F-35 jets sale to Turkey, hopefully world will see US keep its promise\n\nSenior US official says US notifies congressional leaders of decision to rescind Syria's designation as a state sponsor of terrorism\n\nOn the Newsquawk fe",
+    "image": "https://www.newsquawk.com/assets/placeholder_images_for_news_by_category/Fixed%20Income/1.png"
+   },
+   {
+    "id": "https://www.foxbusiness.com/economy/fed-policymakers-inflation-worries-weighed-rate-cut-outlook-warshs-first-meeting",
+    "title": "Fed Chair Warsh drops forward guidance at first FOMC policy meeting | Fox Business",
+    "url": "https://www.foxbusiness.com/economy/fed-policymakers-inflation-worries-weighed-rate-cut-outlook-warshs-first-meeting",
+    "publishedDate": "2026-07-08T00:00:00.000Z",
+    "author": "Eric Revell",
+    "text": "Fed Chair Warsh drops forward guidance at first FOMC policy meeting | Fox Business\n\nFederal Reserve Published July 8, 2026 5:15pm EDT \n\n## Nine of 18 voting members projected a rate hike before end of 2026 amid tariff and energy price pressures\n\n By Eric Revell FOXBusiness\n\n## Fed will operate better because of Warsh: Kevin Mahn\n\nHennion & Walsh Asset Management President and CIO Kevin Mahn discusses what to expect from the Fed under Kevin Warsh, including potential changes to inflation calculation and communication on ‘Making Money.’\n\nFederal Reserve policymakers are increasingly concerned about inflation, and the uncertainty about the direction it may take was reflected in the minutes of the Fed's latest monetary policy meeting released on Wednesday.\n\nThe central bank's first monetary policy meeting under the leadership of Fed Chair Kevin Warsh occurred against the backdrop of rising inflation, as energy prices surged earlier this year and pushed the pace of price growth up and furth",
+    "image": "https://a57.foxnews.com/static.foxbusiness.com/foxbusiness.com/content/uploads/2026/06/0/0/kevin-warsh-first-press-conference-1.jpg?ve=1&tl=1"
+   },
+   {
+    "id": "https://fortune.com/2026/07/08/laura-ullrich-fed-reserve-kevin-warsh-minutes-fomc/",
+    "title": "Inside Kevin Warsh's shortest Fed statement yet: five words with no caveats | Fortune",
+    "url": "https://fortune.com/2026/07/08/laura-ullrich-fed-reserve-kevin-warsh-minutes-fomc/",
+    "publishedDate": "2026-07-08T00:00:00.000Z",
+    "author": "Catherina Gioino",
+    "text": "Inside Kevin Warsh's shortest Fed statement yet: five words with no caveats | Fortune\n\n# Kevin Warsh buried an unusual, unhedged promise in his first Fed minutes—and one economist says it’s the strongest signal in the document\n\nJuly 8, 2026, 4:54 PM ET\n\nThe FOMC released minutes on Wednesday that offered one telling sentence. Chip Somodevilla/Getty Images\n\nBuried in the Federal Reserve’s June policy statement—the shortest of Kevin Warsh’s young tenure as chair—is a single sentence with no qualifiers, no hedges, and, according to at least one longtime Fed watcher, more signal than anything in the minutes released Wednesday: “The Committee will deliver price stability.”\n\n“There’s not a qualifying statement after that,” said Laura Ullrich, a former senior regional economist at the Federal Reserve Bank of Richmond who now directs economic research at the Indeed Hiring Lab. “It doesn’t say the committee will deliver price stability while also blah blah blah blah. It doesn’t have a qualifyin",
+    "image": "https://fortune.com/img-assets/wp-content/uploads/2026/07/GettyImages-2282086085-e1783541936971.jpg?resize=1200,600"
+   },
+   {
+    "id": "https://apnews.com/article/warsh-federal-reserve-inflation-4a1da547d64ae3d54fba29161b213601",
+    "title": "Warsh vows to crush inflation but offers no hint on the Fed’s next move | AP News",
+    "url": "https://apnews.com/article/warsh-federal-reserve-inflation-4a1da547d64ae3d54fba29161b213601",
+    "publishedDate": "2026-07-14T00:00:00.000Z",
+    "author": "Christopher Rugaber",
+    "text": "Warsh vows to crush inflation but offers no hint on the Fed’s next move | AP News\n\n# Warsh says Fed has ‘no tolerance’ for high inflation but provides no hints on next move\n\n## Warsh says Fed has ‘no tolerance’ for high inflation but provides no hints on next move\n\nFederal Reserve Chair Kevin Warsh pledged to make high inflation “a thing of the past” in his first congressional testimony Tuesday, yet provided no signal about the central bank’s next steps.\n\nFederal Reserve Chairman Kevin Warsh appears before the House Financial Services Committee to deliver the semi-annual monetary policy report on the central bank, at the Capitol in Washington, Tuesday, July 14, 2026. (AP Photo/J. Scott Applewhite)\n\nFederal Reserve Chairman Kevin Warsh appears before the House Financial Services Committee to deliver the semi-annual monetary policy report on the central bank, at the Capitol in Washington, Tuesday, July 14, 2026. (AP Photo/J. Scott Applewhite)\n\nFederal Reserve Chairman Kevin Warsh appears",
+    "image": "https://dims.apnews.com/dims4/default/e21e089/2147483647/strip/true/crop/4793x3194+0+1/resize/980x653!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F11%2F8d%2F1535c6bb1c66f70761989f3d9b1f%2Fc0aea9d0588840b59091a1b759e4ea21"
+   },
+   {
+    "id": "https://financialservices.house.gov/news/documentsingle.aspx?DocumentID=411191",
+    "title": "Full Committee Hosts Federal Reserve Chairman Warsh for Hearing on Federal Reserve’s Monetary Policy Report | U.S. House Committee on Financial Services",
+    "url": "https://financialservices.house.gov/news/documentsingle.aspx?DocumentID=411191",
+    "publishedDate": "2026-07-14T00:00:00.000Z",
+    "text": "Full Committee Hosts Federal Reserve Chairman Warsh for Hearing on Federal Reserve’s Monetary Policy Report | U.S. House Committee on Financial Services \n\n## Full Committee Hosts Federal Reserve Chairman Warsh for Hearing on Federal Reserve’s Monetary Policy Report\n\nToday, the House Committee on Financial Services, led by Chairman French Hill (AR-02), welcomed Federal Reserve Board Chairman Kevin Warsh for a hearing on his views on the future path of the economy, the Federal Reserve’s monetary policy functions, and efforts to achieve price stability and ensure the Federal Reserve remains focused on its core mission.\n\nOn Restoring Price Stability and Economic Confidence:\n\nChairman Hill said, “... [I]nflation is the result of many factors. The Fed has control only over one: monetary policy, as expressed through its interest rate and balance sheet policy. Today, a potential second surge of inflation is appearing due to factors outside the Fed's control. What the Fed can control is how it ",
+    "image": "https://republicans-financialservices.house.gov/images/facebook-meta.jpg"
+   }
+  ],
+  "searchTime": 1461.5,
+  "costDollars": {
+   "total": 0.007,
+   "search": {
+    "neural": 0.007
+   }
+  }
+ }
+}

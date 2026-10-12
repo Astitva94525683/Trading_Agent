@@ -1,0 +1,104 @@
+{
+ "theme": "growth",
+ "query": "US economy GDP growth recession retail sales ISM",
+ "start": "2026-10-07",
+ "end": "2026-10-13",
+ "fetched_utc": "2026-10-12T10:10:03Z",
+ "response": {
+  "requestId": "d37cf03eb855b44e31a13cb59d0b6a29",
+  "resolvedSearchType": "",
+  "results": [
+   {
+    "id": "https://www.haver.com/articles/u-s-gdp-growth-revised-up-in-both-q1-and-q2-benchmark-revision-small",
+    "title": "U.S. GDP Growth Revised Up in both Q1 and Q2; Benchmark Revision Small - Haver Analytics",
+    "url": "https://www.haver.com/articles/u-s-gdp-growth-revised-up-in-both-q1-and-q2-benchmark-revision-small",
+    "publishedDate": "2026-10-09T09:50:04.000Z",
+    "author": "Sandy Batten Author",
+    "text": "# U.S. GDP Growth Revised Up in both Q1 and Q2; Benchmark Revision Small - Haver Analytics\n\nAuthor: Sandy Batten Author\nPublished: 2026-10-09T09:50:04Z\nSource: haver.com\nLanguage: en\n\n## Story\n\nU.S. GDP Growth Revised Up in both Q1 and Q2; Benchmark Revision Small - Haver Analytics\n\n| Sep 30 2026\n\n# U.S. GDP Growth Revised Up in both Q1 and Q2; Benchmark Revision Small\n\nby: Sandy Batten\n\n| in: Economy in Brief\n\n###### Summary\n\n- The third estimate of Q2 real GDP raised growth to 2.2% q/q saar from 1.5% in both the advance and second estimate.\n- In the annual benchmark revision, Q1 growth was revised up to 2.5% from 2.1%.\n- The sources of the Q3 revision were rather widespread—leading the way, faster consumption and nonresidential investment and a smaller drag from inventories\n- The strong Q2 domestic demand growth reported in the advance and second estimates was revised even stronger.\n- The Q2 rise in corporate profits were revised down slightly but still posted the strongest quarterly"
+   },
+   {
+    "id": "https://nrf.com/media-center/press-releases/cnbc-nrf-retail-monitor-shows-12th-month-of-sales-growth-in-september",
+    "title": "CNBC/NRF Retail Monitor Shows 12th Month of Sales Growth in September | NRF",
+    "url": "https://nrf.com/media-center/press-releases/cnbc-nrf-retail-monitor-shows-12th-month-of-sales-growth-in-september",
+    "publishedDate": "2026-10-08T00:00:00.000Z",
+    "author": "NRF President, CEO Matthew Shay",
+    "text": "CNBC/NRF Retail Monitor Shows 12th Month of Sales Growth in September | NRF\n\n# CNBC/NRF Retail Monitor Shows 12th Month of Sales Growth in September\n\nFor immediate release\n\nOctober 8, 2026\n\n“Retail sales rose again last month as consumers continued to spend following a solid back-to-school shopping season,.\n\nNRF President and CEO Matthew Shay\n\nEditor’s Note: October represents the full transition for the Retail Monitor to its newly enhanced methodology. See below for details. WASHINGTON, Oct. 8, 2026 — Retail sales rose for the 12 th straight month in September even as gas prices put pressure on shoppers’ budgets, according to the CNBC/NRF Retail Monitor, powered by Affinity Solutions, released today by the National Retail Federation. “Retail sales rose again last month as consumers continued to spend following a solid back-to-school shopping season,” NRF President and CEO Matthew Shay said. “Households remain budget conscious, concentrating on everyday essentials even as higher gasoli",
+    "image": "https://a-us.storyblok.com/f/1020215/300x61/dfd396fe44/nrf-logo.svg"
+   },
+   {
+    "id": "https://finscopenews.com/gdp-third-estimate-industries-corporate-profits-state-gdp-and-state-personal-income-2nd-quarter-2026-state-pce-2025/",
+    "title": "GDP (Third Estimate), Industries, Corporate Profits, State GDP, and State Personal Income, 2nd Quarter 2026; State PCE, 2025 | FinscopeNews.com",
+    "url": "https://finscopenews.com/gdp-third-estimate-industries-corporate-profits-state-gdp-and-state-personal-income-2nd-quarter-2026-state-pce-2025/",
+    "publishedDate": "2026-10-10T00:00:00.000Z",
+    "author": "FinscopeNews.com",
+    "text": "GDP (Third Estimate), Industries, Corporate Profits, State GDP, and State Personal Income, 2nd Quarter 2026; State PCE, 2025 | FinscopeNews.com\n\n# GDP (Third Estimate), Industries, Corporate Profits, State GDP, and State Personal Income, 2nd Quarter 2026; State PCE, 2025\n\nBy FinscopeNews.com\n\nOctober 10, 2026\n\nReal gross domestic product (GDP) increased at an annual rate of 2.2 percent in the second quarter of 2026 (April, May, and June), according to the third estimate released today by the U.S. Bureau of Economic Analysis (BEA). In the first quarter, real GDP increased 2.5 percent (revised).\n\nReal GDP was revised up 0.7 percentage point from the second estimate, primarily reflecting upward revisions to investment, consumer spending, and government spending. For more information, refer to the “ Technical Notes” below\n\nThe contributors to the increase in real GDP in the second quarter were consumer spending, investment, and exports. Imports, which are a subtraction in the calculation o"
+   },
+   {
+    "id": "https://recessionpulse.com/blog/daily-recession-risk-october-11-2026",
+    "title": "Recession Risk 44/100 — October 11, 2026 | RecessionPulse",
+    "url": "https://recessionpulse.com/blog/daily-recession-risk-october-11-2026",
+    "publishedDate": "2026-10-11T00:00:00.000Z",
+    "text": "# Recession Risk 44/100 — October 11, 2026\n\nRecession risk over the next 90 days is ELEVATED but not high, because the highest-weight real-time labor trigger (Sahm Rule) is not close to firing while layoffs remain extremely low (initial claims 197k; 4-week avg 198k for week ending Oct 3, 2026). The near-term growth signal has improved materially: Atlanta Fed GDPNow is tracking strong real GDP growth for 2026:Q3 at about 3.6% (Oct 8, 2026 update), and ISM manufacturing shows expansion with a firm Production Index (56.7 in Sept 2026). The main recession-warning pressure is coming from late-cycle labor cooling (Sept payrolls only +29k; unemployment 4.2%), very weak household psychology (Conference Board confidence fell to 81.9 in Sept with expectations 63.6), and leading employment/goods-cycle cracks (temp help and freight weakness in your tracker). Net: the base case is “slow growth / rolling soft spots,” but the distribution is fat-tailed—any labor-market break (claims upshift, quits do",
+    "image": "https://recessionpulse.com/api/og/risk-trend?size=og&date=2026-10-11"
+   },
+   {
+    "id": "https://www.portfolioai.com/report/recession-analysis-2026-10-07-demand-hiring-gap",
+    "title": "Recession Risk Hinges on the Demand–Hiring Gap",
+    "url": "https://www.portfolioai.com/report/recession-analysis-2026-10-07-demand-hiring-gap",
+    "publishedDate": "2026-10-07T00:00:00.000Z",
+    "author": "Shaun McQuaker",
+    "text": "Recession Risk Hinges on the Demand–Hiring Gap\n\nU.S. recession analysis · October 7, 2026\n\n# Recession Risk Hinges on the Demand–Hiring Gap\n\nPositive output and quiet recession gauges support continued expansion. Weak job creation makes the next turn in household demand more consequential.\n\nEconomic reference periods are identified below. Market prices are dated October 7; monthly and quarterly statistics describe their stated periods, not October activity.\n\n## Executive Summary\n\nA U.S. recession is not the base case over the next three months. The more important question is whether the economy can maintain spending while employers add few workers. September payrolls rose only 29,000, but unemployment remained at 4.2%. The September Sahm indicator was 0.00 percentage points, well below its 0.50-point recession threshold. Meanwhile, second-quarter real GDP grew 2.2% at an annualized rate and private domestic final sales grew 4.6%. Those figures describe a gap between resilient demand an",
+    "image": "https://www.portfolioai.com/img/portfolio-ai-og.webp"
+   },
+   {
+    "id": "https://www.stockmoguls.com/2026/10/11/what-thursdays-retail-sales-number-wont-tell-you/",
+    "title": "What Thursday’s Retail Sales Number Won’t Tell You – Stock Moguls",
+    "url": "https://www.stockmoguls.com/2026/10/11/what-thursdays-retail-sales-number-wont-tell-you/",
+    "publishedDate": "2026-10-11T00:00:00.000Z",
+    "author": "Stock Moguls",
+    "text": "What Thursday’s Retail Sales Number Won’t Tell You – Stock Moguls\n\n# What Thursday’s Retail Sales Number Won’t Tell You\n\n October 11, 2026 \n\nThree data releases are now lined up to decide whether the Federal Reserve raises rates again at its October 27–28 meeting. The first lands Wednesday morning, when the Bureau of Labor Statistics publishes September CPI. The second and third arrive together Thursday at 8:30 AM Eastern: advance retail sales for September alongside the Producer Price Index.\n\nOn paper, retail sales looks contained. Consensus sits at +0.3% month over month, a significant step down from August’s 1.2% surge. The Chicago Fed’s Advance Retail Trade Summary, however, offers a harder read: ex-autos sales are projected up 0.4% in nominal terms, but down 0.7% once adjusted for inflation. That is the widest gap between nominal and real spending growth so far this year, and it is not accidental.\n\nDiesel averaged $6.32 a gallon as of October 6, up about 72% from a year ago. Regul"
+   },
+   {
+    "id": "https://recessionpulse.com/blog/daily-recession-risk-october-10-2026",
+    "title": "Recession Risk 38/100 — October 10, 2026 | RecessionPulse",
+    "url": "https://recessionpulse.com/blog/daily-recession-risk-october-10-2026",
+    "publishedDate": "2026-10-10T00:00:00.000Z",
+    "text": "Daily Risk Assessment October 10, 2026\n\n# Recession Risk 38/100 — October 10, 2026\n\nUS recession risk over the next 90 days is MODERATE (38/100): the labor-market recession triggers are not flashing (Sahm Rule ~0.00; initial jobless claims 197k for week ending Oct 3, 2026), and the yield curve is now positively sloped with the 2s10s spread at +44 bps as of Oct 9, 2026. Growth tracking is not recessionary in real time: Atlanta Fed GDPNow is roughly mid-3% for 2026:Q3 as of Oct 8, 2026, and ISM Manufacturing PMI for September is expansionary at 54.5. Offsetting those “green” signals, forward-looking soft spots are concentrated in late-cycle labor and demand proxies (sharp weakness in temp help, very depressed sentiment) while the Fed remains hawkish with another hike “likely” later in 2026 per the Oct 7 minutes. Net: the data do not support an imminent recession call, but the balance of risks is skewed toward a growth scare rather than re-acceleration.\n\n## Recession Risk Score: 38/100 — ",
+    "image": "https://recessionpulse.com/api/og/risk-trend?size=og&date=2026-10-10"
+   },
+   {
+    "id": "https://www.monitordaily.com/ism-economic-activity-in-services-sector-expands-in-september-services-pmi-at-54-9/",
+    "title": "ISM: Economic Activity in Services Sector Expands in September, Services PMI at 54.9% - MonitorDaily",
+    "url": "https://www.monitordaily.com/ism-economic-activity-in-services-sector-expands-in-september-services-pmi-at-54-9/",
+    "publishedDate": "2026-10-07T00:00:00.000Z",
+    "author": "Brianna Wilson",
+    "text": "ISM: Economic Activity in Services Sector Expands in September, Services PMI at 54.9% - MonitorDaily\n\n## ISM: Economic Activity in Services Sector Expands in September, Services PMI at 54.9%\n\nby Brianna Wilson\n\n October 7, 2026 \n\nEconomic activity in the services sector continued to expand in September, according to purchasing and supply executives in the latest ISM Services PMI Report. The Services PMI registered 54.9%, the 27th consecutive month in expansion territory.\n\nThe report was issued by Steve Miller, chair of the Institute for Supply Management (ISM) services business survey committee: “In September, the Services PMI registered 54.9%, a decrease of 0.5 percentage point compared to August’s figure of 55.4%. The Business Activity Index remained in expansion territory in September, decreasing 5.2 percentage points to 56.5% from August’s reading of 61.7%. The New Orders Index registered 59.8%, 1.1 percentage points below August’s figure of 60.9%. The Employment Index moved into e",
+    "image": "https://www.monitordaily.com/wp-content/uploads/2025/07/photo-1504868584819-f8e8b4b6d7e3.avif"
+   },
+   {
+    "id": "https://industrytoday.com/september-2026-ism-manufacturing-pmi-report/",
+    "title": "September 2026 ISM® Manufacturing PMI® Report - Industry Today - Leader in Manufacturing & Industry News",
+    "url": "https://industrytoday.com/september-2026-ism-manufacturing-pmi-report/",
+    "publishedDate": "2026-10-08T18:42:49.000Z",
+    "author": "Melissa Burge",
+    "text": "# September 2026 ISM® Manufacturing PMI® Report - Industry Today - Leader in Manufacturing & Industry News\n\nAuthor: Melissa Burge\nPublished: 2026-10-08T18:42:49Z\nSource: industrytoday.com\nLanguage: en\n\n## Story\n\nSeptember 2026 ISM® Manufacturing PMI® Report - Industry Today - Leader in Manufacturing & Industry News\n\n# October 8, 2026 September 2026 ISM® Manufacturing PMI® Report \n\nEconomic activity in the manufacturing sector expanded in September for the ninth consecutive month, say the nation’s supply executives in the latest ISM® Manufacturing PMI® Report.\n\nManufacturing PMI® at 54.5% New Orders Growing Production Growing Employment Growing Supplier Deliveries Slowing Raw Materials Inventories Contracting; Customers’ Inventories Too Low Prices Increasing; Imports Growing; Exports Growing\n\n(Tempe, Arizona) — The report was issued today by Susan Spence, MBA, Chair of the Institute for Supply Management® (ISM®) Manufacturing Business Survey Committee.\n\n“The Manufacturing PMI® registere"
+   },
+   {
+    "id": "https://aegeanintel.com/research/the-factory-floor-into-winter-ism-fed-output-and-factory/",
+    "title": "The Factory Floor into Winter: ISM, Fed Output and Factory Jobs | Aegean Intelligence Group",
+    "url": "https://aegeanintel.com/research/the-factory-floor-into-winter-ism-fed-output-and-factory/",
+    "publishedDate": "2026-10-10T00:00:00.000Z",
+    "author": "Zacharias",
+    "text": "The Factory Floor into Winter: ISM, Fed Output and Factory Jobs | Aegean Intelligence Group\n\n# The Factory Floor into Winter: ISM, Fed Output and Factory Jobs\n\nA hot survey, modest official output and slow hiring meet the year-end data run\n\nUS factory surveys say the sector is expanding briskly, and official output has followed, but only modestly and with a pause in August that was not only about cars. Slow deliveries lift part of the survey headline, input costs are high, and hiring is positive but slow. The October readings decide how far the gap closes.\n\nISSUED 10 OCTOBER 2026 · MANUFACTURING & INDUSTRIAL BASE · AEGEAN INTELLIGENCE GROUP · AUDITED AGAINST AEGEAN-OS\n\nTHE DOCUMENT\n\nHOW TO CITE\n\nAegean Intelligence Group, “The Factory Floor into Winter: ISM, Fed Output and Factory Jobs,” AIG-MIN-26-005, The Aegean Register, 10 October 2026.\n\nAbstract\n\nUS factory surveys say the sector is expanding briskly, and official output has followed, but only modestly and with a pause in August t",
+    "image": "https://aegeanintel.com/assets/covers/the-factory-floor-into-winter-ism-fed-output-and-factory.png"
+   }
+  ],
+  "searchTime": 3777.1,
+  "costDollars": {
+   "total": 0.007,
+   "search": {
+    "neural": 0.007
+   }
+  }
+ }
+}

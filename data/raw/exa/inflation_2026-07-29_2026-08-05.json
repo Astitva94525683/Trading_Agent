@@ -1,0 +1,101 @@
+{
+ "theme": "inflation",
+ "query": "US inflation CPI PCE consumer prices",
+ "start": "2026-07-29",
+ "end": "2026-08-05",
+ "fetched_utc": "2026-10-12T10:06:39Z",
+ "response": {
+  "requestId": "c336a1bac5728cff61b070cfac3cb211",
+  "resolvedSearchType": "",
+  "results": [
+   {
+    "id": "https://www.bea.gov/news/2026/personal-income-and-outlays-june-2026",
+    "title": "Personal Income and Outlays, June 2026 | U.S. Bureau of Economic Analysis (BEA)",
+    "url": "https://www.bea.gov/news/2026/personal-income-and-outlays-june-2026",
+    "publishedDate": "2026-07-30T00:00:00.000Z",
+    "text": "Personal Income and Outlays, June 2026 | U.S. Bureau of Economic Analysis (BEA)\n\n# News Release\n\nEMBARGOED UNTIL RELEASE AT 8:30 a.m. EDT, Thursday, July 30, 2026\n\n# Personal Income and Outlays, June 2026 \n\nPersonal income increased $54.9 billion (0.2 percent at a monthly rate) in June, according to estimates released today by the U.S. Bureau of Economic Analysis (BEA). Disposable personal income (DPI)—personal income less personal current taxes—increased $48.3 billion (0.2 percent), and personal consumption expenditures (PCE) increased $65.2 billion (0.3 percent).\n\nPersonal outlays—the sum of PCE, personal interest payments, and personal current transfer payments—increased $70.0 billion in June. Personal saving was $646.1 billion in June, and the personal saving rate—personal saving as a percentage of DPI—was 2.7 percent.\n\nThe increase in current-dollar personal income in June primarily reflected increases in compensation, personal income receipts on assets, and government social bene"
+   },
+   {
+    "id": "https://www.wsj.com/economy/feds-preferred-inflation-index-cooled-but-remained-elevated-in-june-1329a745?eafs_enabled=false",
+    "title": "PCE Inflation Rate Cooled to 3.7% in June - WSJ",
+    "url": "https://www.wsj.com/economy/feds-preferred-inflation-index-cooled-but-remained-elevated-in-june-1329a745?eafs_enabled=false",
+    "publishedDate": "2026-07-30T00:00:00.000Z",
+    "author": "Matt Grossman",
+    "text": "PCE Inflation Rate Cooled to 3.7% in June - WSJ\n\n# Fed’s Preferred Inflation Index Cooled but Remained Elevated in June\n\n## The report also showed that Americans’ personal income rose by 0.2% month over month in June\n\nBy \n\nMatt Grossman\n\nJuly 30, 2026 9:05 am ET\n\nSetting aside volatile food and energy categories, a 0.1% price increase in June gave rise to a 12-month core PCE inflation rate of 3.3%, slightly cooler than the 3.4% recorded in May.\n\nSpencer Platt/\n\nThe inflation gauge tracked by the Federal Reserve cooled in June but remains well above the central bank’s 2% target, a challenge that has animated keen speculation about how the Fed is likely to respond under new Chairman Kevin Warsh.\n\nThe price index of personal-consumption expenditures declined by 0.1% last month as lower energy prices helped pull down the overall price level, the Commerce Department said Thursday. That yielded a 12-month PCE inflation rate of 3.7%, a decline from 4.1% in May."
+   },
+   {
+    "id": "https://www.haver.com/articles/personal-income-consumption-and-prices-in-june",
+    "title": "Personal Income, Consumption, and Prices in June - Haver Analytics",
+    "url": "https://www.haver.com/articles/personal-income-consumption-and-prices-in-june",
+    "publishedDate": "2026-07-30T00:00:00.000Z",
+    "author": "Michael J. Moran Author",
+    "text": "Personal Income, Consumption, and Prices in June - Haver Analytics\n\n| Jul 30 2026\n\n# Personal Income, Consumption, and Prices in June\n\nby: Michael J. Moran\n\n| in: Economy in Brief\n\n###### Summary\n\n- (Temporary?) relief on price pressures\n- Respectable income gain and active spending by consumers\n\nThe price index for personal consumption expenditures, the inflation measure targeted by the Federal Reserve, fell 0.1% in June, led by a drop of 5.9% in the energy component. The decline pushed the year-over-year increase to 3.7%, down from 4.1% in May but still above readings of 2.9% in January and February, before the Iran conflict became a factor.\n\nThe drop in the energy component would be more encouraging were it not for the re-escalation of fighting with Iran and renewed pressure on oil prices. The average prices of crude oil and gasoline in July are likely to be below those in June, raising the prospect of another drop in the energy component of the PCE price index. However, prices near"
+   },
+   {
+    "id": "https://www.fxstreet.com/analysis/what-is-the-pce-and-why-is-it-the-feds-favorite-inflation-gauge-202608041933",
+    "title": "What is the PCE and why is it the Fed's favorite inflation gauge?",
+    "url": "https://www.fxstreet.com/analysis/what-is-the-pce-and-why-is-it-the-feds-favorite-inflation-gauge-202608041933",
+    "publishedDate": "2026-08-04T00:00:00.000Z",
+    "text": "What is the PCE and why is it the Fed's favorite inflation gauge?\n\n08/04/2026 19:33:31 GMT\n\n# What is the PCE and why is it the Fed's favorite inflation gauge?\n\nMike Maharrey Money Metals Exchange\n\nWhen we talk about inflation, we usually focus on the Consumer Price Index (CPI). However, the Federal Reserve’s “preferred” inflation measure is the Personal Consumption Expenditure (PCE) index. What’s the difference and why does the Fed prefer the PCE?\n\nThe two price inflation measures rely on significantly different methodological approaches, and central bankers prefer the PCE because it understates price inflation more than the CPI. \n\nKeep in mind that neither of these metrics measures “inflation” as historically defined by economists (a rise in the supply of money and credit). CPI and PCE measure price inflation (a symptom of monetary inflation).\n\n## CPI\n\nAs the name suggests, the CPI measures changes in prices paid by consumers. The Bureau of Labor Statistics produces CPI data utilizin",
+    "image": "https://editorial.fxsstatic.com/images/i/discover-76_Medium.png"
+   },
+   {
+    "id": "https://fred.stlouisfed.org/graph/?g=1diuA",
+    "title": "Real Personal Consumption Expenditures | FRED | St. Louis Fed",
+    "url": "https://fred.stlouisfed.org/graph/?g=1diuA",
+    "publishedDate": "2026-07-30T00:00:00.000Z",
+    "text": "Real Personal Consumption Expenditures | FRED | St. Louis Fed\n\nReal Personal Consumption Expenditures (PCEC96)\n\nObservations \n\n Aug 2026: 2.6 | Percent Change from Year Ago, Seasonally Adjusted Annual Rate | Monthly \n\n Updated: Sep 30, 2026 7:43 AM CDT \n\n Next Release Date: Oct 29, 2026 \n\nObservations \n\n Aug 2026: 2.6 \n\n Updated: Sep 30, 2026 7:43 AM CDT \n\n Next Release Date: Oct 29, 2026 \n\n| Aug 2026: | 2.6 |\n| --- | --- |\n| Jul 2026: | 2.3 |\n| Jun 2026: | 2.7 |\n| May 2026: | 2.7 |\n| Apr 2026: | 2.2 |\n| View All | |\n\nUnits:\n\n Percent Change from Year Ago,\n\nSeasonally Adjusted Annual Rate \n\nFrequency:\n\n Monthly \n\nDate: \n\nChart\n\nLine chart with 224 data points.\n\nThe chart has 1 X axis displaying xAxis. Data ranges from 2008-01-01 1:00:00 to 2026-08-01 2:00:00.\n\nThe chart has 2 Y axes displaying Percent Change from Year Ago and yAxisRight.\n\nEnd of interactive chart.\n\n(a) Real Personal Consumption Expenditures, Billions of Chained 2017 Dollars, Seasonally Adjusted Annual Rate (PCEC96)\n\nIn",
+    "image": "https://fred.stlouisfed.org/graph/fredgraph.png?width=880&height=440&g=1diuA"
+   },
+   {
+    "id": "https://www.jec.senate.gov/public/index.cfm/republicans/2026/7/headline-personal-income-up-slightly-in-june-spending-increases-gdp-slows",
+    "title": "Headline Personal Income Up Slightly in June, Spending Increases, GDP Slows - Headline Personal Income Up Slightly in June, Spending Increases, GDP Slows - U.S. Congress Joint Economic Committee",
+    "url": "https://www.jec.senate.gov/public/index.cfm/republicans/2026/7/headline-personal-income-up-slightly-in-june-spending-increases-gdp-slows",
+    "publishedDate": "2026-07-30T00:00:00.000Z",
+    "author": "United States Joint Economic Committee",
+    "text": "Headline Personal Income Up Slightly in June, Spending Increases, GDP Slows - Headline Personal Income Up Slightly in June, Spending Increases, GDP Slows - U.S. Congress Joint Economic Committee\n\n# Headline Personal Income Up Slightly in June, Spending Increases, GDP Slows\n\n#### July 30, 2026 \n\nWASHINGTON, DC – Today, the Joint Economic Committee released its Monthly Expenditures Update for June. From May to June, headline personal consumption expenditures (PCE) price index inflation was 0.40 percent, slightly below the 0.45 percent from April to May and even with the 0.40 percent from March to April. Core PCE price index inflation, which excludes food and energy prices, was 0.13, down from the 0.32 percent from May.\n\nIn the same period, spending increased while savings decreased slightly. Real PCE increased by 0.40 or $67.96 billion, up from 0.26 percent, or $43.82 billion in May. Real PCE on all services increased by 0.26 percent, or $28.34 billion. Real PCE on all goods increased by",
+    "image": "https://www.jec.senate.gov/public/vendor/_skins/jec-2025-rep/images/social-reps-social.png"
+   },
+   {
+    "id": "https://www.cnn.com/2026/07/30/economy/us-pce-inflation-consumer-spending-june",
+    "title": "The Fed’s preferred inflation gauge cooled in June. It might not last | CNN Business",
+    "url": "https://www.cnn.com/2026/07/30/economy/us-pce-inflation-consumer-spending-june",
+    "publishedDate": "2026-07-30T00:00:00.000Z",
+    "author": "Alicia Wallace",
+    "text": "The Fed’s preferred inflation gauge cooled in June. It might not last | CNN Business\n\n# The Fed’s preferred inflation gauge cooled in June. It might not last \n\n By Alicia Wallace \n\n Updated Jul 30, 2026, 1:25 PM ET Published Jul 30, 2026, 8:38 AM ET \n\nUpdated Jul 30, 2026\n\nUpdated Jul 30, 2026, 1:25 PM ET PUBLISHED Jul 30, 2026, 8:38 AM ET\n\n Falling gas prices were expected to drive inflation lower in June. The Personal Consumer Expenditures price index slowed to 3.7% last month. \n\nBrandon Bell/Getty Images\n\n The temporary truce in the war with Iran sent gas prices – and thus inflation – lower in June, providing some fuel for a crucial economic engine: the American consumer. \n\n The welcome readings, however, are likely temporary. \n\n Overall inflation fell in June for the first time in six years. The Personal Consumption Expenditures price index – the gauge used by the Federal Reserve for its target inflation rate – dropped 0.1% from May, bringing the annual rate to 3.7% from 4.1%, Comm"
+   },
+   {
+    "id": "https://www.cnbc.com/2026/07/30/us-economy-slowed-to-1point5percent-growth-rate-in-q2-june-core-inflation-at-3point3percent.html",
+    "title": "U.S. economy slowed to 1.5% growth rate in Q2; June core inflation at 3.3%",
+    "url": "https://www.cnbc.com/2026/07/30/us-economy-slowed-to-1point5percent-growth-rate-in-q2-june-core-inflation-at-3point3percent.html",
+    "publishedDate": "2026-07-30T00:00:00.000Z",
+    "author": "Jeff Cox",
+    "text": "U.S. economy slowed to 1.5% growth rate in Q2; June core inflation at 3.3%\n\n# U.S. economy slowed to 1.5% growth rate in Q2; June core inflation at 3.3%\n\nPublished Thu, Jul 30 2026 8:33 AM EDT Updated Thu, Jul 30 2026 11:04 AM EDT\n\nJeff Cox@jeff.cox.7528@JeffCoxCNBCcom\n\nKey Points\n\n- Gross domestic product rose at just a 1.5% rate in the first quarter, but underlying economic drivers looked solid outside of a drop in inventories and government spending.\n- Inflation readings as judged by the Federal Reserve's preferred gauge were mostly in line but still well above the central bank's 2% target.\n- Consumer spending continued to climb but the savings rate hit a four-year low.\n\nVIDEO 5:20 05:20\n\nU.S. economy slowed to 1.5% growth rate in Q2; June core inflation at 3.3%\n\nEconomic growth was weaker than expected in the second quarter though underlying drivers were mostly solid. At the same time, inflation in June held well above the Federal Reserve's goal and complicated the central bank's p",
+    "image": "https://image.cnbcfm.com/api/v1/image/108337520-1784575437411-gettyimages-2286932294-_88a1811_bnlt4id6.jpeg?v=1784575470&w=1920&h=1080"
+   },
+   {
+    "id": "https://www.investopedia.com/june-pce-12030702",
+    "title": "The Fed’s Favorite Measure Of Inflation Cooled Down In June",
+    "url": "https://www.investopedia.com/june-pce-12030702",
+    "publishedDate": "2026-07-30T00:00:00.000Z",
+    "text": "The Fed’s Favorite Measure Of Inflation Cooled Down In June\n \n​\nSkip to content\n\nInvestopedia\n\nLive\n\n*\nSearch\nPlease fill out this field.\n* \nLog In\n\n* My Account\n* Log Out\n* Newsletters\n* Top Stories\n*\n\nWhat to Watch in Markets This Week\n\n*\n\nLabor Market Bounced Back In August\n\n*\n\nUS Economy Increasingly Revolves Around Data Centers\n\n*\n\nFed’s New Communications Playbook Is Already Being Tested\n\n# The Fed’s Favorite Measure Of Inflation Cooled Down In June\nBy\nDiccon Hyatt\nDiccon Hyatt\nFull Bio\nDiccon Hyatt is an experienced financial and economics reporter. He's written hundreds of articles breaking down complex financial topics in plain language, emphasizing the impact that economic currents would have on individuals' finances and the market. He has a Bachelor's degree in English from the University of Delaware.\nLearn about our\neditorial policies\nUpdated July 30, 2026\n10:31 AM EDT\nA customer refuels his van at a Freedom Fuel Network gas station in Boothwyn, Pennsylvania on July 17, 202",
+    "image": "https://www.investopedia.com/thmb/e5TdqeuadIm_jBJ-PqbTr33EEG4=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/GettyImages-2285876215-39740dfd59984e92a69182a54f936eee.jpg"
+   },
+   {
+    "id": "https://tradingeconomics.com/united-states/pce-price-index-monthly-change/news/571150",
+    "title": "US PCE Prices Likely to Fall for the First Time Since 2020",
+    "url": "https://tradingeconomics.com/united-states/pce-price-index-monthly-change/news/571150",
+    "publishedDate": "2026-07-30T00:00:00.000Z",
+    "text": "US PCE Prices Likely to Fall for the First Time Since 2020 \n\n# US PCE Prices Likely to Fall for the First Time Since 2020\n\n 2026-07-30 08:37 By Joana Taborda 1 min. read \n\nThe US PCE price index is expected to decline 0.1% month-over-month in June 2026, marking its first monthly decrease since April 2020, after rising 0.4% in each of the previous two months. \n\nThe ceasefire between the US and Iran in June helped ease energy-related inflationary pressures, leading to lower gasoline prices. \n\nThe core PCE price index, which excludes food and energy, is projected to rise 0.2%, the smallest monthly increase in seven months, following a 0.3% gain in May. \n\nOn an annual basis, headline PCE inflation is expected to ease to 3.7% from 4.1% in May, when it reached its highest level since April 2023. \n\nIf confirmed, the June reading would be the lowest in three months. \n\nCore PCE inflation is also forecast to edge down to 3.3% from 3.4%, with May's reading having been the highest since October 20",
+    "image": "https://d3e5kp2e91w0k0.cloudfront.net/images/appstore-lrg.svg"
+   }
+  ],
+  "searchTime": 4419.2,
+  "costDollars": {
+   "total": 0.007,
+   "search": {
+    "neural": 0.007
+   }
+  }
+ }
+}

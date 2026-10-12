@@ -1,0 +1,87 @@
+{
+ "theme": "inflation",
+ "query": "US inflation CPI PCE consumer prices",
+ "fetched_utc": "2026-10-12T10:10:09Z",
+ "response": {
+  "query": "US inflation CPI PCE consumer prices",
+  "follow_up_questions": null,
+  "answer": null,
+  "images": [],
+  "results": [
+   {
+    "url": "https://www.investing.com/economic-calendar/pce-price-index-906",
+    "title": "United States PCE Price index YoY",
+    "content": "The PCE price index, also referred to as the PCE deflator, is a United States-wide indicator of the average increase in prices for all domestic personal consumption. The impact on the currency may go both ways: a rise in CPI may lead to a rise in interest rates and a rise in local currency; on the other hand, during recession, a rise in CPI may lead to a deepened recession and therefore a fall in local currency. [...] The  Core PCE price index on Nov 24, 2021 indicated prices had inflated by 4.2% from the same period in 2020. On Dec 1, 2022 prices had inflated another 5%. Now they’ve inflated another 3.5%. The FED only wants to get inflation down to 2% per year while market mavens (I.e. Big Money) say getting it down to 3% is plenty and the FED should start dropping the FED’s “target Rate” and charging them less interest (Which is already way lower than the interest consumers have to pay to buy a house, care [...] | Mar 13, 2026 (Jan) | 12:30 | 2.8% | 2.9% | 2.9% |\n| Feb 20, 2026 (Dec) | 13:30 | 2.9% | 2.8% | 2.8% |",
+    "score": 0.6824261,
+    "raw_content": null,
+    "published_date": "Fri, 09 Oct 2026 05:00:00 GMT",
+    "id": "08897f-00"
+   },
+   {
+    "url": "https://www.brookings.edu/articles/inflation-on-the-rise-not-lately",
+    "title": "Inflation on the rise? Not lately. | Brookings",
+    "content": "Other measures, such as the familiar consumer price index and the Dallas Fed’s rate of “Trimmed Mean PCE,” tell a similar story. Since the start of the year, headline consumer-price-index numbers have dropped from a year-over-year 1.4% to 0.8%, and core CPI inflation in July was the same as it was in January. And at 1.62, the year-over-year Dallas Fed Trimmed Mean is lower than its January value of 1.70. [...] this year is higher than last year’s. It’s still not up to 2%. But it’s been growing.” The Fed’s favorite gauge for inflation, the price index for personal consumption expenditures (PCE), has been rising at an annual pace of about 1.6%, up from 1.3% to 1.4% in 2015. [...] These gauges measure the changes of prices in a basket of goods and services, some going up and some going down. Inflation in personal consumption expenditures services—such as housing inflation, which has risen, and health-care inflation, which has edged down but is still positive—has, on net, been fairly stable, hovering around 2% for years. But the price of goods has been falling, and not just because of energy and food: Furniture and household appliances, recreational goods, and vehicles,",
+    "score": 0.5749443,
+    "raw_content": null,
+    "published_date": "Sat, 10 Oct 2026 06:00:00 GMT",
+    "id": "cf3deb-01"
+   },
+   {
+    "url": "https://www.varsitytutors.com/practice/subjects/macroeconomics/lessons/price-indices-and-inflation",
+    "title": "Price Indices and Inflation | Varsity Tutors",
+    "content": "A fourth index worth noting is the Personal Consumption Expenditures (PCE) Price Index, published by the Bureau of Economic Analysis. The PCE index uses a chain-weighted methodology that automatically adjusts for substitution effects—when consumers switch from more expensive goods to cheaper alternatives as relative prices change. The Federal Reserve prefers the PCE over the CPI as its primary inflation gauge precisely because its chain-weighting reduces substitution bias. For business [...] 2012\n\nFed Adopts 2% Inflation Target\n\nThe Federal Reserve formally adopted a 2% inflation target based on the Personal Consumption Expenditures (PCE) price index, anchoring modern monetary policy to a specific, measurable inflation benchmark. [...] bias. For business students, this distinction matters because Federal Reserve policy decisions—which directly affect interest rates, borrowing costs, and asset valuations—are anchored to PCE inflation, not CPI inflation.",
+    "score": 0.5709301,
+    "raw_content": null,
+    "published_date": "Wed, 07 Oct 2026 06:00:00 GMT",
+    "id": "af2961-02"
+   },
+   {
+    "url": "https://www.atlantafed.org/research-and-data/publications/policy-hub-macroblog/2026/10/08/surveying-consumers-use-of-personal-checks",
+    "title": "Surveying Consumers' Use of Personal Checks - Federal Reserve Bank of Atlanta",
+    "content": "It's worth noting the reason why table 1 does not display the inflation-adjusted dollar value of checks. Inflation measures, such as the CPI and PCE, are constructed from baskets of goods that consumers typically purchase each month. In contrast, as table 2 shows, checks tend to concentrate on specific spending categories to which the PCE or CPI doesn't assign great weight because they are combined with other goods and services. For example, table 2 shows that very few checks are written to [...] are written to grocery stores; however, the CPI and PCE place a high weight on grocery spending. [...] In terms of dollar value, the weighted median dollar value of a check (bills and nonbill combined) increased slowly from $120 in 2021 to $137.58 in 2025. At least part of this increase is due to high inflation affecting both bill and nonbill payments. For bill payments, the weighted median check value increased from $155.12 in 2021 to $165 in 2025. For nonbill payments (for purchases of goods and services), the weighted median check value has increased from $96.50 in 2021 to $100 in 2025.",
+    "score": 0.46395484,
+    "raw_content": null,
+    "published_date": "Thu, 08 Oct 2026 10:00:00 GMT",
+    "id": "b184e5-03"
+   },
+   {
+    "url": "https://www.youtube.com/watch?v=EKozfwTXL78",
+    "title": "Why the Fed Watches This Core PCE Chart (And What It Means for Rates)",
+    "content": "### Description\n126 views\nPosted: 2026-10-08\nThe Federal Reserve doesn't base interest rate decisions on gas prices or headline news—they look at core Personal Consumption Expenditures (PCE). In this video, we dive into long-term inflation trends going back to 1955, why core PCE remains stuck above the Fed’s 2% target, and how PCE accounts for real-world consumer behavior differently than the CPI.\n\nChapters: [...] [0:20] In the latest read of the data, we're sitting below expectations, which is great news, but we're also still hovering above that 2% target line. It's\n[0:28] been a stubborn line for us. [music] Zooming in on the last two years, look at the trend on this side chart that plots 24 months. [music] Headline inflation jumped in the spring to 3.8%.\n[0:38] It then cooled down to 3.4%. Has been a little bit all over the place. CRP PC on the other hand dropped from 3.2% in May [...] [0:45] down to 3% in June and it has stayed flat since then. That flat 3% plateau is really reassuring, but it also shows why\n[0:54] central bankers have been moving so cautiously because inflation has stopped surging, but it hasn't quite hit that 2% goal. As a reminder, why does the Fed\n[1:02] prefer core PC over CPI? Core PCE strips out food and energy because those prices fluctuate a lot based on short-lived",
+    "score": 0.43900222,
+    "raw_content": null,
+    "published_date": "Thu, 08 Oct 2026 00:00:00 GMT",
+    "id": "5afb64-04"
+   },
+   {
+    "url": "https://www.facebook.com/cnbc/posts/the-new-york-feds-survey-of-consumer-expectations-showed-the-one-year-inflation-/1500310735303648",
+    "title": "Inflation fears on the rise as one-year outlook in Fed survey ...",
+    "content": "The latest Consumer Price Index (CPI) showed that inflation rose 0.2% in October, with the annual reading coming in at 2.6%.",
+    "score": 0.3556859,
+    "raw_content": null,
+    "published_date": null,
+    "id": "931e4d-05"
+   },
+   {
+    "url": "https://www.facebook.com/ClevelandFed/videos/what-is-inflation-understand-what-inflation-is-and-what-it-isnt-learn-about-comm/1650232556652566",
+    "title": "What is inflation? Understand what inflation ...",
+    "content": "The Consumer Price Index rose 0.4% in September. The annual CPI inflation rate held at 3.7% and the core annual inflation rate was 4.1%. Core annual inflation",
+    "score": 0.35347337,
+    "raw_content": null,
+    "published_date": null,
+    "id": "0522f1-06"
+   },
+   {
+    "url": "https://www.instagram.com/p/DePsEHdFOf4",
+    "title": "Instagram",
+    "content": "•\n\nFollow\n\ndelaware_departmentoflabor's profile picture\n\ndelaware\\_departmentoflabor\n\n𝐂𝐨𝐧𝐬𝐮𝐦𝐞𝐫 𝐏𝐫𝐢𝐜𝐞 𝐈𝐧𝐝𝐞𝐱, 𝐏𝐡𝐢𝐥𝐚𝐝𝐞𝐥𝐩𝐡𝐢𝐚-𝐂𝐚𝐦𝐝𝐞𝐧-𝐖𝐢𝐥𝐦𝐢𝐧𝐠𝐭𝐨𝐧 — 𝐀𝐮𝐠𝐮𝐬𝐭 𝟐𝟎𝟐𝟔  \nArea prices that include Delaware's largest metropolitan area were down 0.7 percent over the past two months, but were up 4.2 percent over the year, according to the Bureau of Labor Statistics. Read the full article below to see which item prices rose the most.  \n\n## No comments yet.\n\nStart the conversation.\n\nLog in to like or comment. [...] Log In\n\nSign Up\n\ndelaware_departmentoflabor's profile picture\n\nNever miss a post from delaware\\_departmentoflabor\n\nSign up for Instagram to stay in the loop.\n\nBy continuing, you agree to Instagram's Terms of Use and Privacy Policy.\n\nSign up\n\nLog in\n\nChart displaying over-the-year percent change in CPI-U, Philadelphia-Camden-Wilmington, PA-NJ-DE-MD, August 2023–August 2026\n\ndelaware_departmentoflabor's profile picture\n\ndelaware\\_departmentoflabor\n\n•\n\nFollow [...] Photo by Delaware DOL on September 30, 2026. May be an image of poster and text.\n\nGroup of successful multiethic business colleagues.\n\nPhoto by Delaware DOL on September 30, 2026. May be an image of office and text.\n\nThumbnail image of the cover of the new Annual Economic Report 2025 publication.\n\nSee more posts\n\n---",
+    "score": 0.068046756,
+    "raw_content": null,
+    "published_date": null,
+    "id": "aa1e35-07"
+   }
+  ],
+  "response_time": 2.57,
+  "request_id": "3b0b8543-7214-4823-931c-119bbc68faf7"
+ }
+}

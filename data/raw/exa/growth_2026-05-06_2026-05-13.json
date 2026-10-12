@@ -1,0 +1,106 @@
+{
+ "theme": "growth",
+ "query": "US economy GDP growth recession retail sales ISM",
+ "start": "2026-05-06",
+ "end": "2026-05-13",
+ "fetched_utc": "2026-10-12T10:08:53Z",
+ "response": {
+  "requestId": "d2e461cd536d4a425097bfa24e01489b",
+  "resolvedSearchType": "",
+  "results": [
+   {
+    "id": "https://nrf.com/media-center/press-releases/cnbc-nrf-retail-monitor-shows-sales-grew-in-april-despite-high-gas-prices-and-sustained-inflation",
+    "title": "CNBC/NRF Retail Monitor Shows Sales Grew in April Despite High Gas Prices and Sustained Inflation | NRF",
+    "url": "https://nrf.com/media-center/press-releases/cnbc-nrf-retail-monitor-shows-sales-grew-in-april-despite-high-gas-prices-and-sustained-inflation",
+    "publishedDate": "2026-05-13T00:00:00.000Z",
+    "author": "NRF President, CEO Matthew Shay",
+    "text": "CNBC/NRF Retail Monitor Shows Sales Grew in April Despite High Gas Prices and Sustained Inflation | NRF\n\n# CNBC/NRF Retail Monitor Shows Sales Grew in April Despite High Gas Prices and Sustained Inflation\n\nFor immediate release\n\nMay 13, 2026\n\n“Retail sales continued to grow in April despite higher gas prices driven by the ongoing conflict in Iran, cautious consumer sentiment and the persistent concerns about sustained inflation.”\n\nNRF President and CEO Matthew Shay\n\nWASHINGTON — Retail sales rose for the seventh consecutive month in April even as gas prices rose and inflation remained stubborn, according to the CNBC/NRF Retail Monitor, powered by Affinity Solutions, released today by the National Retail Federation. “Retail sales continued to grow in April despite higher gas prices driven by the ongoing conflict in Iran, cautious consumer sentiment and the persistent concerns about sustained inflation,” NRF President and CEO Matthew Shay said. “Spending on household priorities remains s",
+    "image": "https://a-us.storyblok.com/f/1020215/300x61/dfd396fe44/nrf-logo.svg"
+   },
+   {
+    "id": "https://forecast.eller.arizona.edu/news/sp-global-us-forecast-update-may-2026",
+    "title": "S&P Global U.S. Forecast Update May 2026 | Forecasting Project",
+    "url": "https://forecast.eller.arizona.edu/news/sp-global-us-forecast-update-may-2026",
+    "publishedDate": "2026-05-12T00:00:00.000Z",
+    "author": "Delaney O’Kray-Murphy, EBRC Research Economist",
+    "text": "S&P Global U.S. Forecast Update May 2026 | Forecasting Project\n\n# S&P Global U.S. Forecast Update May 2026 \n\nMay 12, 2026\n\nBy Delaney O’Kray-Murphy, EBRC Research Economist\n\nTight oil supply gives way to higher inflation\n\nImage\n\n \n\nS&P Global have released their May 2026 forecast update for the U.S. The current forecast is based on the following assumptions:\n\n- The forecast includes the direct effects of the partial government shutdown that ended November 12, 2025, and the One Big Beautiful Bill Act (OBBBA), which indefinitely extends cuts to marginal personal tax rates enacted in the 2017 Tax Cuts and Jobs Act and adds new deductions for tip income and overtime pay, among other personal tax provisions. The OBBBA includes increased federal direct spending but reduces outlays for Medicaid, ACA insurance premium tax credits, and SNAP benefits. It also introduces new expensing provisions and expanded deductions for businesses and corporations, while rescinding most of the clean-energy tax",
+    "image": "https://forecast.eller.arizona.edu/sites/default/files/2023-09/blog-header-04-20-20-phx-forecast-flash_0.jpg"
+   },
+   {
+    "id": "https://www.goldmansachs.com/insights/articles/the-outlook-for-the-us-consumer-amid-rising-inflation",
+    "title": "The Outlook for the US Consumer amid Rising Inflation | Goldman Sachs",
+    "url": "https://www.goldmansachs.com/insights/articles/the-outlook-for-the-us-consumer-amid-rising-inflation",
+    "publishedDate": "2026-05-08T00:00:00.000Z",
+    "text": "The Outlook for the US Consumer amid Rising Inflation | Goldman Sachs\n\n# The Outlook for the US Consumer amid Rising Inflation\n\nMay 8, 2026 Share\n\n- Rising prices driven by disruptions to the flow of oil from the Middle East are filtering through to US consumers’ wallets, according to Goldman Sachs Research.\n- Higher energy and food costs, combined with SNAP and Medicaid cuts, are projected to hit the lowest-income households the hardest.\n- Some consumer-facing companies are responding by bringing forward cost-saving plans and cheaper product alternatives. \n- The executives running big consumer staples companies have become slightly more cautious, but they still see signs of resilient consumer spending, and they are not raising any concerns about a recession.\n\nRising prices driven by disruptions to the flow of oil from the Middle East are having a measurable impact on US consumers, with low-income households facing the biggest hit, according to Goldman Sachs Research. \n\nSince January, ",
+    "image": "https://www.goldmansachs.com/images/insights/articles/the-outlook-for-the-us-consumer-amid-rising-inflation/gasoline-pumps-3x2.jpg"
+   },
+   {
+    "id": "https://gryphonfp.com/blog/april-ism-data-expansion-intact-but-the-fault-lines-are-widening/",
+    "title": "April ISM Data: Expansion Intact, But the Fault Lines Are Widening | Gryphon Financial Partners",
+    "url": "https://gryphonfp.com/blog/april-ism-data-expansion-intact-but-the-fault-lines-are-widening/",
+    "publishedDate": "2026-05-07T00:00:00.000Z",
+    "text": "April ISM Data: Expansion Intact, But the Fault Lines Are Widening | Gryphon Financial Partners\n\n# April ISM Data: Expansion Intact, But the Fault Lines Are Widening\n\n- May 7, 2026 \n- Category: Blog, Market Updates & Commentary \n\nThe April ISM reports confirm that the U.S. economy remains in expansion, though increasingly on borrowed momentum. Both manufacturing and services continue to grow, yet the composition of that growth is shifting in ways that matter for investors: input costs are reaccelerating sharply, forward-looking demand indicators are softening, and two distinct external shocks (the Iran War and residual tariff uncertainty) are reshaping how businesses plan and procure.\n\nManufacturing: Resilient on the Surface and Strained Underneath\n\nThe ISM Manufacturing PMI held at 52.7 in April, unchanged from March, marking the fourth consecutive month of expansion and the index’s highest reading since August 2022. At face value, this is an encouraging number. Demand remains constru",
+    "image": "https://gryphonfp.com/wp-content/uploads/2023/12/feature_blog.jpg"
+   },
+   {
+    "id": "https://www.homepagenews.com/retail-articles/ism-services-manufacturing-sectors-expanded-again-in-april/",
+    "title": "ISM: Services, Manufacturing Sectors Expanded Again in April | HomePage News",
+    "url": "https://www.homepagenews.com/retail-articles/ism-services-manufacturing-sectors-expanded-again-in-april/",
+    "publishedDate": "2026-05-11T00:00:00.000Z",
+    "author": "Mike Duff",
+    "text": "ISM: Services, Manufacturing Sectors Expanded Again in April | HomePage News\n\nMay 11, 2026\n\n# ISM: Services, Manufacturing Sectors Expanded Again in April\n\n \n\n### Economic activity in the services sector expanded in April, although retail slipped during the month, according to the Institute of Supply Management Services Purchasing Managers Index report.\n\nEconomic activity in the manufacturing sector also expanded in April for the fourth consecutive month, ISM reported.\n\nThe ISM Services PMI registered 53.6% in April, its 22nd consecutive month in expansion territory. Based on a poll of service sector purchasing and supply executives in the United States, the index remained above the dividing line of 50 separating expansion from contraction.\n\nSteve Miller, chair of the ISM Services Business Survey Committee, said the April PMI reading was down 0.4 percentage point from 54% in March.\n\nIn commenting on the main index components, Miller said: “The Business Activity Index remained in expans",
+    "image": "https://www.homepagenews.com/wp-content/uploads/2021/06/MasterCard_shopping.jpg"
+   },
+   {
+    "id": "https://statisticsoftheworld.com/blog/us-economy-q1-2026-growth-inflation",
+    "title": "US Economy Q1 2026: GDP Rebounds to 2%, But Inflation Surges to 4.5% | Statistics of the World",
+    "url": "https://statisticsoftheworld.com/blog/us-economy-q1-2026-growth-inflation",
+    "publishedDate": "2026-05-07T00:00:00.000Z",
+    "text": "US Economy Q1 2026: GDP Rebounds to 2%, Inflation Surges to 4.5% | Statistics of the World\n\n# The US Economy in Q1 2026: Growth Returns, But So Does Inflation\n\nMay 7, 2026· Sources: BEA, Federal Reserve, IMF WEO April 2026, Tax Foundation, CNBC· 12 min read\n\nThe headline number looked reassuring: US real GDP grew at an annualised rate of 2.0% in the first quarter of 2026, rebounding from the near-stall of 0.5% that had alarmed markets in Q4 2025. But buried in the same Bureau of Economic Analysis release was a figure that told a different story entirely. The PCE Price Index — the Federal Reserve's preferred inflation gauge — surged to 4.5%, up from 2.9% in the prior quarter. It was the highest reading since early 2023, and it arrived at the worst possible moment: one week before the Fed chair who spent three years fighting inflation hands the institution to a successor promising “regime change.” \n\nThe United States remains the world's largest economy at approximately $30.3 trillion, ac",
+    "image": "https://statisticsoftheworld.com/icon-192.png"
+   },
+   {
+    "id": "https://www.executive.endeavoredge.com/market-outlook/article/55377504/what-four-bellwethers-and-a-small-business-survey-are-saying-about-the-economy-right-now",
+    "title": "What Four Bellwethers and a Small-Business Survey Are Saying About the Economy Right Now | ExecutiveEDGE",
+    "url": "https://www.executive.endeavoredge.com/market-outlook/article/55377504/what-four-bellwethers-and-a-small-business-survey-are-saying-about-the-economy-right-now",
+    "publishedDate": "2026-05-13T00:00:00.000Z",
+    "author": "Geert De Lombaerde",
+    "text": "What Four Bellwethers and a Small-Business Survey Are Saying About the Economy Right Now | ExecutiveEDGE\n\n# What Four Bellwethers and a Small-Business Survey Are Saying About the Economy Right Now\n\nA collection of comments from the past week shows a lack of consensus about the strength of U.S. growth but also little concern about demand destruction. In short, “Many uncertainties remain unresolved.”\n\nGeert De Lombaerde\n\nMay 13, 2026 7 min read \n\n## Key Highlights\n\n- Major corporations report strong demand and upward revisions in earnings guidance, indicating resilience in the face of recent economic shocks.\n- But smaller companies are showing signs of weakening sales and reduced optimism, highlighting differing impacts across sectors.\n- The overall economic picture remains positive, with indicators pointing to above 2.5% GDP growth in Q2, but small-business challenges could temper this optimism for 2027.\n\n853480 © Emily2k | Dreamstime.com\n\n \n\n6a04bafcd8c7091c663325fc Chart Financial 853",
+    "image": "https://img.endeavoredge.com/files/base/ebm/executiveendeavoredge/image/2026/05/6a04bafcd8c7091c663325fc-chart_financial_853480_emily2k_dreamstime.png?auto=format,compress&fit=fill&fill=blur&w=1200&h=630"
+   },
+   {
+    "id": "https://finance-commerce.com/2026/05/us-inflation-iran-war-energy-food-prices/",
+    "title": "U.S. inflation accelerates amid broad increase in prices",
+    "url": "https://finance-commerce.com/2026/05/us-inflation-iran-war-energy-food-prices/",
+    "publishedDate": "2026-05-12T00:00:00.000Z",
+    "author": "Reuters",
+    "text": "U.S. inflation accelerates amid broad increase in prices\n\n## U.S. inflation accelerates amid broad increase in prices \n\nBy Lucia Mutikani, Reuters// May 12, 2026// \n\nGas prices are displayed at a gas station as the prices of oil and gas surge in Titusville, Florida, on March 31. U.S. inflation accelerates in April as the war in Iran pushed up energy and food prices. (Photo: Marco Bello/Reuters)\n\nU.S. inflation accelerates amid broad increase in prices\n\nGas prices are displayed at a gas station as the prices of oil and gas surge in Titusville, Florida, on March 31. U.S. inflation accelerates in April as the war in Iran pushed up energy and food prices. (Photo: Marco Bello/Reuters)\n\n# U.S. inflation accelerates amid broad increase in prices \n\nBy Lucia Mutikani, Reuters// May 12, 2026// \n\n##### The Blueprint\n\n- U.S. consumer prices rose sharply for a second straight month as energy and food costs climbed.\n- Inflation reached its highest annual rate in three years, driven largely by rising",
+    "image": "https://finance-commerce.com/files/2026/05/Inflation.jpg"
+   },
+   {
+    "id": "https://www.fxstreet.com/analysis/week-ahead-us-cpi-likely-to-pressure-us-retail-sales-in-april-202605071207",
+    "title": "Week ahead: US CPI likely to pressure US Retail Sales in April",
+    "url": "https://www.fxstreet.com/analysis/week-ahead-us-cpi-likely-to-pressure-us-retail-sales-in-april-202605071207",
+    "publishedDate": "2026-05-07T00:00:00.000Z",
+    "text": "Week ahead: US CPI likely to pressure US Retail Sales in April\n\n05/07/2026 12:07:39 GMT\n\n# Week ahead: US CPI likely to pressure US Retail Sales in April\n\nMichael Hewson MSTA CFTe Independent Analyst\n\nUS CPI (Apr) - 12/05 – The big surge in gasoline prices by 21.2% during March saw US inflation surge from 2.4% in February to 3.3%, thus complicating the outlook for the Federal Reserve when it came to its recent interest rate decision to hold rates at 3.75%. While the surge in energy prices was the main talking point for the March print the main concern policymakers will have is whether this surge in prices will start to lead to second and third round effects further out. There was little sign that core inflation was seeing any effects from recent events, however if that were to happen it would more than likely start to be seen in the next few months given that core prices tend to act with a lag. Nonetheless April CPI is still likely to be higher than it was in February, despite gasoline",
+    "image": "https://editorial.fxsstatic.com/images/i/CPI_3_Medium.png"
+   },
+   {
+    "id": "https://www.businessinsider.com/goldman-sachs-recession-forecast-iran-war-oil-prices-economy-jobs-2026-5",
+    "title": "Goldman Sachs Says Recession Odds Are Falling As Iran-War Impacts Muted - Business Insider",
+    "url": "https://www.businessinsider.com/goldman-sachs-recession-forecast-iran-war-oil-prices-economy-jobs-2026-5",
+    "publishedDate": "2026-05-11T00:00:00.000Z",
+    "author": "Samuel O'Brient",
+    "text": "Goldman Sachs Says Recession Odds Are Falling As Iran-War Impacts Muted - Business Insider\n\n# Goldman Sachs just dialed back its recession odds on signs of wartime economic resilience\n\nBy\n\nSamuel O'Brient\n\n \n\n NYSE \n\n 2026-05-11T14:43:16.268Z \n\nGoldman Sachs thinks the odds of a recession have come down.\n\nThe Iran war remains unresolved, but the reality is that oil hasn't gone as high as some forecasters predicted, while the US economy remains on solid footing.\n\nLast week's jobs report showed that the US added 115,000 jobs in April, significantly above the anticipated 65,000, while the unemployment rate held steady at 4.3%. But the bank said there's also other data that shows the Iran war has had a relatively modest impact.\n\nGoldman's chief economist Jan Hatzius said the bank is lowering its recession forecast as a result.\n\n\"We have shaved our 12-month US recession probability from 30% to 25% as economic activity has held up well and our financial conditions index has eased back below ",
+    "image": "https://i.insider.com/6a01dc43c9dd4cb81cda91c3?width=1200&format=jpeg"
+   }
+  ],
+  "searchTime": 2799.9,
+  "costDollars": {
+   "total": 0.007,
+   "search": {
+    "neural": 0.007
+   }
+  }
+ }
+}

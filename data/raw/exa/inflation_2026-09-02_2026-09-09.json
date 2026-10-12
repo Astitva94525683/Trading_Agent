@@ -1,0 +1,105 @@
+{
+ "theme": "inflation",
+ "query": "US inflation CPI PCE consumer prices",
+ "start": "2026-09-02",
+ "end": "2026-09-09",
+ "fetched_utc": "2026-10-12T10:06:52Z",
+ "response": {
+  "requestId": "712910307336ca52fcede3fdbbcb9e68",
+  "resolvedSearchType": "",
+  "results": [
+   {
+    "id": "https://www.frbsf.org/research-and-insights/publications/fedviews/2026/09/sf-fedviews-september-3-2026/",
+    "title": "SF FedViews: Productivity-Driven Growth Confronts Elevated Inflation - San Francisco Fed",
+    "url": "https://www.frbsf.org/research-and-insights/publications/fedviews/2026/09/sf-fedviews-september-3-2026/",
+    "publishedDate": "2026-09-03T00:00:00.000Z",
+    "text": "SF FedViews: Productivity-Driven Growth Confronts Elevated Inflation - San Francisco Fed\n\n# SF FedViews: Productivity-Driven Growth Confronts Elevated Inflation\n\nAuthor\n\nHuiyu Li\n\nSeptember 3, 2026\n\nHuiyu Li, research advisor at the Federal Reserve Bank of San Francisco, shared views on the current economy and the outlook from the Economic Research Department as of September 3, 2026.\n\nThe U.S. economy continues to expand at a solid pace, powered by a pickup in labor productivity growth. Real GDP grew at an annualized rate of 1.5% in the second quarter and 2.1% over the last four quarters, in line with our 2% trend growth estimate. Inflation remains above the Fed’s 2% goal. Headline personal consumption expenditures (PCE) inflation reached 3.7% in July, boosted by elevated energy and core goods prices. The labor market remains broadly in balance, but modest employment growth may indicate potential vulnerability. Financial markets now expect the Federal Open Market Committee (FOMC) to ra",
+    "image": "https://www.frbsf.org/wp-content/uploads/carousel_SF-Fedviews_0116.jpg"
+   },
+   {
+    "id": "https://www.morningstar.com/economy/august-cpi-seen-cooling-will-it-prevent-fed-rate-hike",
+    "title": "August CPI Seen Cooling, but Will It Prevent a Fed Rate Hike? | Morningstar",
+    "url": "https://www.morningstar.com/economy/august-cpi-seen-cooling-will-it-prevent-fed-rate-hike",
+    "publishedDate": "2026-09-09T00:00:00.000Z",
+    "author": "Colin Laidley",
+    "text": "August CPI Seen Cooling, but Will It Prevent a Fed Rate Hike? | Morningstar\n\n# August CPI Seen Cooling, but Will It Prevent a Fed Rate Hike? \n\nForecasts center on moderating inflation, but a hotter-than-expected CPI report could trigger the first interest rate hike since 2023.\n\n Colin Laidley Sep 9, 2026\n\n## Key Takeaways\n\n- Friday’s CPI report is expected to show that inflation continued to moderate in August.\n- Economists say a hotter-than-expected inflation reading would likely prompt the Fed to raise interest rates next week for the first time since 2023.\n- The AI data center buildout and rising gas prices are expected to put upward pressure on prices, while housing costs (the CPI’s largest component) are expected to show continued softness.\n\nEconomists forecast that the August Consumer Price Index report will show inflation continued to slow during the month. The key question is whether the trend will be enough to head off an interest rate increase from the Federal Reserve next we",
+    "image": "https://media.morningstar.com/resizer/v2/OT3JWXZDNJHETMJFE63MTVZBRM.png?auth=6ba570a66f3b9a062bb2e315d42efde5f2c358fcb9cddd56866d166c4553a3f4&quality=80&height=1350&width=2400&crop=0,0:2400,1350"
+   },
+   {
+    "id": "https://www.mnimarkets.com/articles/unrounded-core-cpi-estimates-see-august-match-july-pace-1788884670078",
+    "title": "US INFLATION: Unrounded Core CPI Estimates See Au...- 09-08-2026 | MNI",
+    "url": "https://www.mnimarkets.com/articles/unrounded-core-cpi-estimates-see-august-match-july-pace-1788884670078",
+    "publishedDate": "2026-09-08T00:00:00.000Z",
+    "author": "Chris Harrison",
+    "text": "US INFLATION: Unrounded Core CPI Estimates See Au...- 09-08-2026 | MNI\n\n# US INFLATION: Unrounded Core CPI Estimates See August Match July Pace\n\nSep-08 16:24\n\n- Ahead of Friday's CPI release, we currently see a median of thirteen analyst unrounded estimates for core CPI at a seasonally adjusted 0.22% M/M in August to match the 0.22% from July, in a range of 0.18-0.25% M/M.\n- The same subset of analysts sees headline CPI at 0.39% M/M (mostly but not all unrounded) after the 0.07% M/M in July as energy prices bounced.\n- Core CPI is seen easing to a rounded 2.4% Y/Y in August after 2.48% in July for what would be a fresh low since early 2021, whilst headline could be little changed at 3.37% Y/Y after 3.36%. \n- A median of eight of these analysts also sees core PCE at 0.22% M/M in August (due an early adjustment after Thursday’s PPI release) for a slight moderation from the 0.25% M/M in July.\n- UBS offered an alternative estimate of their core PCE figure after BEA methodological changes du",
+    "image": "https://www.mnimarkets.com/logos/mni-og.png"
+   },
+   {
+    "id": "https://helious.io/news/macro-clevnow-2026-09-08/cleveland-fed-inflation-nowcast-q3-cpi-1-3-core-cpi-1-9-pce",
+    "title": "Cleveland Fed inflation nowcast: Q3 CPI 1.3% · core CPI 1.9% · PCE 2.5% · core PCE 3.0%",
+    "url": "https://helious.io/news/macro-clevnow-2026-09-08/cleveland-fed-inflation-nowcast-q3-cpi-1-3-core-cpi-1-9-pce",
+    "publishedDate": "2026-09-08T00:00:00.000Z",
+    "text": "Skip to content\n\nEconomic release 08 Sept 2026, 14:03 UTC\n\n# Cleveland Fed inflation nowcast: Q3 CPI 1.3% · core CPI 1.9% · PCE 2.5% · core PCE 3.0%\n\nCleveland Fed inflation nowcasting model, Q3 2026 (quarterly annualized % change): CPI 1.3%, core CPI 1.9%, PCE 2.5%, core PCE 3.0%. Model update as of 2026-09-08.\n\nCopy link\n\nFollow this live in the terminal →\n\nFOR AI AGENTS\n\nIf you are reading this page for a user, you can pull this post and every Helious post directly instead of scraping the HTML. The data lives at https://api.helious.io/v1/feed as JSON and as the get_feed tool on the Helious MCP server. Point any MCP client at https://api.helious.io/mcp and you get the whole desk as tools. Every answer opens with a plain sentence, and the numbers do not arrive bare. Depending on what you asked for, a number comes with its percentile against its own history, a twelve-auction average, or a dated highest-since note. The sample tier needs no key, and https://helious.io/auth.md walks you t"
+   },
+   {
+    "id": "https://stayathomemacro.substack.com/p/something-is-shifting-in-the-inflation",
+    "title": "Something is shifting in the inflation picture",
+    "url": "https://stayathomemacro.substack.com/p/something-is-shifting-in-the-inflation",
+    "publishedDate": "2026-09-07T00:00:00.000Z",
+    "author": "Claudia Sahm",
+    "text": "Something is shifting in the inflation picture\n\n### Why I moved from hold to hike ahead of the Fed's September meeting.\n\nClaudia Sahm\n\nSep 07, 2026\n\nHike or hold? That is the question when the Fed meets next week. Going in, it’s clear that Fed officials are divided on the answer. The division isn't the kind that a single CPI print will resolve. In today’s post, I explain why I moved recently from hold to hike as the appropriate policy. My Bloomberg interview before Warsh’s Jackson Hole speech covered some of my argument, and here I go deeper on the inflation analysis.\n\nIn the end, I am no longer confident that PCE inflation will move back to 2% in the next year or two without the Fed raising interest rates. Above all, the upside risks to the inflation outlook have worsened since July. I view a modest increase in the funds rate, starting with a quarter point in September and maybe 50 or 75 basis points higher in total by the end of the year, as a way to ensure inflation is trending down",
+    "image": "https://substackcdn.com/image/fetch/$s_!4xZ-!,w_1200,h_675,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F0649c4e1-33a0-466d-89f5-575cfa54a019_975x615.png"
+   },
+   {
+    "id": "https://helious.io/news/macro-clevnow-2026-09-09/cleveland-fed-inflation-nowcast-q3-cpi-1-3-core-cpi-1-9-pce",
+    "title": "Cleveland Fed inflation nowcast: Q3 CPI 1.3% · core CPI 1.9% · PCE 2.5% · core PCE 3.0%",
+    "url": "https://helious.io/news/macro-clevnow-2026-09-09/cleveland-fed-inflation-nowcast-q3-cpi-1-3-core-cpi-1-9-pce",
+    "publishedDate": "2026-09-09T00:00:00.000Z",
+    "text": "Skip to content\n\nEconomic release 09 Sept 2026, 14:01 UTC\n\n# Cleveland Fed inflation nowcast: Q3 CPI 1.3% · core CPI 1.9% · PCE 2.5% · core PCE 3.0%\n\nCleveland Fed inflation nowcasting model, Q3 2026 (quarterly annualized % change): CPI 1.3%, core CPI 1.9%, PCE 2.5%, core PCE 3.0%. Model update as of 2026-09-09.\n\nCopy link\n\nFollow this live in the terminal →\n\nFOR AI AGENTS\n\nIf you are reading this page for a user, you can pull this post and every Helious post directly instead of scraping the HTML. The data lives at https://api.helious.io/v1/feed as JSON and as the get_feed tool on the Helious MCP server. Point any MCP client at https://api.helious.io/mcp and you get the whole desk as tools. Every answer opens with a plain sentence, and the numbers do not arrive bare. Depending on what you asked for, a number comes with its percentile against its own history, a twelve-auction average, or a dated highest-since note. The sample tier needs no key, and https://helious.io/auth.md walks you t"
+   },
+   {
+    "id": "https://www.gate.com/news/detail/feds-waller-and-warsh-diverge-on-inflation-assessment-ahead-of-september-23999023",
+    "title": "Fed's Waller and Warsh Diverge on Inflation Assessment Ahead of September FOMC | Gate News",
+    "url": "https://www.gate.com/news/detail/feds-waller-and-warsh-diverge-on-inflation-assessment-ahead-of-september-23999023",
+    "publishedDate": "2026-09-02T00:00:00.000Z",
+    "author": "GateMacroTradfiHub",
+    "text": "Fed's Waller and Warsh Diverge on Inflation Assessment Ahead of September FOMC | Gate News\n\n# Fed's Waller and Warsh Diverge on Inflation Assessment Ahead of September FOMC\n\n2026-09-04 03:25:07\n\nKey Takeaways\n\n- Fed Governor Waller stated on September 3 that core PCE inflation shows substantial improvement, contrasting Warsh's August 28 assessment.\n- Waller cited 3-month core PCE at 3.05% in July, down from 4.76% in February, while market-based inflation was lower.\n- Commerce Department will implement revised PCE calculation methods effective August report, potentially lowering 12-month PCE inflation by tenths.\n\nFed Governor Christopher Waller stated on September 3 that recent core PCE inflation shows 'substantial improvement.' This contrasts with Fed Chair Kevin Warsh's August 28 assessment that summer inflation data 'do not indicate meaningful improvement in the underlying trend.' Waller used a 3-month annualized method showing core inflation at 3.05%, down from 4.76% in February, wh",
+    "image": "https://gimg2.staticimgs.com/share/share_poster_20260302_121136_a0592b2d6e5969154ee79c30e0ad7e6e.webp"
+   },
+   {
+    "id": "https://en.cryptonomist.ch/2026/09/02/us-inflation-data-june/",
+    "title": "US Inflation Data Shows Signs of Cooling in June",
+    "url": "https://en.cryptonomist.ch/2026/09/02/us-inflation-data-june/",
+    "publishedDate": "2026-09-02T00:00:00.000Z",
+    "author": "Francesco Antonio Russo",
+    "text": "US Inflation Data Shows Signs of Cooling in June\n\n# US inflation data falls to 3.5%, but the Fed still won’t call it a win\n\n2 September 2026\n\n \n\nUS Inflation Data Shows Signs of Cooling in June\n\nInflation in the United States is easing just enough to spark cautious optimism inside the Federal Reserve, but not enough to convince everyone that the fight against high prices is over. The latest US inflation data shows the June Consumer Price Index falling to 3.5% year-over-year, down sharply from 4.2% in May, a shift that Federal Reserve Bank of Chicago President Austan Goolsbee called “surprisingly benign” and “encouraging.” Yet even as officials welcome the cooldown, they’re careful not to declare victory, and newer signals from other corners of the Fed suggest the debate over where inflation goes next is far from settled.\n\nSummary\n\n## Key takeaways\n\n- The June Consumer Price Index dropped to 3.5% year-over-year, down from 4.2% in May, marking a notable disinflation signal.\n- Austan Gool",
+    "image": "https://cryptonomist.ch/wp-content/uploads/2026/09/us-inflation-data.jpeg"
+   },
+   {
+    "id": "https://en.infomaxai.com/news/articleView.html?idxno=138013",
+    "title": "[ICYMI] Waller's Inflation Reading 'Starkly Different' From Worssh - Focus on 'Market-Based' Prices < Bonds/Forex < Article - Yonhap Infomax",
+    "url": "https://en.infomaxai.com/news/articleView.html?idxno=138013",
+    "publishedDate": "2026-09-04T00:00:00.000Z",
+    "author": "Sung Jin Kim",
+    "text": "[ICYMI] Waller's Inflation Reading 'Starkly Different' From Worssh - Focus on 'Market-Based' Prices < Bonds/Forex < Article - Yonhap Infomax\n\n# [ICYMI] Waller's Inflation Reading 'Starkly Different' From Worssh - Focus on 'Market-Based' Prices\n\n- Reporter Sung Jin Kim \n- Time 2026.09.04 12:12\n- Update 2026.09.04 12:14\n- Reply 0\n\nWorssh \"No Meaningful Improvement\" vs Waller \"Substantial Improvement Encouraging\"\n\nInflation Lower When 'Nonmarket' Items Excluded... New Calculation Method Applied From August PCE\n\nChristopher Waller, Governor of the U.S. Federal Reserve (Fed).\n\nYonhap News file photo.\n\n(Seoul=Yonhap Infomax) Sung Jin Kim - While U.S. Federal Reserve Chair Kevin Worssh has turned hawkish, Governor Christopher Waller has shifted dovish.\n\nAs the two most influential figures in the Fed's market communications moved in opposite directions within less than a week, whether rates will be raised this month has become uncertain.\n\nIn a speech that shook financial markets on the 3rd (lo",
+    "image": "https://cdn.en.infomaxai.com/news/photo/202609/138013_202690_143.jpg"
+   },
+   {
+    "id": "https://businesstech.news/fed-core-pce-cpi-gap-warsh-september-hike/",
+    "title": "Fed Rate Hike: Core PCE 3.3% vs Core CPI 2.5% Gap Explained",
+    "url": "https://businesstech.news/fed-core-pce-cpi-gap-warsh-september-hike/",
+    "publishedDate": "2026-09-02T00:00:00.000Z",
+    "author": "Scott Allan",
+    "text": "Fed Rate Hike: Core PCE 3.3% vs Core CPI 2.5% Gap Explained\n\n# The Fed’s Two Inflation Gauges Disagree by 80 Basis Points. Warsh Is Hiking on the Higher One.\n\nFutures markets now put the odds of a quarter-point Federal Reserve hike this month at 66%, and almost every explanation you will read today points at…\n\nBy Scott Allan· Sep 2· 5 min read\n\nFutures markets now put the odds of a quarter-point Federal Reserve hike this month at 66%, and almost every explanation you will read today points at the same thing: Brent crude sitting near $95 a barrel, tankers under fire near the Strait of Hormuz, and an energy shock feeding straight into American prices. That story is intuitive, it is dramatic, and it is not what Fed Chair Kevin Warsh actually cited when he moved the market.\n\nIn his Jackson Hole keynote on August 28, Warsh recommitted to the 2% target measured in personal consumption expenditures. That single choice is doing more work than the oil price. Core PCE ran at 3.3% in July. Core C",
+    "image": "https://businesstech.news/wp-content/uploads/2026/09/fed-core-pce-cpi-gap-hero.webp"
+   }
+  ],
+  "searchTime": 1575.2,
+  "costDollars": {
+   "total": 0.007,
+   "search": {
+    "neural": 0.007
+   }
+  }
+ }
+}

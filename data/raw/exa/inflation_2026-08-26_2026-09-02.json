@@ -1,0 +1,100 @@
+{
+ "theme": "inflation",
+ "query": "US inflation CPI PCE consumer prices",
+ "start": "2026-08-26",
+ "end": "2026-09-02",
+ "fetched_utc": "2026-10-12T10:06:50Z",
+ "response": {
+  "requestId": "fb26eb4e433e4ba24968efe255f762bf",
+  "resolvedSearchType": "",
+  "results": [
+   {
+    "id": "https://www.bea.gov/index.php/news/2026/personal-income-and-outlays-july-2026",
+    "title": "Personal Income and Outlays, July 2026 | U.S. Bureau of Economic Analysis (BEA)",
+    "url": "https://www.bea.gov/index.php/news/2026/personal-income-and-outlays-july-2026",
+    "publishedDate": "2026-08-26T00:00:00.000Z",
+    "text": "Personal Income and Outlays, July 2026 | U.S. Bureau of Economic Analysis (BEA)\n\n# News Release\n\nEMBARGOED UNTIL RELEASE AT 8:30 a.m. EDT, Wednesday, August 26, 2026\n\n# Personal Income and Outlays, July 2026 \n\nPersonal income increased $115.1 billion (0.4 percent at a monthly rate) in July, according to estimates released today by the U.S. Bureau of Economic Analysis (BEA). Disposable personal income (DPI)—personal income less personal current taxes—increased $125.9 billion (0.5 percent), and personal consumption expenditures (PCE) increased $36.3 billion (0.2 percent).\n\nPersonal outlays—the sum of PCE, personal interest payments, and personal current transfer payments—increased $36.6 billion in July. Personal saving was $712.0 billion in July, and the personal saving rate—personal saving as a percentage of DPI—was 3.0 percent.\n\nThe increase in current-dollar personal income in July primarily reflected increases in compensation, government social benefits, and personal income receipts "
+   },
+   {
+    "id": "https://in.marketscreener.com/news/us-inflation-remains-sticky-in-july-2nd-quarter-gdp-unrevised-at-1-5-ce7858d9dd81f121",
+    "title": "US inflation remains sticky in July; 2nd-quarter GDP unrevised at 1.5% | MarketScreener India",
+    "url": "https://in.marketscreener.com/news/us-inflation-remains-sticky-in-july-2nd-quarter-gdp-unrevised-at-1-5-ce7858d9dd81f121",
+    "publishedDate": "2026-08-26T00:00:00.000Z",
+    "author": "Reuters",
+    "text": "US inflation remains sticky in July; 2nd-quarter GDP unrevised at 1.5% | MarketScreener India\n\n# US inflation remains sticky in July; 2nd-quarter GDP unrevised at 1.5% \n\nPublished on 08/26/2026 at 06:17 pm IST - Modified on 08/26/2026 at 06:20 pm IST\n\n Reuters \n\nAug 26 (Reuters) - Annual U.S. inflation unexpectedly held steady in July well above the Federal Reserve's 2% target for the 65th straight month, and the pause in the decline from a recent Iran-war induced peak is likely to add to the central bank's tense debate over whether interest rates should be lifted or held steady.\n\n The Personal Consumption Expenditures Price Index increased 3.7% in the 12 months through July unchanged from June, the Commerce Department's Bureau of Economic Analysis said on Wednesday. Economists polled by Reuters had forecast a reading for PCE, which the Fed uses to set its target, of 3.6%.\n\n PCE shot to a three-year high of 4.1% in May in rapid fashion after President Donald Trump in late February laun",
+    "image": "https://cdn.zonebourse.com/static/resize/0/0//images/reuters/2025-05/2025-05-28T153505Z_1_LYNXNPEL4R0VG_RTROPTP_4_USA-ECONOMY.JPG"
+   },
+   {
+    "id": "https://www.cbsnews.com/news/july-pce-inflation-index-federal-reserve/",
+    "title": "July PCE inflation index held at 3.7% annual pace, slightly hotter than expected - CBS News",
+    "url": "https://www.cbsnews.com/news/july-pce-inflation-index-federal-reserve/",
+    "publishedDate": "2026-08-26T00:00:00.000Z",
+    "text": "July PCE inflation index held at 3.7% annual pace, slightly hotter than expected - CBS News\n\nWatch CBS News\n\nMoneyWatch\n# July PCE inflation index held at 3.7% annual pace, slightly hotter than expected\nBy\nMary Cunningham\n\nMary Cunningham\nReporter, MoneyWatch\n\nMary Cunningham is a reporter for CBS MoneyWatch. She previously worked at \"60 Minutes,\" CBSNews.com and CBS News 24/7 as part of the CBS News Associate Program.\nRead Full Bio\nMary Cunningham\nUpdated on: August 26, 2026 / 9:17 AM EDT\n/ CBS News\n\nAdd CBS News on Google\n\nThe Personal Consumption Expenditures index — the Federal Reserve's preferred inflation measure — held at a 3.7% annual pace in July, slightly higher than forecasted and reflecting persistent cost pressures for consumers.\nEconomists polled by FactSet had predicted a 3.6% annual increase. Wednesday's report instead showed that inflation remained unchanged from June.\nPCE tracks changes in the prices of goods and services bought by U.S. households. The measure is clos",
+    "image": "https://assets2.cbsnewsstatic.com/hub/i/r/2026/08/20/aea69508-6d04-4428-9677-b3100b565b95/thumbnail/1200x630/8a472d70117ec9392ca76db11d7606bd/gettyimages-1404294212.jpg"
+   },
+   {
+    "id": "https://fred.stlouisfed.org/graph/?g=1Djka",
+    "title": "Personal Consumption Expenditures | FRED | St. Louis Fed",
+    "url": "https://fred.stlouisfed.org/graph/?g=1Djka",
+    "publishedDate": "2026-08-26T00:00:00.000Z",
+    "text": "Personal Consumption Expenditures | FRED | St. Louis Fed\nSkip to main content\n**\n#\n\nPersonal Consumption Expenditures (PCE)\nObservations **\nJul 2026: 22,250.4 |\nBillions of Dollars, Seasonally Adjusted Annual Rate |\nMonthly\nUpdated:\nAug 26, 2026\n7:43 AM CDT\n\nNext Release Date:\nSep 30, 2026\n\nObservations **\nJul 2026:\n22,250.4\nUpdated:\nAug 26, 2026\n7:43 AM CDT\n\nNext Release Date:\nSep 30, 2026\n\n|Jul 2026: |22,250.4| |\n|Jun 2026: |22,214.2| |\n|May 2026: |22,136.8| |\n|Apr 2026: |21,949.5| |\n|Mar 2026: |21,814.7| |\n|View All|\nUnits:\nBillions of Dollars,\nSeasonally Adjusted Annual Rate\nFrequency:\nMonthly\nFullscreen **\n**Data in this graph are copyrighted. Please review the copyright information in the series notes before sharing.**\nShare Graph **\n* ** Custom Graph Link\n* ** Embed in Website\n* ** Graph Image Link\nAccount Tools **\n*\n*\n* ** Add to Data List\n* ** Get Email Notification\n*\n \n**\n**\n**\n##\nNotes\n**Source:**\nU.S. Bureau of Economic Analysis\n** \n**Release:**\nPersonal Income and Outlays\n",
+    "image": "https://fred.stlouisfed.org/graph/fredgraph.png?width=880&height=440&g=1Djka"
+   },
+   {
+    "id": "https://fraser.stlouisfed.org/title/united-states-department-commerce-news-6148/personal-income-outlays-july-2026-735401/content/fulltext/bea_newsrelease_20260826b",
+    "title": "Full text of\n            \tUnited States Department of Commerce News :\n        \tPersonal Income and Outlays, July 2026, BEA 26-39\n    : Full Release | FRASER | St. Louis Fed",
+    "url": "https://fraser.stlouisfed.org/title/united-states-department-commerce-news-6148/personal-income-outlays-july-2026-735401/content/fulltext/bea_newsrelease_20260826b",
+    "publishedDate": "2026-08-26T00:00:00.000Z",
+    "text": "Full text of United States Department of Commerce News : Personal Income and Outlays, July 2026, BEA 26-39 : Full Release | FRASER | St. Louis Fed \n\n# Full text of United States Department of Commerce News : Personal Income and Outlays, July 2026, BEA 26-39 : Full Release \n\n```\nEMBARGOED UNTIL RELEASE AT 8:30 a.m. EDT, Wednesday, August 26, 2026\nTechnical:\nMedia:\n\nLisa Mataloni (Personal Income)\nHarvey Davis (PCE)\nConnie O'Connell\n\n301-278-9083\n301-278-9719\n301-278-9003\n\nBEA 26–39\nPINIWD@bea.gov\nPCE@bea.gov\nConnie.OConnell@bea.gov\n\nPersonal Income and Outlays, July 2026\nPersonal income increased $115.1 billion (0.4 percent at a monthly rate) in July, according to estimates\nreleased today by the U.S. Bureau of Economic Analysis (BEA). Disposable personal income (DPI)—\npersonal income less personal current taxes—increased $125.9 billion (0.5 percent), and personal\nconsumption expenditures (PCE) increased $36.3 billion (0.2 percent).\n\nDisposable Personal Income, Outlays, and Saving\nPercen"
+   },
+   {
+    "id": "https://fred.stlouisfed.org/graph/?g=1E8kt",
+    "title": "Trimmed Mean PCE Inflation Rate | FRED | St. Louis Fed",
+    "url": "https://fred.stlouisfed.org/graph/?g=1E8kt",
+    "publishedDate": "2026-08-26T00:00:00.000Z",
+    "text": "Trimmed Mean PCE Inflation Rate | FRED | St. Louis Fed\nSkip to main content\n**\n#\nTrimmed Mean PCE Inflation Rate (PCETRIM12M159SFRBDAL)\nObservations **\nJul 2026: 2.28 |\nPercent Change from Year Ago, Seasonally Adjusted |\nMonthly\nUpdated:\nAug 26, 2026\n11:02 AM CDT\n\nNext Release Date:\nSep 30, 2026\n\nObservations **\nJul 2026:\n2.28\nUpdated:\nAug 26, 2026\n11:02 AM CDT\n\nNext Release Date:\nSep 30, 2026\n\n|Jul 2026: |2.28| |\n|Jun 2026: |2.26| |\n|May 2026: |2.43| |\n|Apr 2026: |2.35| |\n|Mar 2026: |2.36| |\n|View All|\nUnits:\nPercent Change from Year Ago,\nSeasonally Adjusted\nFrequency:\nMonthly\n1Y5Y10YMax**\nFromto\nDate:\nEdit Graph ** Edit Map ** \nDownload ****\nChart\nLine chart with 62 data points.\nView as data table, Chart\nThe chart has 1 X axis displaying xAxis. Data ranges from 1978-01-01 1:00:00 to 2026-07-01 2:00:00.\nThe chart has 2 Y axes displaying Percent Change from Year Ago and yAxisRight.\n*\nCreated with Highcharts 10.3.3Chart context menu2.02.53.03.54.04.55.05.5Jan 2022Jul 2022Jan 2023Jul 202",
+    "image": "https://fred.stlouisfed.org/graph/fredgraph.png?width=880&height=440&g=1E8kt"
+   },
+   {
+    "id": "https://fred.stlouisfed.org/series/DPCXRAM1M225NBEA",
+    "title": "Real Personal Consumption Expenditures: Market-based PCE excluding food and energy (DPCXRAM1M225NBEA) | FRED | St. Louis Fed",
+    "url": "https://fred.stlouisfed.org/series/DPCXRAM1M225NBEA",
+    "publishedDate": "2026-08-26T00:00:00.000Z",
+    "text": "Real Personal Consumption Expenditures: Market-based PCE excluding food and energy (DPCXRAM1M225NBEA) | FRED | St. Louis Fed\n\nReal Personal Consumption Expenditures: Market-based PCE excluding food and energy (DPCXRAM1M225NBEA)\n\nObservations \n\n Aug 2026: 0.6 | Percent Change from Preceding Period, Seasonally Adjusted | Monthly \n\n Updated: Sep 30, 2026 7:43 AM CDT \n\n Next Release Date: Oct 29, 2026 \n\nObservations \n\n Aug 2026: 0.6 \n\n Updated: Sep 30, 2026 7:43 AM CDT \n\n Next Release Date: Oct 29, 2026 \n\n| Aug 2026: | 0.6 |\n| --- | --- |\n| Jul 2026: | -0.1 |\n| Jun 2026: | 0.5 |\n| May 2026: | 0.6 |\n| Apr 2026: | 0.3 |\n| View All | |\n\nUnits:\n\n Percent Change from Preceding Period,\n\nSeasonally Adjusted \n\nFrequency:\n\n Monthly \n\n1Y 5Y 10Y Max\n\nDate: \n\nChart\n\nLine chart with 475 data points.\n\nThe chart has 1 X axis displaying xAxis. Data ranges from 1987-02-01 1:00:00 to 2026-08-01 2:00:00.\n\nThe chart has 2 Y axes displaying Percent Change from Preceding Period and yAxisRight.\n\n- Show Real Pers",
+    "image": "https://fred.stlouisfed.org/graph/fredgraph.png?width=880&height=440&id=DPCXRAM1M225NBEA"
+   },
+   {
+    "id": "https://newsletter.allfactsmatter.us/p/july-pce-wheres-the-inflation",
+    "title": "July PCE: Where’s The Inflation? - by Peter Nayland Kust",
+    "url": "https://newsletter.allfactsmatter.us/p/july-pce-wheres-the-inflation",
+    "publishedDate": "2026-08-27T00:00:00.000Z",
+    "author": "Peter Nayland Kust",
+    "text": "July PCE: Where’s The Inflation? - by Peter Nayland Kust\n\n### Despite War And An Oil Supply Shock, Inflationary Pressures Remain Elusive\n\nPeter Nayland Kust\n\nAug 27, 2026\n\nAfter the July CPI and PPI disinflationary prints earlier this month, there not much which is surprising about the July Personal Incomes and Outlays report from the Bureau of Economic Analysis. The disinflationary trends noted previously were sustained in the Personal Consumption Expenditures Price Index (PCEPI) data.\n\n> From the preceding month, the PCE price index for July increased 0.2 percent. Excluding food and energy, the PCE price index also increased 0.2 percent.\n> \n> From the same month one year ago, the PCE price index for July increased 3.7 percent. Excluding food and energy, the PCE price index increased 3.3 percent from one year ago.\n\nWall Street was not at all surprised by these numbers, as they were right in line with what had been projected.\n\nThe PCEPI print was also right in line with the Cleveland F",
+    "image": "https://substackcdn.com/image/fetch/$s_!zDFr!,w_1200,h_675,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fddbd8e9b-566c-47c3-a71e-f4646c313ca1_1280x720.png"
+   },
+   {
+    "id": "https://www.foxbusiness.com/economy/july-2026-pce-inflation",
+    "title": "July PCE: Fed's favored inflation gauge remained elevated | Fox Business",
+    "url": "https://www.foxbusiness.com/economy/july-2026-pce-inflation",
+    "publishedDate": "2026-08-26T00:00:00.000Z",
+    "author": "Eric Revell",
+    "text": "July PCE: Fed's favored inflation gauge remained elevated | Fox Business\n\nPublished August 26, 2026 8:35am EDT | Updated August 26, 2026 10:21am EDT \n\n## Commerce Department releases closely watched July 2026 PCE inflation data\n\n By Eric Revell FOXBusiness\n\n## Inflation impacts consumer spending at Iowa State Fair\n\nFox Business Grady Trimble reports from the Iowa State Fair where local vendors and fairgoers share how inflation impacts consumer spending. Despite rising costs, visitors remain resilient.\n\nThe Federal Reserve's preferred inflation gauge rose slightly in July as the pace of price growth remained well above the central bank's target ahead.\n\nThe Commerce Department on Wednesday reported that the personal consumption expenditures (PCE) index rose 0.2% from a month ago and was up 3.7% on an annual basis in July. Both figures were hotter than the expectations of economists polled by LSEG, who projected readings of 0.1% and 3.6%, respectively.\n\nCore PCE, which excludes volatile m",
+    "image": "https://a57.foxnews.com/static.foxbusiness.com/foxbusiness.com/content/uploads/2026/01/0/0/consumers-shopping-in-walmart.png?ve=1&tl=1"
+   },
+   {
+    "id": "https://wolfstreet.com/2026/08/26/inflation-refuses-to-go-back-into-the-bottle-fed-favored-pce-price-index/",
+    "title": "Inflation Refuses to Go Back into the Bottle: Fed-Favored PCE Price Index | Wolf Street",
+    "url": "https://wolfstreet.com/2026/08/26/inflation-refuses-to-go-back-into-the-bottle-fed-favored-pce-price-index/",
+    "publishedDate": "2026-08-26T00:00:00.000Z",
+    "text": "Inflation Refuses to Go Back into the Bottle: Fed-Favored PCE Price Index | Wolf Street\n\n# Inflation Refuses to Go Back into the Bottle: Fed-Favored PCE Price Index \n\n## by Wolf Richter • Aug 26, 2026 • 59 Comments \n\n## AI has begun exacting its pound of flesh directly from consumers. And “Core Services” inflation remains hot.\n\n#### By Wolf Richter for WOLF STREET.\n\nThe Fed-favored PCE price index today shed a slightly different and more ominous light on inflation for July than the CPI had done earlier this month. Energy prices were still up 15% from a year ago, and food inflation accelerated slightly to 2.4%. But beyond energy and food, the “core” PCE price index suffered from inflation in core services, where over 60% of consumer spending goes, and from the AI boom that has begun to exact its pound of flesh from consumers.\n\nThe core PCE price index – which excludes energy and food – rose by 0.25% in July from June (3.0% annualized, blue in the chart below).\n\nYear-over-year, it rose b"
+   }
+  ],
+  "searchTime": 1548.4,
+  "costDollars": {
+   "total": 0.007,
+   "search": {
+    "neural": 0.007
+   }
+  }
+ }
+}

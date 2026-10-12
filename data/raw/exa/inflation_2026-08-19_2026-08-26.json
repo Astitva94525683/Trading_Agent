@@ -1,0 +1,104 @@
+{
+ "theme": "inflation",
+ "query": "US inflation CPI PCE consumer prices",
+ "start": "2026-08-19",
+ "end": "2026-08-26",
+ "fetched_utc": "2026-10-12T10:06:48Z",
+ "response": {
+  "requestId": "15600dd92a31f713a21f413a8e4c4e0c",
+  "resolvedSearchType": "",
+  "results": [
+   {
+    "id": "https://www.bea.gov/index.php/news/2026/personal-income-and-outlays-july-2026",
+    "title": "Personal Income and Outlays, July 2026 | U.S. Bureau of Economic Analysis (BEA)",
+    "url": "https://www.bea.gov/index.php/news/2026/personal-income-and-outlays-july-2026",
+    "publishedDate": "2026-08-26T00:00:00.000Z",
+    "text": "Personal Income and Outlays, July 2026 | U.S. Bureau of Economic Analysis (BEA)\n\n# News Release\n\nEMBARGOED UNTIL RELEASE AT 8:30 a.m. EDT, Wednesday, August 26, 2026\n\n# Personal Income and Outlays, July 2026 \n\nPersonal income increased $115.1 billion (0.4 percent at a monthly rate) in July, according to estimates released today by the U.S. Bureau of Economic Analysis (BEA). Disposable personal income (DPI)—personal income less personal current taxes—increased $125.9 billion (0.5 percent), and personal consumption expenditures (PCE) increased $36.3 billion (0.2 percent).\n\nPersonal outlays—the sum of PCE, personal interest payments, and personal current transfer payments—increased $36.6 billion in July. Personal saving was $712.0 billion in July, and the personal saving rate—personal saving as a percentage of DPI—was 3.0 percent.\n\nThe increase in current-dollar personal income in July primarily reflected increases in compensation, government social benefits, and personal income receipts "
+   },
+   {
+    "id": "https://www.haver.com/articles/u-s-income-and-spending-inflation-progress-amid-spending-stall",
+    "title": "U.S. Income and Spending: Inflation Progress Amid Spending Stall - Haver Analytics",
+    "url": "https://www.haver.com/articles/u-s-income-and-spending-inflation-progress-amid-spending-stall",
+    "publishedDate": "2026-08-26T00:00:00.000Z",
+    "author": "Jonathan Basile Author",
+    "text": "U.S. Income and Spending: Inflation Progress Amid Spending Stall - Haver Analytics\n\n| Aug 26 2026\n\n# U.S. Income and Spending: Inflation Progress Amid Spending Stall\n\nby: Jonathan Basile\n\n| in: Economy in Brief\n\n###### Summary\n\n- Headline and Core PCE price measures cooled in the last two months.\n- Real spending stalled in July.\n- Saving uptick should be viewed as a pause in the downtrend.\n\nThe U.S. Income and Spending report revealed headline inflation trends cooling in the last couple of months relative to higher price pressures in the immediate aftermath of the Iran War. The personal consumption expenditures (PCE) price index rose 0.2% month-over-month (MoM) in July after a 0.1% MoM decline in June. This is a noticeable contrast relative to the prior monthly run rates in March (0.7%), April (0.4%) and May (0.5%) and the MoM average over the previous five years (0.3%). Shorter-run PCE price trends have decelerated sharply: two-month annualized from April’s 6.7% to July’s 0.4% and thr"
+   },
+   {
+    "id": "https://thedailyrecord.com/2026/08/26/us-inflation-steady-july-q2-gdp-growth-unrevised/",
+    "title": "Inflation remains sticky in July; Q2 GDP growth unrevised at 1.5% - Maryland Daily Record",
+    "url": "https://thedailyrecord.com/2026/08/26/us-inflation-steady-july-q2-gdp-growth-unrevised/",
+    "publishedDate": "2026-08-26T00:00:00.000Z",
+    "author": "Reuters Connect",
+    "text": "Inflation remains sticky in July; Q2 GDP growth unrevised at 1.5% - Maryland Daily Record\n\n## Inflation remains sticky in July; Q2 GDP growth unrevised at 1.5% \n\nReuters Connect// August 26, 2026// \n\nInflation remains sticky in July; Q2 GDP growth unrevised at 1.5%\n\nA woman shops for fruit in a store in New York City on Feb. 12, 2025. (REUTERS/Brendan McDermid)\n\n# Inflation remains sticky in July; Q2 GDP growth unrevised at 1.5% \n\nReuters Connect// August 26, 2026// \n\n##### Key takeaways:\n\n- U.S. inflation steady at 3.7% in July\n- Core PCE inflation held at 3.3% annually\n- Fed funds futures show 42% chance of September rate hike\n- Q2 consumer spending revised up to 3.4%\n\nAnnual U.S. inflation held steady in July well above the Federal Reserve‘s 2% target for the 65th straight month, and the unexpected pause in the decline from a recent war-induced peak is likely to intensify the central bank’s debate over whether interest rates should be lifted or held steady. \n\nGovernment data release",
+    "image": "https://thedailyrecord.com/files/2024/12/TDRLogo.png"
+   },
+   {
+    "id": "https://fraser.stlouisfed.org/title/united-states-department-commerce-news-6148/personal-income-outlays-july-2026-735401/content/fulltext/bea_newsrelease_20260826b",
+    "title": "Full text of\n            \tUnited States Department of Commerce News :\n        \tPersonal Income and Outlays, July 2026, BEA 26-39\n    : Full Release | FRASER | St. Louis Fed",
+    "url": "https://fraser.stlouisfed.org/title/united-states-department-commerce-news-6148/personal-income-outlays-july-2026-735401/content/fulltext/bea_newsrelease_20260826b",
+    "publishedDate": "2026-08-26T00:00:00.000Z",
+    "text": "Full text of United States Department of Commerce News : Personal Income and Outlays, July 2026, BEA 26-39 : Full Release | FRASER | St. Louis Fed \n\n# Full text of United States Department of Commerce News : Personal Income and Outlays, July 2026, BEA 26-39 : Full Release \n\n```\nEMBARGOED UNTIL RELEASE AT 8:30 a.m. EDT, Wednesday, August 26, 2026\nTechnical:\nMedia:\n\nLisa Mataloni (Personal Income)\nHarvey Davis (PCE)\nConnie O'Connell\n\n301-278-9083\n301-278-9719\n301-278-9003\n\nBEA 26–39\nPINIWD@bea.gov\nPCE@bea.gov\nConnie.OConnell@bea.gov\n\nPersonal Income and Outlays, July 2026\nPersonal income increased $115.1 billion (0.4 percent at a monthly rate) in July, according to estimates\nreleased today by the U.S. Bureau of Economic Analysis (BEA). Disposable personal income (DPI)—\npersonal income less personal current taxes—increased $125.9 billion (0.5 percent), and personal\nconsumption expenditures (PCE) increased $36.3 billion (0.2 percent).\n\nDisposable Personal Income, Outlays, and Saving\nPercen"
+   },
+   {
+    "id": "https://www.foxbusiness.com/economy/july-2026-pce-inflation",
+    "title": "July PCE: Fed's favored inflation gauge remained elevated | Fox Business",
+    "url": "https://www.foxbusiness.com/economy/july-2026-pce-inflation",
+    "publishedDate": "2026-08-26T00:00:00.000Z",
+    "author": "Eric Revell",
+    "text": "July PCE: Fed's favored inflation gauge remained elevated | Fox Business\n\nPublished August 26, 2026 8:35am EDT | Updated August 26, 2026 10:21am EDT \n\n## Commerce Department releases closely watched July 2026 PCE inflation data\n\n By Eric Revell FOXBusiness\n\n## Inflation impacts consumer spending at Iowa State Fair\n\nFox Business Grady Trimble reports from the Iowa State Fair where local vendors and fairgoers share how inflation impacts consumer spending. Despite rising costs, visitors remain resilient.\n\nThe Federal Reserve's preferred inflation gauge rose slightly in July as the pace of price growth remained well above the central bank's target ahead.\n\nThe Commerce Department on Wednesday reported that the personal consumption expenditures (PCE) index rose 0.2% from a month ago and was up 3.7% on an annual basis in July. Both figures were hotter than the expectations of economists polled by LSEG, who projected readings of 0.1% and 3.6%, respectively.\n\nCore PCE, which excludes volatile m",
+    "image": "https://a57.foxnews.com/static.foxbusiness.com/foxbusiness.com/content/uploads/2026/01/0/0/consumers-shopping-in-walmart.png?ve=1&tl=1"
+   },
+   {
+    "id": "https://www.fool.com/investing/2026/08/26/the-fed-s-preferred-inflation-gauge-came-in-slightly-hotter-than-expected-here-s-what-investors-need-to-know/",
+    "title": "The Fed's Preferred Inflation Gauge Came In Slightly Hotter Than Expected. Here's What Investors Need to Know | The Motley Fool",
+    "url": "https://www.fool.com/investing/2026/08/26/the-fed-s-preferred-inflation-gauge-came-in-slightly-hotter-than-expected-here-s-what-investors-need-to-know/",
+    "publishedDate": "2026-08-26T00:00:00.000Z",
+    "author": "Bram Berkowitz",
+    "text": "The Fed's Preferred Inflation Gauge Came In Slightly Hotter Than Expected. Here's What Investors Need to Know | The Motley Fool\n\nThe Federal Reserve's preferred inflation gauge, the Personal Consumption Expenditures (PCE) price index, rose a seasonally adjusted 0.2% in July and was up 3.7% year over year.\n\nBoth numbers came in at 0.1% above economists' expectations.\n\nCore PCE, which excludes more volatile food and energy prices, rose 0.2% during the month and came in 3.3% higher year over year, both in line with estimates.\n\nIt's another data point the Federal Reserve will have to contend with as it considers whether to raise interest rates this year.\n\nHere's what investors need to know.\n\nImage source: Getty Images.\n\n## Breaking a trend\n\nNot only is the 3.3% core PCE reading still well above the Fed's preferred 2% target, but the stickier PCE reading also breaks a recent trend, suggesting inflation might be slowing.\n\nThe Consumer Price Index (CPI) came in soft in both June and July, and",
+    "image": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fcdn.content.foolcdn.com%2Fimages%2F1umn9qeh%2Fproduction%2F23e2dbc24ee49a9a8d4caa807f00da12556948ac-8256x5504.jpg%3Fw%3D800%26q%3D75%26fit%3Dmax%26auto%3Dformat&w=1200&op=resize"
+   },
+   {
+    "id": "https://www.mpamag.com/us/mortgage-industry/industry-trends/pce-holds-at-37-in-july-keeping-rate-hike-debate-alive/587567",
+    "title": "PCE holds at 3.7% in July, keeping rate hike debate alive | Mortgage Professional",
+    "url": "https://www.mpamag.com/us/mortgage-industry/industry-trends/pce-holds-at-37-in-july-keeping-rate-hike-debate-alive/587567",
+    "publishedDate": "2026-08-26T00:00:00.000Z",
+    "text": "PCE holds at 3.7% in July, keeping rate hike debate alive | Mortgage Professional\n\n# PCE holds at 3.7% in July, keeping rate hike debate alive\n\n The Fed's preferred inflation measure held flat in July, leaving its September rate call in doubt \n\n By Liezel Once \n\n 26 Aug 2026 \n\nThe Federal Reserve's preferred inflation gauge held steady in July, delivering a mixed signal for mortgage professionals as policymakers prepare to weigh their next move ahead of the September meeting.\n\nThe personal consumption expenditures (PCE) price index rose 0.2% on a seasonally adjusted basis for the month, putting the annual rate at 3.7%. It's unchanged from June and 0.1 percentage point above the Dow Jones consensus, the Commerce Department's Bureau of Economic Analysis (BEA) reported Wednesday.\n\nCore PCE, which strips out volatile food and energy costs, gained 0.2% monthly and 3.3% annually, landing in line with expectations.\n\nThe result leaves the Fed in familiar territory. Its benchmark rate has been ",
+    "image": "https://cdn-res.keymedia.com/cms/images/us/073/0388_639233492693022912.png"
+   },
+   {
+    "id": "https://d2649.cms.socastsrm.com/2026/08/26/us-inflation-remains-sticky-in-july-2nd-quarter-gdp-unrevised-at-1-5/",
+    "title": "US inflation remains elevated as GDP growth outlook brightens | Kat's Sandbox",
+    "url": "https://d2649.cms.socastsrm.com/2026/08/26/us-inflation-remains-sticky-in-july-2nd-quarter-gdp-unrevised-at-1-5/",
+    "publishedDate": "2026-08-26T00:00:00.000Z",
+    "author": "Thomson Reuters",
+    "text": "US inflation remains elevated as GDP growth outlook brightens | Kat's Sandbox\n\n# US inflation remains elevated as GDP growth outlook brightens\n\n By Thomson Reuters Aug 26, 2026 | 7:49 AM \n\nBy Dan Burns\n\nAug 26 (Reuters) – Annual U.S. inflation held steady in July well above the Federal Reserve’s 2% target for the 65th straight month, and the unexpected pause in the decline from a recent war-induced peak is likely to intensify the central bank’s debate over whether interest rates should be lifted or held steady.\n\nGovernment data released on Wednesday also showed consumer spending decelerating modestly last month — and flatlining against inflation — while personal incomes rose faster than inflation, which could foreshadow an uptick in consumption as the year progresses.\n\nMeanwhile, orders ​of major capital goods rebounded last month, led by transportation equipment orders, and shipments of durable goods outside the defense and aerospace sectors pointed to continued brisk business investm",
+    "image": "https://storage.googleapis.com/media.mwcradio.com/mimesis/2026-08/26/2026-08-26T124944Z_3_LYNXMPEM7P10U_RTROPTP_3_USA-ECONOMY.JPG"
+   },
+   {
+    "id": "https://www.rbc.com/en/economics/us-week-ahead/watch-for-consumer-stress-as-inflation-remains-top-concern/",
+    "title": "Watch for consumer stress as inflation remains top concern - RBC Economics",
+    "url": "https://www.rbc.com/en/economics/us-week-ahead/watch-for-consumer-stress-as-inflation-remains-top-concern/",
+    "publishedDate": "2026-08-21T00:00:00.000Z",
+    "author": "viktoriyapanahova",
+    "text": "Watch for consumer stress as inflation remains top concern - RBC Economics\n\n## Watch for consumer stress as inflation remains top concern \n\nNext week the focus will be on the PCE deflators as inflation pressures remain a top concern. We expect core PCE to report a 0.2% m/m rise, keeping the y/y pace at 3.3%. We look for headline PCE to rise 0.1% m/m, knocking the y/y pace lower to 3.6%. On net we expect the PCE deflators to report in line with CPI – the July core CPI print reported a 0.2% m/m rise that was helped by notable declines in leisure and hospitality related sectors (hotel prices and auto rentals). But those sectors will be less impactful in PCE because of weighting. Importantly, the heavier weighted PPI components that matter most for PCE were a mixed bag. \n\nPPI for portfolio management and investment advice spiked in July alongside nursing care. But PPI for hospitals was benign and PPI for domestically scheduled air transportation was negative (in contrast to airline fares i",
+    "image": "https://www.rbc.com/en/economics/wp-content/uploads/sites/23/2026/06/RBC-Economics-Forward-Guidance.webp"
+   },
+   {
+    "id": "https://usmarketcurrent.com/july-core-pce-33-percent-real-spending-flat-gdp-unrevised/",
+    "title": "Core PCE inflation held at 3.3% in July as real consumer spending barely moved",
+    "url": "https://usmarketcurrent.com/july-core-pce-33-percent-real-spending-flat-gdp-unrevised/",
+    "publishedDate": "2026-08-26T00:00:00.000Z",
+    "author": "Tomas Ferreira",
+    "text": "Core PCE inflation held at 3.3% in July as real consumer spending barely moved\n\n# Core PCE inflation held at 3.3% in July as real consumer spending barely moved\n\nThe Bureau of Economic Analysis released July personal income and outlays and the second estimate of second-quarter GDP at 8:30 a.m. Eastern on Wednesday, with the Census Bureau's advance durable goods report out the same morning. Real spending rose less than 0.1 percent, the saving rate sat at 3.0 percent and second-quarter growth stayed at a 1.5 percent annual rate.\n\nby Tomas Ferreira · August 26, 2026\n\nMarkets Reporter, US Market Current\n\nThe price index for personal consumption expenditures rose 0.2 percent in July from June and 3.7 percent from a year earlier, the Bureau of Economic Analysis said in its Aug. 26 release. The measure excluding food and energy, the one the Federal Reserve leans on most heavily, also rose 0.2 percent on the month and stood 3.3 percent above July 2025.\n\nThe spending side of the same report was",
+    "image": "https://images.unsplash.com/photo-1534452203293-494d7ddbf7e0?auto=format&fit=crop&crop=faces&w=1200&q=70"
+   }
+  ],
+  "searchTime": 1547.1,
+  "costDollars": {
+   "total": 0.007,
+   "search": {
+    "neural": 0.007
+   }
+  }
+ }
+}

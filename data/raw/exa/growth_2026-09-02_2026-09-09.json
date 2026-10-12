@@ -1,0 +1,104 @@
+{
+ "theme": "growth",
+ "query": "US economy GDP growth recession retail sales ISM",
+ "start": "2026-09-02",
+ "end": "2026-09-09",
+ "fetched_utc": "2026-10-12T10:09:45Z",
+ "response": {
+  "requestId": "db533c7dc521b2430fc8ba2390ad3cb4",
+  "resolvedSearchType": "",
+  "results": [
+   {
+    "id": "https://www.prnewswire.com/news-releases/services-pmi-at-55-4-august-2026-ism-services-pmi-report-302868046.html",
+    "title": "Services PMI® at 55.4%; August 2026 ISM® Services PMI® Report",
+    "url": "https://www.prnewswire.com/news-releases/services-pmi-at-55-4-august-2026-ism-services-pmi-report-302868046.html",
+    "publishedDate": "2026-09-03T00:00:00.000Z",
+    "author": "Institute for Supply Management",
+    "text": "Services PMI® at 55.4%; August 2026 ISM® Services PMI® Report\n\n# Services PMI® at 55.4%; August 2026 ISM® Services PMI® Report\n\nSep 03, 2026, 10:00 ET\n\nBusiness Activity Index at 61.7%; New Orders Index at 60.9%; Employment Index at 47.8%; Supplier Deliveries Index at 51.3%\n\nTEMPE, Ariz., Sept. 3, 2026 /PRNewswire/ -- Economic activity in the services sector continued to expand in August, say the nation's purchasing and supply executives in the latest ISM ® Services PMI ® Report. The Services PMI ® registered 55.4 percent, the 26th consecutive month in expansion territory.\n\nThe report was issued today by Steve Miller, CPSM, CSCP, Chair of the Institute for Supply Management ® (ISM ®) Services Business Survey Committee: \"In August, the Services PMI ® registered 55.4 percent, an increase of 1.3 percentage points compared to July's figure of 54.1 percent. The Business Activity Index remained in expansion territory in August, increasing 2.6 percentage points to 61.7 percent from July's rea",
+    "image": "https://mmx.prnewswire.com/media/MS349053/INSTITUTE-FOR-SUPPLY-MANAGEMENT-LOGO-v1.jpg?id=OA2926062&p=facebook"
+   },
+   {
+    "id": "https://fred.stlouisfed.org/series/FINSALESDOMPRIVPUR",
+    "title": "Nowcast for Real Final Sales of Private Domestic Purchasers (FINSALESDOMPRIVPUR) | FRED | St. Louis Fed",
+    "url": "https://fred.stlouisfed.org/series/FINSALESDOMPRIVPUR",
+    "publishedDate": "2026-09-03T00:00:00.000Z",
+    "text": "Nowcast for Real Final Sales of Private Domestic Purchasers (FINSALESDOMPRIVPUR) | FRED | St. Louis Fed\n\nNowcast for Real Final Sales of Private Domestic Purchasers (FINSALESDOMPRIVPUR)\n\nObservations \n\n Q3 2026: 4.4636 | Percent Change at Annual Rate, Seasonally Adjusted Annual Rate | Quarterly \n\n Updated: Oct 6, 2026 11:02 AM CDT \n\n Next Release Date: Oct 8, 2026 \n\nObservations \n\n Q3 2026: 4.4636 \n\n Updated: Oct 6, 2026 11:02 AM CDT \n\n Next Release Date: Oct 8, 2026 \n\n| Q3 2026: | 4.4636 |\n| --- | --- |\n| Q2 2026: | 3.3824 |\n| Q1 2026: | 2.0204 |\n| Q4 2025: | 2.9295 |\n| Q3 2025: | 2.4472 |\n| View All | |\n\nUnits:\n\n Percent Change at Annual Rate,\n\nSeasonally Adjusted Annual Rate \n\nFrequency:\n\n Quarterly \n\nDate: \n\nChart\n\nLine chart with 44 data points.\n\nThe chart has 1 X axis displaying xAxis. Data ranges from 2015-10-01 2:00:00 to 2026-07-01 2:00:00.\n\nThe chart has 2 Y axes displaying Percent Change at Annual Rate and yAxisRight.\n\nEnd of interactive chart.\n\n(a) Nowcast for Real Final Sa"
+   },
+   {
+    "id": "https://www.gdpdynamics.com/commentaries/2026-09-02_gdp-dynamics-q3-nowcast-slips-to-3-01",
+    "title": "GDP Dynamics Q3 Nowcast Slips to 3.01%",
+    "url": "https://www.gdpdynamics.com/commentaries/2026-09-02_gdp-dynamics-q3-nowcast-slips-to-3-01",
+    "publishedDate": "2026-09-02T00:00:00.000Z",
+    "text": "GDP Dynamics Q3 Nowcast Slips to 3.01%\n\n# GDP Dynamics Q3 Nowcast Slips to 3.01%\n\n Date: 2026-09-02 Author: GDP Dynamics Share \n\nMy estimate for third-quarter U.S. real GDP growth slipped another 0.05 percentage point today, falling from 3.06% to 3.01% at a seasonally adjusted annual rate. That works out to roughly 0.75% growth quarter-over-quarter.\n\nThe move was small, but unlike some recent updates there were no components pushing the estimate higher. Net exports reduced the nowcast by 0.03 percentage point, business fixed investment took off another 0.02 point, and residential investment shaved off roughly 0.01 point.\n\nThe interesting part of today's update is business investment. Headline factory orders actually looked fairly good. New orders for manufactured goods increased 0.9% in July, beating expectations for a 0.6% increase and reversing a revised 0.2% decline in June. Much of that strength, however, came from a 12.7% jump in civilian aircraft and parts orders. Machinery order",
+    "image": "https://www.gdpdynamics.com/commentaries/assets/2026-09-02_gdp-dynamics-q3-nowcast-slips-to-3-01/2026Q3_2026-09-02_nowcast_path.png"
+   },
+   {
+    "id": "https://liquiditydesk.org/p/macro-pulse-the-us-economy-is-accelerating",
+    "title": "Macro Pulse: The US economy is accelerating, but hiring remains uneven",
+    "url": "https://liquiditydesk.org/p/macro-pulse-the-us-economy-is-accelerating",
+    "publishedDate": "2026-09-04T00:00:00.000Z",
+    "author": "Tihomir Bachvarov",
+    "text": "Macro Pulse: The US economy is accelerating, but hiring remains uneven\n\n### Investment and manufacturing are gathering speed, but hiring remains uneven while consumption and housing lose traction.\n\nTihomir Bachvarov\n\nSep 04, 2026\n\nThe frame\n\nThis is our July review of the US economy, now that all the main data for the month have been released. The final July piece was the trade balance on September 3. The September 4 employment report serves as a directional check. This is not an economy coming to a stop. It has a powerful investment engine, but its transmission is delivering power unevenly to households, labor and housing.\n\nWhere the economy stands\n\nThe phase in July remains Acceleration, but the acceleration is becoming narrower and more uneven. The US economy resembles a car with a strong engine and a transmission that engages intermittently. Businesses continue to order, produce and invest. Households are spending more cautiously, housing is feeling the weight of high interest rate",
+    "image": "https://substackcdn.com/image/fetch/$s_!kW2S!,w_1200,h_675,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F55b2c2eb-93b8-40b7-97e5-f9095e9d5616_1720x1664.png"
+   },
+   {
+    "id": "https://www.reuters.com/business/us-manufacturing-activity-slows-august-input-prices-still-elevated-2026-09-01/",
+    "title": "US factory activity slows in August; input prices remain elevated | Reuters",
+    "url": "https://www.reuters.com/business/us-manufacturing-activity-slows-august-input-prices-still-elevated-2026-09-01/",
+    "publishedDate": "2026-09-02T00:00:00.000Z",
+    "author": "Lucia Mutikani",
+    "text": "US factory activity slows in August; input prices remain elevated | Reuters\nSkip to main content\nExclusive news, data and analytics for financial market professionalsLearn more aboutRefinitiv\n\nSubscribe\n# US factory activity slows in August; input prices remain elevated\nBy Lucia Mutikani\nSeptember 1, 20262:02 PM UTCUpdated September 2, 2026\nText\n*\nSmall Text\n*\nMedium Text\n*\nLarge Text\n*\nX\n*\nFacebook\n*\nLinkedin\n*\nEmail\n*\nLink\nA tour of the Qcells North America factory in Cartersville, Georgia\nQcells employees work inside the North America factory in Cartersville, Georgia, U.S. June 8, 2026. REUTERS/Alyssa Pointer Purchase Licensing Rights, opens new tab\n* Summary\n* Manufacturing activity moderates in August; manufacturers complain about higher input prices\n* Supplier delivery performance slows for ninth straight month\n* Job openings increase 89,000 in July to 7.271 million from June's sharply downwardly revised level\n* Hiring declines 278,000 to 5.054 million; layoffs fall 119,000 to 1.",
+    "image": "https://www.reuters.com/resizer/v2/TAPC47H55VM3RNRRDZSMYOQ2AQ.jpg?auth=a67aff7d5d4fbd531b36bec0f4927f1a16ffd1836f532a0eb2881c6393a068e4&height=1005&width=1920&quality=80&smart=true"
+   },
+   {
+    "id": "https://fred.stlouisfed.org/graph/?g=1jeaH",
+    "title": "Real-time Sahm Rule Recession Indicator | FRED | St. Louis Fed",
+    "url": "https://fred.stlouisfed.org/graph/?g=1jeaH",
+    "publishedDate": "2026-09-04T00:00:00.000Z",
+    "text": "Real-time Sahm Rule Recession Indicator | FRED | St. Louis Fed\n\nReal-time Sahm Rule Recession Indicator (SAHMREALTIME)\n\nObservations \n\n Sep 2026: 0.00 | Percentage Points, Seasonally Adjusted | Monthly \n\n Updated: Oct 2, 2026 8:36 AM CDT \n\n Next Release Date: Nov 6, 2026 \n\nObservations \n\n Sep 2026: 0.00 \n\n Updated: Oct 2, 2026 8:36 AM CDT \n\n Next Release Date: Nov 6, 2026 \n\n| Sep 2026: | 0.00 |\n| --- | --- |\n| Aug 2026: | -0.07 |\n| Jul 2026: | -0.03 |\n| Jun 2026: | 0.07 |\n| May 2026: | 0.10 |\n| View All | |\n\nUnits:\n\n Percentage Points,\n\nSeasonally Adjusted \n\nFrequency:\n\n Monthly \n\nDate: \n\nChart\n\nThe chart has 1 X axis displaying xAxis. Data ranges from 1959-12-01 2:00:00 to 2026-09-01 2:00:00.\n\nThe chart has 2 Y axes displaying Percentage Points and yAxisRight.\n\nEnd of interactive chart.\n\n(a) Real-time Sahm Rule Recession Indicator, Percentage Points, Seasonally Adjusted (SAHMREALTIME)\n\nCustomize data\n\nWrite a custom formula to transform one or more series or combine two or more series",
+    "image": "https://fred.stlouisfed.org/graph/fredgraph.png?width=880&height=440&g=1jeaH"
+   },
+   {
+    "id": "https://fred.stlouisfed.org/graph/?g=1IbmQ",
+    "title": "Real-time Sahm Rule Recession Indicator | FRED | St. Louis Fed",
+    "url": "https://fred.stlouisfed.org/graph/?g=1IbmQ",
+    "publishedDate": "2026-09-04T00:00:00.000Z",
+    "text": "Real-time Sahm Rule Recession Indicator | FRED | St. Louis Fed\nSkip to main content\n**\n#\nReal-time Sahm Rule Recession Indicator (SAHMREALTIME)\nObservations **\nAug 2026: -0.07 |\nPercentage Points, Seasonally Adjusted |\nMonthly\nUpdated:\nSep 4, 2026\n8:39 AM CDT\n\nNext Release Date:\nOct 2, 2026\n\nObservations **\nAug 2026:\n-0.07\nUpdated:\nSep 4, 2026\n8:39 AM CDT\n\nNext Release Date:\nOct 2, 2026\n\n|Aug 2026: |-0.07| |\n|Jul 2026: |-0.03| |\n|Jun 2026: |0.07| |\n|May 2026: |0.10| |\n|Apr 2026: |0.13| |\n|View All|\nUnits:\nPercentage Points,\nSeasonally Adjusted\nFrequency:\nMonthly\n1Y5Y10YMax**\nFromto\nDate:\nEdit Graph ** Edit Map ** \nDownload ****\nChart\nLine chart with 31 data points.\nView as data table, Chart\nThe chart has 1 X axis displaying xAxis. Data ranges from 1959-12-01 2:00:00 to 2026-08-01 2:00:00.\nThe chart has 2 Y axes displaying Percentage Points and yAxisRight.\n*\nCreated with Highcharts 10.3.3Chart context menu-0.10.00.10.20.30.40.50.6Apr 2024Jul 2024Oct 2024Jan 2025Apr 2025Jul 2025Oct 2025J",
+    "image": "https://fred.stlouisfed.org/graph/fredgraph.png?width=880&height=440&g=1IbmQ"
+   },
+   {
+    "id": "https://www.rollinghillsadvisors.com/post/u-s-economy-stronger-than-meets-the-eye",
+    "title": "U.S. economy: Stronger than meets the eye",
+    "url": "https://www.rollinghillsadvisors.com/post/u-s-economy-stronger-than-meets-the-eye",
+    "publishedDate": "2026-09-03T00:00:00.000Z",
+    "author": "William Greiner",
+    "text": "U.S. economy: Stronger than meets the eye\n\n# U.S. economy: Stronger than meets the eye\n\nWilliam Greiner\n\nSep 3\n\nChance favors the informed mind.\n\n- Louis Pasteur\n\nMy “Déjà vu” 2026 core economic theme has been calling for “real” GDP growth to be 2.5% to 3.0% this year. So far this year (through the end of Q2), we have seen real GDP growth reported at a 1.8% annualized rate.¹ Am I missing something with my view that GDP growth should be well above where economic growth has resided for the first half of the year? \n\n### GDP autopsy\n\nAs we conduct an autopsy of the first half growth this year, if we exclude government spending and trade activity and focus on the private, domestic segment of the economy (consumption and investment spending), we see the economy has grown by 2.3% on an annualized basis. This is compared to the reported 1.8% rate, which includes government and trade activity.¹\n\nThe Q2 GDP report was impacted dramatically by the government spending and trade activity reports. I",
+    "image": "https://static.wixstatic.com/media/1d525c_52e4f4841b074e5daad12a9d9da3b752~mv2.png/v1/fill/w_862,h_406,al_c,lg_1,q_85/1d525c_52e4f4841b074e5daad12a9d9da3b752~mv2.png"
+   },
+   {
+    "id": "https://usatimes247.com/legendary-economist-gary-shilling-says-consumer-signals-point-to-a-recession-in-the-next-12-months/",
+    "title": "Legendary economist Gary Shilling says consumer signals point to a recession in the next 12 months – USATimes247.com",
+    "url": "https://usatimes247.com/legendary-economist-gary-shilling-says-consumer-signals-point-to-a-recession-in-the-next-12-months/",
+    "publishedDate": "2026-09-03T00:00:00.000Z",
+    "author": "Nermeen Nabil",
+    "text": "Legendary economist Gary Shilling says consumer signals point to a recession in the next 12 months – USATimes247.com\n\n# Legendary economist Gary Shilling says consumer signals point to a recession in the next 12 months\n\n Nermeen Nabil September 3, 2026 \n\n \n\nTop economist Gary Shilling says he sees a 60%-70% chance the US enters a recession in the next year. Bloomberg/Getty Images \n\n- Top economist Gary Shilling sees recession warnings coming from the US consumer.\n- Americans are feeling the pressure of high energy prices and rising borrowing costs.\n- Houesholds are beginning to tighten their wallets. Retail sales unexpectedly dropped in July.\n\nAmerican shoppers are waving some red flags that hint at a recession in the next year, one legendary economist is warning.\n\nGary Shilling, the Stanford economist and Merrill Lynch alum best-known for calling the dot-com bubble and 2008 housing crisis, is doubling down on his view that the US will likely enter a recession sometime in the coming 12"
+   },
+   {
+    "id": "https://www.portfolioai.com/report/recession-analysis-2026-09-04-labor-rate-risk",
+    "title": "Recession Risk After the Jobs Surprise",
+    "url": "https://www.portfolioai.com/report/recession-analysis-2026-09-04-labor-rate-risk",
+    "publishedDate": "2026-09-04T00:00:00.000Z",
+    "author": "Shaun McQuaker",
+    "text": "Recession Risk After the Jobs Surprise\n\nPortfolioAI Recession Analysis · September 4, 2026\n\n# Recession Risk After the Jobs Surprise: Expansion Still Leads\n\nA resilient labor signal lowers the case for an imminent contraction, even as higher yields make the economy’s margin for error more consequential.\n\n## Executive Summary\n\nThe recession case remains a tail risk, not the central scenario. The latest hard-data dashboard still shows positive output, an unemployment rate of 4.1% in July, and a Sahm Rule reading of −0.03—well below its 0.50 trigger. The September 4 employment report added a fresh piece of confirmation: employers added 162,000 jobs in August, ahead of expectations.\n\nThat resilience has a trade-off. The two-year Treasury yield rose to 4.37% after the jobs report as investors reconsidered the path of policy rates. A higher discount rate is not itself a recession signal, but it can expose businesses and households that depend on easy refinancing, elevated asset prices or a r",
+    "image": "https://www.portfolioai.com/img/portfolio-ai-og.webp"
+   }
+  ],
+  "searchTime": 2508.4,
+  "costDollars": {
+   "total": 0.007,
+   "search": {
+    "neural": 0.007
+   }
+  }
+ }
+}

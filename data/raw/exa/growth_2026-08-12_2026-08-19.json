@@ -1,0 +1,104 @@
+{
+ "theme": "growth",
+ "query": "US economy GDP growth recession retail sales ISM",
+ "start": "2026-08-12",
+ "end": "2026-08-19",
+ "fetched_utc": "2026-10-12T10:09:35Z",
+ "response": {
+  "requestId": "1b728700171181daa05ed558c1e27eed",
+  "resolvedSearchType": "",
+  "results": [
+   {
+    "id": "https://www.reuters.com/business/us-retail-sales-unexpectedly-fall-july-2026-08-14/",
+    "title": "US retail sales post first decline in nine months in July | Reuters",
+    "url": "https://www.reuters.com/business/us-retail-sales-unexpectedly-fall-july-2026-08-14/",
+    "publishedDate": "2026-08-14T00:00:00.000Z",
+    "author": "Lucia Mutikani",
+    "text": "US retail sales post first decline in nine months in July | Reuters\n\nExclusive news, data and analytics for financial market professionalsLearn more aboutRefinitiv\n\n- Summary\n\n- Retail sales drop 0.6% in July, first decline in nine months\n- Core retail sales decrease 0.4%, confounding economists' expectations for a 0.3% gain\n- Consumer sentiment deteriorates in August after two straight monthly improvements\n\nWASHINGTON, Aug 14 (Reuters) - U.S. retail sales fell in July for the first time in nine months as the boost from big tax refunds faded, suggesting that consumer spending was slowing down and prompting economists to slash their economic growth estimates for the third quarter.\n\nThe unexpected decline in retail sales reported by the Commerce Department on Friday was also payback after Amazon pulled forward its Prime Day event to June from July, with other retailers offering ‌competing promotions. A retreat in gasoline prices also weighed on receipts at service stations.\n\nThe report a",
+    "image": "https://www.reuters.com/resizer/v2/LQFNXDXYLZJNFFT25NV3LXHXBM.jpg?auth=86828867cd3a6adb8e67fd98e36b49885e110210ef09d85bc4838e6eb9b3963c&height=1005&width=1920&quality=80&smart=true",
+    "favicon": "https://www.reuters.com/pf/resources/images/reuters/favicon/tr_fvcn_kinesis_32x32_v2.ico?d=378&mxId=00000000"
+   },
+   {
+    "id": "https://www.census.gov/retail/sales.html?stream=business",
+    "title": "Monthly Retail Trade - Sales Report",
+    "url": "https://www.census.gov/retail/sales.html?stream=business",
+    "publishedDate": "2026-08-14T00:00:00.000Z",
+    "author": "US Census Bureau",
+    "text": "Monthly Retail Trade - Sales Report\n\n#### FOR IMMEDIATE RELEASE: Wednesday, September 16, 2026 \n\n## Advance Monthly Sales for Retail and Food Services\n\n September 16, 2026 \n\n Advance Estimates of U.S. Retail and Food Services Advance estimates of U.S. retail and food services sales for August 2026, adjusted for seasonal variation and holiday and trading-day differences, but not for price changes, were $773.9 billion, up 1.2 percent (±0.4 percent) from the previous month, and up 6.0 percent (±0.5 percent) from August 2025. Total sales for the June 2026 through August 2026 period were up 6.0 percent (±0.5 percent) from the same period a year ago. The June 2026 to July 2026 percent change was revised from down 0.6 percent (±0.4 percent) to down 0.5 percent (±0.2 percent). \n\n### Additional Release Tables - August 2026\n\nFiles are available as Excel or Adobe PDF. All Files are [<1MB]. \n\n Advance Monthly Retail Trade Report \n\n MARTS Time Series (Adjusted Sales Data/Seasonal Factors—1992 to pr"
+   },
+   {
+    "id": "https://www.homepagenews.com/retail-articles/ism-retail-leads-gains-as-services-sector-activity-increases/",
+    "title": "ISM: Retail Leads Gains As Services Sector Activity Increases | HomePage News",
+    "url": "https://www.homepagenews.com/retail-articles/ism-retail-leads-gains-as-services-sector-activity-increases/",
+    "publishedDate": "2026-08-14T00:00:00.000Z",
+    "author": "Mike Duff",
+    "text": "ISM: Retail Leads Gains As Services Sector Activity Increases | HomePage News\n\nAugust 14, 2026\n\n# ISM: Retail Leads Gains As Services Sector Activity Increases\n\n### Retail led gains in the services sector in the July Services Purchasing Managers’ Index from the Institute for Supply Management, as overall economic activity in the sector rose slightly.\n\nThe Services PMI registered 54.1%, up 0.1 percentage point from June and marking its 25th consecutive month in expansion territory. The break-even point between expansion and contraction is 50%.\n\nOn the manufacturing side, economic activity expanded for the seventh consecutive month, with the Manufacturing PMI reaching 55.6%, up 2.3 percentage points from June.\n\nBased on input from supply chain executives, Steve Miller, chair of the ISM services business survey committee, said, “The Business Activity Index remained in expansion territory in July, increasing 3.7 percentage points to 59.1% from June’s reading of 55.4%. The New Orders Index ",
+    "image": "https://www.homepagenews.com/wp-content/uploads/2021/09/shopping-online-scaled.jpg"
+   },
+   {
+    "id": "https://gdpquery.ai/insights/us-gdp-slows-1-5-percent-q2-2026-private-demand-accelerates-3-9-percent",
+    "title": "U.S. GDP Slows to 1.5% in Q2 2026 as Private Demand Accelerates to 3.9% | GDPQuery.ai Insights",
+    "url": "https://gdpquery.ai/insights/us-gdp-slows-1-5-percent-q2-2026-private-demand-accelerates-3-9-percent",
+    "publishedDate": "2026-08-17T00:00:00.000Z",
+    "text": "U.S. GDP Slows to 1.5% in Q2 2026 as Private Demand Accelerates to 3.9% | GDPQuery.ai Insights\n\n# U.S. GDP Slows to 1.5% in Q2 2026 as Private Demand Accelerates to 3.9%\n\nAugust 17, 2026\n\nDrafted by claude-opus-5 · Reviewed by a human before publication · Data through Q2 2026\n\n## Highlights\n\n- Print\n\nReal GDP grew at a 1.5 percent annual rate in the second quarter of 2026 in the advance estimate, down from 2.1 percent in the first quarter.\n- Read\n\nReal final sales to private domestic purchasers accelerated to 3.9 percent from 1.7 percent, so private demand picked up while measured output slowed, with government spending, trade, and inventories forming the wedge.\n- Read\n\nThe pattern in federal nondefense spending primarily reflects Strategic Petroleum Reserve crude oil sales, which BEA says have no direct effect on GDP, so the implied withdrawal of public demand is in part a bookkeeping offset.\n- Read\n\nCore PCE prices slowed to 3.4 percent from 4.4 percent while the headline PCE price i"
+   },
+   {
+    "id": "https://111things.com/national/u-s-growth-slowed-to-1-5-in-the-second-quarter-july-sales-fell/",
+    "title": "U.S. Growth Slowed to 1.5% in the Second Quarter. July Sales Fell | Interactive News",
+    "url": "https://111things.com/national/u-s-growth-slowed-to-1-5-in-the-second-quarter-july-sales-fell/",
+    "publishedDate": "2026-08-15T00:00:00.000Z",
+    "author": "Brian Bateman",
+    "text": "U.S. Growth Slowed to 1.5% in the Second Quarter. July Sales Fell | Interactive News\n\n# U.S. Growth Slowed to 1.5% in the Second Quarter. July Sales Fell\n\n August 15, 2026 1:57 am National \n\nThe U.S. economy continued to expand in the second quarter, but the pace slowed from the start of the year—and a new July retail-sales decline is raising questions about whether consumers can keep supporting growth into the third quarter.\n\nThe Bureau of Economic Analysis said its advance estimate, released July 30, showed real gross domestic product grew at a 1.5% annual rate from April through June. That was down from a 2.1% annual rate in the first quarter.\n\nThe 1.5% figure is not final. BEA is scheduled to issue a second estimate on August 26, followed by a third estimate on September 30.\n\n## What supported growth\n\nConsumer spending, business investment and exports contributed to the second-quarter increase. Consumer spending rose at a 3.2% annual pace, according to Associated Press reporting on",
+    "image": "https://jetpack.com/redirect/?source=sigenerate&query=t%3DeyJpbWciOiJodHRwczpcL1wvaTAud3AuY29tXC8xMTF0aGluZ3MuY29tXC93cC1jb250ZW50XC91cGxvYWRzXC8yMDI2XC8wNlwvYWJzdHJhY3QtYmFja2dyb3VuZC1vZi1kZWZvY3VzZWQtYnVpbGRpbmctbGlnaHRzLW9mLWlsbHVtaW5hdGVkLW1vZGVybi1jaXR5LWF0LWRhcmstbmlnaHQtNDEzOTE0My1zY2FsZWQuanBnP2ZpdD0xMDI0JTJDNjgzJnNzbD0xIiwidHh0IjoiVS5TLiBHcm93dGggU2xvd2VkIHRvIDEuNSUgaW4gdGhlIFNlY29uZCBRdWFydGVyLiBKdWx5IFNhbGVzIEZlbGwiLCJ0ZW1wbGF0ZSI6ImhpZ2h3YXkiLCJmb250IjoiIiwiYmxvZ19pZCI6MTI2NDgzMDY3fQ.oDD1bdyspDWmnrmdnqj373RQLJEVe0vv59fIuShWWl0MQ"
+   },
+   {
+    "id": "https://www.washingtonpost.com/business/2026/08/14/retail-inflation-consumer-sentiment-economy/9d3a5010-97dd-11f1-9ef9-1be722184483_story.html",
+    "title": "US retail sales slump unexpectedly and sharply after a summer tax-refund boost fades - The Washington Post",
+    "url": "https://www.washingtonpost.com/business/2026/08/14/retail-inflation-consumer-sentiment-economy/9d3a5010-97dd-11f1-9ef9-1be722184483_story.html",
+    "publishedDate": "2026-08-14T00:00:00.000Z",
+    "author": "Anne D'Innocenzio | AP",
+    "text": "US retail sales slump unexpectedly and sharply after a summer tax-refund boost fades - The Washington Post\n\n# US retail sales slump unexpectedly and sharply after a summer tax-refund boost fades\n\nAmericans unexpectedly cut their spending in July by the biggest drop since May 2025, raising doubts about the resiliency of consumers who have kept spending and powering the economy despite the rising costs of daily expenses\n\nAugust 14, 2026\n\nFILE - A person carries a shopping bag in Philadelphia, Dec. 10, 2025. (AP Photo/Matt Rourke, File)\n\nBy Anne D'Innocenzio | AP\n\nNEW YORK — After splurging on the World Cup and Amazon Prime Day sales, Americans unexpectedly cut their spending in July by the biggest amount in more than a year.\n\nRetail sales fell 0.6% last month, marking the biggest decrease since May 2025, compared with a revised gain of 0.2% in June, according to the Commerce Department data released Friday. Economists were projecting a small increase.\n\nThe decline followed a notable bump",
+    "image": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/TI6UEZUX4AI7DHXZDPTSEGCEQM_size-normalized.jpg&w=1440"
+   },
+   {
+    "id": "https://www.ishn.com/articles/115520-us-manufacturing-activity-grew-at-fastest-rate-in-more-than-four-years-july-ism-report-shows",
+    "title": "US Manufacturing Activity Grew at Fastest Rate in More Than Four Years, July ISM Report Shows | ISHN",
+    "url": "https://www.ishn.com/articles/115520-us-manufacturing-activity-grew-at-fastest-rate-in-more-than-four-years-july-ism-report-shows",
+    "publishedDate": "2026-08-12T00:00:00.000Z",
+    "text": "US Manufacturing Activity Grew at Fastest Rate in More Than Four Years, July ISM Report Shows | ISHN\n\n# US Manufacturing Activity Grew at Fastest Rate in More Than Four Years, July ISM Report Shows\n\n Photo: miniseries / E+ / Getty Images \n\nAugust 12, 2026\n\nU.S. manufacturing activity remained on a roll in July, expanding for the seventh consecutive month, according to the Institute for Supply Management.\n\nThe organization’s Manufacturing PMI registered 55.6% in July, which is its highest reading since May 2022, when it recorded 55.9%. The data were released Aug. 3.\n\nA reading above 50% indicates activity is expanding; below 50% indicates contraction.\n\nAmong the subindexes that comprise the PMI, the employment index reading of 52.8% put this subindex in expansion territory for the first time in 33 months, according to Susan Spence, who chairs the ISM’s Manufacturing Business Survey Committee. Sixty percent of the survey panelists reported that their companies are hiring.\n\nOverall, four ",
+    "image": "https://www.ishn.com/ext/resources/2026/col-0626-leadingSafet-image-forweb.jpg?height=635&t=1785554222&width=1200"
+   },
+   {
+    "id": "https://ca.investing.com/analysis/does-the-july-retail-decline-mark-the-start-of-a-growth-downshift-200627046",
+    "title": "Does the July Retail Decline Mark the Start of a Growth Downshift? | Investing.com Canada",
+    "url": "https://ca.investing.com/analysis/does-the-july-retail-decline-mark-the-start-of-a-growth-downshift-200627046",
+    "publishedDate": "2026-08-17T00:00:00.000Z",
+    "text": "Does the July Retail Decline Mark the Start of a Growth Downshift? | Investing.com Canada\n\n# Does the July Retail Decline Mark the Start of a Growth Downshift?\n\nBy James Picerno\n\nPublished 2026-08-17, 08:29 a/m\n\nUpdated 2026-08-17, 08:34 a/m\n\nThe surprisingly weak retail sales data for July could be an early sign that the recent slowdown in U.S. economic activity will continue in the second half of the year. One monthly report should be viewed cautiously, but a broader review of the latest economic numbers hints that growth may be softer than recent GDP nowcasts imply.\n\nLet’s start with the backdrop that favors an optimistic view. Several estimates of GDP for the current quarter point to a rebound following the modest rise in Q2. The Atlanta Fed’s GDPNow model is especially bullish at the moment, nowcasting that economic output will accelerate to a strong 4.3% annualized pace from Q2’s 1.5% advance.\n\nIn the wake of recent consumer data, however, the case for expecting a sizzling recove",
+    "image": "https://i-invdn-com.investing.com/redesign/images/seo/investingcom_analysis_og.jpg"
+   },
+   {
+    "id": "https://www.pbs.org/newshour/economy/u-s-retail-sales-unexpectedly-post-largest-drop-in-more-than-a-year",
+    "title": "U.S. retail sales unexpectedly post largest drop in more than a year | PBS News",
+    "url": "https://www.pbs.org/newshour/economy/u-s-retail-sales-unexpectedly-post-largest-drop-in-more-than-a-year",
+    "publishedDate": "2026-08-14T00:00:00.000Z",
+    "text": "U.S. retail sales unexpectedly post largest drop in more than a year | PBS News\n\nBy —\n\n Anne D'Innocenzio, Associated Press Anne D'Innocenzio, Associated Press \n\n# U.S. retail sales unexpectedly post largest drop in more than a year\n\nEconomy Updated on Aug 14, 2026 2:05 PM EDT — Published on Aug 14, 2026 10:34 AM EDT \n\nNEW YORK (AP) — After splurging on the World Cup and Amazon Prime Day sales, Americans unexpectedly cut their spending in July by the biggest amount in more than a year.\n\nRetail sales fell 0.6% last month, marking the biggest decrease since May 2025, compared with a revised gain of 0.2% in June, according to the Commerce Department data released Friday. Economists were projecting a small increase.\n\nThe decline followed a notable bump in spending in both April and May as Americans dipped into their government tax refunds.\n\nThe drop in spending for July, however, raised concern among some economists about the resiliency of consumers who have powered the economy forward des",
+    "image": "https://d3i6fh83elv35t.cloudfront.net/static/2026/08/AP26225609069369-1024x683.jpg"
+   },
+   {
+    "id": "https://www.cnn.com/2026/08/14/economy/us-retail-sales-july",
+    "title": "",
+    "url": "https://www.cnn.com/2026/08/14/economy/us-retail-sales-july",
+    "publishedDate": "2026-08-14T00:00:00.000Z",
+    "author": "Bryan Mena",
+    "text": "Frustrated US consumers cut their retail spending last month | CNN Business\n\n# Frustrated US consumers cut their retail spending last month \n\n By Bryan Mena \n\n Updated Aug 14, 2026, 11:30 AM ET Published Aug 14, 2026, 8:39 AM ET \n\nUpdated Aug 14, 2026\n\nUpdated Aug 14, 2026, 11:30 AM ET PUBLISHED Aug 14, 2026, 8:39 AM ET\n\n A shopper inside a Hollister store in Walnut Creek, California, on Wednesday, July 15, 2026. \n\nDavid Paul Morris/Bloomberg/Getty Images\n\n Americans pulled back on their retail spending in July and their confidence in the economy is taking a hit. That’s a potentially troubling combination for a consumer-driven economy. \n\n Retail sales fell 0.6% in July from the prior month, the Commerce Department said Friday, down from June’s 0.2% and marking the steepest drop since May 2025. Those figures are adjusted for seasonal swings but not inflation. A separate report from the University of Michigan showed that consumer sentiment declined about 8% early this month to a prelimin"
+   }
+  ],
+  "searchTime": 4586.2,
+  "costDollars": {
+   "total": 0.007,
+   "search": {
+    "neural": 0.007
+   }
+  }
+ }
+}
