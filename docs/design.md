@@ -124,3 +124,29 @@ SQLite at `data/macro.db`.
 - **Forecasts.** These are the calendar site's consensus, not a survey of record.
 - **Sentiment.** The lexicon and VADER scoring are coarse.
 - **Costs.** These are flat assumptions.
+
+## 13. Status and next steps
+
+**Phase A (offline core), done.** All modules in the map marked A are implemented with unit tests (`python -m pytest`). They run on pandas and numpy alone.
+
+**Phase B needs network access and API keys** (`APIFY_TOKEN`, `TAVILY_API_KEY`, `EXA_API_KEY` as environment variables). In order:
+
+1. `pip install -r requirements-dev.txt`. The VADER tests in `tests/test_sentiment.py` then run instead of skipping.
+2. **Calendar probe.**
+   - Read the input schema of the `xtracto/forexfactory-calendar` actor (`GET https://api.apify.com/v2/acts/xtracto~forexfactory-calendar`, then its default build's `inputSchema`) and run it on one week.
+   - Check the time zone of its timestamps: US CPI must land at 08:30 ET and the FOMC rate decision at 14:00 ET.
+   - Fall back to `hipersoft/forexfactory-scraper` or `automation-lab/tradingview-economic-calendar-scraper` if the output lacks actual or forecast values.
+   - Write the normalizer from real output and keep a small sample as a test fixture.
+3. **Ingest** (`macro_agent/ingest/`, REST via `requests`, raw JSON saved under `data/raw/` for `--offline` re-runs).
+   - Calendar: Apify asynchronous run, then poll, then fetch the dataset, for the window [today − 180d, today + 30d].
+   - Exa: weekly searches per news theme over the 180 days (`/search` with published-date filters).
+   - Tavily: news from the last 7 days for the outlook.
+   - Prices: Yahoo daily OHLC via yfinance for SPY, TLT, GLD, UUP and ^VIX, starting 60 days before the window.
+4. **Model** (`model.py`).
+   - Ridge and `HistGradientBoostingRegressor` / `Classifier` on `features.MODEL_FEATURES` plus one-hot `CATEGORICAL_FEATURES`, run through `walkforward.walk_forward`.
+   - `MeanBaseline` needs `strategy_id` among its inputs.
+   - Classifier folds whose training labels hold one class must fall back to the base rate.
+5. **Charts and reports.** `charts.py`, `report.py` and a CLI `python -m macro_agent run [--offline]`, with an offline end-to-end smoke test on synthetic data.
+6. **Real run.**
+   - Data checks: event counts by category, the CPI 08:30 / FOMC 14:00 ET anchors, no news after its slot's entry, price coverage.
+   - Then the evaluation report and the macro outlook.
