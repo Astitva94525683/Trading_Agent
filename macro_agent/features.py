@@ -1,7 +1,7 @@
-"""Event preparation, slots, time features and macro surprise features.
+"""Event preparation, slots, time, surprise, news and market features, and the model panel.
 
 Specification: docs/design.md sections 4 and 6. Every feature uses only information known at
-a slot's entry time. News, market and panel features are added in later steps.
+a slot's entry time. The panel joins these features with the trade labels from strategies.py.
 """
 
 from __future__ import annotations
@@ -347,3 +347,253 @@ def surprise_index(
     for name, column in results.items():
         out[name] = column
     return out
+
+
+# --- News features -----------------------------------------------------------
+
+NEWS_INPUT_COLUMNS = ("published_utc", "theme", "sentiment", "macro_tone")
+_NAT_NS = int(np.iinfo(np.int64).min)  # the int64 value that DatetimeIndex.asi8 gives NaT
+_DAY_NS = 86_400 * 10**9
+
+
+def _utc_ns(stamps: pd.Series) -> np.ndarray:
+    """UTC instants as int64 nanoseconds. Naive values are read as UTC. NaT is `_NAT_NS`."""
+    return pd.DatetimeIndex(pd.to_datetime(stamps, utc=True)).as_unit("ns").asi8
+
+
+def _mean_of(values: np.ndarray) -> float:
+    """Mean of the values that are not NaN. NaN when there are none."""
+    present = values[~np.isnan(values)]
+    return float(present.mean()) if present.size else _NAN
+
+
+def _news_arrays(news: pd.DataFrame) -> tuple[np.ndarray, np.ndarray, np.ndarray, np.ndarray]:
+    """Articles that have a publication time, sorted by it: (ns times, sentiment, tone, theme)."""
+    if news.empty:
+        return np.empty(0, dtype="int64"), np.empty(0), np.empty(0), np.empty(0, dtype=object)
+    _require_columns(news, NEWS_INPUT_COLUMNS, "news")
+    published = _utc_ns(news["published_utc"])
+    kept = np.flatnonzero(published != _NAT_NS)
+    order = kept[np.argsort(published[kept], kind="stable")]
+
+    def numbers(column: str) -> np.ndarray:
+        values = pd.to_numeric(news[column], errors="coerce")
+        return values.to_numpy(dtype=float, na_value=np.nan)[order]
+
+    themes = news["theme"].to_numpy(dtype=object)[order]
+    return published[order], numbers("sentiment"), numbers("macro_tone"), themes
+
+
+def news_features(
+    slots: pd.DataFrame,
+    news: pd.DataFrame,
+    themes: Sequence[str] = ("fed", "inflation", "labor", "growth"),
+) -> pd.DataFrame:
+    """Add article count, sentiment and tone features to slots (design.md section 6).
+
+    An article counts for a slot when entry_utc - W <= published_utc < entry_utc, where W is 7 or
+    30 days. Adds news_n_7d (the article count), the means news_sent_7d, news_tone_7d,
+    news_sent_30d and news_tone_30d, the 7-day minus 30-day changes news_sent_chg and
+    news_tone_chg, and news_tone_7d_<theme> for each theme. Means skip NaN values and are NaN
+    when none are left. Articles without a publication time are ignored. Returns a copy of
+    slots in input order. Raises ValueError for a missing column or a missing entry_utc.
+    """
+    _require_columns(slots, ("entry_utc",), "slots")
+    themes = tuple(dict.fromkeys(themes))
+    out = slots.copy()
+    entry = _utc_ns(out["entry_utc"])
+    if (entry == _NAT_NS).any():
+        raise ValueError("slots has missing entry_utc values")
+    published, sentiment, tone, theme_of = _news_arrays(news)
+    tone_of = {
+        theme: np.where(pd.Series(theme_of).eq(theme).to_numpy(dtype=bool), tone, _NAN)
+        for theme in themes
+    }
+    n = len(out)
+    results: dict[str, np.ndarray] = {
+        "news_n_7d": np.zeros(n, dtype="int64"),
+        "news_sent_7d": np.full(n, _NAN),
+        "news_tone_7d": np.full(n, _NAN),
+        "news_sent_30d": np.full(n, _NAN),
+        "news_tone_30d": np.full(n, _NAN),
+        **{f"news_tone_7d_{theme}": np.full(n, _NAN) for theme in themes},
+    }
+    for i, stamp in enumerate(entry):
+        end = np.searchsorted(published, stamp, side="left")  # articles before `end` predate entry
+        start_7d = np.searchsorted(published, stamp - 7 * _DAY_NS, side="left")
+        start_30d = np.searchsorted(published, stamp - 30 * _DAY_NS, side="left")
+        results["news_n_7d"][i] = end - start_7d
+        results["news_sent_7d"][i] = _mean_of(sentiment[start_7d:end])
+        results["news_tone_7d"][i] = _mean_of(tone[start_7d:end])
+        results["news_sent_30d"][i] = _mean_of(sentiment[start_30d:end])
+        results["news_tone_30d"][i] = _mean_of(tone[start_30d:end])
+        for theme in themes:
+            results[f"news_tone_7d_{theme}"][i] = _mean_of(tone_of[theme][start_7d:end])
+    results["news_sent_chg"] = results["news_sent_7d"] - results["news_sent_30d"]
+    results["news_tone_chg"] = results["news_tone_7d"] - results["news_tone_30d"]
+    names = [
+        "news_n_7d", "news_sent_7d", "news_tone_7d", "news_sent_30d", "news_tone_30d",
+        "news_sent_chg", "news_tone_chg", *(f"news_tone_7d_{theme}" for theme in themes),
+    ]
+    for name in names:
+        out[name] = results[name]
+    return out
+
+
+# --- Market features ---------------------------------------------------------
+
+MARKET_COLUMNS = (
+    "slot_id", "asset", "prev_close", "ret_5d", "ret_20d", "vol_20d", "reaction", "vix_prev",
+)
+_TRADING_DAYS = 252
+_ENTRY_KINDS = ("open", "close")
+
+
+def _price_book(frame: pd.DataFrame) -> pd.DataFrame:
+    """Float copy of a wide price frame, indexed by sorted dates.
+
+    Missing, zero, negative and infinite prices become NaN, so they never form a return.
+    """
+    book = frame.astype("float64")
+    book.index = [_as_date(value) for value in frame.index]
+    book = book.sort_index()
+    return book.where(np.isfinite(book) & (book > 0))
+
+
+def _column(book: pd.DataFrame, name: str | None) -> np.ndarray:
+    """One price column as floats. All NaN when `name` is None or not a column of `book`."""
+    if name is None or name not in book.columns:
+        return np.full(len(book.index), _NAN)
+    return book[name].to_numpy(dtype=float)
+
+
+def _value_at(book: pd.DataFrame, day: date, name: str) -> float:
+    """The value in column `name` on `day`, NaN when either is missing."""
+    if name not in book.columns or day not in book.index:
+        return _NAN
+    return float(book.at[day, name])
+
+
+def _annual_volatility(closes: np.ndarray) -> float:
+    """Annualised sample standard deviation of the log returns between consecutive closes.
+
+    Twenty-one closes give twenty returns. NaN when any close is missing.
+    """
+    if np.isnan(closes).any():
+        return _NAN
+    returns = np.diff(np.log(closes))
+    return float(returns.std(ddof=1) * math.sqrt(_TRADING_DAYS))
+
+
+def market_features(
+    slots: pd.DataFrame,
+    opens: pd.DataFrame,
+    closes: pd.DataFrame,
+    assets: Sequence[str],
+    vix_symbol: str | None = "^VIX",
+) -> pd.DataFrame:
+    """Market-state features in long format, one row per (slot, asset) (design.md section 6).
+
+    opens and closes are wide frames indexed by date, as from pivot_prices. For a slot whose
+    entry session is E, p is the last session in closes before E. prev_close is the close on p.
+    ret_5d and ret_20d are the returns over 5 and 20 sessions up to p. vol_20d is the annualised
+    standard deviation of the 20 daily log returns ending at p. reaction is the entry price over
+    prev_close, minus 1: the open on E for "open" entries and the close on E for "close" entries.
+    vix_prev is the VIX close on p, NaN when vix_symbol is None or not a column. Too little
+    history or a missing price gives NaN. Raises ValueError for missing slot columns or an
+    entry_kind other than "open" or "close".
+    """
+    _require_columns(slots, ("slot_id", "entry_session", "entry_kind"), "slots")
+    kinds = {str(kind) for kind in slots["entry_kind"]}
+    if not kinds <= set(_ENTRY_KINDS):
+        raise ValueError(f"entry_kind must be 'open' or 'close': {sorted(kinds)}")
+    asset_list = tuple(dict.fromkeys(assets))
+    open_book, close_book = _price_book(opens), _price_book(closes)
+    sessions = list(close_book.index)
+    series = {asset: _column(close_book, asset) for asset in asset_list}
+    vix = _column(close_book, vix_symbol)
+    rows: list[dict[str, object]] = []
+    for slot_id, session, kind in zip(
+        slots["slot_id"], slots["entry_session"], slots["entry_kind"], strict=True
+    ):
+        day = _as_date(session)
+        p = bisect.bisect_left(sessions, day) - 1  # position of p, or -1 when there is none
+        book = open_book if kind == "open" else close_book
+        for asset in asset_list:
+            prices = series[asset]
+            if p >= 0:
+                prev_close = prices[p]
+                ret_5d = prev_close / prices[p - 5] - 1 if p >= 5 else _NAN
+                ret_20d = prev_close / prices[p - 20] - 1 if p >= 20 else _NAN
+                vol_20d = _annual_volatility(prices[p - 20 : p + 1]) if p >= 20 else _NAN
+                vix_prev = vix[p]
+            else:
+                prev_close = ret_5d = ret_20d = vol_20d = vix_prev = _NAN
+            reaction = _value_at(book, day, asset) / prev_close - 1
+            rows.append({
+                "slot_id": slot_id,
+                "asset": asset,
+                "prev_close": float(prev_close),
+                "ret_5d": float(ret_5d),
+                "ret_20d": float(ret_20d),
+                "vol_20d": float(vol_20d),
+                "reaction": float(reaction),
+                "vix_prev": float(vix_prev),
+            })
+    out = pd.DataFrame(rows, columns=list(MARKET_COLUMNS))
+    return out.astype({name: "float64" for name in MARKET_COLUMNS[2:]})
+
+
+# --- Model panel -------------------------------------------------------------
+
+CATEGORICAL_FEATURES = ("asset", "rule")
+MODEL_FEATURES = (
+    "horizon", "sign",
+    "release_hour_et", "dow", "dom", "week_of_month", "is_open_entry",
+    "days_since_prev_slot", "days_since_same_category", "days_to_next_fomc",
+    "days_since_last_fomc", "slots_same_week",
+    "n_events", "n_high", "surprise_z", "abs_surprise_z",
+    "cat_fed", "cat_inflation", "cat_labor", "cat_growth", "cat_consumer", "cat_housing",
+    "cat_other",
+    "si_all", "si_inflation", "si_labor", "si_growth", "si_fed",
+    "news_n_7d", "news_sent_7d", "news_tone_7d", "news_sent_30d", "news_tone_30d",
+    "news_sent_chg", "news_tone_chg",
+    "news_tone_7d_fed", "news_tone_7d_inflation", "news_tone_7d_labor", "news_tone_7d_growth",
+    "ret_5d", "ret_20d", "vol_20d", "reaction", "vix_prev",
+    "signed_reaction", "signed_surprise", "signed_ret_5d",
+)
+
+
+def build_panel(
+    slots_feat: pd.DataFrame, labels: pd.DataFrame, market: pd.DataFrame
+) -> pd.DataFrame:
+    """One row per (slot, strategy): labels joined with slot and market features.
+
+    Slot columns that labels already have, except slot_id, are dropped first, so the labels
+    keep their own entry_* columns. Market features join on (slot_id, asset), and a market
+    column that the panel already has is not repeated. Adds signed_reaction, signed_surprise
+    (a NaN surprise counts as 0) and signed_ret_5d, each multiplied by the position sign. Rows
+    are sorted by entry_utc, then strategy_id, and indexed 0 to n-1. Raises ValueError for
+    missing columns, or for repeated slot_id or (slot_id, asset) keys.
+    """
+    _require_columns(labels, ("slot_id", "strategy_id", "asset", "sign", "entry_utc"), "labels")
+    _require_columns(slots_feat, ("slot_id", "surprise_z"), "slots_feat")
+    _require_columns(market, ("slot_id", "asset", "reaction", "ret_5d"), "market")
+    if slots_feat["slot_id"].duplicated().any():
+        raise ValueError("slots_feat has repeated slot_id values")
+    if market.duplicated(["slot_id", "asset"]).any():
+        raise ValueError("market has repeated (slot_id, asset) rows")
+    slot_cols = [c for c in slots_feat.columns if c == "slot_id" or c not in labels.columns]
+    panel = labels.merge(slots_feat.loc[:, slot_cols], on="slot_id", how="inner")
+    market_cols = [c for c in market.columns if c in ("slot_id", "asset") or c not in panel.columns]
+    panel = panel.merge(market.loc[:, market_cols], on=["slot_id", "asset"], how="left")
+    sign = panel["sign"]
+    panel["signed_reaction"] = sign * panel["reaction"]
+    panel["signed_surprise"] = sign * panel["surprise_z"].fillna(0.0)
+    panel["signed_ret_5d"] = sign * panel["ret_5d"]
+    return panel.sort_values(["entry_utc", "strategy_id", "slot_id"], ignore_index=True)
+
+
+def feature_columns(panel: pd.DataFrame) -> list[str]:
+    """The MODEL_FEATURES that `panel` has, in MODEL_FEATURES order. Labels are never listed."""
+    return [name for name in MODEL_FEATURES if name in panel.columns]

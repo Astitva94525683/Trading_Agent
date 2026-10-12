@@ -8,8 +8,21 @@ import numpy as np
 import pandas as pd
 import pytest
 
-from macro_agent.config import CATEGORIES
-from macro_agent.features import build_slots, prepare_events, surprise_index, time_features
+from macro_agent.config import ASSETS, CATEGORIES, COST_BPS_PER_SIDE, VIX_SYMBOL
+from macro_agent.features import (
+    CATEGORICAL_FEATURES,
+    MARKET_COLUMNS,
+    MODEL_FEATURES,
+    build_panel,
+    build_slots,
+    feature_columns,
+    market_features,
+    news_features,
+    prepare_events,
+    surprise_index,
+    time_features,
+)
+from macro_agent.strategies import LABEL_COLUMNS, compute_labels, pivot_prices, strategy_grid
 from macro_agent.timeutils import SessionCalendar, to_utc
 
 
@@ -611,3 +624,463 @@ def test_empty_slots_give_empty_frame_with_index_columns():
     out = surprise_index(_si_frame([]))
     assert out.empty
     assert {"si_all", "si_inflation", "si_labor", "si_growth", "si_fed"} <= set(out.columns)
+
+
+# --- news_features -----------------------------------------------------------
+
+NEWS_COLUMNS = ["published_utc", "theme", "sentiment", "macro_tone"]
+NEWS_FEATURE_COLUMNS = [
+    "news_n_7d", "news_sent_7d", "news_tone_7d", "news_sent_30d", "news_tone_30d",
+    "news_sent_chg", "news_tone_chg",
+    "news_tone_7d_fed", "news_tone_7d_inflation", "news_tone_7d_labor", "news_tone_7d_growth",
+]
+ONE_DAY = pd.Timedelta(days=1)
+ONE_SECOND = pd.Timedelta(seconds=1)
+# Entry at the 09:30 EDT open on Wed 10 June 2026.
+NEWS_ENTRY = pd.Timestamp("2026-06-10T13:30:00Z")
+NEWS_SLOTS = pd.DataFrame({"slot_id": ["2026-06-10_open"], "entry_utc": [NEWS_ENTRY]})
+
+
+def _articles(rows):
+    """News frame from (published UTC, theme, sentiment, macro tone) tuples."""
+    return pd.DataFrame(
+        [
+            {
+                "published_utc": pd.Timestamp(when),
+                "theme": theme,
+                "sentiment": sentiment,
+                "macro_tone": tone,
+            }
+            for when, theme, sentiment, tone in rows
+        ],
+        columns=NEWS_COLUMNS,
+    )
+
+
+def test_entry_instant_is_excluded_and_seven_days_before_is_in_the_seven_day_window():
+    news = _articles([
+        (NEWS_ENTRY, "fed", 0.9, 0.9),  # at the entry: excluded everywhere
+        (NEWS_ENTRY - 7 * ONE_DAY, "fed", 0.5, 0.5),  # exactly 7 days before: 7d and 30d
+        (NEWS_ENTRY - 8 * ONE_DAY, "inflation", -0.3, -0.3),  # 8 days before: 30d only
+    ])
+    out = news_features(NEWS_SLOTS, news).iloc[0]
+    assert out["news_n_7d"] == 1
+    _assert_close([out["news_sent_7d"], out["news_tone_7d"]], [0.5, 0.5])
+    _assert_close([out["news_sent_30d"], out["news_tone_30d"]], [0.1, 0.1])  # (0.5 - 0.3) / 2
+    _assert_close([out["news_sent_chg"], out["news_tone_chg"]], [0.4, 0.4])
+
+
+def test_window_edges_include_the_start_and_exclude_the_end():
+    news = _articles([
+        (NEWS_ENTRY - ONE_SECOND, "fed", 0.2, 0.2),  # just before entry: in both windows
+        (NEWS_ENTRY - 30 * ONE_DAY, "fed", 0.4, 0.4),  # exactly 30 days: 30d only
+        (NEWS_ENTRY - 30 * ONE_DAY - ONE_SECOND, "fed", 9.0, 9.0),  # too old: must not count
+    ])
+    out = news_features(NEWS_SLOTS, news).iloc[0]
+    assert out["news_n_7d"] == 1
+    assert out["news_sent_7d"] == pytest.approx(0.2)
+    assert out["news_sent_30d"] == pytest.approx(0.3)  # (0.2 + 0.4) / 2
+    assert out["news_tone_30d"] == pytest.approx(0.3)
+
+
+def test_missing_sentiment_or_tone_is_skipped_in_its_own_mean_but_still_counted():
+    news = _articles([
+        (NEWS_ENTRY - 1 * ONE_DAY, "fed", 0.4, 0.2),
+        (NEWS_ENTRY - 2 * ONE_DAY, "labor", np.nan, 0.6),  # no sentiment
+        (NEWS_ENTRY - 3 * ONE_DAY, "fed", 0.8, np.nan),  # no tone
+    ])
+    out = news_features(NEWS_SLOTS, news).iloc[0]
+    assert out["news_n_7d"] == 3
+    assert out["news_sent_7d"] == pytest.approx(0.6)  # (0.4 + 0.8) / 2
+    assert out["news_tone_7d"] == pytest.approx(0.4)  # (0.2 + 0.6) / 2
+
+
+def test_window_with_only_missing_values_has_nan_means_and_nan_changes():
+    news = _articles([(NEWS_ENTRY - 1 * ONE_DAY, "fed", np.nan, np.nan)])
+    out = news_features(NEWS_SLOTS, news).iloc[0]
+    assert out["news_n_7d"] == 1
+    assert math.isnan(out["news_sent_7d"])
+    assert math.isnan(out["news_tone_30d"])
+    assert math.isnan(out["news_tone_chg"])
+
+
+def test_tone_by_theme_uses_the_seven_day_window_and_the_requested_themes():
+    news = _articles([
+        (NEWS_ENTRY - 1 * ONE_DAY, "fed", 0.0, 0.5),
+        (NEWS_ENTRY - 2 * ONE_DAY, "fed", 0.0, -0.1),
+        (NEWS_ENTRY - 3 * ONE_DAY, "inflation", 0.0, 0.8),
+        (NEWS_ENTRY - 4 * ONE_DAY, "growth", 0.0, np.nan),  # the only growth article has no tone
+        (NEWS_ENTRY - 10 * ONE_DAY, "labor", 0.0, 1.0),  # outside 7 days, inside 30
+    ])
+    themes = ("fed", "inflation", "labor", "growth", "housing")
+    out = news_features(NEWS_SLOTS, news, themes=themes).iloc[0]
+    assert out["news_tone_7d_fed"] == pytest.approx(0.2)  # (0.5 - 0.1) / 2
+    assert out["news_tone_7d_inflation"] == pytest.approx(0.8)
+    assert math.isnan(out["news_tone_7d_labor"])
+    assert math.isnan(out["news_tone_7d_growth"])
+    assert math.isnan(out["news_tone_7d_housing"])  # no housing articles at all
+    assert out["news_tone_7d"] == pytest.approx(0.4)  # (0.5 - 0.1 + 0.8) / 3
+    assert out["news_tone_30d"] == pytest.approx(0.55)  # (0.5 - 0.1 + 0.8 + 1.0) / 4
+
+
+def test_default_themes_add_the_four_seven_day_theme_columns_in_order():
+    out = news_features(NEWS_SLOTS, _articles([]))
+    assert list(out.columns) == ["slot_id", "entry_utc", *NEWS_FEATURE_COLUMNS]
+
+
+@pytest.mark.parametrize("news", [_articles([]), pd.DataFrame()], ids=["columns", "no-columns"])
+def test_empty_news_gives_zero_counts_and_nan_values(news):
+    out = news_features(NEWS_SLOTS, news)
+    assert out["news_n_7d"].tolist() == [0]
+    assert out[NEWS_FEATURE_COLUMNS[1:]].isna().to_numpy().all()
+
+
+def test_each_slot_has_its_own_window_and_rows_keep_their_order():
+    slots = pd.DataFrame({
+        "slot_id": ["later", "earlier"],
+        "entry_utc": [NEWS_ENTRY + 2 * ONE_DAY, NEWS_ENTRY],
+    })
+    news = _articles([
+        (NEWS_ENTRY + 1 * ONE_DAY, "fed", 0.6, 0.6),  # after the earlier slot, before the later one
+        (NEWS_ENTRY - 1 * ONE_DAY, "fed", 0.2, 0.2),
+    ])
+    before = slots.copy()
+    out = news_features(slots, news.iloc[::-1])  # unsorted input
+    assert out["slot_id"].tolist() == ["later", "earlier"]
+    assert out["news_n_7d"].tolist() == [2, 1]
+    assert out["news_sent_7d"].tolist() == pytest.approx([0.4, 0.2])
+    pd.testing.assert_frame_equal(slots, before)
+
+
+def test_articles_without_a_publication_time_are_ignored():
+    news = _articles([
+        (pd.NaT, "fed", 0.9, 0.9),
+        (NEWS_ENTRY - 1 * ONE_DAY, "fed", 0.1, 0.1),
+    ])
+    out = news_features(NEWS_SLOTS, news).iloc[0]
+    assert out["news_n_7d"] == 1
+    assert out["news_sent_7d"] == pytest.approx(0.1)
+
+
+def test_missing_entry_time_is_rejected():
+    slots = pd.DataFrame({"slot_id": ["x"], "entry_utc": [pd.NaT]})
+    with pytest.raises(ValueError):
+        news_features(slots, _articles([]))
+
+
+# --- market_features ---------------------------------------------------------
+
+# Thirty sessions, Mon 1 June to Fri 10 July 2026. Session i is MARKET_DAYS[i].
+MARKET_DAYS = CAL.dates
+# The entry session for most tests. Its previous session is 24, and every lookback fits before it.
+ENTRY_SESSION = 25
+# Linear prices: SPY closes rise by one point a session, so session i closes at 100 + i.
+LINEAR_CLOSES = {
+    "SPY": [100.0 + i for i in range(30)],
+    "GLD": [50.0 + 2 * i for i in range(30)],
+    "^VIX": [15.0 + 0.5 * i for i in range(30)],
+}
+# Each SPY open is half a point above its own session's close, so 125.5 on session 25.
+LINEAR_OPENS = {
+    "SPY": [100.5 + i for i in range(30)],
+    "GLD": [49.0 + 2 * i for i in range(30)],
+}
+
+
+def _wide(columns):
+    """Wide price frame indexed by MARKET_DAYS, from {symbol: one value per session}."""
+    return pd.DataFrame(columns, index=MARKET_DAYS)
+
+
+def _market_slots(*specs):
+    """Slots for market_features, from (session index, entry kind) pairs."""
+    rows = [
+        {
+            "slot_id": f"{MARKET_DAYS[i].isoformat()}_{kind}",
+            "entry_session": MARKET_DAYS[i],
+            "entry_kind": kind,
+        }
+        for i, kind in specs
+    ]
+    return pd.DataFrame(rows, columns=["slot_id", "entry_session", "entry_kind"])
+
+
+def test_previous_close_and_returns_are_measured_up_to_the_session_before_entry():
+    out = market_features(
+        _market_slots((ENTRY_SESSION, "open")), _wide(LINEAR_OPENS), _wide(LINEAR_CLOSES), ["SPY"]
+    )
+    row = out.iloc[0]
+    assert row["prev_close"] == pytest.approx(124.0)  # close on session 24
+    assert row["ret_5d"] == pytest.approx(124 / 119 - 1)  # against session 19
+    assert row["ret_20d"] == pytest.approx(124 / 104 - 1)  # against session 4
+
+
+@pytest.mark.parametrize("kind, expected", [("open", 1.5 / 124), ("close", 1 / 124)])
+def test_reaction_uses_the_open_or_the_close_of_the_entry_session(kind, expected):
+    # Session 25 opens at 125.5 and closes at 125. Both are measured from the close on 24, 124.
+    out = market_features(
+        _market_slots((ENTRY_SESSION, kind)), _wide(LINEAR_OPENS), _wide(LINEAR_CLOSES), ["SPY"]
+    )
+    assert out["reaction"].iloc[0] == pytest.approx(expected)
+
+
+def test_vix_prev_is_the_vix_close_on_the_previous_session():
+    slots = _market_slots((ENTRY_SESSION, "close"))
+    opens, closes = _wide(LINEAR_OPENS), _wide(LINEAR_CLOSES)
+    default = market_features(slots, opens, closes, ["SPY"])
+    assert default["vix_prev"].iloc[0] == pytest.approx(27.0)  # 15 + 0.5 * 24
+    no_vix = market_features(slots, opens, closes, ["SPY"], vix_symbol=None)
+    assert math.isnan(no_vix["vix_prev"].iloc[0])
+    absent = market_features(slots, opens, closes, ["SPY"], vix_symbol="^VXN")
+    assert math.isnan(absent["vix_prev"].iloc[0])
+
+
+def test_vol_20d_is_the_annualised_std_of_the_twenty_log_returns_ending_at_the_previous_close():
+    # Closes alternate 100 and 102, so the log returns alternate +a and -a with a = ln(1.02).
+    # Twenty such returns have sample variance 20 a^2 / 19, so vol = a * sqrt(20/19) * sqrt(252).
+    zigzag = [100.0 if i % 2 == 0 else 102.0 for i in range(30)]
+    expected = math.log(1.02) * math.sqrt(20 / 19) * math.sqrt(252)
+    slots = _market_slots((ENTRY_SESSION, "close"))
+    out = market_features(slots, _wide({"SPY": zigzag}), _wide({"SPY": zigzag}), ["SPY"])
+    assert out["vol_20d"].iloc[0] == pytest.approx(expected)
+
+    # A jump on the entry session reaches the reaction, but not the returns or the volatility.
+    jumped = [500.0 if i == ENTRY_SESSION else v for i, v in enumerate(zigzag)]
+    out = market_features(slots, _wide({"SPY": zigzag}), _wide({"SPY": jumped}), ["SPY"]).iloc[0]
+    assert out["vol_20d"] == pytest.approx(expected)
+    assert out["ret_5d"] == pytest.approx(100 / 102 - 1)  # session 24 against session 19
+    assert out["reaction"] == pytest.approx(500 / 100 - 1)  # session 24 closed at 100
+
+
+def test_too_little_history_gives_nan_for_the_lookbacks_that_need_it():
+    # Entry on session j uses p = j - 1. ret_5d needs p >= 5. ret_20d and vol_20d need p >= 20.
+    slots = _market_slots((0, "open"), (5, "open"), (6, "open"), (20, "open"), (21, "open"))
+    out = market_features(slots, _wide(LINEAR_OPENS), _wide(LINEAR_CLOSES), ["SPY"])
+    lookbacks = ["ret_5d", "ret_20d", "vol_20d"]
+    # Session 0 has no earlier session, so nothing about the previous close is known.
+    assert out.iloc[0][["prev_close", *lookbacks, "reaction", "vix_prev"]].isna().all()
+    # Session 5 (p = 4): the previous close exists, but no lookback does.
+    assert out.iloc[1]["prev_close"] == pytest.approx(104.0)
+    assert out.iloc[1][lookbacks].isna().all()
+    # Session 6 (p = 5): ret_5d exists, the 20-session measures do not.
+    assert out.iloc[2]["ret_5d"] == pytest.approx(105 / 100 - 1)
+    assert out.iloc[2][["ret_20d", "vol_20d"]].isna().all()
+    # Session 20 (p = 19) is still short of 20 sessions of history.
+    assert out.iloc[3][["ret_20d", "vol_20d"]].isna().all()
+    # Session 21 (p = 20) has both 20-session measures.
+    assert out.iloc[4]["ret_20d"] == pytest.approx(120 / 100 - 1)
+    assert out.iloc[4]["vol_20d"] > 0
+
+
+def test_asset_without_prices_gives_nan_while_the_vix_is_still_filled():
+    out = market_features(
+        _market_slots((ENTRY_SESSION, "close")),
+        _wide(LINEAR_OPENS),
+        _wide(LINEAR_CLOSES),
+        ["SPY", "UUP"],
+    ).set_index("asset")
+    assert out.loc["SPY", "prev_close"] == pytest.approx(124.0)
+    assert out.loc["UUP", ["prev_close", "ret_5d", "ret_20d", "vol_20d", "reaction"]].isna().all()
+    assert out.loc["UUP", "vix_prev"] == pytest.approx(27.0)
+
+
+def test_a_missing_close_in_the_window_gives_nan_for_the_measures_that_use_it():
+    gapped = list(LINEAR_CLOSES["SPY"])
+    gapped[22] = np.nan  # inside the 20 sessions ending at 24, but not a price that ret_5d uses
+    out = market_features(
+        _market_slots((ENTRY_SESSION, "close")),
+        _wide(LINEAR_OPENS),
+        _wide({"SPY": gapped}),
+        ["SPY"],
+    ).iloc[0]
+    assert math.isnan(out["vol_20d"])
+    assert out["ret_5d"] == pytest.approx(124 / 119 - 1)  # sessions 19 and 24 are complete
+
+
+def test_output_has_one_row_per_slot_and_asset_in_market_columns_order():
+    slots = _market_slots((ENTRY_SESSION, "open"), (26, "close"))
+    out = market_features(slots, _wide(LINEAR_OPENS), _wide(LINEAR_CLOSES), ["SPY", "GLD"])
+    assert list(out.columns) == list(MARKET_COLUMNS)
+    first, second = slots["slot_id"]
+    assert out[["slot_id", "asset"]].values.tolist() == [
+        [first, "SPY"], [first, "GLD"], [second, "SPY"], [second, "GLD"],
+    ]
+
+
+def test_entry_kind_must_be_open_or_close_and_empty_slots_give_an_empty_frame():
+    opens, closes = _wide(LINEAR_OPENS), _wide(LINEAR_CLOSES)
+    with pytest.raises(ValueError):
+        market_features(_market_slots((ENTRY_SESSION, "midday")), opens, closes, ["SPY"])
+    empty = market_features(_market_slots(), opens, closes, ["SPY"])
+    assert empty.empty
+    assert list(empty.columns) == list(MARKET_COLUMNS)
+
+
+# --- build_panel and the model feature lists ---------------------------------
+
+PANEL_ASSETS = ("SPY", "GLD")
+PANEL_STRATEGIES = strategy_grid(
+    assets=PANEL_ASSETS, rules=("long", "long_on_beat"), horizons=(1, 2)
+)
+SLOT_OPEN = f"{MARKET_DAYS[ENTRY_SESSION].isoformat()}_open"
+SLOT_CLOSE = f"{MARKET_DAYS[26].isoformat()}_close"
+
+
+def _panel_slot(index, kind, surprise):
+    """A slot on MARKET_DAYS[index], with the columns that compute_labels needs."""
+    day = MARKET_DAYS[index]
+    return {
+        "slot_id": f"{day.isoformat()}_{kind}",
+        "entry_session": day,
+        "entry_kind": kind,
+        "entry_utc": CAL.open_at(day) if kind == "open" else CAL.close_at(day),
+        "surprise_z": surprise,
+        "primary_category": "inflation",
+    }
+
+
+def _panel_inputs():
+    """Slots, labels and market features for two slots and two assets."""
+    slots = pd.DataFrame([
+        _panel_slot(ENTRY_SESSION, "open", -0.5),  # a negative surprise: beat rules trade short
+        _panel_slot(26, "close", np.nan),  # no surprise: beat rules stay flat
+    ])
+    opens, closes = _wide(LINEAR_OPENS), _wide(LINEAR_CLOSES)
+    labels = compute_labels(slots, opens, closes, CAL, PANEL_STRATEGIES, COST_BPS_PER_SIDE)
+    market = market_features(slots, opens, closes, PANEL_ASSETS)
+    return slots, labels, market
+
+
+def test_panel_has_one_row_per_label_sorted_with_a_fresh_index():
+    slots, labels, market = _panel_inputs()
+    panel = build_panel(slots, labels, market)
+    # Slot A: 4 long trades and 4 long_on_beat trades, which go short on its negative surprise.
+    # Slot B: 4 long trades and no beat trades, because it has no surprise.
+    assert len(labels) == 12
+    assert len(panel) == len(labels)
+    assert panel.index.tolist() == list(range(len(panel)))
+    assert not panel.duplicated(["slot_id", "strategy_id"]).any()
+    keys = list(zip(panel["entry_utc"], panel["strategy_id"]))
+    assert keys == sorted(keys)
+
+
+def test_signed_features_follow_the_position_sign_and_zero_fill_a_missing_surprise():
+    slots, labels, market = _panel_inputs()
+    panel = build_panel(slots, labels, market)
+    sign = panel["sign"].astype(float)
+    np.testing.assert_allclose(panel["signed_reaction"], sign * panel["reaction"])
+    np.testing.assert_allclose(panel["signed_ret_5d"], sign * panel["ret_5d"])
+    np.testing.assert_allclose(panel["signed_surprise"], sign * panel["surprise_z"].fillna(0.0))
+    # SPY, long, slot A, one session: sign +1, reaction 1.5 / 124.
+    long_spy = panel[(panel["slot_id"] == SLOT_OPEN) & (panel["strategy_id"] == "SPY|long|1")]
+    assert long_spy["signed_reaction"].iloc[0] == pytest.approx(1.5 / 124)
+    # Slot A has surprise -0.5. Its long_on_beat trades are short, so the signed surprise is +0.5.
+    beat_a = panel[(panel["slot_id"] == SLOT_OPEN) & (panel["rule"] == "long_on_beat")]
+    assert set(beat_a["sign"]) == {-1}
+    assert beat_a["signed_surprise"].eq(0.5).all()
+    # Slot B has no surprise, so its signed surprise is 0.
+    assert panel.loc[panel["slot_id"] == SLOT_CLOSE, "signed_surprise"].eq(0.0).all()
+
+
+def test_panel_columns_are_unique_and_never_suffixed():
+    slots, labels, market = _panel_inputs()
+    panel = build_panel(slots, labels, market)
+    assert panel.columns.is_unique
+    assert not [name for name in panel.columns if name.endswith(("_x", "_y"))]
+    expected = {"entry_utc", "exit_price", "primary_category", "ret_5d", "vix_prev"}
+    assert expected <= set(panel.columns)
+
+
+def test_build_panel_rejects_repeated_slot_or_market_keys():
+    slots, labels, market = _panel_inputs()
+    with pytest.raises(ValueError):
+        build_panel(pd.concat([slots, slots]), labels, market)
+    with pytest.raises(ValueError):
+        build_panel(slots, labels, pd.concat([market, market]))
+
+
+def test_feature_columns_lists_present_model_features_in_order_and_no_outcomes():
+    slots, labels, market = _panel_inputs()
+    panel = build_panel(slots, labels, market)
+    outcomes = {name for name in LABEL_COLUMNS if name.startswith("exit_")} | {
+        "entry_price", "gross_ret", "net_ret", "win",
+    }
+    names = feature_columns(panel)
+    assert names == [name for name in MODEL_FEATURES if name in panel.columns]
+    assert {"horizon", "sign", "surprise_z", "signed_surprise", "reaction"} <= set(names)
+    assert set(names).isdisjoint(outcomes)
+    assert "entry_utc" not in names
+    smaller = feature_columns(panel.drop(columns=["vix_prev"]))
+    assert smaller == [name for name in names if name != "vix_prev"]
+
+
+def test_model_feature_lists_hold_only_entry_time_information():
+    assert len(set(MODEL_FEATURES)) == len(MODEL_FEATURES)
+    assert set(CATEGORICAL_FEATURES).isdisjoint(MODEL_FEATURES)
+    # horizon and sign are known at entry. Every other label column is an id, a timestamp or an
+    # outcome.
+    assert set(MODEL_FEATURES).isdisjoint(set(LABEL_COLUMNS) - {"horizon", "sign"})
+
+
+# --- End to end --------------------------------------------------------------
+
+E2E_DAYS = _weekdays(date(2026, 4, 1), date(2026, 7, 31))
+E2E_CAL = SessionCalendar.from_dates(E2E_DAYS)
+E2E_FOMC = [date(2026, 6, 17), date(2026, 7, 29)]
+E2E_EVENTS = pd.DataFrame([
+    _row("jobs", "Nonfarm Payrolls", "labor", "High", "2026-06-05 08:30", 180.0, 170.0),
+    _row("unemp", "Unemployment Rate", "labor", "High", "2026-06-05 08:30", 4.4, 4.2,
+         inverted=True),
+    _row("sent", "Consumer Sentiment", "consumer", "High", "2026-06-12 10:00", 60.0, 58.0),
+    _row("cpi", "CPI m/m", "inflation", "High", "2026-06-16 08:30", 0.3, 0.2),
+    _row("retail", "Retail Sales m/m", "growth", "High", "2026-06-16 08:30", 0.5, 0.4),
+    _row("fomc", "FOMC Statement", "fed", "High", "2026-06-17 14:00"),
+    _row("housing", "Housing Starts", "housing", "Medium", "2026-06-18 08:30", 1.3, 1.35),
+    _row("weekend", "Consumer Sentiment", "consumer", "High", "2026-06-20 10:00", 61.0, 60.0),
+    _row("ism", "ISM Manufacturing PMI", "growth", "Medium", "2026-07-01 10:00", 52.0, 51.0),
+    _row("low", "Factory Orders", "growth", "Low", "2026-07-02 10:00", 1.0, 0.9),
+    _row("cpi2", "CPI m/m", "inflation", "High", "2026-07-14 08:30", 0.1, 0.2),
+])
+E2E_NEWS = _articles([
+    ("2026-05-20T12:00:00Z", "fed", 0.2, 0.1),
+    ("2026-06-03T12:00:00Z", "labor", np.nan, 0.4),
+    ("2026-06-10T09:00:00Z", "inflation", 0.5, -0.2),
+    ("2026-06-16T12:30:00Z", "growth", 0.1, np.nan),
+    ("2026-06-16T08:30:00Z", "fed", 0.4, 0.6),
+])
+
+
+def _e2e_prices():
+    """Deterministic positive prices for every symbol the pipeline uses, one row per session."""
+    rows = []
+    for k, symbol in enumerate(("SPY", "TLT", "GLD", "UUP", "^VIX")):
+        base = 100.0 + 10 * k
+        for i, day in enumerate(E2E_DAYS):
+            close = base * (1 + 0.01 * (((i * (k + 3)) % 9) - 4) / 4)
+            rows.append({
+                "symbol": symbol,
+                "date": day.isoformat(),
+                "open": close * 0.999,
+                "close": close,
+            })
+    return pd.DataFrame(rows)
+
+
+E2E_PRICES = _e2e_prices()
+
+
+def test_end_to_end_pipeline_builds_a_complete_panel():
+    slots = build_slots(prepare_events(E2E_EVENTS), E2E_CAL)
+    slots = surprise_index(time_features(slots, E2E_FOMC))
+    slots = news_features(slots, E2E_NEWS)
+    opens, closes = pivot_prices(E2E_PRICES)
+    labels = compute_labels(slots, opens, closes, E2E_CAL, strategy_grid(), COST_BPS_PER_SIDE)
+    market = market_features(slots, opens, closes, tuple(ASSETS), VIX_SYMBOL)
+    panel = build_panel(slots, labels, market)
+
+    assert len(slots) > 0
+    assert not panel.empty
+    assert len(panel) == len(labels)
+    assert set(MODEL_FEATURES) <= set(panel.columns)
+    assert feature_columns(panel) == list(MODEL_FEATURES)
+    assert panel["signed_surprise"].notna().all()
