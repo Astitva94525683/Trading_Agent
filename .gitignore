@@ -1,0 +1,12 @@
+# Python
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.venv/
+*.egg-info/
+
+# Secrets: API keys live in environment variables or a local .env, never in git
+.env
+
+# Local scratch
+*.log

@@ -1,0 +1,10 @@
+[project]
+name = "macro-agent"
+version = "0.1.0"
+description = "Macro event ingestion, sentiment, and walk-forward strategy model (CrowdWisdomTrading assessment)"
+requires-python = ">=3.11"
+
+[tool.pytest.ini_options]
+testpaths = ["tests"]
+pythonpath = ["."]
+addopts = "-q"
