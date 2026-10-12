@@ -1,7 +1,7 @@
 {
  "theme": "growth",
  "query": "US economy GDP growth recession retail sales ISM",
- "fetched_utc": "2026-10-12T10:10:13Z",
+ "fetched_utc": "2026-10-12T11:01:34Z",
  "response": {
   "query": "US economy GDP growth recession retail sales ISM",
   "follow_up_questions": null,
@@ -13,84 +13,30 @@
     "title": "Weekly economic and market update – week ending 2 October, 2026",
     "content": "## Major global economic events and implications\n\nUS economic data was a mostly solid. June quarter GDP growth was revised up to 2.2% annualised from 1.5% with strong 4.6% growth in domestic demand, the level of personal income was revised up and real consumer spending rose solidly in August. The September manufacturing conditions ISM fell but remains strong. Against this consumer confidence fell again in September.\n\nImage 11 [...] NY Fed President Williams assessments that the Fed can be patient. That said, inflation is still too high at 3%yoy, the monthly rise was a “high” 0.247%mom, the ISM showed a rise in price pressures and with mostly strong growth data the Fed is still likely to hike again at its December meeting. The US money market is still pricing in 3.3 more 0.25% Fed hikes – which looks a bit excessive. [...] Image 22\n\n## What to watch over the next week?\n\nIn the US, the minutes from the last Fed meeting (Wednesday) that saw rates hiked are likely to reiterate a hawkish tone. The ISM services conditions index for September (Monday) is likely to remain strong around 55.\n\nIn Australia, the Westpac/MI consumer confidence survey (Tuesday) is likely to show a further fall following the latest rate hike. The MI Inflation Gauge (Monday) and ANZ-Indeed job ads data (Tuesday) will also be released.",
     "score": 0.4051433,
-    "raw_content": null,
     "published_date": "Mon, 05 Oct 2026 20:20:55 GMT",
-    "id": "6d9356-00"
-   },
-   {
-    "url": "https://www.linkedin.com/top-content/finance/economic-growth-metrics/factors-behind-stronger-than-expected-economic-data",
-    "title": "Factors Behind Stronger-Than-Expected Economic Data",
-    "content": "Overall retail sales rose 1.7% in March, following a revised 0.7% gain in February — the biggest monthly increase in a year. Twelve of thirteen categories rose,",
-    "score": 0.31507227,
     "raw_content": null,
-    "published_date": "Sun, 11 Oct 2026 10:00:00 GMT",
-    "id": "00670a-01"
+    "id": "8daf61-00"
    },
    {
     "url": "https://pro.thestreet.com/market-commentary/the-week-ahead-buckle-up",
     "title": "The Week Ahead: Buckle Up",
-    "content": "U.S. economic data is heavy next week after we get past Monday’s Columbus Day holiday (bond market closed, but equities open), highlighted by the September CPI report Wednesday and September PPI and retail sales Thursday. Other reports next week include September NFIB small business optimism, existing home sales, import prices, industrial production and the monthly Treasury budget statement, August business inventories and TIC flows, a few regional Fed PMIs plus the normal weekly reports (ADP, [...] It has over time had one of the highest correlations with actual GDP of any tracker (see chart) although for Q2 it came in high predicting +2.80% y/y GDP growth vs the actual first estimate of +2.10%, while for Q1 it predicted +2.48% vs 2.66%. More importantly, it has consistently indicated no recession and relatively healthy growth since the pandemic (which is what we’ve experienced). [...] Redbook sales\\ in the week of October 2nd accelerated to +8.3% y/y growth, continuing to sit well above the 2025 average of +5.8% y/y “and underscoring the consumer’s continued resilience” (Ed Yardeni).\n\n\\Redbook sales are same-store sales across a panel of large general-merchandise retailers, such as department stores, discount chains, apparel retailers, drugstores, and warehouse clubs.\n\nImage",
+    "content": "U.S. economic data is heavy next week after we get past Monday’s Columbus Day holiday (bond market closed, but equities open), highlighted by the September CPI report Wednesday and September PPI and retail sales Thursday. Other reports next week include September NFIB small business optimism, existing home sales, import prices, industrial production and the monthly Treasury budget statement, August business inventories and TIC flows, a few regional Fed PMIs plus the normal weekly reports (ADP, [...] It has over time had one of the highest correlations with actual GDP of any tracker (see chart) although for Q2 it came in high predicting +2.80% y/y GDP growth vs the actual first estimate of +2.10%, while for Q1 it predicted +2.48% vs 2.66%. More importantly, it has consistently indicated no recession and relatively healthy growth since the pandemic (which is what we’ve experienced). [...] And as you know if you’re a regular reader, one of my favorite GDP trackers is the Weekly Economic Index from the Dallas Fed.\\\n\nIn the week through October 3rd (so doesn’t have last week’s data) it fell back to +2.71%, from +2.97% the prior week, which had ended a four-week run above 3%, its longest since 2022.\n\nThe 13-week average also decelerated to 2.88% from 2.91%, also the best since 2022, still continuing to evidence economic momentum that is above trend.",
     "score": 0.27354696,
-    "raw_content": null,
     "published_date": "Sun, 11 Oct 2026 22:00:00 GMT",
-    "id": "84209f-02"
-   },
-   {
-    "url": "https://www.ftportfolios.com/economicsblog",
-    "title": "First Trust Economics Blog - The Antidote to Conventional Wisdom",
-    "content": "|  |  |  |  |  ---  |  |  | Retail Sales (284) |  |  |  |  |  ---  |  |  | Trade (328) |  |  |  |  |  ---  |  |  | Video (200) |  |  |  |  |  ---  |  |  | TV (20) |  |  |  |  |  ---  |  |  | Bloomberg (0) |  |  |  |  |  ---  |  |  | CNBC (2) |  |  |  |  |  ---  |  |  | Daily Ticker (0) |  |  |  |  |  ---  |  |  | Fox Business (17) |  |  |  |  |  ---  |  |  | Morningstar (0) |  |  |  |  |  ---  |  |  | Wesbury 101 (158) |       |  |  |  --- | | Favorite Sites | | | • | Calafia Beach Pundit | | • [...] |  |  |  |  |  ---  |  |  | Retail Sales (284) |  |  |  |  |  ---  |  |  | Trade (328) |  |  |  |  |  ---  |  |  | Video (200) |  |  |  |  |  ---  |  |  | TV (20) |  |  |  |  |  ---  |  |  | Bloomberg (0) |  |  |  |  |  ---  |  |  | CNBC (2) |  |  |  |  |  ---  |  |  | Daily Ticker (0) |  |  |  |  |  ---  |  |  | Fox Business (17) |  |  |  |  |  ---  |  |  | Morningstar (0) |  |  |  |  |  ---  |  |  | Wesbury 101 (158) |       |  |  |  --- | | Favorite Sites | | | • | Calafia Beach Pundit | | • [...] |  |  |  |  |  ---  |  |  | Retail Sales (284) |  |  |  |  |  ---  |  |  | Trade (328) |  |  |  |  |  ---  |  |  | Video (200) |  |  |  |  |  ---  |  |  | TV (20) |  |  |  |  |  ---  |  |  | Bloomberg (0) |  |  |  |  |  ---  |  |  | CNBC (2) |  |  |  |  |  ---  |  |  | Daily Ticker (0) |  |  |  |  |  ---  |  |  | Fox Business (17) |  |  |  |  |  ---  |  |  | Morningstar (0) |  |  |  |  |  ---  |  |  | Wesbury 101 (158) |       |  |  |  --- | | Favorite Sites | | | • | Calafia Beach Pundit | | •",
-    "score": 0.2687691,
     "raw_content": null,
-    "published_date": "Thu, 08 Oct 2026 07:00:00 GMT",
-    "id": "cab8b1-03"
-   },
-   {
-    "url": "https://www.kansascityfed.org/documents/19563/Sly_October_Outlook.pdf",
-    "title": "U.S. Economic Conditions",
-    "content": "Overall U.S. economic growth remains steady. • The labor market is generally in balance in aggregate. • Wage growth has returned to historical norms, Real",
-    "score": 0.2470148,
-    "raw_content": null,
-    "published_date": "Fri, 09 Oct 2026 10:00:00 GMT",
-    "id": "740acf-04"
+    "id": "ac00ff-01"
    },
    {
     "url": "https://www.tker.co/p/the-stock-market-is-not-the-economy-2026",
     "title": "The stock market ≠ the economy ✋ - by Sam Ro, CFA",
     "content": "(ADP)\n\nFor more on the labor market, read: Things are looking up in the labor market 👍\n\n🛍️ Retail sales may have cooled last month. According to the Chicago Fed’s Advance Retail Trade Summary, sales rose 0.4% in September. Adjusted for inflation, sales were down 0.7% from the prior period.\n\n(Source: Chicago Fed) [...] (Source: S&P Global)\n\nThe September ISM Services PMI signaled growth, but at a cooler pace.\n\n(Source: ISM)\n\nKeep in mind that during times of perceived stress, soft survey data tends to be more exaggerated than actual hard data.\n\nFor more on this, read: What businesses do > what businesses say 🙊 and 4 sometimes-conflicting ways I’m thinking about the economy 😬😞😎🙃 [...] 📈 Near-term GDP growth estimates are tracking positively. The Atlanta Fed’s GDPNow model sees real GDP growth rising at a 3.6% rate in Q3.\n\n(Source: Atlanta Fed)\n\nFor more on GDP and the economy, read: It’s too ambiguous to just say ‘the economy’ 🤦🏻‍♂️ and Economic data can often be both ‘worse’ and ‘good’ 🌦️\n\n## Putting it all together 📋",
     "score": 0.22240484,
-    "raw_content": null,
     "published_date": "Sun, 11 Oct 2026 12:00:00 GMT",
-    "id": "230cbb-05"
-   },
-   {
-    "url": "https://www.facebook.com/groups/idaho50501/posts/1086480387592378",
-    "title": "Economic indicators beyond the stock market in the US",
-    "content": "Since WWII, GDP has grown 1.7% faster under Democratic administrations, job creation has grown twice as fast under Democratic leadership and unemployment",
-    "score": 0.19110149,
     "raw_content": null,
-    "published_date": null,
-    "id": "117df2-06"
-   },
-   {
-    "url": "https://www.jamesinvestment.com/featured-resource/4th-quarter-2026-outlook",
-    "title": "4th Quarter 2026 Outlook - James Investment",
-    "content": "Our Retail and Consumer Indicator remains the strongest of our business cycle measures, and its components show remarkably little disagreement. No single indicator in this group is signaling weakness. The strongest indicators within our composite come from restaurant and bar sales, retail sales, and consumer goods. Retail sales rose 1.2% in August, well above the 0.8% consensus, reversing a downwardly revised 0.5% decline in July. Restaurant and bar sales rose 2.5% in July from June and 6.1% [...] Growth has remained strong even as energy prices have climbed. The Atlanta Fed’s GDPNow model estimates third-quarter real GDP growth at about 3.7% annualized, up from 1.5% in the second quarter. Nominal GDP has grown about 6.3% over the past year. S&P Global’s flash composite PMI rose to 58.4 in September from 56.0 in August, its highest reading since July 2021, with the services index at 58.7 and the manufacturing index at a four-year high. The flash composite PMI is an early monthly survey [...] \\GDPNow: The Atlanta Fed’s running estimate of current-quarter U.S. GDP growth, updated as new economic data is released.  \n \\Growth: A company stock that tends to increase in capital value rather than yield high income.  \n \\Price-to-Earnings (P/E) Ratio: A valuation measure comparing a stock’s price to its earnings per share.  \n \\The Purchasing Managers’ Index (PMI) is an indicator of the prevailing direction of economic trends in the manufacturing and service sectors.",
-    "score": 0.16027948,
-    "raw_content": null,
-    "published_date": "Tue, 06 Oct 2026 14:13:06 GMT",
-    "id": "1e5e1b-07"
-   },
-   {
-    "url": "https://seekingalpha.com/article/4953410-monthly-macro-monitor-stock-market-economy",
-    "title": "Monthly Macro Monitor: The Stock Market Is The Economy | Seeking Alpha",
-    "content": "I was reading through some blog posts this morning and ran across one titled \"The Stock Market Does Not Equal The Economy\". I’ve heard this phrase numerous times in my career, usually the\n\nThis article was written by\n\n## Quick Insights\n\n### How do current market indicators shape growth and rate expectations?\n\n### Are credit spreads signaling increased recession risk?\n\n### What risks could undermine current bullish earnings expectations?\n\n### Recommended For You [...] ## Investing Groups\n\n## Portfolios\n\n## Find & Compare\n\n# Monthly Macro Monitor: The Stock Market Is The Economy\n\n## Summary\n\nStock market activity shows price changes and trading movements in real time \n\nFabrikaCr/iStock via Getty Images\n\nStock market activity shows price changes and trading movements in real time\n\nFabrikaCr/iStock via Getty Images\n\n## A Glimpse of the Future?",
-    "score": 0.04039294,
-    "raw_content": null,
-    "published_date": "Mon, 12 Oct 2026 08:10:02 GMT",
-    "id": "199cbb-08"
+    "id": "47118a-02"
    }
   ],
-  "response_time": 3.56,
-  "request_id": "13272b03-5ecf-4a83-86cd-7dd1daf32252"
+  "response_time": 0.85,
+  "request_id": "f9a4c425-b906-4a16-adc4-338a59697730"
  }
 }

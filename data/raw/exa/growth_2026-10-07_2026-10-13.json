@@ -3,9 +3,9 @@
  "query": "US economy GDP growth recession retail sales ISM",
  "start": "2026-10-07",
  "end": "2026-10-13",
- "fetched_utc": "2026-10-12T10:10:03Z",
+ "fetched_utc": "2026-10-12T11:01:23Z",
  "response": {
-  "requestId": "d37cf03eb855b44e31a13cb59d0b6a29",
+  "requestId": "6df56fb5f9f244559f552a169a5a8bf9",
   "resolvedSearchType": "",
   "results": [
    {
@@ -59,12 +59,12 @@
     "text": "What Thursday’s Retail Sales Number Won’t Tell You – Stock Moguls\n\n# What Thursday’s Retail Sales Number Won’t Tell You\n\n October 11, 2026 \n\nThree data releases are now lined up to decide whether the Federal Reserve raises rates again at its October 27–28 meeting. The first lands Wednesday morning, when the Bureau of Labor Statistics publishes September CPI. The second and third arrive together Thursday at 8:30 AM Eastern: advance retail sales for September alongside the Producer Price Index.\n\nOn paper, retail sales looks contained. Consensus sits at +0.3% month over month, a significant step down from August’s 1.2% surge. The Chicago Fed’s Advance Retail Trade Summary, however, offers a harder read: ex-autos sales are projected up 0.4% in nominal terms, but down 0.7% once adjusted for inflation. That is the widest gap between nominal and real spending growth so far this year, and it is not accidental.\n\nDiesel averaged $6.32 a gallon as of October 6, up about 72% from a year ago. Regul"
    },
    {
-    "id": "https://recessionpulse.com/blog/daily-recession-risk-october-10-2026",
-    "title": "Recession Risk 38/100 — October 10, 2026 | RecessionPulse",
-    "url": "https://recessionpulse.com/blog/daily-recession-risk-october-10-2026",
-    "publishedDate": "2026-10-10T00:00:00.000Z",
-    "text": "Daily Risk Assessment October 10, 2026\n\n# Recession Risk 38/100 — October 10, 2026\n\nUS recession risk over the next 90 days is MODERATE (38/100): the labor-market recession triggers are not flashing (Sahm Rule ~0.00; initial jobless claims 197k for week ending Oct 3, 2026), and the yield curve is now positively sloped with the 2s10s spread at +44 bps as of Oct 9, 2026. Growth tracking is not recessionary in real time: Atlanta Fed GDPNow is roughly mid-3% for 2026:Q3 as of Oct 8, 2026, and ISM Manufacturing PMI for September is expansionary at 54.5. Offsetting those “green” signals, forward-looking soft spots are concentrated in late-cycle labor and demand proxies (sharp weakness in temp help, very depressed sentiment) while the Fed remains hawkish with another hike “likely” later in 2026 per the Oct 7 minutes. Net: the data do not support an imminent recession call, but the balance of risks is skewed toward a growth scare rather than re-acceleration.\n\n## Recession Risk Score: 38/100 — ",
-    "image": "https://recessionpulse.com/api/og/risk-trend?size=og&date=2026-10-10"
+    "id": "https://industrytoday.com/september-2026-ism-manufacturing-pmi-report/",
+    "title": "September 2026 ISM® Manufacturing PMI® Report - Industry Today - Leader in Manufacturing & Industry News",
+    "url": "https://industrytoday.com/september-2026-ism-manufacturing-pmi-report/",
+    "publishedDate": "2026-10-08T18:42:49.000Z",
+    "author": "Melissa Burge",
+    "text": "# September 2026 ISM® Manufacturing PMI® Report - Industry Today - Leader in Manufacturing & Industry News\n\nAuthor: Melissa Burge\nPublished: 2026-10-08T18:42:49Z\nSource: industrytoday.com\nLanguage: en\n\n## Story\n\nSeptember 2026 ISM® Manufacturing PMI® Report - Industry Today - Leader in Manufacturing & Industry News\n\n# October 8, 2026 September 2026 ISM® Manufacturing PMI® Report \n\nEconomic activity in the manufacturing sector expanded in September for the ninth consecutive month, say the nation’s supply executives in the latest ISM® Manufacturing PMI® Report.\n\nManufacturing PMI® at 54.5% New Orders Growing Production Growing Employment Growing Supplier Deliveries Slowing Raw Materials Inventories Contracting; Customers’ Inventories Too Low Prices Increasing; Imports Growing; Exports Growing\n\n(Tempe, Arizona) — The report was issued today by Susan Spence, MBA, Chair of the Institute for Supply Management® (ISM®) Manufacturing Business Survey Committee.\n\n“The Manufacturing PMI® registere"
    },
    {
     "id": "https://www.monitordaily.com/ism-economic-activity-in-services-sector-expands-in-september-services-pmi-at-54-9/",
@@ -76,24 +76,23 @@
     "image": "https://www.monitordaily.com/wp-content/uploads/2025/07/photo-1504868584819-f8e8b4b6d7e3.avif"
    },
    {
-    "id": "https://industrytoday.com/september-2026-ism-manufacturing-pmi-report/",
-    "title": "September 2026 ISM® Manufacturing PMI® Report - Industry Today - Leader in Manufacturing & Industry News",
-    "url": "https://industrytoday.com/september-2026-ism-manufacturing-pmi-report/",
-    "publishedDate": "2026-10-08T18:42:49.000Z",
-    "author": "Melissa Burge",
-    "text": "# September 2026 ISM® Manufacturing PMI® Report - Industry Today - Leader in Manufacturing & Industry News\n\nAuthor: Melissa Burge\nPublished: 2026-10-08T18:42:49Z\nSource: industrytoday.com\nLanguage: en\n\n## Story\n\nSeptember 2026 ISM® Manufacturing PMI® Report - Industry Today - Leader in Manufacturing & Industry News\n\n# October 8, 2026 September 2026 ISM® Manufacturing PMI® Report \n\nEconomic activity in the manufacturing sector expanded in September for the ninth consecutive month, say the nation’s supply executives in the latest ISM® Manufacturing PMI® Report.\n\nManufacturing PMI® at 54.5% New Orders Growing Production Growing Employment Growing Supplier Deliveries Slowing Raw Materials Inventories Contracting; Customers’ Inventories Too Low Prices Increasing; Imports Growing; Exports Growing\n\n(Tempe, Arizona) — The report was issued today by Susan Spence, MBA, Chair of the Institute for Supply Management® (ISM®) Manufacturing Business Survey Committee.\n\n“The Manufacturing PMI® registere"
+    "id": "https://recessionpulse.com/blog/daily-recession-risk-october-10-2026",
+    "title": "Recession Risk 38/100 — October 10, 2026 | RecessionPulse",
+    "url": "https://recessionpulse.com/blog/daily-recession-risk-october-10-2026",
+    "publishedDate": "2026-10-10T00:00:00.000Z",
+    "text": "Daily Risk Assessment October 10, 2026\n\n# Recession Risk 38/100 — October 10, 2026\n\nUS recession risk over the next 90 days is MODERATE (38/100): the labor-market recession triggers are not flashing (Sahm Rule ~0.00; initial jobless claims 197k for week ending Oct 3, 2026), and the yield curve is now positively sloped with the 2s10s spread at +44 bps as of Oct 9, 2026. Growth tracking is not recessionary in real time: Atlanta Fed GDPNow is roughly mid-3% for 2026:Q3 as of Oct 8, 2026, and ISM Manufacturing PMI for September is expansionary at 54.5. Offsetting those “green” signals, forward-looking soft spots are concentrated in late-cycle labor and demand proxies (sharp weakness in temp help, very depressed sentiment) while the Fed remains hawkish with another hike “likely” later in 2026 per the Oct 7 minutes. Net: the data do not support an imminent recession call, but the balance of risks is skewed toward a growth scare rather than re-acceleration.\n\n## Recession Risk Score: 38/100 — ",
+    "image": "https://recessionpulse.com/api/og/risk-trend?size=og&date=2026-10-10"
    },
    {
-    "id": "https://aegeanintel.com/research/the-factory-floor-into-winter-ism-fed-output-and-factory/",
-    "title": "The Factory Floor into Winter: ISM, Fed Output and Factory Jobs | Aegean Intelligence Group",
-    "url": "https://aegeanintel.com/research/the-factory-floor-into-winter-ism-fed-output-and-factory/",
+    "id": "https://gamiss.com/news/us-economic-release-tracks-growth-across-industries-and-states",
+    "title": "US economic release tracks growth across industries and states | Gamiss",
+    "url": "https://gamiss.com/news/us-economic-release-tracks-growth-across-industries-and-states",
     "publishedDate": "2026-10-10T00:00:00.000Z",
-    "author": "Zacharias",
-    "text": "The Factory Floor into Winter: ISM, Fed Output and Factory Jobs | Aegean Intelligence Group\n\n# The Factory Floor into Winter: ISM, Fed Output and Factory Jobs\n\nA hot survey, modest official output and slow hiring meet the year-end data run\n\nUS factory surveys say the sector is expanding briskly, and official output has followed, but only modestly and with a pause in August that was not only about cars. Slow deliveries lift part of the survey headline, input costs are high, and hiring is positive but slow. The October readings decide how far the gap closes.\n\nISSUED 10 OCTOBER 2026 · MANUFACTURING & INDUSTRIAL BASE · AEGEAN INTELLIGENCE GROUP · AUDITED AGAINST AEGEAN-OS\n\nTHE DOCUMENT\n\nHOW TO CITE\n\nAegean Intelligence Group, “The Factory Floor into Winter: ISM, Fed Output and Factory Jobs,” AIG-MIN-26-005, The Aegean Register, 10 October 2026.\n\nAbstract\n\nUS factory surveys say the sector is expanding briskly, and official output has followed, but only modestly and with a pause in August t",
-    "image": "https://aegeanintel.com/assets/covers/the-factory-floor-into-winter-ism-fed-output-and-factory.png"
+    "text": "US economic release tracks growth across industries and states | Gamiss\n\n# US economic release tracks growth across industries and states\n\nRecent U.S. Bureau of Economic Analysis releases referenced on its “U.S. Economy at a Glance” page show the economy growing in the second quarter of 2026, with consumer spending supporting activity, but with sharply uneven state results and wider trade-related deficits.\n\nBy Gamiss editorial team · 4 min read · Published 10 Oct 2026, 09:16\n\nIllustrative stock photograph, not an image of the reported event or its participants. · Image: Photo: Unsplash · Unsplash licence. Cropped.\n\nRecent releases highlighted on the U.S. Bureau of Economic Analysis “U.S. Economy at a Glance” page point to continued U.S. growth in mid-2026, while also showing notable differences across states and a weaker picture in some international balances. The dashboard itself is published at the BEA’s official site, https://www.bea.gov/news/glance, and the page lists several under",
+    "image": "https://gamiss.com/api/storage/public-objects/editorial/photos/us-economic-release-tracks-growth-across-industries-and-states-0791edb42632.webp"
    }
   ],
-  "searchTime": 3777.1,
+  "searchTime": 1651.4,
   "costDollars": {
    "total": 0.007,
    "search": {

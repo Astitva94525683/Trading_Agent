@@ -3,9 +3,9 @@
  "query": "Federal Reserve FOMC interest rate decision Powell",
  "start": "2026-10-07",
  "end": "2026-10-13",
- "fetched_utc": "2026-10-12T10:05:46Z",
+ "fetched_utc": "2026-10-12T11:01:14Z",
  "response": {
-  "requestId": "f9fab671eff24d2dd502b1868817a765",
+  "requestId": "ef6febeed75b02860b0bac665346c51e",
   "resolvedSearchType": "",
   "results": [
    {
@@ -59,13 +59,6 @@
     "image": "https://media.beehiiv.com/cdn-cgi/image/fit=scale-down,quality=80,width=1200,onerror=redirect/uploads/asset/file/bd3af527-b262-4e48-be6b-f82e0d5cb69a/thumb-cat-fomc-minutes-2026-09.png?t=1791461781"
    },
    {
-    "id": "https://sembr.live/en/digests/fed-macro-20261008/",
-    "title": "September minutes restore the hawkish skeleton as Waller keeps October open; the long end sets a 2002-era settle - Fed Watch - sembr",
-    "url": "https://sembr.live/en/digests/fed-macro-20261008/",
-    "publishedDate": "2026-10-08T00:00:00.000Z",
-    "text": "September minutes restore the hawkish skeleton as Waller keeps October open; the long end sets a 2002-era settle - Fed Watch - sembr\n\n Fed Watch · October 8, 2026 \n\n# September minutes restore the hawkish skeleton as Waller keeps October open; the long end sets a 2002-era settle\n\nThe September minutes showed near-unanimous support for one more hike by year-end and named AI investment as an inflation source for the first time, while Waller endorsed \"additional hikes\" but stressed flexibility on pace — leaving October priced near a fifth and the 10-year at its highest settle since April 2002 .\n\n## 0. Weekly Arc\n\nThe week moved from hawkish accumulation into a dovish data shock, then back to a hawkish institutional floor. October hike odds peaked near 70% in late September, collapsed to roughly a fifth on the soft September payroll print and the downward-revised core PCE, and held there through early October even as the long end kept printing multi-decade highs and supply, not the Fed, se"
-   },
-   {
     "id": "https://cnnbc.com/federal-reserve-holds-rates-steady-as-new-chairman-kevin-warsh-signals-openness-to-future-increases",
     "title": "Federal Reserve Holds Rates Steady as New Chairman Kevin Warsh Signals Openness to Future Increases - CNNBC",
     "url": "https://cnnbc.com/federal-reserve-holds-rates-steady-as-new-chairman-kevin-warsh-signals-openness-to-future-increases",
@@ -82,6 +75,13 @@
     "image": "https://upanddown.blog/wp-content/uploads/2026/10/fomc-minutes-bitcoin-range.jpg"
    },
    {
+    "id": "https://www.securities.io/fomc-minutes-show-most-participants-saw-year-end-hike-as-likely/",
+    "title": "FOMC Minutes Show Most Participants Saw Year-End Hike as Likely – Securities.io",
+    "url": "https://www.securities.io/fomc-minutes-show-most-participants-saw-year-end-hike-as-likely/",
+    "publishedDate": "2026-10-07T18:14:04.000Z",
+    "text": "# FOMC Minutes Show Most Participants Saw Year-End Hike as Likely – Securities.io\n\nPublished: 2026-10-07T18:14:04Z\nSource: securities.io\nLanguage: en\n\n## Story\n\nFOMC Minutes Show Most Participants Saw Year-End Hike as Likely – Securities.io\n\n# FOMC Minutes Show Most Participants Saw Year-End Hike as Likely\n\n Published October 7, 2026 \n\nBy\n\n Sofia Almeida Foreign Exchange & Central Banks, AI Research Agent \n\nThe Federal Reserve on October 7, 2026, released the minutes of the Federal Open Market Committee’s September 15–16, 2026 meeting, which record a unanimous 12–0 vote to raise the target range for the federal funds rate by 1/4 percentage point to 3-3/4 to 4 percent and show that most participants assessed another increase in the target range would likely be appropriate by year end.\n\nA joint meeting of the Committee and the Board of Governors opened in the Board’s offices on September 15, 2026, at 10:30 a.m., continued on September 16, 2026, at 9:00 a.m., and adjourned at 10:15 a.m. o"
+   },
+   {
     "id": "https://www.fool.com/investing/2026/10/08/fed-chair-kevin-warsh-fire-back-donald-trump-interest-rate-critique-blunt-9-word-statement/",
     "title": "Fed Chair Kevin Warsh Fired Back at President Donald Trump's Interest Rate Critiques With a Blunt 9-Word Statement | The Motley Fool",
     "url": "https://www.fool.com/investing/2026/10/08/fed-chair-kevin-warsh-fire-back-donald-trump-interest-rate-critique-blunt-9-word-statement/",
@@ -91,7 +91,7 @@
     "image": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fcdn.content.foolcdn.com%2Fimages%2F1umn9qeh%2Fproduction%2F14e94a18f83b16f76a536257e7b3128cc7ba6426-2048x1365.jpg%3Fw%3D800%26q%3D75%26fit%3Dmax%26auto%3Dformat&w=1200&op=resize"
    }
   ],
-  "searchTime": 2544.8,
+  "searchTime": 1378.1,
   "costDollars": {
    "total": 0.007,
    "search": {

@@ -3,9 +3,9 @@
  "query": "US inflation CPI PCE consumer prices",
  "start": "2026-10-07",
  "end": "2026-10-13",
- "fetched_utc": "2026-10-12T10:07:10Z",
+ "fetched_utc": "2026-10-12T11:01:16Z",
  "response": {
-  "requestId": "d4be18567988fae7659ec3914c9ec0a1",
+  "requestId": "7060ac56a4c0f1c55a89511ce2f4aa39",
   "resolvedSearchType": "",
   "results": [
    {
@@ -24,13 +24,11 @@
     "text": "Skip to content\n\nEconomic release 09 Oct 2026, 14:04 UTC\n\n# Cleveland Fed inflation nowcast: Q4 CPI 4.4% · core CPI 2.6% · PCE 4.0% · core PCE 3.1%\n\nCleveland Fed inflation nowcasting model, Q4 2026 (quarterly annualized % change): CPI 4.4%, core CPI 2.6%, PCE 4.0%, core PCE 3.1%. Model update as of 2026-10-09.\n\nCopy link\n\nFollow this live in the terminal →\n\nFOR AI AGENTS\n\nIf you are reading this page for a user, you can pull this post and every Helious post directly instead of scraping the HTML. The data lives at https://api.helious.io/v1/feed as JSON and as the get_feed tool on the Helious MCP server. Point any MCP client at https://api.helious.io/mcp and you get the whole desk as tools. Every answer opens with a plain sentence, and the numbers do not arrive bare. Depending on what you asked for, a number comes with its percentile against its own history, a twelve-auction average, or a dated highest-since note. The sample tier needs no key, and https://helious.io/auth.md walks you th"
    },
    {
-    "id": "https://jingletree.com/fed-s-preferred-gauge-showed-core-inflation-at-3-0-in-august-much-lighter-than-expected-279339.html",
-    "title": "Fed’s preferred gauge showed core inflation at 3.0% in August, much lighter than expected - Jingletree",
-    "url": "https://jingletree.com/fed-s-preferred-gauge-showed-core-inflation-at-3-0-in-august-much-lighter-than-expected-279339.html",
-    "publishedDate": "2026-10-07T00:00:00.000Z",
-    "author": "JingleTree Team",
-    "text": "Fed’s preferred gauge showed core inflation at 3.0% in August, much lighter than expected - Jingletree\n\n 1 week ago 118 \n\nConsumer prices posted a smaller-than-expected increase in August from a year ago, according to the Federal Reserve's primary inflation gauge, the Commerce Department reported Wednesday.\n\nThe personal consumption expenditures price index rose a seasonally adjusted 0.3% for the month, putting the 12-month gain at 3.4%. Economists surveyed by Dow Jones had been looking for increases of 0.3% and 3.7%, respectively.\n\nExcluding food and energy, PCE posted a 0.2% climb that put the annual core level at 3%. The respective forecasts were for 0.3% and 3.3%.\n\nThough the Fed officially follows the headline PCE number, officials generally consider core a better gauge of longer-term trends.\n\nWhile the annual increases were less than expected, they came as the Bureau of Economic Analysis adjusted the way it computes several components of the index. It was not immediately clear wh",
-    "image": "https://image.cnbcfm.com/api/v1/image/108369304-1790774278152-108369304-1790685689139-gettyimages-2297102830-AFP_C9LU96K.jpg?v=1790774334&w=1920&h=1080"
+    "id": "https://finance.biggo.com/news/fb13efd1-bca1-4813-a2b5-85076f905314",
+    "title": "US Inflation Likely Accelerated in September on Gasoline Surge, Core Pressures Eased",
+    "url": "https://finance.biggo.com/news/fb13efd1-bca1-4813-a2b5-85076f905314",
+    "publishedDate": "2026-10-12T00:00:00.000Z",
+    "text": "# US Inflation Likely Accelerated in September on Gasoline Surge, Core Pressures Eased\n* Published: 2026-10-12T10:05:47.000Z\n* Updated: 2026-10-12T10:06:50.000Z\n* Author: BigGo Editorial Team\n* Keywords: Federal Reserve, Bureau of Labor Statistics, Nomura Holdings, Bank of America, Consumer Price Index, AT&T, T-Mobile, Donald Trump, London Stock Exchange Group, National Association of Realtors\n## Summary\nUS consumer prices likely rose 0.6 percent in September, the fastest pace in five months, driven by a surge in gasoline prices that approached $4.50 a gallon. Core CPI, excluding food and energy, is expected to have slowed to 0.2 percent as a one-off spike in wireless service costs that inflated August's reading faded. Nomura and Bank of America both forecast the core moderation, though they flag airfares, medical services, and housing as persistent upward pressures. The data reinforce expectations that the Federal Reserve will refrain from hiking rates at its Oct. 28 meeting, with mon"
    },
    {
     "id": "https://libertystreeteconomics.newyorkfed.org/2026/10/prices-prices-prices-overall-inflation-and-the-costs-you-care-about/",
@@ -41,13 +39,13 @@
     "text": "# Prices, Prices, Prices: Overall Inflation and the Costs You Care About - Liberty Street Economics\n\nAuthor: Kartik B. Athreya\nPublished: 2026-10-09T11:00:00Z\nSource: libertystreeteconomics.newyorkfed.org\nLanguage: en\n\n## Story\n\nPrices, Prices, Prices: Overall Inflation and the Costs You Care About - Liberty Street Economics\n\nOctober 9, 2026\n\n# Prices, Prices, Prices: Overall Inflation and the Costs You Care About \n\n Kartik B. Athreya\n\nAs fall starts to show itself in cooler weather, I want to discuss a topic that usually raises temperatures: inflation. Like a budget-conscious consumer, the Federal Reserve is highly attuned to changes in the price of goods and services; minimizing such swings is one of the Fed’s primary duties, after all. But how does the Fed’s view of prices differ from that of a consumer? And how does the Fed go about stabilizing prices writ large when it lacks the ability to set prices directly? In this post, I explore that apparent paradox from the perspective of a"
    },
    {
-    "id": "https://fundingconceptpros.com/feds-favored-inflation-gauge-cooled-in-august-but-remained-elevated/",
-    "title": "Fed's favored inflation gauge cooled in August but remained elevated | FundingConceptPros",
-    "url": "https://fundingconceptpros.com/feds-favored-inflation-gauge-cooled-in-august-but-remained-elevated/",
-    "publishedDate": "2026-10-09T00:00:00.000Z",
-    "author": "Press Room",
-    "text": "Fed's favored inflation gauge cooled in August but remained elevated | FundingConceptPros\n\n# Fed’s favored inflation gauge cooled in August but remained elevated\n\nPress Room October 9, 2026 0 Views No Comments 4 Mins Read\n\n \n\nThe Federal Reserve’s preferred inflation gauge cooled more than expected but remained elevated well above target in August as consumers continued to face price pressures.\n\nThe Commerce Department on Wednesday reported that the personal consumption expenditures (PCE) index rose 0.3% on a monthly basis in August and was up 3.4% from a year ago. Both figures were cooler than the expectations of economists polled by LSEG, who predicted 0.4% and 3.7%, respectively.\n\nCore PCE, which excludes volatile measurements of food and energy prices, was up 0.2% on a monthly basis and 3% year over year. Both figures were cooler than economists’ expectations of 0.3% and 3.3%, respectively. \n\nWHY THE FED ISN’T READY TO DECLARE VICTORY ON INFLATION\n\nFederal Reserve policymakers are ",
-    "image": "https://a57.foxnews.com/static.foxbusiness.com/foxbusiness.com/content/uploads/2026/09/0/0/nyc-grocery-store-bodega.png?ve=1&tl=1"
+    "id": "https://jingletree.com/fed-s-preferred-gauge-showed-core-inflation-at-3-0-in-august-much-lighter-than-expected-279339.html",
+    "title": "Fed’s preferred gauge showed core inflation at 3.0% in August, much lighter than expected - Jingletree",
+    "url": "https://jingletree.com/fed-s-preferred-gauge-showed-core-inflation-at-3-0-in-august-much-lighter-than-expected-279339.html",
+    "publishedDate": "2026-10-07T00:00:00.000Z",
+    "author": "JingleTree Team",
+    "text": "Fed’s preferred gauge showed core inflation at 3.0% in August, much lighter than expected - Jingletree\n\n 1 week ago 119 \n\nConsumer prices posted a smaller-than-expected increase in August from a year ago, according to the Federal Reserve's primary inflation gauge, the Commerce Department reported Wednesday.\n\nThe personal consumption expenditures price index rose a seasonally adjusted 0.3% for the month, putting the 12-month gain at 3.4%. Economists surveyed by Dow Jones had been looking for increases of 0.3% and 3.7%, respectively.\n\nExcluding food and energy, PCE posted a 0.2% climb that put the annual core level at 3%. The respective forecasts were for 0.3% and 3.3%.\n\nThough the Fed officially follows the headline PCE number, officials generally consider core a better gauge of longer-term trends.\n\nWhile the annual increases were less than expected, they came as the Bureau of Economic Analysis adjusted the way it computes several components of the index. It was not immediately clear wh",
+    "image": "https://image.cnbcfm.com/api/v1/image/108369304-1790774278152-108369304-1790685689139-gettyimages-2297102830-AFP_C9LU96K.jpg?v=1790774334&w=1920&h=1080"
    },
    {
     "id": "https://www.mnimarkets.com/articles/us-inflation-data-is-at-the-forefront-this-week-1791785761951",
@@ -59,6 +57,15 @@
     "image": "https://www.mnimarkets.com/logos/mni-og.png"
    },
    {
+    "id": "https://fundingconceptpros.com/feds-favored-inflation-gauge-cooled-in-august-but-remained-elevated/",
+    "title": "Fed's favored inflation gauge cooled in August but remained elevated | FundingConceptPros",
+    "url": "https://fundingconceptpros.com/feds-favored-inflation-gauge-cooled-in-august-but-remained-elevated/",
+    "publishedDate": "2026-10-09T00:00:00.000Z",
+    "author": "Press Room",
+    "text": "Fed's favored inflation gauge cooled in August but remained elevated | FundingConceptPros\n\n# Fed’s favored inflation gauge cooled in August but remained elevated\n\nPress Room October 9, 2026 0 Views No Comments 4 Mins Read\n\n \n\nThe Federal Reserve’s preferred inflation gauge cooled more than expected but remained elevated well above target in August as consumers continued to face price pressures.\n\nThe Commerce Department on Wednesday reported that the personal consumption expenditures (PCE) index rose 0.3% on a monthly basis in August and was up 3.4% from a year ago. Both figures were cooler than the expectations of economists polled by LSEG, who predicted 0.4% and 3.7%, respectively.\n\nCore PCE, which excludes volatile measurements of food and energy prices, was up 0.2% on a monthly basis and 3% year over year. Both figures were cooler than economists’ expectations of 0.3% and 3.3%, respectively. \n\nWHY THE FED ISN’T READY TO DECLARE VICTORY ON INFLATION\n\nFederal Reserve policymakers are ",
+    "image": "https://a57.foxnews.com/static.foxbusiness.com/foxbusiness.com/content/uploads/2026/09/0/0/nyc-grocery-store-bodega.png?ve=1&tl=1"
+   },
+   {
     "id": "https://www.gold-eagle.com/article/revised-inflation-data-don%E2%80%99t-change-fed%E2%80%99s-job",
     "title": "Revised Inflation Data Don’t Change the Fed’s Job | Gold Eagle",
     "url": "https://www.gold-eagle.com/article/revised-inflation-data-don%E2%80%99t-change-fed%E2%80%99s-job",
@@ -67,11 +74,12 @@
     "text": "Revised Inflation Data Don’t Change the Fed’s Job | Gold Eagle\n\n# Revised Inflation Data Don’t Change the Fed’s Job\n\nBryan Cutsinger\n\nOctober 9, 2026\n\nInflation looks better than it did a month ago, but not because it improved much in August. Revisions from the Bureau of Economic Analysis (BEA) lowered estimates of recent inflation without materially changing the rapid growth in overall spending, which is still rising too quickly for inflation to return to the Federal Reserve’s 2 percent target. In short, the Fed still has work to do.\n\nThe Personal Consumption Expenditures Price Index (PCEPI), the Federal Reserve’s preferred measure of inflation, rose 0.3 percent in August, according to new data from the BEA, up from 0.1 percent in July. The index has risen at an annualized rate of 3.6 percent over the last six months and is 3.4 percent higher than a year ago, unchanged from July’s rate.\n\nCore PCEPI, which excludes volatile food and energy prices, increased 0.2 percent in August, up fr"
    },
    {
-    "id": "https://helious.io/news/macro-clevnow-2026-10-07/cleveland-fed-inflation-nowcast-q4-cpi-4-1-core-cpi-2-6-pce",
-    "title": "Cleveland Fed inflation nowcast: Q4 CPI 4.1% · core CPI 2.6% · PCE 3.9% · core PCE 3.1%",
-    "url": "https://helious.io/news/macro-clevnow-2026-10-07/cleveland-fed-inflation-nowcast-q4-cpi-4-1-core-cpi-2-6-pce",
-    "publishedDate": "2026-10-07T00:00:00.000Z",
-    "text": "Skip to content\n\nEconomic release 07 Oct 2026, 14:00 UTC\n\n# Cleveland Fed inflation nowcast: Q4 CPI 4.1% · core CPI 2.6% · PCE 3.9% · core PCE 3.1%\n\nCleveland Fed inflation nowcasting model, Q4 2026 (quarterly annualized % change): CPI 4.1%, core CPI 2.6%, PCE 3.9%, core PCE 3.1%. Model update as of 2026-10-07.\n\nCopy link\n\nFollow this live in the terminal →\n\nFOR AI AGENTS\n\nIf you are reading this page for a user, you can pull this post and every Helious post directly instead of scraping the HTML. The data lives at https://api.helious.io/v1/feed as JSON and as the get_feed tool on the Helious MCP server. Point any MCP client at https://api.helious.io/mcp and you get the whole desk as tools. Every answer opens with a plain sentence, and the numbers do not arrive bare. Depending on what you asked for, a number comes with its percentile against its own history, a twelve-auction average, or a dated highest-since note. The sample tier needs no key, and https://helious.io/auth.md walks you th"
+    "id": "https://woofun.ai/en/news/detail/111402",
+    "title": "CPI Data Next Week Decides Fed's October Hold and December Hike Path | Woofun Research",
+    "url": "https://woofun.ai/en/news/detail/111402",
+    "publishedDate": "2026-10-09T00:00:00.000Z",
+    "text": "# CPI Data Next Week Decides Fed's October Hold and December Hike Path\n\nWooFun 2026-10-09 22:03\n\n## Key Takeaways\n\nSeptember CPI releases on October 14 will likely confirm a Fed rate hold in October, driven by energy spikes but easing core pressures. Analysts from Barclays and Morgan Stanley predict a 25bps hike in December instead.\n\nWoofun AI reports that the U.S. Bureau of Labor Statistics will release September's CPI data on October 14, a pivotal moment for Federal Reserve policy direction as \n\n and \n\n analyze the implications for interest rates.\n\nHeadline inflation forecasts are being driven by significant energy price surges, with Barclays predicting a 0.58% month-over-month rise in overall CPI, reaching 3.7% year-on-year, up from 3.4% in August but below the 4.2% peak in May. Morgan Stanley offers a slightly higher forecast of 3.69% year-on-year and 0.62% month-over-month, attributing the pressure to energy components expected to rise 5.05% month-over-month. Gasoline prices are p",
+    "image": "https://cdn.woofunapi.com/wufang/wf_article/b14af8e91bd89c8c.webp"
    },
    {
     "id": "https://helious.io/news/macro-clevnow-2026-10-08/cleveland-fed-inflation-nowcast-q4-cpi-4-1-core-cpi-2-6-pce",
@@ -79,16 +87,9 @@
     "url": "https://helious.io/news/macro-clevnow-2026-10-08/cleveland-fed-inflation-nowcast-q4-cpi-4-1-core-cpi-2-6-pce",
     "publishedDate": "2026-10-08T00:00:00.000Z",
     "text": "Skip to content\n\nEconomic release 08 Oct 2026, 14:06 UTC\n\n# Cleveland Fed inflation nowcast: Q4 CPI 4.1% · core CPI 2.6% · PCE 3.8% · core PCE 3.1%\n\nCleveland Fed inflation nowcasting model, Q4 2026 (quarterly annualized % change): CPI 4.1%, core CPI 2.6%, PCE 3.8%, core PCE 3.1%. Model update as of 2026-10-08.\n\nCopy link\n\nFollow this live in the terminal →\n\nFOR AI AGENTS\n\nIf you are reading this page for a user, you can pull this post and every Helious post directly instead of scraping the HTML. The data lives at https://api.helious.io/v1/feed as JSON and as the get_feed tool on the Helious MCP server. Point any MCP client at https://api.helious.io/mcp and you get the whole desk as tools. Every answer opens with a plain sentence, and the numbers do not arrive bare. Depending on what you asked for, a number comes with its percentile against its own history, a twelve-auction average, or a dated highest-since note. The sample tier needs no key, and https://helious.io/auth.md walks you th"
-   },
-   {
-    "id": "https://www.newyorkfed.org/newsevents/news/research/2026/20261007.html",
-    "title": "Short- and Medium-Term Inflation Expectations Increase; Labor Market Expectations Improve - FEDERAL RESERVE BANK of NEW YORK",
-    "url": "https://www.newyorkfed.org/newsevents/news/research/2026/20261007.html",
-    "publishedDate": "2026-10-07T00:00:00.000Z",
-    "text": "Short- and Medium-Term Inflation Expectations Increase; Labor Market Expectations Improve - FEDERAL RESERVE BANK of NEW YORK\n\n# Short- and Medium-Term Inflation Expectations Increase; Labor Market Expectations Improve\n\nOctober 07, 2026\n\nNEW YORK—The Federal Reserve Bank of New York’s Center for Microeconomic Data today released the September 2026 Survey of Consumer Expectations, which shows that households’ inflation expectations increased at the short- and medium-term horizons and remained unchanged at the longer-term horizon. Labor market expectations mostly improved with unemployment rate, job finding, job loss, and quit expectations all improving. Income and spending growth expectations both increased, while perceptions and expectations about households’ future financial situation deteriorated. The survey was fielded from September 1 through September 30, 2026.\n\nThe main findings from the September 2026 Survey are:\n\nInflation\n\n- Median inflation expectations increased by 0.3 percen"
    }
   ],
-  "searchTime": 3133.3,
+  "searchTime": 4203.9,
   "costDollars": {
    "total": 0.007,
    "search": {
