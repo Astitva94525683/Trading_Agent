@@ -14,7 +14,7 @@ The full design, including how release times are aligned between UTC and New Yor
 | Phase | What | State |
 |---|---|---|
 | A | Time alignment, parsing, database, strategy labels, features, walk-forward, backtest and metrics, sentiment | done, unit-tested offline |
-| B | Apify/Exa/Tavily/Yahoo ingestion, ML models, charts, evaluation report, macro outlook, CLI | built and unit-tested; the offline end-to-end run passes. News and prices were fetched live (`data/raw/`). The real run waits on the Apify calendar (`APIFY_TOKEN`) |
+| B | Apify/Exa/Tavily/Yahoo ingestion, ML models, charts, evaluation report, macro outlook, CLI | done. First real run on 2026-10-12: [`reports/evaluation_report.md`](reports/evaluation_report.md), [`reports/macro_outlook.md`](reports/macro_outlook.md), [`reports/figures/`](reports/figures) |
 
 ## Layout
 
@@ -52,7 +52,7 @@ cp .env.example .env   # then add your keys, or export them as environment varia
 python -m pytest
 ```
 
-The pipeline reads `APIFY_TOKEN`, `TAVILY_API_KEY` and `EXA_API_KEY` from the environment or from a git-ignored `.env` file. Keys are never committed.
+The pipeline reads `APIFY_TOKEN` (or `APIFY_API_KEY`), `TAVILY_API_KEY` and `EXA_API_KEY` from the environment or from a git-ignored `.env` file. Keys are never committed. Apify runs are capped at $1.50 of actor charges each (`Settings.apify_max_charge_usd`); a full 210-day calendar costs about $0.60.
 
 ## Run
 

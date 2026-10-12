@@ -153,13 +153,19 @@ Decisions made from the live probes:
 - **Prices:** yfinance with `auto_adjust=True`, so open, high, low and close are adjusted for dividends (this matters for TLT).
 - **FOMC dates:** the Federal Reserve's published schedule for 2025–2027 is in `config.FOMC_DECISION_DATES`, so "days to next FOMC" does not depend on the calendar's 30-day lookahead.
 
-Next:
+**Real run, 2026-10-12** (`python -m macro_agent run --as-of 2026-10-12`; rebuild offline with `--offline`):
 
-1. **Calendar probe**, which needs `APIFY_TOKEN`:
-   - Run `python -m macro_agent run` (online). It fetches the calendar for [today − 180d, today + 30d] and reuses the cached Exa weeks.
-   - Check the "Release-time anchors" table in the evaluation report: US CPI must show 08:30 and the Federal Funds Rate 14:00.
-   - Replace `tests/fixtures/forexfactory_items.json` with a small sample of the real output.
-   - If the output lacks actual values, fall back to `hipersoft/forexfactory-scraper` (it has no date-range input, only this week or this month).
-2. **Real run.**
-   - Data checks: event counts by category, the CPI 08:30 / FOMC 14:00 ET anchors, no news after its slot's entry, price coverage.
-   - Then commit `reports/evaluation_report.md`, `reports/macro_outlook.md` and `reports/figures/`, plus the calendar snapshot in `data/raw/calendar/`.
+- **Calendar probe.** One week (2026-09-10 to 09-17, USD, medium and high impact) returned 19 items, all from the live calendar with actual values. US CPI is at 08:30 ET and the Federal Funds Rate at 14:00 ET, so `datetimeISO` is UTC as assumed. The sample is now the fixture `tests/fixtures/forexfactory_items_real.json`.
+- **Apify cost.** $0.04 for the probe and $0.58 for the full window (286 items at $0.002, plus a $0.005 start and under $0.001 of platform and proxy usage). Runs are capped with `maxTotalChargeUsd` (`Settings.apify_max_charge_usd`, $1.50), 1 GB of memory and a 900-second timeout. Each snapshot records the run's usage; the charged item count settles a few seconds after the run ends.
+- **Data checks** (in `reports/evaluation_report.md`):
+  - 283 USD events.
+  - CPI and nonfarm payrolls at 08:30 ET, ADP at 08:15, FOMC at 14:00.
+  - 1,014 articles. An independent recount matches the 7-day news count of all 117 slots, so no article published at or after a slot's entry is counted.
+  - 164 sessions per symbol.
+- **Result.** 117 slots, 86 of them out of sample (2026-05-28 to 2026-10-08).
+  - The naive per-strategy mean has the only significant rank IC (0.124, t = 3.4) and a Sharpe ratio of 1.16.
+  - Ridge reaches 1.27 with a rank IC that is not significant. Gradient boosting reaches −1.14.
+  - SPY buy-and-hold reaches 0.84.
+  - Every 90% Sharpe interval includes zero, so with about 90 out-of-sample sessions no strategy is distinguishable from noise. The outlook says so next to the playbook.
+
+Possible next steps: a longer history (the brief fixes 180 days), intraday prices for the immediate reaction, and early-close sessions in the calendar.
