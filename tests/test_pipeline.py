@@ -20,6 +20,7 @@ from macro_agent.timeutils import to_utc
 
 AS_OF = date(2026, 7, 31)
 SYMBOLS = (*ASSETS, VIX_SYMBOL)
+VIX_ONLY_DAY = date(2026, 5, 23)  # a Saturday
 
 
 def _settings(tmp_path):
@@ -178,6 +179,12 @@ def built(tmp_path_factory):
     conn = db.connect(tmp_path / "t.db")
     sessions = _sessions()
     db.upsert(conn, "prices", _prices(sessions), key=["symbol", "date"])
+    # Yahoo prints ^VIX on exchange holidays: a VIX-only day must not become a session.
+    vix_only = pd.DataFrame([{
+        "symbol": VIX_SYMBOL, "date": VIX_ONLY_DAY, "open": 15.0, "high": 15.0, "low": 15.0,
+        "close": 15.0, "volume": 0.0,
+    }], columns=list(PRICE_COLUMNS))
+    db.upsert(conn, "prices", vix_only, key=["symbol", "date"])
     db.upsert(conn, "events", _events(sessions), key="event_id")
     db.upsert(conn, "news", _news(sessions), key="article_id")
     return conn, pipeline.build_dataset(conn, settings, AS_OF)
@@ -219,3 +226,10 @@ def test_fomc_dates_include_schedule_and_fed_rate_events(built):
     is_fed_rate = dataset.events["event_name"].eq("Federal Funds Rate")
     fed_days = {ts.tz_convert(ET).date() for ts in releases[is_fed_rate]}
     assert fed_days and fed_days <= set(dataset.fomc_dates)
+
+
+def test_sessions_come_from_the_anchor_asset_only(built):
+    _, dataset = built
+    assert VIX_ONLY_DAY not in dataset.calendar.dates
+    assert VIX_ONLY_DAY not in set(dataset.closes.index)
+    assert dataset.closes.notna().all().all()

@@ -134,9 +134,13 @@ def build_dataset(conn: sqlite3.Connection, settings: Settings, as_of: date) -> 
     )
     if prices.empty:
         raise ValueError(f"no prices from {price_start} to {as_of}; run ingest first")
+    # Sessions are the anchor asset's (SPY's) trading days. Yahoo also prints ^VIX values on
+    # exchange holidays and a partial bar for today, so other symbols' extra dates are dropped.
+    anchor = prices["symbol"] == settings.assets[0]
+    session_days = set(prices.loc[anchor & prices["close"].notna(), "date"])
+    prices = prices[prices["date"].isin(session_days)].reset_index(drop=True)
     opens, closes = pivot_prices(prices)
-    has_close = closes[settings.assets[0]].notna().to_numpy()
-    sessions = [pd.Timestamp(day).date() for day in closes.index[has_close]]
+    sessions = [pd.Timestamp(day).date() for day in closes.index]
     calendar = SessionCalendar.from_dates(sessions)
 
     is_fed_rate = events["category"].eq("fed") & events["event_name"].str.contains(
