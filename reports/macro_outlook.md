@@ -1,6 +1,6 @@
 # Macro outlook, 2026-10-12
 
-_Generated 2026-10-12 11:05 UTC._
+_Generated 2026-10-12 14:33 UTC._
 
 ## Latest releases and surprises
 
@@ -19,9 +19,9 @@ _Generated 2026-10-12 11:05 UTC._
 
 ## Sentiment trend
 
-- Macro tone, last 7 days: -0.099 from 65 articles (30 days: 0.081 from 181 articles).
-- VADER sentiment, last 7 days: 0.380 from 65 articles (30 days: 0.248 from 181 articles).
-- Most negative theme this week: growth (-0.404); most positive: fed (0.286).
+- Macro tone, last 7 days: -0.101 from 64 articles (30 days: 0.081 from 181 articles).
+- VADER sentiment, last 7 days: 0.374 from 64 articles (30 days: 0.248 from 181 articles).
+- Most negative theme this week: growth (-0.431); most positive: fed (0.286).
 
 | week | n | macro_tone | sentiment |
 | --- | --- | --- | --- |

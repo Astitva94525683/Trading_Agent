@@ -9,6 +9,23 @@ A Python machine-learning pipeline that predicts the best macro trading strategy
 
 The full design, including how release times are aligned between UTC and New York time without look-ahead, is in [`docs/design.md`](docs/design.md).
 
+## Submission at a glance
+
+| Item asked for | Where |
+|---|---|
+| Evaluation report (Sharpe ratio, Sortino ratio, max drawdown) | [`reports/evaluation_report.md`](reports/evaluation_report.md) · [PDF](reports/evaluation_report.pdf) |
+| One-page macro outlook | [`reports/macro_outlook.md`](reports/macro_outlook.md) |
+| Visual matrix (sentiment over time, surprises, strategy matrix, equity) | [`reports/figures/`](reports/figures) |
+| Apify actor | `xtracto/forexfactory-calendar` (actor ID `gteQ2eFdZj7neZ040`) |
+| News APIs | Tavily `POST https://api.tavily.com/search`, Exa `POST https://api.exa.ai/search` |
+
+Reproduce the reported results without any API keys (the raw API responses are in `data/raw/`):
+
+```bash
+pip install -r requirements-dev.txt
+python -m macro_agent run --offline --as-of 2026-10-12
+```
+
 ## Status
 
 | Phase | What | State |

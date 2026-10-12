@@ -1,6 +1,15 @@
 # Evaluation report
 
-_Generated 2026-10-12 11:05 UTC. Out-of-sample results from purged walk-forward validation (docs/design.md section 7)._
+_Generated 2026-10-12 14:33 UTC. Out-of-sample results from purged walk-forward validation (docs/design.md section 7)._
+
+## Key findings
+
+- Out of sample: 86 release slots from 2026-05-28 to 2026-10-08, each traded at the first price after the release, with 2 bps of costs per side.
+- Best Sharpe ratio: Ridge, 1.27 (90% interval -1.39 to 4.51), Sortino 1.87, max drawdown -7.9%, total return 6.6%.
+- Other Sharpe ratios: Naive baseline (strategy mean) 1.16; Gradient boosting -1.14; Always long SPY, 1 session -0.30; SPY buy and hold 0.84.
+- Strategy ranking, rank IC: baseline 0.124 (t = 3.38); ridge 0.021 (t = 0.40); hgb -0.028 (t = -0.56). Only |t| of 2 or more marks a reliable ranking.
+- Win-rate forecasts: AUC 0.49 to 0.55 (0.50 is a coin flip).
+- Every 90% Sharpe interval includes zero, so with this sample no strategy's edge is distinguishable from noise.
 
 ## Data coverage
 

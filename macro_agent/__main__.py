@@ -296,6 +296,7 @@ def _write_evaluation(
             for caption, name in zip(FIGURE_CAPTIONS, FIGURE_FILES)
         ],
         limitations=LIMITATIONS,
+        findings=_key_findings(ev),
         notes=(
             f"Articles published after the as-of time: {news_after}",
             "Events in the window without an actual value (upcoming or speeches): "
@@ -303,6 +304,62 @@ def _write_evaluation(
         ),
     )
     return write_text(settings.reports_dir / EVALUATION_REPORT, text)
+
+
+def _key_findings(ev: Evaluation) -> list[str]:
+    """Headline results for the top of the evaluation report."""
+    summary = ev.summary.set_index("strategy")
+    sharpe = pd.to_numeric(summary["sharpe"], errors="coerce")
+    findings = [
+        f"Out of sample: {len(ev.oos_slots)} release slots from {ev.oos_start} to "
+        f"{ev.oos_end}, each traded at the first price after the release, with "
+        "2 bps of costs per side."
+    ]
+    if sharpe.notna().any():
+        best = sharpe.idxmax()
+        row = summary.loc[best]
+        findings.append(
+            f"Best Sharpe ratio: {best}, {row['sharpe']:.2f} (90% interval "
+            f"{row['sharpe_lo']:.2f} to {row['sharpe_hi']:.2f}), Sortino {row['sortino']:.2f}, "
+            f"max drawdown {row['max_drawdown']:.1%}, total return {row['total_return']:.1%}."
+        )
+        others = [
+            f"{label} {value:.2f}" for label, value in sharpe.items()
+            if label != best and np.isfinite(value)
+        ]
+        if others:
+            findings.append("Other Sharpe ratios: " + "; ".join(others) + ".")
+    regression = ev.predictive.loc[ev.predictive["target"].eq("net_ret")]
+    ranked = [
+        f"{row['model']} {row['rank_ic']:.3f} (t = {row['rank_ic_t']:.2f})"
+        for _, row in regression.iterrows()
+        if np.isfinite(row["rank_ic"]) and np.isfinite(row["rank_ic_t"])
+    ]
+    if ranked:
+        findings.append(
+            "Strategy ranking, rank IC: " + "; ".join(ranked)
+            + ". Only |t| of 2 or more marks a reliable ranking."
+        )
+    auc = pd.to_numeric(
+        ev.predictive.loc[ev.predictive["target"].eq("win"), "auc"], errors="coerce"
+    ).dropna()
+    if not auc.empty:
+        findings.append(
+            f"Win-rate forecasts: AUC {auc.min():.2f} to {auc.max():.2f} (0.50 is a coin flip)."
+        )
+    lo = pd.to_numeric(summary["sharpe_lo"], errors="coerce")
+    hi = pd.to_numeric(summary["sharpe_hi"], errors="coerce")
+    significant = [label for label in summary.index if lo[label] > 0 or hi[label] < 0]
+    if significant:
+        findings.append(
+            "Sharpe intervals that exclude zero: " + ", ".join(significant) + "."
+        )
+    else:
+        findings.append(
+            "Every 90% Sharpe interval includes zero, so with this sample no strategy's "
+            "edge is distinguishable from noise."
+        )
+    return findings
 
 
 def _event_categories(events: pd.DataFrame) -> pd.DataFrame:

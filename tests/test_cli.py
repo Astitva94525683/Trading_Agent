@@ -315,3 +315,10 @@ def test_module_runs_as_a_script(tmp_path) -> None:
     )
     assert done.returncode == 2
     assert done.stderr.startswith("error:")
+
+
+def test_evaluation_report_starts_with_key_findings(cli_run: dict[str, Any]) -> None:
+    text = (cli_run["reports_dir"] / "evaluation_report.md").read_text(encoding="utf-8")
+    assert text.index("## Key findings") < text.index("## Data coverage")
+    assert "Best Sharpe ratio:" in text
+    assert "Sortino" in text and "max drawdown" in text

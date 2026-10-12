@@ -173,18 +173,21 @@ def render_evaluation(
     figures: Sequence[tuple[str, str]],
     limitations: Sequence[str],
     notes: Sequence[str] = (),
+    findings: Sequence[str] = (),
 ) -> str:
     """Render the out-of-sample evaluation report as Markdown.
 
-    ``figures`` holds (caption, relative path) pairs. The Notes section is
-    written only when ``notes`` is non-empty.
+    ``figures`` holds (caption, relative path) pairs. The Key findings section
+    (first, after the header) and the Notes section are written only when given.
     """
     blocks = [
         "# Evaluation report",
         f"_Generated {generated_utc}. Out-of-sample results from purged "
         "walk-forward validation (docs/design.md section 7)._",
-        "## Data coverage",
     ]
+    if findings:
+        blocks += ["## Key findings", _bullets(findings)]
+    blocks += ["## Data coverage"]
     for title, table in coverage.items():
         blocks += [f"### {title}", md_table(table, _FORMATS)]
     blocks += [
