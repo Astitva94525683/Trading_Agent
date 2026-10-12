@@ -10,3 +10,6 @@ __pycache__/
 
 # Local scratch
 *.log
+
+# Derived database (rebuilt from data/raw by the pipeline)
+data/*.db

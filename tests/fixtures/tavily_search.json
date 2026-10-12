@@ -1,0 +1,28 @@
+{
+ "query": "Federal Reserve FOMC interest rate decision Powell",
+ "follow_up_questions": null,
+ "answer": null,
+ "images": [],
+ "results": [
+  {
+   "url": "https://abcnews.com/Business/fed-expected-hold-interest-rates-steady/story?id=132450311",
+   "title": "Fed chair Jerome Powell says he will stay on central bank's board after term expires next month - ABC News",
+   "content": "The Federal Reserve held interest rates steady on Wednesday as prices rise in response to an oil shock set off by the Iran war.\n\nStephen Miran, a former Trump administration official who recently joined the board, cast the lone dissenting vote on the level of interest rates. He called for a quarter-point rate cut. [...] # Fed chair Jerome Powell says he will stay on central bank's board after term expires next month\n\nThe Fed held interest rates steady on Wednesday.\n\nByMax Zahn\n\nApril 29, 2026, 3:01 PM\n\nFederal Reserve Chair Jerome Powell on Wednesday said he would stay on at the central bank's board of governors after his term expires next month as an investigation into the central bank's office renovation continues, he said. [...] The central bank's move on Wednesday marked the third consecutive time it has opted to maintain interest rates at current levels since the outset of 2026. Before that, the Fed cut interest rates a quarter-point three straight times.\n\nWarsh, a former Fed official, is currently a fellow at a conservative think tank called the Hoover Institution, which is based at Stanford University.\n\nRelated\n\nWhat to know about the Elon Musk versus Sam Altman trial over OpenAI",
+   "score": 0.5053471,
+   "raw_content": null,
+   "published_date": "Sun, 11 Oct 2026 02:00:00 GMT",
+   "id": "c4ea5d-00"
+  },
+  {
+   "url": "https://www.federalreserve.gov/monetarypolicy/fomcminutes20260916.htm",
+   "title": "The Fed - Monetary Policy:",
+   "content": "Consistent with the Committee's decision to raise the target range for the federal funds rate to 3-3/4 to 4 percent, the Board of Governors of the Federal Reserve System voted unanimously to raise the interest rate paid on reserve balances to 3.90 percent, effective September 17, 2026. The Board of Governors of the Federal Reserve System voted unanimously to approve a 1/4 percentage point increase in the primary credit rate to 4.0 percent, effective September 17, 2026.2 [...] > \"The Federal Open Market Committee approved the following statement for release by a 12–0 vote:\n>\n> The Committee decided to raise the target range for the federal funds rate by 1/4 percentage point to 3-3/4 to 4 percent, in support of the Federal Reserve's dual mandate. The Committee is continuing its policy of maintaining ample reserves in the banking system.\n> [...] Voting for this action:Kevin Warsh, John C. Williams, Michael S. Barr, Michelle W. Bowman, Lisa D. Cook, Beth M. Hammack, Philip N. Jefferson, Neel Kashkari, Lorie K. Logan, Anna Paulson, Jerome H. Powell, and Christopher J. Waller.\n\nVoting against this action: None.",
+   "score": 0.35999444,
+   "raw_content": null,
+   "published_date": "Wed, 07 Oct 2026 19:00:00 GMT",
+   "id": "b5d022-01"
+  }
+ ],
+ "response_time": 3.4,
+ "request_id": "0baa9e34-9169-48d7-9330-b7ab2042467e"
+}
