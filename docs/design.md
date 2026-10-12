@@ -28,7 +28,7 @@ Raw API responses are saved under `data/raw/` so the pipeline can be re-run offl
 
 All timestamps are stored as UTC ISO strings (`YYYY-MM-DDTHH:MM:SSZ`); New York time (`America/New_York`, written ET) is derived with `zoneinfo`, so daylight-saving changes are handled (2026: DST starts 8 March, ends 1 November). A naive timestamp from a source is interpreted in that source's stated time zone.
 
-US ETFs trade 09:30–16:00 ET. The trading calendar is the set of session dates in the price data (holidays drop out automatically); `SessionCalendar.from_dates` builds open and close times per date, with optional early closes.
+US ETFs trade 09:30–16:00 ET. The trading calendar is the set of dates on which SPY has a price (holidays drop out automatically). Other symbols' extra dates are dropped, because Yahoo prints ^VIX on exchange holidays and shows a partial bar for the current day. `SessionCalendar.from_dates` builds open and close times per date, with optional early closes (not used yet).
 
 **Entry rule (no look-ahead).** A trade enters at the first price printed after the release:
 
@@ -70,14 +70,17 @@ Every feature uses only information available at the slot's entry time.
 
 - **Panel:** one row per (slot, strategy); target = net return (regression) and win (classification).
 - **Purged expanding walk-forward:** slots are ordered by entry time. For each test slot (after `min_train_slots` warm-up slots) the training set is every panel row whose **exit** is strictly before the test slot's entry. Labels that had not been realised at decision time are therefore excluded (purging), so a 5-session trade from two days earlier cannot leak into training.
-- **Models:** `MeanBaseline` (each strategy's historical mean, the naive benchmark), ridge regression, and gradient boosting (scikit-learn `HistGradientBoostingRegressor` / `Classifier`, shallow and regularised for the small sample).
+- **Models** (`model.py`):
+  - Regressors on net return: `MeanBaseline` (each strategy's historical mean, the naive benchmark), ridge (α = 10, after median imputation and scaling, with one-hot asset and rule), and `HistGradientBoostingRegressor` (depth 3, learning rate 0.05, 150 iterations, at least 40 rows per leaf, L2 1.0; NaN handled natively, all-NaN columns dropped).
+  - Classifiers on win: the per-strategy base rate, logistic regression (C = 0.1) and `HistGradientBoostingClassifier` with the same settings. A fold whose training labels hold one class predicts the base rate.
+  - Predictive metrics: rank IC (per-slot Spearman correlation between predicted and realised net return, averaged, with a t-statistic), hit rate, MAE, and AUC and Brier score for the classifiers.
 - **Selection:** for each out-of-sample slot, trade the strategy with the highest predicted net return if that prediction is above zero; otherwise stay flat.
 
 ## 8. Backtest and metrics (`macro_agent/backtest.py`, `macro_agent/metrics.py`)
 
 - **Calendar-time portfolio:** each session's portfolio return is the equal-weighted mean of the daily returns of the trades open that day (0 when flat). A trade's daily return is `sign × (P_t / P_{t−1} − 1)`, where `P_{t−1}` is the entry price on the first day. Costs are taken on the entry and exit days.
 - **Metrics** on daily returns, 252 sessions a year, risk-free rate 0: Sharpe = mean / std (ddof 1) × √252; Sortino = mean / downside deviation × √252, where downside deviation = √(mean(min(r, 0)²)) over all days; max drawdown = minimum of equity / running peak − 1, with the starting equity of 1.0 counted as a peak. Also total return, CAGR, annualised volatility, exposure, and per-trade count, win rate, average return and profit factor.
-- **Benchmarks:** the naive baseline, always long SPY for one session on every slot, and SPY buy-and-hold over the same out-of-sample window. A block-bootstrap confidence interval accompanies the Sharpe ratio.
+- **Benchmarks** (`evaluate.py`): the naive baseline, always long SPY for one session on every slot, and SPY buy-and-hold over the same out-of-sample window (first out-of-sample entry to last exit). A 90% moving-block bootstrap interval (blocks of 5 sessions) accompanies each Sharpe ratio.
 
 ## 9. Database (`macro_agent/db.py`)
 
@@ -93,6 +96,7 @@ SQLite at `data/macro.db`.
 
 - `reports/evaluation_report.md`: data coverage, the walk-forward set-up, predictive metrics (rank IC, hit rate, AUC), and strategy metrics with confidence intervals for the model and the benchmarks, plus limitations.
 - `reports/macro_outlook.md`: a one-page outlook covering the latest releases and surprises, the sentiment trend, top recent Tavily headlines with links, upcoming events from the calendar, and a conditional playbook (the model's best strategy if the next key release beats or misses).
+  - The playbook (`outlook.py`) builds the slot of the next high-impact inflation, labor, Fed or growth release, sets its surprise to +1 (beat) or −1 (miss), and scores every strategy with the regressor that had the best out-of-sample Sharpe ratio, refitted on all realised trades. A win probability comes from the gradient-boosting classifier. Sessions after the last price date are assumed to be weekdays without holidays.
 - `reports/figures/`, the visual matrix: theme × week sentiment heatmap, category × month surprise heatmap, sentiment index over time with event markers, a strategy matrix (asset × rule by horizon, out-of-sample P&L), and equity and drawdown curves.
 - **Chart style (dataviz guidance):**
   - Surface `#fcfcfb`; ink `#0b0b0b`, secondary ink `#52514e`, muted ink `#898781`, gridlines `#e1e0d9`.
@@ -104,7 +108,7 @@ SQLite at `data/macro.db`.
 
 | Module | Phase | Contents |
 |---|---|---|
-| `config.py` | A | settings and constants |
+| `config.py` | A | settings and constants, the FOMC schedule (added in B) |
 | `timeutils.py` | A | UTC/ET conversion, `SessionCalendar`, entry/exit rules |
 | `parsing.py` | A | value parser, event category, orientation, impact weight, ids |
 | `db.py` | A | schema, upserts, views |
@@ -113,9 +117,15 @@ SQLite at `data/macro.db`.
 | `walkforward.py` | A | purged splits, `MeanBaseline`, walk-forward driver |
 | `sentiment.py` | A | macro tone lexicon, theme classifier, VADER wrapper, weekly series |
 | `features.py` | A | event prep, slots, time/surprise/news/market features, panel |
-| `ingest/` | B | Apify calendar, Exa, Tavily, Yahoo prices, raw snapshots |
-| `model.py` | B | ridge and gradient boosting in the walk-forward |
-| `charts.py`, `report.py`, `__main__.py` | B | figures, reports, CLI |
+| `ingest/raw.py`, `ingest/http.py` | B | raw JSON snapshots; HTTP with retries (keys in headers only) |
+| `ingest/calendar.py` | B | Apify actor run, poll and dataset fetch; calendar normalizer |
+| `ingest/news.py` | B | Exa weekly history and Tavily recent news; normalizers |
+| `ingest/prices.py` | B | Yahoo daily OHLC via yfinance |
+| `pipeline.py` | B | ingest into SQLite; build slots, features, labels and the panel |
+| `model.py` | B | regressors and classifiers in the walk-forward; predictive metrics |
+| `evaluate.py` | B | model trade selection, benchmarks, metrics, strategy P&L matrix |
+| `outlook.py` | B | latest releases, sentiment trend, headlines, upcoming events, playbook |
+| `charts.py`, `report.py`, `__main__.py` | B | figures, Markdown reports, CLI |
 
 ## 12. Known limitations (to restate in the report)
 
@@ -129,24 +139,27 @@ SQLite at `data/macro.db`.
 
 **Phase A (offline core), done.** All modules in the map marked A are implemented with unit tests (`python -m pytest`). They run on pandas and numpy alone.
 
-**Phase B needs network access and API keys** (`APIFY_TOKEN`, `TAVILY_API_KEY`, `EXA_API_KEY` as environment variables). In order:
+**Phase B (ingestion, models, outputs), built and tested offline.** Everything in the module map marked B is implemented with unit tests, and an offline end-to-end smoke test runs the CLI on synthetic snapshots. News and prices were fetched live on 2026-10-12, and their raw snapshots are in `data/raw/` (the database `data/macro.db` is rebuilt from them and is not committed).
 
-1. `pip install -r requirements-dev.txt`. The VADER tests in `tests/test_sentiment.py` then run instead of skipping.
-2. **Calendar probe.**
-   - Read the input schema of the `xtracto/forexfactory-calendar` actor (`GET https://api.apify.com/v2/acts/xtracto~forexfactory-calendar`, then its default build's `inputSchema`) and run it on one week.
-   - Check the time zone of its timestamps: US CPI must land at 08:30 ET and the FOMC rate decision at 14:00 ET.
-   - Fall back to `hipersoft/forexfactory-scraper` or `automation-lab/tradingview-economic-calendar-scraper` if the output lacks actual or forecast values.
-   - Write the normalizer from real output and keep a small sample as a test fixture.
-3. **Ingest** (`macro_agent/ingest/`, REST via `requests`, raw JSON saved under `data/raw/` for `--offline` re-runs).
-   - Calendar: Apify asynchronous run, then poll, then fetch the dataset, for the window [today − 180d, today + 30d].
-   - Exa: weekly searches per news theme over the 180 days (`/search` with published-date filters).
-   - Tavily: news from the last 7 days for the outlook.
-   - Prices: Yahoo daily OHLC via yfinance for SPY, TLT, GLD, UUP and ^VIX, starting 60 days before the window.
-4. **Model** (`model.py`).
-   - Ridge and `HistGradientBoostingRegressor` / `Classifier` on `features.MODEL_FEATURES` plus one-hot `CATEGORICAL_FEATURES`, run through `walkforward.walk_forward`.
-   - `MeanBaseline` needs `strategy_id` among its inputs.
-   - Classifier folds whose training labels hold one class must fall back to the base rate.
-5. **Charts and reports.** `charts.py`, `report.py` and a CLI `python -m macro_agent run [--offline]`, with an offline end-to-end smoke test on synthetic data.
-6. **Real run.**
+Decisions made from the live probes:
+
+- **Calendar:** the actor is `xtracto/forexfactory-calendar`.
+  - Input: `{"dateRange": "range", "rangeFrom", "rangeTo", "currencies": ["USD"], "minImpact": "medium"}`, with the actor's default residential proxy, which it needs to return actual values.
+  - Release times come from `datetimeISO`, which is in UTC (the README's real sample has CAD GDP at 12:30Z, which is 08:30 ET). `timeLabel` is in the scraper's own time zone and is ignored.
+  - The event id is ForexFactory's own (`ff<id>`), so a rescheduled event is not duplicated. Holidays and items without a clock time ("All Day", "Tentative") are skipped.
+  - The token goes in an `Authorization: Bearer` header.
+- **Exa:** `/search` with `category: "news"`, 10 results and 1,000 characters of text, for each theme and week. Exa gives dates without a time of day, so every article counts from 23:59:59 UTC that day. Finished weeks are cached and never fetched again.
+- **Tavily:** `topic: "news"`, `time_range: "week"`, 10 results per theme.
+- **Prices:** yfinance with `auto_adjust=True`, so open, high, low and close are adjusted for dividends (this matters for TLT).
+- **FOMC dates:** the Federal Reserve's published schedule for 2025–2027 is in `config.FOMC_DECISION_DATES`, so "days to next FOMC" does not depend on the calendar's 30-day lookahead.
+
+Next:
+
+1. **Calendar probe**, which needs `APIFY_TOKEN`:
+   - Run `python -m macro_agent run` (online). It fetches the calendar for [today − 180d, today + 30d] and reuses the cached Exa weeks.
+   - Check the "Release-time anchors" table in the evaluation report: US CPI must show 08:30 and the Federal Funds Rate 14:00.
+   - Replace `tests/fixtures/forexfactory_items.json` with a small sample of the real output.
+   - If the output lacks actual values, fall back to `hipersoft/forexfactory-scraper` (it has no date-range input, only this week or this month).
+2. **Real run.**
    - Data checks: event counts by category, the CPI 08:30 / FOMC 14:00 ET anchors, no news after its slot's entry, price coverage.
-   - Then the evaluation report and the macro outlook.
+   - Then commit `reports/evaluation_report.md`, `reports/macro_outlook.md` and `reports/figures/`, plus the calendar snapshot in `data/raw/calendar/`.

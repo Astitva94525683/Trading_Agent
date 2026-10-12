@@ -14,13 +14,13 @@ The full design, including how release times are aligned between UTC and New Yor
 | Phase | What | State |
 |---|---|---|
 | A | Time alignment, parsing, database, strategy labels, features, walk-forward, backtest and metrics, sentiment | done, unit-tested offline |
-| B | Apify/Exa/Tavily/Yahoo ingestion, ML models, charts, evaluation report, macro outlook | next (needs network access and API keys) |
+| B | Apify/Exa/Tavily/Yahoo ingestion, ML models, charts, evaluation report, macro outlook, CLI | built and unit-tested; the offline end-to-end run passes. News and prices were fetched live (`data/raw/`). The real run waits on the Apify calendar (`APIFY_TOKEN`) |
 
 ## Layout
 
 ```
 macro_agent/
-  config.py       settings and constants (assets, rules, horizons, costs)
+  config.py       settings and constants (assets, rules, horizons, costs, FOMC schedule)
   timeutils.py    UTC/ET conversion, trading sessions, entry and exit rules
   parsing.py      calendar values ("3.2%", "256K"), event categories, news timestamps
   db.py           SQLite schema, upserts, SQL views joining events, news and prices
@@ -30,7 +30,16 @@ macro_agent/
   walkforward.py  purged expanding walk-forward and the naive benchmark
   backtest.py     trade selection and the calendar-time portfolio
   metrics.py      Sharpe, Sortino, max drawdown, CAGR, trade stats, bootstrap CI
-tests/            unit tests for every module
+  ingest/         Apify calendar, Exa and Tavily news, Yahoo prices, raw snapshots
+  pipeline.py     ingest into SQLite, then slots, features, labels and the panel
+  model.py        ridge and gradient boosting (regression and classification)
+  evaluate.py     out-of-sample trade selection, benchmarks and metrics
+  outlook.py      latest releases, sentiment trend, headlines, playbook
+  charts.py       the visual matrix (heatmaps, timeline, strategy matrix, equity)
+  report.py       evaluation report and macro outlook in Markdown
+  __main__.py     the command line: python -m macro_agent run
+tests/            unit tests for every module, plus an offline end-to-end run
+data/raw/         raw API responses, for offline re-runs
 docs/design.md    design and method
 ```
 
@@ -44,3 +53,25 @@ python -m pytest
 ```
 
 The pipeline reads `APIFY_TOKEN`, `TAVILY_API_KEY` and `EXA_API_KEY` from the environment or from a git-ignored `.env` file. Keys are never committed.
+
+## Run
+
+```bash
+python -m macro_agent run              # fetch, build, model, and write reports/
+python -m macro_agent run --offline    # rebuild from the snapshots in data/raw/ only
+```
+
+Options: `--as-of YYYY-MM-DD`, `--data-dir`, `--reports-dir`, `--min-train-slots N` and `--step N` (test slots per walk-forward fold). Outputs:
+- `reports/evaluation_report.md`
+- `reports/macro_outlook.md`
+- `reports/figures/`
+- the SQLite database `data/macro.db`
+
+### Data sources
+
+| Source | Used for | ID |
+|---|---|---|
+| Apify | economic calendar (actual, forecast, previous, UTC release time) | actor `xtracto/forexfactory-calendar` |
+| Exa | weekly news history per theme, 180 days | `POST https://api.exa.ai/search` |
+| Tavily | news from the last 7 days, for the outlook | `POST https://api.tavily.com/search` |
+| Yahoo Finance | daily OHLC for SPY, TLT, GLD, UUP and ^VIX | `yfinance` |
