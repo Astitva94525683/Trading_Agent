@@ -17,6 +17,7 @@ from datetime import date, datetime, time, timezone
 from pathlib import Path
 from typing import Any
 
+import numpy as np
 import pandas as pd
 
 from macro_agent import db, pipeline
@@ -410,6 +411,7 @@ def _write_outlook(
     table, note = playbook(
         ds, settings, as_of_utc, regressor=regressor, classifier=PLAYBOOK_CLASSIFIER
     )
+    note += _evidence_note(ev.predictive, regressor)
     text = render_outlook(
         generated_utc=_generated(),
         as_of=as_of.isoformat(),
@@ -422,6 +424,21 @@ def _write_outlook(
         playbook_note=note,
     )
     return write_text(settings.reports_dir / OUTLOOK_REPORT, text)
+
+
+def _evidence_note(predictive: pd.DataFrame, model: str) -> str:
+    """One sentence on how much out-of-sample evidence backs the playbook's model."""
+    row = predictive.loc[predictive["model"] == model]
+    if row.empty:
+        return ""
+    ic, t = float(row["rank_ic"].iloc[0]), float(row["rank_ic_t"].iloc[0])
+    if not (np.isfinite(ic) and np.isfinite(t)):
+        return ""
+    strength = "weak evidence" if abs(t) < 2.0 else "supported out of sample"
+    return (
+        f" This model's out-of-sample rank IC is {ic:.3f} (t = {t:.2f}), so treat the ranking"
+        f" as {strength}."
+    )
 
 
 if __name__ == "__main__":

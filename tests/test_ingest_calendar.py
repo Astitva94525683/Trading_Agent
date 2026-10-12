@@ -285,3 +285,70 @@ def test_online_fetch_sends_the_run_limits_and_records_the_run(tmp_path):
     assert saved["run_options"] == limits
     assert saved["run"]["usageTotalUsd"] == 0.01
     assert saved["run"]["chargedEventCounts"] == {"apify-default-dataset-item": 6}
+
+
+REAL_FIXTURE = Path(__file__).resolve().parent / "fixtures" / "forexfactory_items_real.json"
+CPI_NAMES = ["CPI m/m", "CPI y/y", "Core CPI m/m", "Core CPI y/y"]
+SPEECH_AND_FOMC_NAMES = ["President Trump Speaks", "FOMC Statement", "FOMC Press Conference"]
+
+
+def _real_items():
+    return json.loads(REAL_FIXTURE.read_text(encoding="utf-8"))
+
+
+def _real_frame():
+    return normalize_calendar(_real_items(), ingested_utc=INGESTED)
+
+
+def _named(frame, names):
+    rows = frame[frame["event_name"].isin(names)]
+    assert not rows.empty, f"no rows named {names}"
+    return rows
+
+
+def test_real_fixture_keeps_all_19_items_and_they_are_all_usd():
+    assert len(_real_items()) == 19
+    frame = _real_frame()
+    assert len(frame) == 19
+    assert (frame["currency"] == "USD").all()
+
+
+def test_real_cpi_releases_are_at_830_new_york_time():
+    rows = _named(_real_frame(), CPI_NAMES)
+    assert rows["release_et"].str.endswith("T08:30:00-04:00").all()
+
+
+def test_real_federal_funds_rate_has_its_afternoon_release_and_values():
+    rows = _named(_real_frame(), ["Federal Funds Rate"])
+    assert len(rows) == 1
+    row = rows.iloc[0]
+    assert row["release_et"] == "2026-09-16T14:00:00-04:00"
+    assert row["actual"] == 4.0
+    assert row["forecast"] == 4.0
+    assert row["previous"] == 3.75
+    assert row["unit"] == "%"
+
+
+def test_real_unemployment_claims_are_inverted_labor_rows():
+    rows = _named(_real_frame(), ["Unemployment Claims"])
+    assert (rows["inverted"] == 1).all()
+    assert (rows["category"] == "labor").all()
+
+
+def test_real_cpi_m_m_is_inflation_at_0_4():
+    rows = _named(_real_frame(), ["CPI m/m"])
+    assert (rows["category"] == "inflation").all()
+    assert (rows["actual"] == 0.4).all()
+
+
+def test_real_speeches_and_fomc_items_have_no_actual_value():
+    rows = _named(_real_frame(), SPEECH_AND_FOMC_NAMES)
+    assert rows["actual"].isna().all()
+    assert all(value is None for value in rows["actual_raw"])
+
+
+def test_real_release_utc_and_release_et_are_the_same_instant():
+    frame = _real_frame()
+    utc = pd.to_datetime(frame["release_utc"], utc=True)
+    et = pd.to_datetime(frame["release_et"], utc=True)
+    assert (utc == et).all()

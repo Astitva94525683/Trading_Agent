@@ -291,3 +291,27 @@ def test_empty_data_dir_returns_two(tmp_path: Path, capsys: pytest.CaptureFixtur
     code = main(_run_args(tmp_path / "data", tmp_path / "reports"))
     assert code == 2
     assert capsys.readouterr().err.startswith("error: ")
+
+
+def test_evidence_note_flags_a_weak_model() -> None:
+    import pandas as pd
+
+    from macro_agent.__main__ import _evidence_note
+
+    predictive = pd.DataFrame({"model": ["ridge", "hgb"], "rank_ic": [0.02, 0.15],
+                               "rank_ic_t": [0.4, 3.1]})
+    assert "weak evidence" in _evidence_note(predictive, "ridge")
+    assert "supported out of sample" in _evidence_note(predictive, "hgb")
+    assert _evidence_note(predictive, "baseline") == ""
+
+
+def test_module_runs_as_a_script(tmp_path) -> None:
+    import subprocess
+    import sys
+
+    done = subprocess.run(
+        [sys.executable, "-m", "macro_agent", "run", "--offline", "--data-dir", str(tmp_path)],
+        capture_output=True, text=True, timeout=120,
+    )
+    assert done.returncode == 2
+    assert done.stderr.startswith("error:")
