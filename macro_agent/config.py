@@ -71,6 +71,11 @@ class Settings:
     reports_dir: Path = ROOT / "reports"
     # Apify Store actor for the economic calendar; confirmed against real output in Phase B.
     calendar_actor: str = "xtracto/forexfactory-calendar"
+    # Apify run limits: actor charges (pay per event) stop at this cap; memory and timeout bound
+    # the platform usage (compute and proxy), which the actor's pricing bills separately.
+    apify_max_charge_usd: float = 1.5
+    apify_memory_mb: int = 1024
+    apify_timeout_secs: int = 900
 
     @property
     def db_path(self) -> Path:
@@ -92,3 +97,8 @@ def api_key(name: str) -> str | None:
     except ImportError:
         return None
     return dotenv_values(ROOT / ".env").get(name) or None
+
+
+def apify_token() -> str | None:
+    """The Apify API token, from APIFY_TOKEN or, failing that, APIFY_API_KEY."""
+    return api_key("APIFY_TOKEN") or api_key("APIFY_API_KEY")

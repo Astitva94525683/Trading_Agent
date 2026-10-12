@@ -263,6 +263,25 @@ def test_offline_fetch_without_a_saved_snapshot_raises(tmp_path):
 @pytest.mark.parametrize("token", [None, ""])
 def test_online_fetch_without_a_token_raises_before_any_request(tmp_path, token):
     session = _Session([])
-    with pytest.raises(IngestError, match="APIFY_TOKEN is not set"):
+    with pytest.raises(IngestError, match="APIFY_TOKEN"):
         fetch_calendar(date(2026, 9, 10), date(2026, 9, 17), token, tmp_path, session=session)
     assert session.calls == []
+
+
+def test_online_fetch_sends_the_run_limits_and_records_the_run(tmp_path):
+    finished = _run("SUCCEEDED")
+    finished["data"]["usageTotalUsd"] = 0.01
+    finished["data"]["chargedEventCounts"] = {"apify-default-dataset-item": 6}
+    session = _Session([_Response(201, _run("READY")), _Response(200, finished),
+                        _Response(200, _fixture_items())])
+    fetch_calendar(
+        date(2026, 9, 10), date(2026, 9, 17), TOKEN, tmp_path,
+        session=session, sleep=lambda s: None,
+        max_charge_usd=0.1, memory_mb=1024, timeout_secs=600,
+    )
+    limits = {"maxTotalChargeUsd": 0.1, "memory": 1024, "timeout": 600}
+    assert session.calls[0][2]["params"] == limits
+    saved = load_json(tmp_path, "calendar", "forexfactory_2026-09-10_2026-09-17")
+    assert saved["run_options"] == limits
+    assert saved["run"]["usageTotalUsd"] == 0.01
+    assert saved["run"]["chargedEventCounts"] == {"apify-default-dataset-item": 6}

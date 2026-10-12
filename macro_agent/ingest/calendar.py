@@ -59,14 +59,22 @@ def run_actor(
     session: requests.Session | None = None,
     sleep: Callable[[float], None] = time.sleep,
     clock: Callable[[], float] = time.monotonic,
+    run_options: Mapping[str, Any] | None = None,
+    run_log: list[dict[str, Any]] | None = None,
 ) -> list[dict[str, Any]]:
-    """Run an Apify actor until it succeeds and return the items of its default dataset."""
+    """Run an Apify actor until it succeeds and return the items of its default dataset.
+
+    run_options are sent as query parameters of the run request (e.g. maxTotalChargeUsd,
+    memory, timeout). When run_log is given, the final run object is appended to it, so the
+    caller can record the run's id, usage and charges.
+    """
     headers = {"Authorization": f"Bearer {token}"}
     started = clock()
     run = _run_data(request_json(
         "POST",
         f"{APIFY_BASE}/acts/{actor.replace('/', '~')}/runs",
-        headers=headers, json=run_input, session=session, sleep=sleep,
+        headers=headers, params=dict(run_options or {}), json=run_input,
+        session=session, sleep=sleep,
     ))
     while run["status"] != "SUCCEEDED":
         if run["status"] in _FAILED_STATES:
@@ -86,6 +94,8 @@ def run_actor(
     )
     if not isinstance(items, list):
         raise IngestError(f"Apify dataset {run['defaultDatasetId']} did not return a list")
+    if run_log is not None:
+        run_log.append(run)
     return items
 
 
@@ -122,11 +132,16 @@ def fetch_calendar(
     session: requests.Session | None = None,
     sleep: Callable[[float], None] = time.sleep,
     now: datetime | None = None,
+    max_charge_usd: float | None = None,
+    memory_mb: int | None = None,
+    timeout_secs: int | None = None,
 ) -> pd.DataFrame:
     """Calendar events from start to end.
 
-    Online, runs the actor and saves the raw items under raw_dir/calendar first. Offline, reloads
-    the newest saved snapshot, so a run can be repeated without network access.
+    Online, runs the actor and saves the raw items under raw_dir/calendar first, with a summary
+    of the run (id, usage, charged events). max_charge_usd caps the actor's pay-per-event
+    charges (Apify's maxTotalChargeUsd); memory_mb and timeout_secs bound the run. Offline,
+    reloads the newest saved snapshot, so a run can be repeated without network access.
     """
     if offline:
         name = latest_name(raw_dir, "calendar", "forexfactory_")
@@ -135,12 +150,26 @@ def fetch_calendar(
         payload = load_json(raw_dir, "calendar", name)
     else:
         if not token:
-            raise IngestError("APIFY_TOKEN is not set")
+            raise IngestError("APIFY_TOKEN (or APIFY_API_KEY) is not set")
         run_input = calendar_input(start, end)
-        items = run_actor(actor, run_input, token, session=session, sleep=sleep)
+        options = {
+            name: value
+            for name, value in (
+                ("maxTotalChargeUsd", max_charge_usd), ("memory", memory_mb),
+                ("timeout", timeout_secs),
+            )
+            if value is not None
+        }
+        runs: list[dict[str, Any]] = []
+        items = run_actor(
+            actor, run_input, token, session=session, sleep=sleep,
+            run_options=options, run_log=runs,
+        )
         payload = {
             "actor": actor,
             "input": run_input,
+            "run_options": options,
+            "run": {key: runs[-1].get(key) for key in _RUN_SUMMARY},
             "fetched_utc": _utc_stamp(now if now is not None else datetime.now(timezone.utc)),
             "items": items,
         }
@@ -196,6 +225,13 @@ def _release_time(iso: Any, dateline: Any) -> pd.Timestamp:
             stamp = stamp.tz_localize("UTC")
         return stamp.tz_convert("UTC")
     return pd.Timestamp(int(dateline), unit="s", tz="UTC")
+
+
+# Run fields kept in the snapshot, to audit what each calendar fetch cost.
+_RUN_SUMMARY = (
+    "id", "status", "startedAt", "finishedAt", "usageTotalUsd", "chargedEventCounts",
+    "pricingInfo", "options",
+)
 
 
 def _run_data(body: Any) -> dict[str, Any]:

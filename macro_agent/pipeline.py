@@ -14,7 +14,9 @@ from datetime import date, timedelta
 import pandas as pd
 
 from macro_agent import db
-from macro_agent.config import ET, FOMC_DECISION_DATES, NEWS_THEMES, VIX_SYMBOL, Settings, api_key
+from macro_agent.config import (
+    ET, FOMC_DECISION_DATES, NEWS_THEMES, VIX_SYMBOL, Settings, api_key, apify_token,
+)
 from macro_agent.features import (
     build_panel,
     build_slots,
@@ -72,8 +74,10 @@ def ingest(
     start, end = window(settings, as_of)
 
     events = fetch_calendar(
-        start, end, api_key("APIFY_TOKEN"), settings.raw_dir,
+        start, end, apify_token(), settings.raw_dir,
         actor=settings.calendar_actor, offline=offline,
+        max_charge_usd=settings.apify_max_charge_usd, memory_mb=settings.apify_memory_mb,
+        timeout_secs=settings.apify_timeout_secs,
     )
     events = events.loc[events["currency"].isin(settings.currencies), list(EVENT_COLUMNS)]
 
